@@ -12,8 +12,7 @@ import os
 path = os.getcwd()+'\scraped_docs'
 
 parser = 'html'
-classe_crush = 'colonna-1-5007'
-classe_visit = ['col-sm-5 text-white','mb60']
+
 
 class Scraping() : 
 
@@ -27,7 +26,7 @@ class Scraping() :
     def select_link(self) :
         """ Returns the sublink """
         s = []
-        for url in self.soup.find_all('a'):
+        for url in self.soup.find_all('a', href=True):
             s.append(url.get('href'))
         return s
 

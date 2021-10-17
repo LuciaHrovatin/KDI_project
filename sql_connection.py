@@ -39,7 +39,7 @@ class SQLWriter() :
             ))
         self.cursor.close()
         self.connection.close()
-        
+
 
 
 
