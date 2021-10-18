@@ -5,8 +5,8 @@ if __name__ == "__main__":
             cc = CrushCollector()
             cc.visit_event_and_write()
 
-            #esn = EsnCollector()
-            #esn.visit_event_and_write()
+            esn = EsnCollector()
+            esn.visit_event_and_write()
         except:
                 print('Error in page building encountered, please check if the link is correct')
 

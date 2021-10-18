@@ -33,8 +33,11 @@ class CrushCollector():
                 print("Scraping {} and writing it to file".format(v))
                 title = v.split('/')
                 title = ''.join(title[-3:])
-                scrape.write_to_csv(title,self.classe, path_crush)
-                print("{} Written to {}, mission accomplished!".format(e, title))
+                try :
+                    scrape.write_to_csv(title,self.classe, path_crush)
+                    print("{} Written to {}, mission accomplished!".format(e, title))
+                except : 
+                    print("{} could not be written to csv, please try again".format(v))
             
 
 class EsnCollector() :
