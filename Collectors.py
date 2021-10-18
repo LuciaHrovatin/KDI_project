@@ -23,23 +23,26 @@ class CrushCollector():
         links = self.collect()
        
         for l in links : 
-            scrape = Scraping(l, parser)
-            events = scrape.select_link()
+            main_categories = Scraping(l, parser)
+            events = main_categories.select_link()
             
             for e in events :
-                v = self.start.format(e,'/')
-                print("Scraping {} and writing it to file".format(e))
-                title = e.split('/')
-                title = title[-3:]
+                link = "https://www.crushsite.it{}"
+                v = link.format(e)
+                scrape = Scraping(v, parser)
+                print("Scraping {} and writing it to file".format(v))
+                title = v.split('/')
+                title = ''.join(title[-3:])
                 scrape.write_to_csv(title,self.classe, path_crush)
                 print("{} Written to {}, mission accomplished!".format(e, title))
+            
 
-
+class EsnCollector() :
+    def __init__(self) : 
         self.classe = ['title-container','node node-event node-promoted view-mode-full clearfix']
         self.path = path_esn
         self.start = "https://trento.esn.it/?q=events"
         self.categories = [l for l in Scraping(self.start, parser).select_link()]
-        self.classe = 'inner'
         self.past = []
 
     def collect(self, iterator):
