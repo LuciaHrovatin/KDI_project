@@ -1,4 +1,4 @@
-#from Collectors import CrushCollector, EsnCollector
+from Collectors import CrushCollector, EsnCollector
 from twitter import twitterAPI
 
 if __name__ == "__main__":

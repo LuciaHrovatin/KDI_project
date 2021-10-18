@@ -21,15 +21,20 @@ class CrushCollector():
     def visit_event_and_write(self):
         """ Visits each subcategory link's event """
         links = self.collect()
-       
+        to_scrape = set()
         for l in links : 
             main_categories = Scraping(l, parser)
-            events = main_categories.select_link()
+            events = set(main_categories.select_link())
             
             for e in events :
                 link = "https://www.crushsite.it{}"
                 v = link.format(e)
-                scrape = Scraping(v, parser)
+                if (e is not None and not e.startswith('https:') ) :
+                    if ('void' not in e and '#' not in e) :
+                        to_scrape.add(v)
+        
+            for s in to_scrape:
+                scrape = Scraping(s, parser)
                 print("Scraping {} and writing it to file".format(v))
                 title = v.split('/')
                 title = ''.join(title[-3:])
@@ -38,7 +43,8 @@ class CrushCollector():
                     print("{} Written to {}, mission accomplished!".format(e, title))
                 except : 
                     print("{} could not be written to csv, please try again".format(v))
-            
+        print(to_scrape)
+                
 
 class EsnCollector() :
     def __init__(self) : 
@@ -96,3 +102,5 @@ class EsnCollector() :
                     print('Issue with {} encountered'.format(e))
 
                 
+cc = CrushCollector()
+cc.visit_event_and_write()
