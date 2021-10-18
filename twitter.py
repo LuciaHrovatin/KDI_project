@@ -21,7 +21,15 @@ tweets = tw.Cursor(api.search_tweets,
                    tweet_mode='extended',
                    lang="en").items(500)  # european languages
 
+output_list = []
+for tweet in tweets:
+    output_list.append(json.load(tweet._json))
+
+all_items = []
+for json_file in output_list:
+    all_items += json_file['items']
+
 with open('twitter_data.json', 'w') as f:
-    for tweet in tweets:
-        json.dump(tweet._json, f, indent=2)
+    json.dump({"items": all_items}, f, textfile_merged)
+
 
