@@ -9,8 +9,8 @@ from sql_connection import SQLWriter
 import csv 
 import os 
 
-path = os.getcwd()+'\scraped_docs'
-
+path_esn = os.getcwd()+'\scraped_websites\ESN'
+path_crush = os.getcwd()+'\scraped_websites\CRUSH'
 parser = 'html'
 
 
@@ -24,9 +24,9 @@ class Scraping() :
 
 
     def select_link(self) :
-        """ Returns the sublink """
+        """ Returns the link """
         s = []
-        for url in self.soup.find_all('a', href=True):
+        for url in self.soup.find_all('a'):
             s.append(url.get('href'))
         return s
 
@@ -42,16 +42,11 @@ class Scraping() :
         """ Write the Body of the Page to csv"""
         try:
             with open("{}/{}.csv".format(path, event_name), "a") as f:  # Open the csv file.
-                for div in self.soup.find_all('div', class_=classe):
+                div = self.soup.find_all('div', class_=classe)
+                for d in div:
+                    
                     csv_writer = csv.writer(f)
-                    csv_writer.writerow(div)
+                    csv_writer.writerow(d)
         except:
             return False
-
-
-
-
-
-
-
 
