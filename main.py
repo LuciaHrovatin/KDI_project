@@ -6,8 +6,8 @@ esn = EsnCollector()
 if __name__ == "__main__":
 
     try:
-            
-        cc.write_events()
+        print('DO NOT RUN')
+        #cc.write_events()
         #esn.visit_event_and_write()
 
         # Twitter

@@ -63,7 +63,7 @@ class EsnCollector() :
         self.path = path_esn
         self.start = "https://trento.esn.it/?q=events"
         self.source =  urllib.request.urlopen(self.start).read()
-        self.categories = [l for l in Scraping(self.source, self.start, parser).select_link()]
+        self.categories = set([l for l in Scraping(self.source, self.start, parser).select_link() if 'events' in l][2:])
         self.past = []
 
     def collect(self, iterator):
@@ -78,10 +78,10 @@ class EsnCollector() :
 
     def visit_event_and_write(self):
         """ #Visits each subcategory link's event """
-        events = self.collect(self.categories)#
+        events = self.collect(self.categories)
 
         for e in events:
-            if ('page' in e):
+            if ('events&page' in e):
                 self.past.append(e)
 
             else:
@@ -93,16 +93,25 @@ class EsnCollector() :
                     title = title[-1]
                     scrape.write_to_csv(title,self.classe, path_esn)     
                 except:
-                    print('Issue with {} encountered'.format(e))
+                    print('Not able to access {}'.format(e))
         self.past_events()
 
     def past_events(self):
-        for p in self.past:
-            source = urllib.request.urlopen(p).read()
-            past_scraping = Scraping(source, p, parser)
+        older_events = []
+        while len(self.past) > 0:
+            popped = self.past.pop()
+            source = urllib.request.urlopen(popped).read()
+            past_scraping = Scraping(source, popped, parser)
             past_events = past_scraping.select_link()
             past = self.collect(past_events)  # Link intero
-            for e in past:
+            older_events.extend(past)
+
+        older_events = set(older_events)
+        
+        for e in older_events:
+            if ('page' in e) :
+                self.past.append(e)
+            else :
                 source = urllib.request.urlopen(e).read()
                 try:
                     scrape = Scraping(source,e, parser)
@@ -112,5 +121,9 @@ class EsnCollector() :
                     scrape.write_to_csv(title,self.classe, path_esn)
                 except:
                     print('Issue with {} encountered'.format(e))
+                    
+        if (len(self.past) > 0) :
+            self.past_events()
+        
 
     
