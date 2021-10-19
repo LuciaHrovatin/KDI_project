@@ -2,7 +2,7 @@ import selenium
 import pandas as pd
 from selenium import webdriver
 import bs4 as bs
-import urllib.request
+
 import pandas as pd
 import sqlite3
 from sql_connection import SQLWriter
@@ -16,15 +16,11 @@ parser = 'html'
 
 class Scraping() : 
 
-    def __init__(self, link, parser) :
-        try :
-            self.source = urllib.request.urlopen(link).read()
-            self.soup = bs.BeautifulSoup(self.source, features = parser)
-            self.body = self.soup.body
-            self.link = link
-        except :
-            print('This link is not working: {}'.format(link))
-
+    def __init__(self, source,link, parser) :
+        
+        self.soup = bs.BeautifulSoup(source, features = parser)
+        self.body = self.soup.body
+        self.link = link
 
     def select_link(self) :
         """ Returns the link """
