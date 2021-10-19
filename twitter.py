@@ -1,7 +1,6 @@
 import json
 import tweepy as tw
 
-
 class twitterAPI:
 
     def __init__(self, search_word="#visittrentino"):
