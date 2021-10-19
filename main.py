@@ -1,5 +1,5 @@
 from Collectors import CrushCollector, EsnCollector
-from twitter import twitterAPI
+#from twitter import twitterAPI
 
 if __name__ == "__main__":
         try:
