@@ -42,7 +42,6 @@ class CrushCollector():
                 if (title not in visited) :
                     try :
                         scrape.write_to_csv(title,self.classe, path_crush)
-                        print("{} Written to {}, mission accomplished!".format(e, title))
                     except : 
                         print("{} could not be written to csv, please try again".format(v))
                 visited.add(title)
