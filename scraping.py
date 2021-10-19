@@ -16,11 +16,14 @@ parser = 'html'
 
 class Scraping() : 
 
-    def __init__(self, link, parser) : 
-        self.source = urllib.request.urlopen(link).read()
-        self.soup = bs.BeautifulSoup(self.source, features = parser)
-        self.body = self.soup.body
-        self.link = link
+    def __init__(self, link, parser) :
+        try :
+            self.source = urllib.request.urlopen(link).read()
+            self.soup = bs.BeautifulSoup(self.source, features = parser)
+            self.body = self.soup.body
+            self.link = link
+        except :
+            print('This link is not working: {}'.format(link))
 
 
     def select_link(self) :
@@ -40,14 +43,14 @@ class Scraping() :
 
     def write_to_csv(self, event_name, classe, path):
         """ Write the Body of the Page to csv"""
-        try:
-            with open("{}/{}.csv".format(path, event_name), "a") as f:  
-                div = self.soup.find_all('div', class_=classe)
-                for d in div:
-                    csv_writer = csv.writer(f)
-                    csv_writer.writerow(d)
-                f.close()
-        except:
-            return False
+        
+        
+        with open("{}/{}.csv".format(path, event_name), "w") as f:  
+            div = self.soup.find_all('div', class_=classe)
+            for d in div:
+                csv_writer = csv.writer(f)
+                csv_writer.writerow(d)
+        f.close()
+           
         
 
