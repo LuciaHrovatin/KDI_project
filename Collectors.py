@@ -34,17 +34,17 @@ class CrushCollector():
                     if ('void' not in e and '#' not in e) :
                         to_scrape.add(v)
         
-            for s in to_scrape:
-                scrape = Scraping(s, parser)
-                print("Scraping {} and writing it to file".format(v))
-                title = v.split('/')
-                title = ''.join(title[-3:])
-                if (title not in visited) :
-                    try :
-                        scrape.write_to_csv(title,self.classe, path_crush)
-                    except : 
-                        print("{} could not be written to csv, please try again".format(v))
-                visited.add(title)
+        for s in to_scrape:
+            scrape = Scraping(s, parser)
+            print("Scraping {} and writing it to file".format(v))
+            title = v.split('/')
+            title = ''.join(title[-3:])
+            if (title not in visited) :
+                try :
+                    scrape.write_to_csv(title,self.classe, path_crush)
+                except : 
+                    print("{} could not be written to csv, please try again".format(v))
+            visited.add(title)
         
                 
 
