@@ -38,18 +38,19 @@ class CrushCollector():
 
         
         for i in range(len(to_scrape)):
-            print(to_scrape[i])
+            source = False
             try:
                 source = urllib.request.urlopen(to_scrape[i]).read()
+                
+            except:
+                print('Wrong link, mght be an external one {}'.format(to_scrape[i]))
+            if (source is not False) : 
                 scrape = Scraping(source, to_scrape[i], parser)
                 title = v.split('/')
                 title = ''.join(title[-3:])
                 scrape.write_to_csv(title,self.classe, path_crush)
                 print("Scraping {} and writing it to file".format(v))
-            except:
-                print('Wrong link, mght be an external one {}'.format(to_scrape[i]))
 
-        print(to_scrape)
             
         
 """
