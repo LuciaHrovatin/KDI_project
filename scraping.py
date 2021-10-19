@@ -5,7 +5,7 @@ import bs4 as bs
 
 import pandas as pd
 import sqlite3
-from sql_connection import SQLWriter
+
 import csv 
 import os 
 
