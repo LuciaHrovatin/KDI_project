@@ -33,18 +33,22 @@ class CrushCollector():
                 if (e is not None and not e.startswith('https:') ) :
                     if ('void' not in e and '#' not in e) :
                         to_scrape.add(v)
+        to_scrape = list(to_scrape)
+
         
-        for s in to_scrape:
-            scrape = Scraping(s, parser)
-            print("Scraping {} and writing it to file".format(v))
+        for i in range(len(to_scrape)):
+            scrape = Scraping(to_scrape[i], parser)
+            
             title = v.split('/')
             title = ''.join(title[-3:])
             if (title not in visited) :
                 try :
                     scrape.write_to_csv(title,self.classe, path_crush)
+                    print("Scraping {} and writing it to file".format(v))
+                    visited.add(title)
                 except : 
                     print("{} could not be written to csv, please try again".format(v))
-            visited.add(title)
+            
         
                 
 
@@ -104,5 +108,3 @@ class EsnCollector() :
                     print('Issue with {} encountered'.format(e))
 
                 
-cc = CrushCollector()
-cc.visit_event_and_write()
