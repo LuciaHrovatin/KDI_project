@@ -17,3 +17,4 @@ class meetupAPI:
                                    separators=(",", ": "),
                                    ensure_ascii=False)
             f.write(final_str)
+

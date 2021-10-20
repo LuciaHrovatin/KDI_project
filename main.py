@@ -1,6 +1,7 @@
 from Collectors import CrushCollector, EsnCollector
 #from twitter import twitterAPI
 #from meetup_data import meetupAPI
+#from open_data import opendataAPI
 cc = CrushCollector()
 esn = EsnCollector()
 if __name__ == "__main__":
@@ -17,6 +18,11 @@ if __name__ == "__main__":
         # Meetup
         #meetup = meetupAPI(url="https://api.meetup.com/corsicampanetibetane/events/281042154?")
         #meetup.parsing_events()
+
+        # Opendata
+        #op = opendataAPI(url = "https://www2.comune.rovereto.tn.it/servizionline/extra/json_sito/event/")
+        #op.get_events(city = "rovereto")
+
 
     except:
         print('Error in page building encountered, please check if the link is correct')
