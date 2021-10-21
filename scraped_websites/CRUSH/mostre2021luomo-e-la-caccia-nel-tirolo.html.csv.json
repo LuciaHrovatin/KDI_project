@@ -1,0 +1,33 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressCastel",
+        "Roncolo,",
+        "Sentiero",
+        "Imperatore",
+        "Francesco",
+        "Giuseppe",
+        "1,",
+        "Bolzano"
+    ],
+    "duration_hours": [
+        "10.00"
+    ],
+    "info": "informazioni su orari dapertura, prezzi e modalità di accesso in a / Info e prenotazioni: tel. 0471.329808 o a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.runkelstein.info/info-visitatori",
+        "mailto:roncolo@roncolo.inforoncolo@roncolo.info/a",
+        "https://www.crushsite.it/it/mostre/castel-roncolo.htmlCastel",
+        "https://www.runkelstein.info/mostre",
+        "/it/mostre/castel-roncolo.html"
+    ],
+    "description": "Mostra Negli affreschi di a Roncolo/a è illustrata la caccia al cervo, al cinghiale, allorso, al camoscio e allo stambecco; anche in altri castelli, residenze nobiliari e masi del Tirolo storico troviamo dei cicli pittorici dedicati al tema della caccia. Si tratta di opere darte importantissime per comprendere le tecniche venatorie usate in passato. Partendo dalla Preistoria, fino allEtà Moderna, la mostra affronta il tema della caccia in tutte le sue forme, toccando la pesca, le armi e gli attrezzi utilizzati, nonché levoluzione delle leggi relative alla prassi venatoria e il punto di vista attuale Informazioni: a Evento segnalato da a title=Castel Roncolo/"
+}

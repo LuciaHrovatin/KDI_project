@@ -1,0 +1,39 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressI",
+        "Giardini",
+        "di",
+        "Castel",
+        "Trauttmansdorff,",
+        "via",
+        "S.",
+        "Valentino",
+        "51a,",
+        "Merano",
+        "(Bz)"
+    ],
+    "duration_hours": [
+        "9.00",
+        "17.30)"
+    ],
+    "info": "iglietto singolo 15, bambini e ragazzi sotto i 18 anni 12 / Biglietto per famiglie (2 adulti con ragazzi sotto i 18 anni) 32. a complete)/a / Dall1 al 15 novembre a di Tardo Autunno/a: /8,50  invece di 15,00 , sotto 18 anni gratuito / a Coronavirus) in trauttmansdorff.it/",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.trauttmansdorff.it/it/pianificare-la-visita/informazioni-generali-per-i-visitatori/orari-di-apertura-e-tariffe-di-ingresso.html",
+        "https://www.trauttmansdorff.it/it/dettaglio-eventi/biglietto-di-tardo-autunno.html",
+        "https://www.trauttmansdorff.it/it/pianificare-la-visita/informazioni-generali-per-i-visitatori/faq.html",
+        "https://www.crushsite.it/it/incontri/i-giardini-di-castel-trauttmansdorff.htmlLa",
+        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2021/9-aprile-2021-riaprono-i-giardini-di-castel-trauttmansdorff.html9",
+        "https://www.trauttmansdorff.it",
+        "/it/incontri/i-giardini-di-castel-trauttmansdorff.html"
+    ],
+    "description": "pScorci su paesaggi esotici e mediterranei, vedute sugli scenari montani circostanti e una Merano baciata dal sole: i Giardini di Castel Trauttmansdorff riuniscono in un anfiteatro naturale oltre 80 ambienti botanici, svariati giardini a tema, numerosi padiglioni artistici e stazioni sensoriali a scheda de I Giardini di Castel Trauttmansdorff/abr/ Comunicato stampa: a aprile 2021: riaprono i Giardini di Castel Trauttmansdorff/abr/ Informazioni: a Evento segnalato da a title=I Giardini di Castel Trauttmansdorff/"
+}

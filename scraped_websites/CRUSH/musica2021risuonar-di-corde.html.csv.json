@@ -1,0 +1,28 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressMart,",
+        "C.so",
+        "Bettini",
+        "43,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": "ore 16.30 : Ingresso libero fino ad esaurimento dei posti",
+    "info": "Ingresso libero fino ad esaurimento dei posti disponibili",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.saveriogabrielli.com/",
+        "https://lorenzobernardiguitarist.com/",
+        "http://www.filarmonicarovereto.it/events/risuonar-di-corde-2/?occurrence=2021-10-24",
+        "/it/musica/mart-music.html"
+    ],
+    "description": "span style=font-size: 20px;Concerto con: span style=font-size: 20px;a Gabrielli/a, violino / a Bernardi/a, chitarra emMuriche: /ememN. Paganini, /ememG. Fauré, /ememR. Zandonai, /ememP. Mascagni, /ememJ. Novák, /ememA. Piazzolla./embr/ Una formazione particolare, diffusissima nella Hausmusik dellOttocento, che accosta due strumenti dalle possibilità timbriche ricche e diverse, ci accompagna ad esplorare il repertorio di primo Novecento con una chicca inedita: la mazurka Amarezze di Riccardo Zandonai. A completare il programma un bellomaggio a Piazzolla giocato intorno a lHistorie du Tango Informazioni complete: a Evento segnalato da a title=Mart Music/"
+}

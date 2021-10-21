@@ -1,0 +1,30 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressCastel",
+        "Mareccio,",
+        "Via",
+        "Claudia",
+        "de",
+        "Medici",
+        "12,",
+        "Bolzano"
+    ],
+    "duration_hours": [],
+    "info": "informazioni su orari dapertura, prezzi e come arrivare in a / Tel. 0471.976615, a info@mareccio.info/",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "http://www.mareccio.infoin",
+        "https://www.maretsch.info/mareccio",
+        "mailto:info@mareccio.info",
+        "https://www.maretsch.info/manifestazioni"
+    ],
+    "description": "La storia di Bolzano in cartolina Dalla fine dell800 fino allera di sms e social, le cartoline furono una delle principali testimonianze di piccoli e grandi viaggi: poche righe per raccontare una vacanza, un luogo, qualche aneddoto. Ma non solo, si tratta di un documento prezioso per ricostruire laspetto esteriore di una città e la vita di un tempo La collezione Gaetano Sessa, composta da circa 2000 cartoline, permette di ripercorrere la storia della città Informazioni: a"
+}

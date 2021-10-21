@@ -1,0 +1,28 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressSpazio",
+        "Foyer,",
+        "Via",
+        "G.",
+        "Galilei",
+        "26,",
+        "Trento"
+    ],
+    "duration_hours": "ore 18.00 : Richiesta prenotazione, obbligo di mascherina e green",
+    "info": "Richiesta prenotazione, obbligo di mascherina e green pass",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.crushsite.it/it/mostre/2021/babele-la-torre-di-luigi-golin.htmlBabele-La",
+        "https://www.spaziofoyer.it",
+        "/it/mostre/foyer.html"
+    ],
+    "description": "pOpening a Torre di Luigi Golin./abr/ Informazioni complete: a Evento segnalato da a title=Spazio FoyEr/"
+}

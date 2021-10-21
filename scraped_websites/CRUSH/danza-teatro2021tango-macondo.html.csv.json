@@ -1,0 +1,49 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Comunale,",
+        "Piazza",
+        "Verdi",
+        "40,",
+        "Bolzano",
+        "Orario:",
+        "giovedì,",
+        "sabato",
+        "ore",
+        "20.30",
+        "/",
+        "venerdì",
+        "ore",
+        "19.00",
+        "/",
+        "domenica",
+        "ore",
+        "16.00",
+        "Note:",
+        "Informazioni,",
+        "biglietti:",
+        "a",
+        "href=https://www.teatro-bolzano.it/biglietti-teatro/bolzano",
+        "target=_blankwww.teatro-bolzano.it/a"
+    ],
+    "duration_hours": [
+        "20.30"
+    ],
+    "info": "Informazioni, biglietti: a / a online/",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.teatro-bolzano.it/biglietti-teatro/bolzano",
+        "https://www.ticket.bz.it/home.aspx",
+        "https://www.teatro-bolzano.it/fuori/1334-tango-macondo",
+        "/it/danza-teatro/teatro-stabile-di-bolzano.html"
+    ],
+    "description": "Il venditore di metafore / Drammaturgia e regia Giorgio Gallione / Liberamente ispirato a Il venditore di metafore di Salvatore Niffoi, Ed. Giunti / Musiche originali Paolo Fresu / Con Paolo Fresu (tromba e flicorno), Daniele di Bonaventura (bandoneon), Pierpaolo Vacca (organetto) / Con Ugo Dighero, Rosanna Naddeo, Paolo Li Volsi / Danzatori: Luca Alberti, Alice Pani, Valentina Squarzoni, Francesca Zaccaria / Coreografie Giovanni Di Cicco in collaborazione con DEOS / Scene Marcello Chiarenza / Disegno luci Aldo Mantovani / Costumi Francesca Marsella / Produzione Teatro Stabile di Bolzano Narrazione e musica, tanghi e musica popolare, riti arcaici e onirica contemporaneità si fondono in Tango Macondo2, nuova produzione del Teatro Stabile di Bolzano che racconta la storia di Matoforu, un venditore di metafore sardo e del suo amore grande, Anzelina Bisocciu, la sua cantatrice. La musica di composta da Paolo Fresu ed eseguita dal vivo assieme a Daniele di Bonaventura e Pierpaolo Vacca, si fonde con parole e danza. Un viaggio ai confini tra il delirio e la geografia che dalla Sardegna, arriva a incrociare Macondo, il paese immaginario nato dalluniverso onirico e mitico di Gabriel García Márquez con tutto il suo bagaglio di visioni e prodigi Informazioni: a Evento segnalato da a title=Teatro Stabile di Bolzano/"
+}

@@ -1,0 +1,32 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Comunale,",
+        "P.zza",
+        "Garibaldi",
+        "5/g,",
+        "Pergine",
+        "Valsugana",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "20.45"
+    ],
+    "info": "Informazioni su prenotazioni, costi e biglietti nel a ufficiale del teatro/a, o a / Il programma o i contenuti potranno subire variazioni dovute a cause di forza maggiore",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.teatrodipergine.it/biglietteria",
+        "http://www.bandasocialepergine.it",
+        "https://www.teatrodipergine.it/eventi/1756-nel-mezzo-del-cammin-di-nostra-vita",
+        "/it/danza-teatro/teatro-comunale-di-pergine.html"
+    ],
+    "description": "Concerto della Banda Musicale Cittadina di Peschiera del Garda canzone italiana / Musiche di Robert W. Smith / Voce recitante Michele Vigilante / Direttore M.° Andrea Loss Ottava Stagione dei Concerti di Musica per Banda - Teatro di Pergine. Una formazione musicale nata ufficialmente nel periodo tra le due guerre, ma che ha radici ben più profonde risalenti all800. La sua attività è molto ricca di concerti e concorsi in Italia e allestero che le hanno permesso di diventare una banda apprezzata e conosciuta LOttava Stagione dei Concerti di Musica per Banda è promossa e organizzata dalla Banda Sociale di Pergine Informazioni complete: a Evento segnalato da a title=Teatro Comunale di Pergine/"
+}

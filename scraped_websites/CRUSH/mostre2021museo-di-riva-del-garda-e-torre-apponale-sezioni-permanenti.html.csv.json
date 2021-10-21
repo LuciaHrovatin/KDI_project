@@ -1,0 +1,28 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressRiva",
+        "del",
+        "Garda",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "info": "orari e tariffe in a / a Pass: nuove modalità di accesso alle sedi del MAG/a Sito web: a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.museoaltogarda.it/it/info/orari",
+        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2021green-pass-nuove-modalita-di-accesso-alle-sedi-del-mag.htmlGreen",
+        "http://www.museoaltogarda.it",
+        "https://www.crushsite.it/it/mostre/mag-museo-alto-garda.htmlimg",
+        "https://www.museoaltogarda.it/it/il_museo/visita",
+        "/it/mostre/mag-museo-alto-garda.html"
+    ],
+    "description": "pVisita alle sezioni permanenti del a alt= src=https://www.crushsite.it/it/mostre/mag-museo-alto-garda.html/Museo di Riva del Garda/a e Torre Apponale Informazioni: a Evento segnalato da a title=MAG Museo Alto Garda/"
+}

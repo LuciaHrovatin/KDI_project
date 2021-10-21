@@ -1,0 +1,30 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressCastel",
+        "Caldes,",
+        "Via",
+        "Novembre,",
+        "Caldes,",
+        "Val",
+        "di",
+        "Sole",
+        "(Tn)"
+    ],
+    "duration_hours": "ore 20.30 : Ingresso gratuito con prenotazione obbligatoria* e green",
+    "info": "Ingresso gratuito con prenotazione obbligatoria* e green pass",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.buonconsiglio.it",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/il-sogno-di-jacopo",
+        "/it/danza-teatro/centro-servizi-culturali-s-chiara.html"
+    ],
+    "description": "Regia di Annalisa Morsella / Drammaturgia di Alberto Frapporti / Con Alessio Dalla Costa, Annalisa Morsella, Giuseppe Amato / Una produzione Emit Flesti, con i costumi di Nadia Simeonova, laiuto regia di Giulio Macrì Pièce teatrale dove Jacopo Aconcio, giurista, teologo e ingegnere nato nel 500 ad Ossana, percorre la propria epoca come un esule senza patria né il conforto di una delle tante chiese nate in seguito allo scisma luterano Il sogno di Jacopo diventa così il viaggio attraverso la propria vita, ma il presente in cui si trova non è più quello della Riforma protestante, del Concilio di Trento, delle lotte religiose e della Santa Inquisizione Informazioni complete e prenotazioni: a a Evento segnalato da a title=Centro Servizi Culturali S.Chiara/"
+}

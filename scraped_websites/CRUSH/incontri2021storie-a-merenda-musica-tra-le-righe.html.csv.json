@@ -1,0 +1,29 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressBiblioteca",
+        "Civica",
+        "B.",
+        "Emmert,",
+        "via",
+        "Segantini,",
+        "Arco",
+        "(Tn)"
+    ],
+    "duration_hours": "ore 17.00 : La prenotazione è obbligatoria chiamando la biblioteca o scrivendo una mail, tel. 0464516115, ",
+    "info": "La prenotazione è obbligatoria chiamando la biblioteca o scrivendo una mail, tel. 0464516115, a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "mailto:biblioteca@comune.arco.tn.itbiblioteca@comune.arco.tn.it/a",
+        "https://biblioteca.comune.arco.tn.it/dettaglio.aspx?ID=152996&amp;L=it",
+        "/it/mostre/comune-di-arco-attivita-culturali.html"
+    ],
+    "description": "pemLeggere una storia è bello. Ascoltare la musica è emozionante. Vivere unavventura di lettura con la musica è affascinante, stimolante e divertente!. /emEszter Lidia Balintbr/ Tornano le Storie a merenda! In questi nuovi appuntamenti della stagione le storie saranno accompagnate dalla musica: Eszter Lidia Balint proporrà linterpretazione di fiabe o storie e giochi musicali che coinvolgeranno grandi e piccini. I nuovi appuntamenti saranno in biblioteca ogni quarto giovedì del mese: Giovedì 21 ottobre ore 17.00;br/ Giovedì 18 novembre ore 17.00;br/ Giovedì 16 dicembre ore 17.00 Ciascun incontro avrà durata di 50 minuti e proporrà linterpretazione musicale di una fiaba e altri giochi musicali. I bambini parteciperanno attivamente alla narrazione musicale mediante lutilizzo di strumenti semplici, voce e body percussion, attraverso filastrocche e canzoncine che collegano musica e parole Informazioni complete e prenotazioni: a Evento segnalato da a title=Comune di Arco/"
+}

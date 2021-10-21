@@ -1,0 +1,38 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressCastello",
+        "del",
+        "Buonconsiglio,",
+        "Castel",
+        "Thun,",
+        "Castel",
+        "Beseno,",
+        "Castel",
+        "Stenico",
+        "e",
+        "Castel",
+        "Caldes",
+        "(Tn)"
+    ],
+    "duration_hours": "Not specified",
+    "info": "informazioni sulle modalità di visita/prenotazione obbligatoria in a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.buonconsiglio.it/index.php/Castello-del-Buonconsiglio/attivita/Attivita-del-museo/Visita-il-Castello-del-Buonconsiglio-e-le-sedi-distaccate",
+        "https://www.crushsite.it/it/mostre/castello-del-buonconsiglio-monumenti-e-collezioni-provinciali.htmlCastello",
+        "https://www.crushsite.it/it/mostre/castel-beseno.htmlCastel",
+        "https://www.crushsite.it/it/mostre/castel-thun.htmlCastel",
+        "https://www.crushsite.it/it/mostre/castel-caldes.htmlCastel",
+        "https://www.crushsite.it/it/mostre/castello-di-stenico.htmlCastel",
+        "/it/mostre/castello-del-buonconsiglio-monumenti-e-collezioni-provinciali.html"
+    ],
+    "description": "pVisita a del Buonconsiglio/a, a Beseno/a, a Thun/a, a Caldes/a e a Stenico./a/p Evento segnalato da a title=Castello del Buonconsiglio/"
+}

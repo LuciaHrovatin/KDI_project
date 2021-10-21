@@ -1,0 +1,25 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressEstro,",
+        "Via",
+        "Venezia",
+        "1,",
+        "Trento"
+    ],
+    "duration_hours": [],
+    "info": "uLunedì 11 ottobre e lunedì 17 ottobre/u LEZIONI DI PROVA / Presenteremo il corso uGiovedì 30 settembre 2021/u, alle 18.00 presso la sede della scuola / Costo totale del corso: 400  + 20  di tessera associativ",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.estroteatro.com/giocateatro",
+        "/it/didattica/estroteatro.html"
+    ],
+    "description": "Insegnanti: Marta Marchi e Clara Setti Percorso pensato per i bambini e le bambine in età compresa tra i 6 e 10 anni. Giocheremo insieme a loro al gioco più bello del mondo, lavorando sullespressività, sullo stare in gruppo, sullascolto degli altri, sulla bellezza del comunicare, sul ritmo e sul movimento!br/ Estravolgiamo la realtà con i vostri bambini!br/ Informazioni complete ed iscrizioni: a Evento segnalato da a title=Estro/"
+}

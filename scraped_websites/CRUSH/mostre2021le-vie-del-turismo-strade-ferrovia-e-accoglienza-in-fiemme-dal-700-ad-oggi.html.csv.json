@@ -1,0 +1,36 @@
+{
+    "duration_days": "Not specified",
+    "name": "Not speficied",
+    "location": [
+        "itemtype=http://schema.org/PostalAddress",
+        "Dove:",
+        "itemprop=streetAddressMuseo",
+        "geologico",
+        "delle",
+        "Dolomiti,",
+        "piazza",
+        "Santi",
+        "Filippo",
+        "e",
+        "Giacomo",
+        "1,",
+        "Predazzo",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "10.00-13.00"
+    ],
+    "info": "Intero:  3,50 / Ridotto:  2,50 / Tariffa famiglia:  3,50 / 7,00 (1 o 2 genitori con figli minorenni), Gratuito con FiemmE-Motion Guest Card / Per la tua sicurezza e per evitare code o possibili assembramenti, lingresso al Museo è garantito solo con la del biglietto online/a. La visita alle esposizioni è consentita per il tempo massimo di unora, secondo fasce orarie comunicate allatto della prenotazione. Le visite guidate sono momentaneamente sospese / dal 6 agosto 2021, lingresso alle sale espositive e la partecipazione agli eventi saranno consentiti solo agli utenti muniti di Certificazione Verde Covid-19 (Green Pass) in corso di validità contestualmente allesibizione di un documento di identità. Sono esentati i bambini al di sotto dei 12 anni e coloro che per comprovati motivi di salute, sulla base di idonea certificazione medica, non possono vaccinarsi",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.ticketlandia.com/m/museo_geologico_dolomiti",
+        "https://www.muse.it/it/Esplora/Eventi-Attivita/Archivio/Pagine/Predazzo-2021-mostra-temporanea-le-vie-del-turismo.aspx",
+        "https://www.facebook.com/events/919967005513112/",
+        "/it/mostre/museo-geologico-delle-dolomiti.html"
+    ],
+    "description": "Mostra temporanea Lo studio della geologia e losservazione della natura hanno portato in Val di Fiemme studiosi e ricercatori da tutto il mondo, diventando di fatto i primi ospiti di alberghi e locande Una mostra temporanea al Museo Geologico delle Dolomiti di Predazzo che ripercorre il turismo della Valle nel passato, presente e futuro In collaborazione con il Palazzo della Magnifica Comunità di Fiemme. Informazioni e prenotazioni: a a Evento segnalato da a title=Museo Geologico delle Dolomiti/"
+}
