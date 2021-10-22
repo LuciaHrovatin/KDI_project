@@ -6,7 +6,7 @@ from datetime import datetime
 dir = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH"
 list_dir = os.listdir(dir)
 list_dir_paths = [os.path.join(dir, f) for f in list_dir]
-
+new_dir =  r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\CSV"
 def create_parsed_dictionary_and_write() : 
     """PARSES THE HTML FILE INTO A DICTIONARY"""
     
@@ -110,7 +110,7 @@ def create_parsed_dictionary_and_write() :
                         
                         
                 ret = parse_dict(d)
-                write_dic_to_json(d, file_name)
+                write_dic_to_json(d, new_dir)
                                
         
                     

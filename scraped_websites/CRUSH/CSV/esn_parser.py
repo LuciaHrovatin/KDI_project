@@ -1,11 +1,10 @@
 import os, csv, json 
 import pprint as pp 
 
-dir = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\ESN\CSV"
+dir = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\ESN"
 list_dir = os.listdir(dir)
 list_dir_paths = [os.path.join(dir, f) for f in list_dir]
 
-new_dir = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\ESN\JSON"
 
 
 def create_parsed_dictionary_and_write() : 
@@ -82,10 +81,10 @@ def create_parsed_dictionary_and_write() :
                         d['duration_days'] = ''
                         d['links'] = links
                         d['schema'] = schema
-                    write_dic_to_json(d, file_name, new_dir)
+                    write_dic_to_json(d, file_name, dir_name)
 
 def write_dic_to_json(dic,title, dir) :
-    with open('{}\{}.json'.format(new_dir,title), 'w', encoding='utf-8') as f:
+    with open('{}\{}.json'.format(dir,title), 'w', encoding='utf-8') as f:
         json.dump(dic, f, ensure_ascii=False, indent=4, default=str)
              
 create_parsed_dictionary_and_write()
