@@ -118,9 +118,9 @@ def create_parsed_dictionary_and_write() :
 
     
 
-def parse_dict(dic) : 
+def parse_dict(dic):
     """CLEANS THE KEYS TO BE READABLE """
-    for key in dic :
+    for key in dic:
         if (dic[key] != 'Not specified') : 
             if (type(dic[key]) == str) : 
                 dic[key] = dic[key].replace('-grassettoNote', '').replace('-grassetto', '').replace('class=testo-boxgrigio','').replace("'",'')
