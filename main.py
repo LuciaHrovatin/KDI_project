@@ -19,9 +19,13 @@ if __name__ == "__main__":
         #meetup = meetupAPI(url="https://api.meetup.com/corsicampanetibetane/events/281042154?")
         #meetup.parsing_events()
 
-        # Opendata
-        op = opendataAPI(url="https://www2.comune.rovereto.tn.it/servizionline/extra/json_sito/event/", city = "rovereto")
-        op.get_events()
+        # Opendata Rovereto
+        op = opendataAPI()
+        #op.get_events(url="https://www2.comune.rovereto.tn.it/servizionline/extra/json_sito/event/", city = "rovereto")
+        #op.save_file()
+
+        # Opendata Trento
+        op.get_events(url="https://www.comune.trento.it/api/opendata/v2/content/search?classes=event", city = "trento")
         op.save_file()
 
     except:

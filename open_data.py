@@ -7,13 +7,18 @@ from datetime import date, datetime
 
 
 class opendataAPI:
-    def __init__(self, url, city):
-        self.url = url
-        self.file_name = "opendata_" + city.lower() + ".json"
+    """
+    Class getting the information from Open Trentino
+    """
 
-    def get_events(self):
-        df = requests.get(self.url)
+    def __init__(self):
+        self.city = "trento"
+        self.file_name = "opendata_" + self.city + ".json"
+
+    def get_events(self, url, city):
+        df = requests.get(url)
         data = df.json()
+        self.city = city
         with open(self.file_name, "w", encoding="utf-8") as f:
             final_str = json.dumps(data, indent=4,
                                    sort_keys=False,
@@ -125,9 +130,28 @@ class opendataAPI:
                     new_dict["indirizzo"] = event["indirizzo"]
                     list_dict.append(new_dict)
             return list_dict
+    @staticmethod
+    def parse_events_tn(filename: str):
+        with open(filename, "rb") as f:
+            content = json.load(f)
+            lst = []
+            for event in content["searchHits"]:
+                new_dict = {
+                    "metadata": event["metadata"],
+                    "data": event["data"]
+                }
+                lst.append(new_dict)
+            return lst
+
+
+
 
     def save_file(self):
-        with open("opendata_rovereto_parsed.json", "w") as s:
-            data = self.parse_events(self.file_name)
-            json.dump(data, s, indent=4)
-
+        if self.city == "rovereto":
+            with open("opendata_rovereto_parsed.json", "w") as s:
+                data = self.parse_events(self.file_name)
+                json.dump(data, s, indent=4)
+        else:
+            with open("opendata_" + self.city + "_parsed.json", "w") as s:
+                data = self.parse_events_tn(self.file_name)
+                json.dump(data, s, indent=4)
