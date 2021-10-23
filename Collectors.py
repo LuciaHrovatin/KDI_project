@@ -133,7 +133,7 @@ class StayHappeningCollector():
         self.categories =  ['--entertainment', '--music', '--art','--workshops','--trips-adventures','--health-wellness',
         '--business','--theatre','--literary-art', '--exhibitions', '--parties','--trekking']
         self.classe = ["text-center",'<div class="col-xl-8 col-lg-10 offset-xl-2 offset-lg-1"']
-        self.path = path_crush
+        self.path = path_stay
         self.start = "https://stayhappening.com/trento{}"
 
     def collect(self) : 
@@ -173,15 +173,18 @@ class StayHappeningCollector():
        
         for link in lista:
             try : 
-                headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
+                headers =  {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
                 reg_url = link[1]
                 req = urllib.request.Request(url=reg_url, headers=headers) 
                 source = urllib.request.urlopen(req).read() 
                 scrape = Scraping(source, link[1], parser)
-                title = link[1].split('/')
-                title = link[0][2:]+'/'+' '.join(title[-1]) 
-                #scrape.write_to_csv(title,self.classe, path_crush)
+
+                title = link[1].split('/e/')
+                title = link[0][2:]+'-'+''.join(title[-1]) 
+            
+                scrape.write_to_csv(title,self.classe, path_stay)
                 print("Scraping {} and writing it to file".format(link))
             except :
                 print("Not able to access {}".format(link[1]))
+           
 

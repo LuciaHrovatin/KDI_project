@@ -9,7 +9,7 @@ sh = StayHappeningCollector()
 if __name__ == "__main__":
 
     try:
-        print('DO NOT RUN')
+        #print('DO NOT RUN')
         # CRUSH, ESN, STAY HAPPENING
         #cc.write_events()
         #esn.visit_event_and_write()
