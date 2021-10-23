@@ -12,7 +12,7 @@ import os
 path_esn = os.getcwd()+'\scraped_websites\ESN'
 path_crush = os.getcwd()+'\scraped_websites\CRUSH'
 parser = 'html'
-
+path_stay = os.getcwd()+'\scraped_websites\STAY\CSV'
 
 class Scraping() : 
 
