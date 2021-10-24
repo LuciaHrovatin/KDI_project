@@ -6,6 +6,25 @@ list_dir = os.listdir(dir)
 list_dir_paths = [os.path.join(dir, f) for f in list_dir]
 
 new_dir = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\ESN\JSON"
+list_dir_new = os.listdir(new_dir)
+list_dir_paths_new = [os.path.join(new_dir, f) for f in list_dir_new]
+
+
+
+
+
+
+dates = ['th','st','rd']
+months = {'january': 1,'february' : 2,
+            'march': 3,'april': 4,'may': 5,
+            'june': 6, 'july': 7, 'august': 8, 
+            'september': 9, 'october': 10, 'november': 11, 'december': 12}
+mesi = {'gennaio': 1,'febbraio' : 2,
+            'marzo': 3,'aprile': 4,'maggio': 5,
+            'giugno': 6, 'luglio': 7, 'agosto': 8, 
+            'settembre': 9, 'ottobre': 10, 'novembre': 11, 'dicembre': 12}
+giorni = ['lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato', 'domenica']
+dayss = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 
 
 def create_parsed_dictionary_and_write() : 
@@ -88,4 +107,100 @@ def write_dic_to_json(dic,title, dir) :
     with open('{}\{}.json'.format(new_dir,title), 'w', encoding='utf-8') as f:
         json.dump(dic, f, ensure_ascii=False, indent=4, default=str)
              
-create_parsed_dictionary_and_write()
+#create_parsed_dictionary_and_write()
+
+def parse_json() : 
+    """PARSES THE HTML FILE INTO A DICTIONARY"""
+    for i in range(len(list_dir_paths_new)) :
+        path = os.path.normpath(list_dir_paths_new[i])
+        name = path.split(os.sep)
+        dir_name = list_dir_paths_new[i].split(r"CRUSH\\")
+        dir_name = name[-1]
+        
+       
+        file_name = name[-1]
+      
+        with open(list_dir_paths_new[i], encoding = "utf-8") as f : 
+            dic = {}
+            reader = json.load(f)
+            date = []
+            hour = []
+            for d in reader:
+                dic[d] = reader[d]
+                if (d == 'description') : 
+                    ls = reader[d].split()
+                    
+                    for j in range(len(ls)) : 
+                        w = ls[j]
+                        
+                        if (w[-2:] in dates and w[-3].isnumeric()) :
+                            date.append(w.replace('th','').replace('rd','').replace('st',''))
+                        
+                        if (w.isnumeric() and ls[j+1] in months) or (w.isnumeric() and ls[j+1] in mesi) :
+                            date.append(w)
+                            date.append(ls[j-1])
+                            date.append(str(ls[j+1])+'/')
+                            
+                        if (w.lower() in months) :
+                            date.append(str(months[w.lower()])+'/')
+
+                        if (w.lower() in mesi) :
+                            date.append(str(mesi[w.lower()])+'/')
+
+                        if (w.lower() in dayss) :
+                            date.append(w.lower())
+
+                        if (w.lower() in giorni) :
+                            date.append(w.lower())
+
+                        if ('am' in w) or ('pm' in w) :
+                            hour.append(ls[j-1])
+                            hour.append(w)
+            
+            
+            la = []
+            for j in range(len(date)) : 
+                el = date[j].strip() 
+                
+                    
+                if (date[j] in months) :
+                    m = str(months[date[j]])+'/'
+                    if (m not in la) :
+                        la.append(m)
+                else :
+                    
+                    if (date[j][0].isdigit()) :
+                        if (el not in la) :
+                            la.append(el)
+            lb = []
+            for j in range(len(hour)) :
+
+                if (hour[j][0].isnumeric()) :
+                    if (hour[j] not in lb) :
+                        lb.append(hour[j])
+                
+                if (len(hour[j]) <=3) and ('am'in hour[j]) or (len(hour[j]) <=3 and 'pm'in hour[j]) :
+                    
+                    lb.append(hour[j].strip('.,)('))
+            
+
+            
+            
+                    
+
+
+            dic['duration_hours'].append(lb)
+            dic['duration_days'].append(la)
+            pp.pprint(dic)
+            
+                          
+
+                        
+
+
+        if i == 18 :
+            break
+
+        
+
+print(parse_json())
