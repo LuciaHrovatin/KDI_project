@@ -1,0 +1,20 @@
+{
+    "name": "incontri2021il-giardino-romantico-dei-ciucioi.",
+    "links": [
+        "#",
+        "http://www.giardinociucioi.it",
+        "https://www.comune.lavis.tn.it/Amministrazione/Luoghi/Il-giardino-romantico-dei-CIUCIOI",
+        "/it/incontri/comune-di-lavis.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressLavis",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

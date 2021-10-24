@@ -1,0 +1,33 @@
+{
+    "name": "itmostre2020museo-geologico-delle-dolomiti-di-predazzo-allestimento.",
+    "links": [
+        "#",
+        "https://www.ticketlandia.com/m/museo_geologico_dolomiti",
+        "https://www.crushsite.it/it/mostre/museo-geologico-delle-dolomiti.htmlLa",
+        "https://www.muse.it/it/visita/Muse-sul-Territorio/Pagine/Il-Muse-sul-territorio.aspx",
+        "/it/mostre/museo-geologico-delle-dolomiti.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMuseo",
+        "geologico",
+        "delle",
+        "Dolomiti,",
+        "piazza",
+        "Santi",
+        "Filippo",
+        "e",
+        "Giacomo",
+        "1,",
+        "Predazzo",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "10.00-13.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "didattica2021visite-alla-mostra-e-al-castello-con-accompagnamento.",
+    "links": [
+        "#",
+        "mailto:info@fondazionecastelpergine.euinfo@fondazionecastelpergine.eu/a",
+        "https://www.crushsite.it/it/mostre/2021/torri-pietro-weber-terrecotte-e-ceramiche.htmlScheda",
+        "https://www.fondazionecastelpergine.eu",
+        "/it/mostre/castel-pergine.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastel",
+        "Pergine,",
+        "Via",
+        "al",
+        "Castello",
+        "10,",
+        "Pergine",
+        "Valsugana",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "10.30",
+        "10.30"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

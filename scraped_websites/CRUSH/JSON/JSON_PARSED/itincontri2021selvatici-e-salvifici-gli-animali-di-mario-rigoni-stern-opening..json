@@ -1,0 +1,24 @@
+{
+    "name": "itincontri2021selvatici-e-salvifici-gli-animali-di-mario-rigoni-stern-opening.",
+    "links": [
+        "#",
+        "https://www.muse.it/it/Esplora/mostre-temporanee/Archivio/Pagine/Selvatici-e-salvifici-Mario-Rigoni-Stern-2021-2022.aspx",
+        "https://www.facebook.com/events/342905204248731",
+        "/it/mostre/palazzo-delle-albere.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressPalazzo",
+        "delle",
+        "Albere,",
+        "Via",
+        "Sanseverino,",
+        "Trento"
+    ],
+    "duration_hours": "17.30",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "incontri2021presentazione-del-libro-claudio-dematte-costruttore-di-talenti.",
+    "links": [
+        "#",
+        "http://www.museostorico.it/index.php/Il-Museo/Appuntamenti/2021/Presentazione-del-libro-Claudio-Dematte-costruttore-di-talenti",
+        "/it/mostre/fondazione-museo-storico-del-trentino.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressLe",
+        "Gallerie,",
+        "Piazza",
+        "di",
+        "Piedicastello,",
+        "Trento"
+    ],
+    "duration_hours": 528,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

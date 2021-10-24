@@ -1,0 +1,29 @@
+{
+    "name": "didattica2020visite-guidate-alla-centrale-idroelettrica-di-santa-massenza.",
+    "links": [
+        "#",
+        "http://www.hydrotourdolomiti.it/content/it/santa-massenza",
+        "mailto:booking@hydrotourdolomiti.itbooking@hydrotourdolomiti.it/a",
+        "http://www.hydrotourdolomiti.it",
+        "http://www.hydrotourdolomiti.it/content/it/santa-massenza",
+        "/it/incontri/hydrotour-dolomiti.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressVia",
+        "di",
+        "Maiano",
+        "2,",
+        "Santa",
+        "Massenza",
+        "/",
+        "Vallelaghi",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

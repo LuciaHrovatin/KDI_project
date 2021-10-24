@@ -1,0 +1,19 @@
+{
+    "name": "didattica2021trekking-urbani.",
+    "links": [
+        "#",
+        "https://www.visitrovereto.it/vivi/eventi/visite-guidate-rovereto/",
+        "/it/incontri/azienda-per-il-turismo-rovereto-e-vallagarina.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressRovereto",
+        "(Tn)"
+    ],
+    "duration_hours": 441,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

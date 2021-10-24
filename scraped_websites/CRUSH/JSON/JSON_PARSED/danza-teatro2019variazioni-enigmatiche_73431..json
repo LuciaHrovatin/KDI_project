@@ -1,0 +1,27 @@
+{
+    "name": "danza-teatro2019variazioni-enigmatiche_73431.",
+    "links": [
+        "#",
+        "http://www.cofas.it/spettacoli-sul-territorio/variazioni-enigmatiche-1",
+        "/it/danza-teatro/teatro-san-marco.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "S.",
+        "Marco,",
+        "Via",
+        "S.",
+        "Bernardino,",
+        "Trento"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [
+        "content=2021-10-23",
+        "content=2021-10-23"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "danza-teatro2021dancing-for-children.",
+    "links": [
+        "#",
+        "mailto:prenotazioni@teatrocristallo.itprenotazioni@teatrocristallo.it/a",
+        "https://ticket.midaticket.it/eventiteatrocristallo/Event/125/Date/20211031/Shift/429585/Seat",
+        "https://www.teatrocristallo.it/calendario/dettaglievento/390/-/dancing-for-children",
+        "/it/danza-teatro/teatro-cristallo.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Cristallo,",
+        "Via",
+        "Dalmazia,",
+        "Bolzano"
+    ],
+    "duration_hours": [
+        "20.30"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

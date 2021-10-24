@@ -1,0 +1,30 @@
+{
+    "name": "incontri2021sulle-strade-quando-la-biblioteca-va-al-museo_73124.",
+    "links": [
+        "#",
+        "https://www.comune.rivadelgarda.tn.it/Notizie-ed-eventi/Archivio-delle-notizie/In-evidenza/Sulle-strade.-Quando-la-biblioteca-va-al-museo-in-bicicletta",
+        "https://www.museoaltogarda.it/it/attivita/eventi/events/event/399",
+        "https://www.facebook.com/events/399297298458390/",
+        "/it/mostre/mag-museo-alto-garda.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMuseo",
+        "Riva",
+        "del",
+        "Garda,",
+        "P.zza",
+        "Cesare",
+        "Battisti",
+        "3/a,",
+        "Riva",
+        "d/G",
+        "(Tn)"
+    ],
+    "duration_hours": 507,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

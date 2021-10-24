@@ -1,0 +1,25 @@
+{
+    "name": "didattica2021musica-e-coccole_73485.",
+    "links": [
+        "#",
+        "https://www.comune.lavis.tn.it/content/view/full/2260",
+        "/it/incontri/comune-di-lavis.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressScuola",
+        "musicale",
+        "Il",
+        "Diapason,",
+        "piazza",
+        "Loreto,",
+        "Lavis",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

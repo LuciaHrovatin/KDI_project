@@ -1,0 +1,28 @@
+{
+    "name": "incontri2021in-carrozza-carrozze-e-slitte-della-famiglia-thun.",
+    "links": [
+        "#",
+        "https://www.buonconsiglio.it/index.php/it/Castello-del-Buonconsiglio/attivita/Attivita-del-museo/Visita-il-Castello-del-Buonconsiglio-e-le-sedi-distaccate",
+        "http://www.smartbooking.it/",
+        "https://www.buonconsiglio.it/index.php/it/Castel-Thun/informazioni/orari-e-bliglietti",
+        "https://www.buonconsiglio.it/index.php/Castello-del-Buonconsiglio/mostre/Calendario-mostre/In-carrozza!-Carrozze-e-slitte-della-famiglia-Thunhttps://www.buonconsiglio.it/a/p",
+        "/it/mostre/castel-thun.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastel",
+        "Thun,",
+        "Vigo",
+        "di",
+        "Ton",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "10.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

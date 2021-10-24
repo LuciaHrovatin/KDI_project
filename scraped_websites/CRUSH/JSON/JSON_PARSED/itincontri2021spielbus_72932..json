@@ -1,0 +1,25 @@
+{
+    "name": "itincontri2021spielbus_72932.",
+    "links": [
+        "#",
+        "https://eventi.comune.bolzano.it/agenda/event/22984",
+        "/it/incontri/comune-di-bolzano-assessorato-alla-cultura.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCentro",
+        "giovani",
+        "papperlapapp,",
+        "piazza",
+        "della",
+        "Parrocchia",
+        "24,",
+        "Bolzano"
+    ],
+    "duration_hours": 493,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

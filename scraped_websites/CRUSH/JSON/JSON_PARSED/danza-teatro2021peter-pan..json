@@ -1,0 +1,31 @@
+{
+    "name": "danza-teatro2021peter-pan.",
+    "links": [
+        "#",
+        "http://www.teatrodimeano.it/biglietteria/",
+        "mailto:info@teatrodimeano.itinfo@teatrodimeano.it/a",
+        "https://toptix1.mioticket.it/TeatroPergine/it-IT/categories/teatro%20di%20meano",
+        "http://www.teatrodimeano.it/event/peter-pan-3/",
+        "/it/danza-teatro/teatro-di-meano.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "di",
+        "Meano,",
+        "Via",
+        "delle",
+        "Sugarine",
+        "22,",
+        "Meano",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "17.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "itmostre2021after-dopo.",
+    "links": [
+        "#",
+        "http://www.artesella.it",
+        "http://www.artesella.it/it/eventi/after-dopo.html",
+        "/it/mostre/arte-sella-incontri-internazionali-arte-natura.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressSpazio",
+        "espositivo",
+        "Montura,",
+        "Corso",
+        "Ausugum",
+        "55,",
+        "Borgo",
+        "Valsugana",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

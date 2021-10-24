@@ -1,0 +1,25 @@
+{
+    "name": "incontri2021babele-la-torre-di-luigi-golin-opening.",
+    "links": [
+        "#",
+        "https://www.crushsite.it/it/mostre/2021/babele-la-torre-di-luigi-golin.htmlBabele-La",
+        "https://www.spaziofoyer.it",
+        "/it/mostre/foyer.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressSpazio",
+        "Foyer,",
+        "Via",
+        "G.",
+        "Galilei",
+        "26,",
+        "Trento"
+    ],
+    "duration_hours": "18.00",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

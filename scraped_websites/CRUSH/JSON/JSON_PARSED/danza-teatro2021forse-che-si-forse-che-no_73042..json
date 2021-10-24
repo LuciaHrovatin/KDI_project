@@ -1,0 +1,31 @@
+{
+    "name": "danza-teatro2021forse-che-si-forse-che-no_73042.",
+    "links": [
+        "#",
+        "http://www.teatrodipergine.it/biglietteria",
+        "mailto:info@teatrodipergine.itinfo@teatrodipergine.it/a",
+        "https://toptix1.mioticket.it/TeatroPergine/it-IT/categories/teatro%20comunale%20di%20pergine",
+        "mailto:biglietteria@teatrodipergine.itbiglietteria@teatrodipergine.it/a",
+        "https://www.teatrodipergine.it/ragazzi/1757-forse-che-si-forse-che-no",
+        "/it/danza-teatro/teatro-comunale-di-pergine.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Comunale,",
+        "P.zza",
+        "Garibaldi",
+        "5/g,",
+        "Pergine",
+        "Valsugana",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "15.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

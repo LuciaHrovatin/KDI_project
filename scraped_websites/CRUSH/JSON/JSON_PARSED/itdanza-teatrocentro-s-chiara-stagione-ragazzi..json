@@ -1,0 +1,28 @@
+{
+    "name": "itdanza-teatrocentro-s-chiara-stagione-ragazzi.",
+    "links": [
+        "#",
+        "https://www.buonconsiglio.it/index.php/it/Castello-del-Buonconsiglio/attivita/Attivita-del-museo/La-pittoressa-allo-specchio",
+        "https://www.crushsite.it/it/mostre/2021/fede-galizia-mirabile-pittoressa.htmlFede",
+        "https://www.buonconsiglio.it/index.php/it/Castello-del-Buonconsiglio/attivita/Attivita-del-museo/La-pittoressa-allo-specchio",
+        "/it/mostre/castello-del-buonconsiglio-monumenti-e-collezioni-provinciali.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastello",
+        "del",
+        "Buonconsiglio,",
+        "Via",
+        "B.",
+        "Clesio,",
+        "Trento"
+    ],
+    "duration_hours": [
+        "18.30"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

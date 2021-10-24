@@ -1,0 +1,46 @@
+{
+    "name": "danza-teatro2021tango-macondo.",
+    "links": [
+        "#",
+        "https://www.teatro-bolzano.it/biglietti-teatro/bolzano",
+        "https://www.ticket.bz.it/home.aspx",
+        "https://www.teatro-bolzano.it/fuori/1334-tango-macondo",
+        "/it/danza-teatro/teatro-stabile-di-bolzano.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Comunale,",
+        "Piazza",
+        "Verdi",
+        "40,",
+        "Bolzano",
+        "Orario:",
+        "giovedì,",
+        "sabato",
+        "ore",
+        "20.30",
+        "/",
+        "venerdì",
+        "ore",
+        "19.00",
+        "/",
+        "domenica",
+        "ore",
+        "16.00",
+        "Note:",
+        "Informazioni,",
+        "biglietti:",
+        "a",
+        "href=https://www.teatro-bolzano.it/biglietti-teatro/bolzano",
+        "target=_blankwww.teatro-bolzano.it/a"
+    ],
+    "duration_hours": [
+        "20.30"
+    ],
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

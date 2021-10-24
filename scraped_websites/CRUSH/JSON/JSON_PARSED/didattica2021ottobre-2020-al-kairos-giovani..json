@@ -1,0 +1,29 @@
+{
+    "name": "didattica2021ottobre-2020-al-kairos-giovani.",
+    "links": [
+        "#",
+        "https://www.perginegiovani.it/kairos-giovani/2021/programma-ottobre-2021/",
+        "/it/incontri/pergine-giovani-centro-kairos.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCentro",
+        "di",
+        "Aggregazione",
+        "Territoriale",
+        "#Kairos",
+        "Giovani,",
+        "Via",
+        "Amstetten,",
+        "11",
+        "Pergine",
+        "Valsugana",
+        "(Tn)"
+    ],
+    "duration_hours": 544,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

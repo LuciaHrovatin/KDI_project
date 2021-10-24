@@ -1,0 +1,52 @@
+{
+    "name": "incontri2021hotel-2021.",
+    "links": [
+        "#",
+        "https://www.fierabolzano.it/it/tickets/478",
+        "mailto:info@fieramesse.cominfo@fieramesse.com/a",
+        "http://www.fieramesse.com/hotel",
+        "https://www.fierabolzano.it/it/hotel/sustainability-award-hotel-2021",
+        "https://www.fieramesse.com/hotel",
+        "/it/incontri/fiera-bolzano.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressFiera",
+        "Bolzano,",
+        "Piazza",
+        "Fiera",
+        "1,",
+        "Bolzano",
+        "Note:",
+        "Lentrata",
+        "a",
+        "Hotel",
+        "è",
+        "a",
+        "pagamento,",
+        "la",
+        "prenotazione",
+        "online",
+        "con",
+        "data",
+        "fissa",
+        "è",
+        "obbligatoria.",
+        "Scegli",
+        "la",
+        "tua",
+        "data",
+        "preferita",
+        "e",
+        "a",
+        "href=https://www.fierabolzano.it/it/tickets/478"
+    ],
+    "duration_hours": [
+        "strutture"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

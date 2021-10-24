@@ -1,0 +1,25 @@
+{
+    "name": "incontri2021notte-blu-a-rovereto.",
+    "links": [
+        "#",
+        "mailto:education@mart.tn.iteducation@mart.tn.it/a",
+        "mailto:museo@fondazionemcr.itmuseo@fondazionemcr.it/a",
+        "mailto:didattica@museodellaguerra.itdidattica@museodellaguerra.it/a",
+        "mailto:didattica@museodellaguerra.itdidattica@museodellaguerra.it/a",
+        "mailto:info@visitrovereto.itinfo@visitrovereto.it/a",
+        "mailto:info@visitrovereto.itinfo@visitrovereto.it/a",
+        "https://www.visitrovereto.it/vivi/eventi/notte-blu-rovereto/",
+        "/it/incontri/azienda-per-il-turismo-rovereto-e-vallagarina.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressRovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

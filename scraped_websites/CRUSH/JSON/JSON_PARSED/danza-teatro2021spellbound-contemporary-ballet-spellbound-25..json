@@ -1,0 +1,26 @@
+{
+    "name": "danza-teatro2021spellbound-contemporary-ballet-spellbound-25.",
+    "links": [
+        "#",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/spellbound-contemporary-ballet-spellbound-25",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/spellbound-contemporary-ballet-spellbound-25",
+        "/it/danza-teatro/stagione-indanza.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressAuditorium",
+        "Melotti,",
+        "Corso",
+        "Bettini,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "21.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

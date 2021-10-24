@@ -1,0 +1,33 @@
+{
+    "name": "incontri2021luppoli-e-castagne.",
+    "links": [
+        "#",
+        "https://www.visitrovereto.it/vivi/eventi/luppoli-e-castagne/",
+        "/it/incontri/azienda-per-il-turismo-rovereto-e-vallagarina.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastione",
+        "di",
+        "Brentonico",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "dalle",
+        "15.00",
+        "alle",
+        "18.00"
+    ],
+    "duration_days": [
+        "sabato",
+        "24/",
+        "31/",
+        "domenica",
+        "25/",
+        "10/202"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "didattica2021faccio-io-laboratorio-di-metodologia-di-studio.",
+    "links": [
+        "#",
+        "mailto:info@centrogiovanivintola.i.tinfo@centrogiovanivintola.i.t/a",
+        "https://www.facebook.com/events/442853157126852/?ref=newsfeed",
+        "/it/incontri/vintola-18.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressVintola18",
+        "-",
+        "centro",
+        "di",
+        "cultura",
+        "giovanile,",
+        "Via",
+        "Vintola",
+        "18,",
+        "Bolzano"
+    ],
+    "duration_hours": [
+        "16.30",
+        "18.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

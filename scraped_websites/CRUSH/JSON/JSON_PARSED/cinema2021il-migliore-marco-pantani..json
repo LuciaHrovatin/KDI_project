@@ -1,0 +1,43 @@
+{
+    "name": "cinema2021il-migliore-marco-pantani.",
+    "links": [
+        "#",
+        "https://www.cineworldtrento.it/",
+        "https://cineworld.18tickets.it/",
+        "https://www.nexodigital.it/il-migliore-marco-pantani/",
+        "https://www.youtube.com/watch?v=YluI_aPYP24",
+        "/it/cinema/cineworld-multisala-modena-supercinema-vittoria-nuovo-roma.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMultisala",
+        "Modena,",
+        "Via",
+        "S.",
+        "Francesco",
+        "DAssisi,",
+        "Trento",
+        "Orario:",
+        "Martedì",
+        "19:",
+        "18.00",
+        "",
+        "21.00",
+        "/",
+        "Mercoledì",
+        "20:",
+        "17.15",
+        "",
+        "19.50",
+        "Note:",
+        "a",
+        "href=https://www.cineworldtrento.it/",
+        "target=_blankwww.cineworldtrento.it/a"
+    ],
+    "duration_hours": [],
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

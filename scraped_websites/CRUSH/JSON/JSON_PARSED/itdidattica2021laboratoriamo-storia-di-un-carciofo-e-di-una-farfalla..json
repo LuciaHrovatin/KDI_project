@@ -1,0 +1,23 @@
+{
+    "name": "itdidattica2021laboratoriamo-storia-di-un-carciofo-e-di-una-farfalla.",
+    "links": [
+        "#",
+        "mailto:info.associazioneandromeda@gmail.cominfo.associazioneandromeda@gmail.com/a",
+        "https://www.facebook.com/andromedassociazione/photos/a.436949783070925/4272713122827886/",
+        "/it/incontri/associazione-andromeda.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressParco",
+        "Nelson",
+        "Mandela,",
+        "Arco",
+        "(Tn)"
+    ],
+    "duration_hours": "14.00",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

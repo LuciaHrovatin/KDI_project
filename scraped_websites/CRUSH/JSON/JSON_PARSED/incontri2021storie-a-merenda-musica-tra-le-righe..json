@@ -1,0 +1,26 @@
+{
+    "name": "incontri2021storie-a-merenda-musica-tra-le-righe.",
+    "links": [
+        "#",
+        "mailto:biblioteca@comune.arco.tn.itbiblioteca@comune.arco.tn.it/a",
+        "https://biblioteca.comune.arco.tn.it/dettaglio.aspx?ID=152996&amp;L=it",
+        "/it/mostre/comune-di-arco-attivita-culturali.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressBiblioteca",
+        "Civica",
+        "B.",
+        "Emmert,",
+        "via",
+        "Segantini,",
+        "Arco",
+        "(Tn)"
+    ],
+    "duration_hours": "17.00",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

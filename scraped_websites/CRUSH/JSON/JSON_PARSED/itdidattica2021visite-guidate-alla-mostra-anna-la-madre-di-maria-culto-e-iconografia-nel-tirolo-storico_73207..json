@@ -1,0 +1,24 @@
+{
+    "name": "itdidattica2021visite-guidate-alla-mostra-anna-la-madre-di-maria-culto-e-iconografia-nel-tirolo-storico_73207.",
+    "links": [
+        "#",
+        "https://www.crushsite.it/it/mostre/2021/anna-la-madre-di-maria-culto-e-iconografia-nel-tirolo-storico.htmlAnna,",
+        "https://www.museodiocesanotridentino.it",
+        "/it/mostre/museo-diocesano-tridentino.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMuseo",
+        "Diocesano,",
+        "P.zza",
+        "Duomo",
+        "18,",
+        "Trento"
+    ],
+    "duration_hours": 545,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

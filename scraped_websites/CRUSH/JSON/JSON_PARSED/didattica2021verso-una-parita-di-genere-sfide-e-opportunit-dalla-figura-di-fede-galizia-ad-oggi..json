@@ -1,0 +1,27 @@
+{
+    "name": "didattica2021verso-una-parita-di-genere-sfide-e-opportunit-dalla-figura-di-fede-galizia-ad-oggi.",
+    "links": [
+        "#",
+        "https://www.tsm.tn.it/attivita/verso-una-parita-di-genere-sfide-e-opportunita-dalla-figura-di-fede-galizia-ad-oggi",
+        "/it/mostre/castello-del-buonconsiglio-monumenti-e-collezioni-provinciali.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastello",
+        "del",
+        "Buonconsiglio,",
+        "Sala",
+        "delle",
+        "Marangonerie,",
+        "via",
+        "Bernardo",
+        "Clesio,",
+        "Trento"
+    ],
+    "duration_hours": "15.00",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

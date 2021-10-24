@@ -1,0 +1,26 @@
+{
+    "name": "incontri2021il-muse-per-i-piccoli.",
+    "links": [
+        "#",
+        "mailto:prenotazioni@muse.itprenotazioni@muse.it/a",
+        "http://www.dgc.gov.it/web/www.dgc.gov.it/web//a",
+        "http://www.muse.it"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMUSE,",
+        "Corso",
+        "del",
+        "lavoro",
+        "e",
+        "della",
+        "scienza,",
+        "Trento"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

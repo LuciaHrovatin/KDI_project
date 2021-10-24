@@ -1,0 +1,27 @@
+{
+    "name": "incontri202141-festa-della-castagna-a-roncegno-terme.",
+    "links": [
+        "#",
+        "https://www.visitvalsugana.it/it/eventi-valsugana/-41-festa-della-castagna-a-roncegno-terme_941_ide/",
+        "/it/incontri/apt-valsugana-lagorai.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCentro",
+        "storico,",
+        "Roncegno",
+        "Terme",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "15.00br/"
+    ],
+    "duration_days": [
+        "content=2021-10-23",
+        "content=2021-10-24"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "didattica2021scuola-dazione.",
+    "links": [
+        "#",
+        "mailto:amministrazione@abbondanzabertoni.itamministrazione@abbondanzabertoni.it/a;br/",
+        "http://www.abbondanzabertoni.it",
+        "http://www.abbondanzabertoni.it/2_1/Seminari.html",
+        "/it/didattica/compagnia-abbondanzabertoni-stage.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "alla",
+        "Cartiiera,",
+        "Via",
+        "Cartiera",
+        "15,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "20.00",
+        "16.45"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "danza-teatro2021teatro-scientifico-teatro-laboratorio-clitennestra.",
+    "links": [
+        "#",
+        "https://www.teatroportland.it/eventi-labellastagione.html",
+        "http://www.teatroportland.it/eventi-labellastagione.html",
+        "https://www.teatroportland.it/eventi-labellastagione2021-clitennestra.html",
+        "/it/danza-teatro/teatro-portland-stagione-teatrale.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Portland,",
+        "Via",
+        "Papiria",
+        "8,",
+        "Trento"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

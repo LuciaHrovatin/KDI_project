@@ -1,0 +1,27 @@
+{
+    "name": "incontri2021festival-informatici-senza-frontiere.",
+    "links": [
+        "#",
+        "http://festival.informaticisenzafrontiere.org",
+        "https://www.youtube.com/c/InformaticiSenzaFrontiere",
+        "http://festival.informaticisenzafrontiere.org",
+        "https://trento.impacthub.net",
+        "/it/incontri/the-hub-rovereto.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressRovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "donne"
+    ],
+    "duration_days": [
+        "content=2021-10-21",
+        "content=2021-10-23"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

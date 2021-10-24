@@ -1,0 +1,50 @@
+{
+    "name": "incontri2021fa-la-cosa-giusta-trento.",
+    "links": [
+        "#",
+        "http://www.falacosagiustatrento.org",
+        "http://falacosagiustatrento.org",
+        "http://www.facebook.com/FaLaCosaGiustaTrento"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTrento",
+        "Expo,",
+        "Via",
+        "Briamasco",
+        "2,",
+        "Trento",
+        "Orario:",
+        "ven.",
+        "ore",
+        "14.30",
+        "-",
+        "18.30",
+        "/",
+        "sab.",
+        "e",
+        "dom.",
+        "ore",
+        "9",
+        "-",
+        "19",
+        "Note:",
+        "Ingresso",
+        "con",
+        "Green",
+        "Pass",
+        "Sito",
+        "web:",
+        "a",
+        "href=http://www.falacosagiustatrento.org",
+        "target=_blankwww.falacosagiustatrento.org/"
+    ],
+    "duration_hours": [
+        "14.30"
+    ],
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

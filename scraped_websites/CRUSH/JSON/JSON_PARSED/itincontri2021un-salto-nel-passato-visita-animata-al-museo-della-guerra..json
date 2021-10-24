@@ -1,0 +1,28 @@
+{
+    "name": "itincontri2021un-salto-nel-passato-visita-animata-al-museo-della-guerra.",
+    "links": [
+        "#",
+        "https://www.visitrovereto.it/vivi/eventi/notte-blu-rovereto/",
+        "https://www.museodellaguerra.it/un-salto-nel-passato-visita-animata-al-museo-della-guerra-2021/",
+        "/it/mostre/museo-storico-italiano-della-guerra.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMuseo",
+        "Storico",
+        "Italiano",
+        "della",
+        "Guerra,",
+        "via",
+        "Castelbarco",
+        "7,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": 541,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

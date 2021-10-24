@@ -1,0 +1,36 @@
+{
+    "name": "incontri2021autochtona-2021.",
+    "links": [
+        "#",
+        "mailto:info@fieramesse.cominfo@fieramesse.com/a",
+        "https://www.fierabolzano.it/it/tickets/497",
+        "http://www.fieramesse.com/autochtona",
+        "https://www.fierabolzano.it/it/autochtona/calendario-eventi",
+        "https://www.fierabolzano.it/it/autochtona",
+        "/it/incontri/fiera-bolzano.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressFiera",
+        "Bolzano,",
+        "Piazza",
+        "Fiera",
+        "1,",
+        "Bolzano",
+        "Note:",
+        "Info",
+        "n.",
+        "0471.516000,",
+        "a",
+        "href=mailto:info@fieramesse.cominfo@fieramesse.com/a",
+        "/",
+        "a",
+        "href=https://www.fierabolzano.it/it/tickets/497"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

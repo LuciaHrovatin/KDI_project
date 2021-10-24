@@ -1,0 +1,25 @@
+{
+    "name": "didattica2021il-clown-come-strumento-di-relazione.",
+    "links": [
+        "#",
+        "mailto:info@pituit.itinfo@pituit.it/a",
+        "http://www.pituit.it/2018/08/01/il-clown-come-strumento-di-relazione-ottobrenovembre/",
+        "/it/didattica/pituit-studio-darti.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressPituit,",
+        "Via",
+        "Aosta",
+        "18,",
+        "Trento"
+    ],
+    "duration_hours": [
+        "14.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

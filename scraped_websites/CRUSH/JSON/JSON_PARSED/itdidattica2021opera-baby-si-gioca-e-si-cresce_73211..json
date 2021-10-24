@@ -1,0 +1,23 @@
+{
+    "name": "itdidattica2021opera-baby-si-gioca-e-si-cresce_73211.",
+    "links": [
+        "#",
+        "mailto:ticket@haydn.itticket@haydn.it/a",
+        "https://www.haydn.it/eventi/opera-baby-si-gioca-e-si-cresce-2",
+        "/it/musica/fondazione-haydn-di-bolzano-e-trento.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressAuditorium,",
+        "Via",
+        "Dante",
+        "15,",
+        "Bolzano"
+    ],
+    "duration_hours": "16.00",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

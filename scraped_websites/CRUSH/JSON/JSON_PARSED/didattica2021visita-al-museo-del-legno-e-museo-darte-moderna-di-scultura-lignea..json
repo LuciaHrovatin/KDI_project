@@ -1,0 +1,20 @@
+{
+    "name": "didattica2021visita-al-museo-del-legno-e-museo-darte-moderna-di-scultura-lignea.",
+    "links": [
+        "#",
+        "https://www.visitvalsugana.it/it/eventi-valsugana/visita-al-museo-del-legno-e-museo-darte-moderna-di_15529_idat/",
+        "/it/incontri/apt-valsugana-lagorai.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastello",
+        "Tesino",
+        "(Tn)"
+    ],
+    "duration_hours": 494,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

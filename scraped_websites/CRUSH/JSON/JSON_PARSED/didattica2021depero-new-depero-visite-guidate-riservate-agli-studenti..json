@@ -1,0 +1,46 @@
+{
+    "name": "didattica2021depero-new-depero-visite-guidate-riservate-agli-studenti.",
+    "links": [
+        "#",
+        "mailto:education@mart.trento.iteducation@mart.trento.it/a",
+        "http://www.mart.tn.it",
+        "http://www.mart.tn.it",
+        "/it/mostre/mart.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMart,",
+        "Corso",
+        "Bettini,",
+        "Rovereto",
+        "(Tn)",
+        "Orario:",
+        "ore",
+        "15.00",
+        "e",
+        "16.30",
+        "Note:",
+        "Costo:",
+        "",
+        "3",
+        "/",
+        "Prenotazioni",
+        "entro",
+        "le",
+        "ore",
+        "12.00",
+        "del",
+        "giorno",
+        "precedente:",
+        "a",
+        "href=mailto:education@mart.trento.iteducation@mart.trento.it/a"
+    ],
+    "duration_hours": [
+        "15.00"
+    ],
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

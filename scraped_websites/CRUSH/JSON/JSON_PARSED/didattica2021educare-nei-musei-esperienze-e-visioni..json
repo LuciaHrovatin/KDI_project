@@ -1,0 +1,60 @@
+{
+    "name": "didattica2021educare-nei-musei-esperienze-e-visioni.",
+    "links": [
+        "#",
+        "mailto:education@mart.trento.iteducation@mart.trento.it/a",
+        "http://www.mart.tn.it",
+        "https://www.facebook.com/events/565180234799763/",
+        "/it/mostre/mart.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressArea",
+        "educazione",
+        "/",
+        "Mart,",
+        "Corso",
+        "Bettini,",
+        "Rovereto",
+        "(Tn)",
+        "Orario:",
+        "Venerdì",
+        "22",
+        "ottobre",
+        "2021",
+        "ore",
+        "9.15-17.30,",
+        "Mart,",
+        "Area",
+        "educazione",
+        "/",
+        "Sabato",
+        "23",
+        "ottobre",
+        "2021",
+        "ore",
+        "10.00-13.00,",
+        "Mart,",
+        "Area",
+        "educazione",
+        "Note:",
+        "Partecipazione",
+        "gratuita",
+        "con",
+        "prenotazione",
+        "obbligatoria:",
+        "T",
+        "0464.4541108-151",
+        "/",
+        "a",
+        "href=mailto:education@mart.trento.iteducation@mart.trento.it/a"
+    ],
+    "duration_hours": [
+        "9.15-17.30,"
+    ],
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

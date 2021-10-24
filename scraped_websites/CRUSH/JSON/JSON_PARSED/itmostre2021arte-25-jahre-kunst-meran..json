@@ -1,0 +1,27 @@
+{
+    "name": "itmostre2021arte-25-jahre-kunst-meran.",
+    "links": [
+        "#",
+        "https://www.kunstmeranoarte.org/it/mostre/anteprima/arte-e-20-jahre-kunst-meran.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMerano",
+        "Arte,",
+        "Via",
+        "dei",
+        "Portici",
+        "163,",
+        "Merano",
+        "(Bz)"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [
+        "content=2021-07-17",
+        "content=2021-10-24"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

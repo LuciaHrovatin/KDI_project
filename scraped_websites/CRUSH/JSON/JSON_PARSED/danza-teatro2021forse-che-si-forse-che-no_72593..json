@@ -1,0 +1,27 @@
+{
+    "name": "danza-teatro2021forse-che-si-forse-che-no_72593.",
+    "links": [
+        "#",
+        "mailto:prenotazioni@teatrocristallo.itprenotazioni@teatrocristallo.it/a",
+        "https://ticket.midaticket.it/teatrocristallo/Events",
+        "https://www.teatrocristallo.it/ticket",
+        "https://www.teatrocristallo.it/calendario/dettaglievento/380/-/forse-che-s%C3%AC-forse-che-no",
+        "/it/danza-teatro/teatro-cristallo.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Cristallo,",
+        "Via",
+        "Dalmazia,",
+        "Bolzano"
+    ],
+    "duration_hours": [
+        "16.30"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

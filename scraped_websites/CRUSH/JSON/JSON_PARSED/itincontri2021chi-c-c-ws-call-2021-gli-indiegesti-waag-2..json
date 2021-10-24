@@ -1,0 +1,18 @@
+{
+    "name": "itincontri2021chi-c-c-ws-call-2021-gli-indiegesti-waag-2.",
+    "links": [
+        "#",
+        "https://weighstation.eu/it/",
+        "/it/incontri/weigh-station-for-culture.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressBolzano"
+    ],
+    "duration_hours": 451,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "didattica2021visita-alla-chiesa-di-san-pietro-in-bosco_73193.",
+    "links": [
+        "#",
+        "https://www.comune.ala.tn.it/eventi/agenda/event/35063",
+        "https://www.comune.ala.tn.it/eventi/agenda/event/35063",
+        "/it/incontri/comune-di-ala-ufficio-attivita-culturali-e-turistiche.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressChiesa",
+        "di",
+        "San",
+        "Pietro",
+        "in",
+        "bosco,",
+        "Ala",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "10",
+        "12"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

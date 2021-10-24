@@ -1,0 +1,56 @@
+{
+    "name": "incontri2021i-paraphernalia-e-lestasi-sciamanica.",
+    "links": [
+        "#",
+        "mailto:education@mart.trento.iteducation@mart.trento.it/a",
+        "http://www.mart.trento.it",
+        "/it/mostre/mart.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMart,",
+        "Corso",
+        "Bettini,",
+        "Rovereto",
+        "(Tn)",
+        "Note:",
+        "I",
+        "docenti",
+        "possono",
+        "richiedere",
+        "lattestato",
+        "di",
+        "frequenza",
+        "valido",
+        "ai",
+        "fini",
+        "dellaggiornamento",
+        "/",
+        "Partecipazione",
+        "gratuita",
+        "con",
+        "prenotazione",
+        "obbligatoria:",
+        "T",
+        "0464.454108-151",
+        "o",
+        "a",
+        "href=mailto:education@mart.trento.iteducation@mart.trento.it/a",
+        "Sito",
+        "web:",
+        "a",
+        "href=http://www.mart.trento.it",
+        "target=_blankwww.mart.trento.it/"
+    ],
+    "duration_hours": [
+        "20.30-22.00,",
+        "20.30-22.00,",
+        "20.30-22.00,",
+        "20.30-22.00,"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

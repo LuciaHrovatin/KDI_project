@@ -1,0 +1,26 @@
+{
+    "name": "didattica2021giacomo-turra.",
+    "links": [
+        "#",
+        "http://www.uploadsounds.eu",
+        "https://facebook.com/events/1221271208377839https://facebook.com/events/1221271208377839/a/p",
+        "/it/musica/upload-sounds.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Puccini,",
+        "Piazza",
+        "Teatro,",
+        "Merano",
+        "(Bz)"
+    ],
+    "duration_hours": [
+        "20.30"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

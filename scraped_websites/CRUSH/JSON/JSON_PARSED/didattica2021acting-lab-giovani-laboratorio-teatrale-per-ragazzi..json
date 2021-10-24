@@ -1,0 +1,26 @@
+{
+    "name": "didattica2021acting-lab-giovani-laboratorio-teatrale-per-ragazzi.",
+    "links": [
+        "#",
+        "mailto:info@emitflesti.itinfo@emitflesti.it/a",
+        "https://www.emitflesti.it/formazione/teatro/acting-lab-giovani/",
+        "/it/didattica/emit-flesti.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressBottega",
+        "delle",
+        "Arti,",
+        "Passaggio",
+        "Teatro",
+        "Osele",
+        "6/8,",
+        "Trento"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

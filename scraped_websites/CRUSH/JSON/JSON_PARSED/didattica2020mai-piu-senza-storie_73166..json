@@ -1,0 +1,25 @@
+{
+    "name": "didattica2020mai-piu-senza-storie_73166.",
+    "links": [
+        "#",
+        "https://www.comune.rivadelgarda.tn.it/Aree-tematiche/Biblioteca-civica/Bibliosnack-Eventi/Letture-ad-alta-voce-dai-3-anni/Mai-piu-senza-storie",
+        "/it/incontri/comune-di-riva-del-garda.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressBiblioteca",
+        "Civica,",
+        "Piazza",
+        "Garibaldi,",
+        "Riva",
+        "del",
+        "Garda",
+        "(Tn)"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "danza-teatro2021compagnia-zappala-rifare-bach.",
+    "links": [
+        "#",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/compagnia-zappala-rifare-bach",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/compagnia-zappala-rifare-bach",
+        "/it/danza-teatro/stagione-indanza.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Sociale,",
+        "Via",
+        "Oss",
+        "Mazzurana,",
+        "Trento"
+    ],
+    "duration_hours": [
+        "20.30"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

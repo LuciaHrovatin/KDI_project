@@ -1,0 +1,19 @@
+{
+    "name": "itincontri2021ideensalon-brave-new-work-chi-ce-c.",
+    "links": [
+        "#",
+        "https://www.ideensalon.bz/participate",
+        "https://weighstation.eu/it/event/ideensalon/",
+        "/it/incontri/weigh-station-for-culture.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressBolzano"
+    ],
+    "duration_hours": 439,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

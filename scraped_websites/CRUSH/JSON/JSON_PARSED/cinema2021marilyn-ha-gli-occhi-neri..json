@@ -1,0 +1,53 @@
+{
+    "name": "cinema2021marilyn-ha-gli-occhi-neri.",
+    "links": [
+        "#",
+        "http://www.cinemaastratrento.it",
+        "http://www.cinemaastratrento.it",
+        "http://www.01distribution.it/film/marilyn-ha-gli-occhi-neri",
+        "https://www.youtube.com/watch?v=fRSBudBPE-Y",
+        "/it/cinema/multisala-astra.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMultisala",
+        "Astra,",
+        "Corso",
+        "Buonarroti,",
+        "Trento",
+        "Orario:",
+        "Martedì",
+        "19:",
+        "19.00",
+        "-",
+        "21.15",
+        "/",
+        "Mercoledì",
+        "20:",
+        "18.30",
+        "-",
+        "20.45",
+        "Note:",
+        "a",
+        "href=http://www.cinemaastratrento.it",
+        "target=_blankwww.cinemaastratrento.it/a",
+        "(biglietti,",
+        "modalità",
+        "di",
+        "accesso,",
+        "info",
+        "e",
+        "contatti)",
+        "Sito",
+        "web:",
+        "a",
+        "href=http://www.cinemaastratrento.it",
+        "target=_blankwww.cinemaastratrento.it/"
+    ],
+    "duration_hours": [],
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

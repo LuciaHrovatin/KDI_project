@@ -1,0 +1,32 @@
+{
+    "name": "danza-teatro2021vita-da-cani_73105.",
+    "links": [
+        "#",
+        "http://www.teatrodimeano.it/biglietteria/",
+        "mailto:info@teatrodimeano.itinfo@teatrodimeano.it/a",
+        "https://toptix1.mioticket.it/TeatroPergine/it-IT/categories/teatro%20di%20meano",
+        "https://www.crushsite.it/it/danza-teatro/teatro-di-meano.htmlTeatro",
+        "http://www.teatrodimeano.it/event/vita-da-cani-2/",
+        "/it/danza-teatro/teatro-di-meano.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "di",
+        "Meano,",
+        "Via",
+        "delle",
+        "Sugarine",
+        "22,",
+        "Meano",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "20.45"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

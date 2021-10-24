@@ -1,0 +1,30 @@
+{
+    "name": "incontri2021una-visita-da-brivido-halloween-al-castello.",
+    "links": [
+        "#",
+        "http://www.castellodiavio.it",
+        "https://www.fondoambiente.it/eventi/una-visita-da-brivido",
+        "/it/mostre/fai-castello-di-avio.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastello",
+        "di",
+        "Avio,",
+        "Via",
+        "al",
+        "Castello,",
+        "Sabbionara,",
+        "Avio",
+        "(Tn)"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [
+        "content=2021-10-29",
+        "content=2021-10-31"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

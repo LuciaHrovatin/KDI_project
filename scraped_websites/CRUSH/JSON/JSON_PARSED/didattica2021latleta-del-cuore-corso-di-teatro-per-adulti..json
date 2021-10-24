@@ -1,0 +1,31 @@
+{
+    "name": "didattica2021latleta-del-cuore-corso-di-teatro-per-adulti.",
+    "links": [
+        "#",
+        "mailto:info@elementareteatro.itinfo@elementareteatro.it/a,",
+        "http://www.elementareteatro.it/compagnia.",
+        "http://www.elementareteatro.it/compagnia.",
+        "http://www.elementareteatro.it/progetti-latletadelcuore.html",
+        "/it/danza-teatro/spazio-elementare.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressSmart",
+        "Lab,",
+        "Viale",
+        "Trento",
+        "47/49,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "20",
+        "20",
+        "20"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

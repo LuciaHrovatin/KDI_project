@@ -1,0 +1,22 @@
+{
+    "name": "didattica2021estro-parola-percorso-di-lettura.",
+    "links": [
+        "#",
+        "https://www.estroteatro.com/lettura",
+        "/it/didattica/estroteatro.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressEstro,",
+        "Via",
+        "Venezia",
+        "1,",
+        "Trento"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

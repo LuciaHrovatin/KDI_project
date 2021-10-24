@@ -1,0 +1,36 @@
+{
+    "name": "incontri2021i-giardini-di-castel-trauttmansdorff-visita.",
+    "links": [
+        "#",
+        "https://www.trauttmansdorff.it/it/pianificare-la-visita/informazioni-generali-per-i-visitatori/orari-di-apertura-e-tariffe-di-ingresso.html",
+        "https://www.trauttmansdorff.it/it/dettaglio-eventi/biglietto-di-tardo-autunno.html",
+        "https://www.trauttmansdorff.it/it/pianificare-la-visita/informazioni-generali-per-i-visitatori/faq.html",
+        "https://www.crushsite.it/it/incontri/i-giardini-di-castel-trauttmansdorff.htmlLa",
+        "https://www.crushsite.it/it/notizie/avvisi-comunicati/2021/9-aprile-2021-riaprono-i-giardini-di-castel-trauttmansdorff.html9",
+        "https://www.trauttmansdorff.it",
+        "/it/incontri/i-giardini-di-castel-trauttmansdorff.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressI",
+        "Giardini",
+        "di",
+        "Castel",
+        "Trauttmansdorff,",
+        "via",
+        "S.",
+        "Valentino",
+        "51a,",
+        "Merano",
+        "(Bz)"
+    ],
+    "duration_hours": [
+        "9.00",
+        "17.30)"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

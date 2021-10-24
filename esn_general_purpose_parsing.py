@@ -15,7 +15,7 @@ months = {'january': 1,'february' : 2,
 mesi = {'gennaio': 1,'febbraio' : 2,
             'marzo': 3,'aprile': 4,'maggio': 5,
             'giugno': 6, 'luglio': 7, 'agosto': 8, 
-            'settembre': 9, 'ottobte': 10, 'novembre': 11, 'dicembre': 12}
+            'settembre': 9, 'ottobre': 10, 'novembre': 11, 'dicembre': 12}
 giorni = ['lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato', 'domenica']
 dayss = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 

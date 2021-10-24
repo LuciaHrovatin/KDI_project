@@ -1,0 +1,25 @@
+{
+    "name": "didattica2021visita-guidata-al-muse.",
+    "links": [
+        "#",
+        "https://www.muse.it/it/Esplora/Eventi-Attivita/Archivio/Pagine/Visite-Guidate.aspx",
+        "/it/mostre/muse-museo-delle-scienze.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMUSE,",
+        "Corso",
+        "del",
+        "lavoro",
+        "e",
+        "della",
+        "scienza,",
+        "Trento"
+    ],
+    "duration_hours": 478,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

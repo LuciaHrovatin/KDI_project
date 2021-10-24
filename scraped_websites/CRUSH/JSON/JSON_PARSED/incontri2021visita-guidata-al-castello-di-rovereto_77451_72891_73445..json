@@ -1,0 +1,27 @@
+{
+    "name": "incontri2021visita-guidata-al-castello-di-rovereto_77451_72891_73445.",
+    "links": [
+        "#",
+        "https://www.museodellaguerra.it/visita-guidata-al-castello-24-10-21/",
+        "/it/mostre/museo-storico-italiano-della-guerra.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMuseo",
+        "Storico",
+        "Italiano",
+        "della",
+        "Guerra,",
+        "via",
+        "Castelbarco",
+        "7,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": 521,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

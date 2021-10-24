@@ -1,0 +1,29 @@
+{
+    "name": "didattica2021forte-pozzacchio-visite-guidate.",
+    "links": [
+        "#",
+        "mailto:info@fortepozzacchio.itinfo@fortepozzacchio.it/a",
+        "mailto:info@fortepozzacchio.itinfo@fortepozzacchio.it/al.",
+        "https://www.visitrovereto.it/vivi/eventi/forte-pozzacchio-eventi-aperture/",
+        "/it/incontri/azienda-per-il-turismo-rovereto-e-vallagarina.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressForte",
+        "Pozzacchio,",
+        "Trambileno",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "14.00"
+    ],
+    "duration_days": [
+        "8/202",
+        "9/202",
+        "10/202"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

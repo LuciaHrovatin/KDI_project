@@ -1,0 +1,24 @@
+{
+    "name": "didattica2021lettura-ad-alta-voce.",
+    "links": [
+        "#",
+        "https://www.teatroportland.it/formazione-com-lartedellaparolaperfezionamento.html",
+        "https://www.teatroportland.it/formazione-com-lartedellaparolaperfezionamento.html",
+        "/it/didattica/portland-nuovi-orizzonti-teatrali.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Portland,",
+        "Via",
+        "Papiria",
+        "8,",
+        "Trento"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

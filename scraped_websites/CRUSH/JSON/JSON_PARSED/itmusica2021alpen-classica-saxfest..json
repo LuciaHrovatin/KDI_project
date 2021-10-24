@@ -1,0 +1,31 @@
+{
+    "name": "itmusica2021alpen-classica-saxfest.",
+    "links": [
+        "#",
+        "mailto:info@alpenclassicafestival.cominfo@alpenclassicafestival.com/a",
+        "http://www.alpenclassicafestival.com/it/pagina/saxfest-2021",
+        "https://www.crushsite.it/it/notizie/bandi/2021/saxfest-2021-concorso-di-sassofono.htmlConcorso/a,",
+        "https://www.crushsite.it/it/musica/2021/fortress-sketsches.htmlConcerto",
+        "https://www.crushsite.it/it/musica/2021/saxfest-gala-concert.htmlGala",
+        "http://www.alpenclassicafestival.com/it/pagina/saxfest-2021",
+        "https://www.facebook.com/alpenclassicasaxfest",
+        "/it/musica/alpen-classica-festival.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressSeminario",
+        "Maggiore,",
+        "Via",
+        "del",
+        "Seminario",
+        "4,",
+        "Bressanone",
+        "(Bz)"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

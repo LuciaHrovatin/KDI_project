@@ -1,0 +1,15 @@
+{
+    "name": "incontri2021antropologia-dellallattamento.",
+    "links": [
+        "#",
+        "http://www.museostorico.it/index.php/Il-Museo/Appuntamenti/2021/Invito-al-webinar-Antropologia-dell-allattamento",
+        "/it/mostre/fondazione-museo-storico-del-trentino.html"
+    ],
+    "location": "Dove:  itemprop=streetAddressonline (*) Orario: Giovedì 21 ottobre alle 15.30",
+    "duration_hours": "Giovedì 21 ottobre alle",
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

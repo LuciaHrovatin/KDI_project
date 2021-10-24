@@ -1,0 +1,21 @@
+{
+    "name": "incontri2021arte-autunno-in-piazza.",
+    "links": [
+        "#",
+        "https://www.comune.cles.tn.it/Vivi-Cles/Eventi-e-manifestazioni/ARTE-AUTUNNO-IN-PIAZZA",
+        "/it/incontri/comune-di-cles.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCentro",
+        "storico,",
+        "Cles",
+        "(Tn)"
+    ],
+    "duration_hours": 440,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

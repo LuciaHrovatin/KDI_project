@@ -1,0 +1,33 @@
+{
+    "name": "itmostre2021in-alto-il-sistema-di-rifornimenti-militari-tra-lo-zugna-e-gli-altipiani.",
+    "links": [
+        "#",
+        "http://www.midaticket.it/eventi/museo-della-guerra",
+        "https://www.museodellaguerra.it/visita/programma-la-tua-visita/",
+        "https://www.museodellaguerra.it/connessioni-montane-viaggio-dalla-guerra-al-turismo/",
+        "http://www.mountain-connections.eu",
+        "https://www.museodellaguerra.it/portfolio/in-alto-il-sistema-di-rifornimenti-militari-tra-lo-zugna-e-gli-altipiani/",
+        "/it/mostre/museo-storico-italiano-della-guerra.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMuseo",
+        "Storico",
+        "Italiano",
+        "della",
+        "Guerra,",
+        "via",
+        "Castelbarco",
+        "7,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "10.30-18.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

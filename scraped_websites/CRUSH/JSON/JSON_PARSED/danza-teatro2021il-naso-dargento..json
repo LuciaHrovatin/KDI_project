@@ -1,0 +1,27 @@
+{
+    "name": "danza-teatro2021il-naso-dargento.",
+    "links": [
+        "#",
+        "mailto:info@elementareteatro.itinfo@elementareteatro.it/a",
+        "http://www.elementareteatro.it/festivaldeipiccoli2021-6.html",
+        "/it/danza-teatro/festival-dei-piccoli.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressSala",
+        "Filarmonica,",
+        "Corso",
+        "Rosmini",
+        "86,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "17.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

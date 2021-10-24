@@ -1,0 +1,28 @@
+{
+    "name": "danza-teatro2021thats-amore.",
+    "links": [
+        "#",
+        "https://www.teatrodivillazzano.it/info-e-biglietteria/",
+        "https://www.teatrodivillazzano.it/event/thats-amore/",
+        "/it/danza-teatro/teatro-di-villazzano.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Concordia,",
+        "Via",
+        "dei",
+        "Rivi",
+        "1,",
+        "Povo",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "20.45"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "didattica2021scampiamilano-on-the-road.",
+    "links": [
+        "#",
+        "mailto:info@centrogiovanivintola.i.tinfo@centrogiovanivintola.i.t/a",
+        "https://www.facebook.com/events/4553281831401073",
+        "/it/incontri/vintola-18.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressVintola18",
+        "-",
+        "centro",
+        "di",
+        "cultura",
+        "giovanile,",
+        "Via",
+        "Vintola",
+        "18,",
+        "Bolzano"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

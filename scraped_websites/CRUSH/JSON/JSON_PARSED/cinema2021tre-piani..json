@@ -1,0 +1,46 @@
+{
+    "name": "cinema2021tre-piani.",
+    "links": [
+        "#",
+        "http://www.cinemaastratrento.it",
+        "http://www.cinemaastratrento.it",
+        "http://www.01distribution.it/film/tre-piani",
+        "https://www.youtube.com/watch?v=Bhk4SbtFgxU",
+        "/it/cinema/multisala-astra.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMultisala",
+        "Astra,",
+        "Corso",
+        "Buonarroti,",
+        "Trento",
+        "Orario:",
+        "ore",
+        "20.45",
+        "Note:",
+        "a",
+        "href=http://www.cinemaastratrento.it",
+        "target=_blankwww.cinemaastratrento.it/a",
+        "(biglietti,",
+        "modalità",
+        "di",
+        "accesso,",
+        "info",
+        "e",
+        "contatti)",
+        "Sito",
+        "web:",
+        "a",
+        "href=http://www.cinemaastratrento.it",
+        "target=_blankwww.cinemaastratrento.it/"
+    ],
+    "duration_hours": [
+        "20.45"
+    ],
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

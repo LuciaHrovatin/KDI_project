@@ -1,0 +1,26 @@
+{
+    "name": "danza-teatro2021zuppa-di-sasso.",
+    "links": [
+        "#",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/zuppa-di-sasso-tr-21",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/zuppa-di-sasso-tr-21",
+        "/it/danza-teatro/centro-s-chiara-stagione-ragazzi.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Cuminetti,",
+        "Via",
+        "S.",
+        "Croce,",
+        "Trento"
+    ],
+    "duration_hours": [
+        "16.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

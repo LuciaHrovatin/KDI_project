@@ -1,0 +1,22 @@
+{
+    "name": "didattica2021il-corpo-comunicazione-non-verbale-il-corpo-che-ascolta.",
+    "links": [
+        "#",
+        "https://www.teatroportland.it/formazione-com-ilcorpocheascolta.html",
+        "/it/didattica/portland-nuovi-orizzonti-teatrali.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Portland,",
+        "Via",
+        "Papiria,",
+        "Trento"
+    ],
+    "duration_hours": 513,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

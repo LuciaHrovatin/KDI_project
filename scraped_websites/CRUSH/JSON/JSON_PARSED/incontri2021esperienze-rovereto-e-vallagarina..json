@@ -1,0 +1,27 @@
+{
+    "name": "incontri2021esperienze-rovereto-e-vallagarina.",
+    "links": [
+        "#",
+        "http://www.visitrovereto.it/vivi/esperienze/",
+        "https://www.visitrovereto.it/vivi/esperienze/culturali/",
+        "https://www.visitrovereto.it/vivi/esperienze/enogastronomiche/",
+        "https://www.visitrovereto.it/vivi/esperienze/outdoor/",
+        "/it/incontri/azienda-per-il-turismo-rovereto-e-vallagarina.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressRovereto",
+        "e",
+        "Vallagarina",
+        "(Tn)"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [
+        "content=2021-05-01",
+        "content=2021-12-31"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

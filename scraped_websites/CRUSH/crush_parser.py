@@ -3,17 +3,20 @@ import csv, os, json
 from datetime import datetime
 
 
-dir = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH"
+dir = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\CSV"
 list_dir = os.listdir(dir)
 list_dir_paths = [os.path.join(dir, f) for f in list_dir]
-new_dir =  r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\CSV"
+new_dir =  r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\JSON"
+
+
 def create_parsed_dictionary_and_write() : 
     """PARSES THE HTML FILE INTO A DICTIONARY"""
     
     for i in range(len(list_dir_paths)) :
         name = list_dir_paths[i].split(r"CRUSH\\")
         file_name = name[-1]
-        
+        new = file_name.split('CSV')
+        to_join = new[-1][1:-4]
         if (list_dir_paths[i].endswith('.csv')) : 
 
             with open(list_dir_paths[i], encoding = "ISO-8859-1") as f : 
@@ -110,7 +113,8 @@ def create_parsed_dictionary_and_write() :
                         
                         
                 ret = parse_dict(d)
-                write_dic_to_json(d, new_dir)
+              
+                write_dic_to_json(ret, to_join)
                                
         
                     
@@ -167,12 +171,13 @@ def parse_dict(dic):
                         new.append(el)
                 new = ' '.join(new)
                 dic[key] = new
+    return dic
   
 
 def write_dic_to_json(dic,title) :
-    with open('{}.json'.format(title), 'w', encoding='utf-8') as f:
+    with open(os.path.join(new_dir, title)+'.json', 'w', encoding='utf-8') as f:
         json.dump(dic, f, ensure_ascii=False, indent=4, default=str)
-    return(dic)
+    
 
 create_parsed_dictionary_and_write()
 

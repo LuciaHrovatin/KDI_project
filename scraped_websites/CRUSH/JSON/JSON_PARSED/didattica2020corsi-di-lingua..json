@@ -1,0 +1,19 @@
+{
+    "name": "didattica2020corsi-di-lingua.",
+    "links": [
+        "#",
+        "https://www.crushsite.it/it/didattica/azb-scuola-di-lingue.htmlAZB/a.br/",
+        "https://www.cooperform.it/area-tematica/corsi-di-lingua/",
+        "/it/didattica/azb-scuola-di-lingue.html"
+    ],
+    "location": "Dove:  itemprop=streetAddressonline (*)",
+    "duration_hours": "Not specified",
+    "duration_days": [
+        "content=2020-10-13",
+        "content=2021-12-31"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

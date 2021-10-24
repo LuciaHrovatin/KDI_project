@@ -1,0 +1,33 @@
+{
+    "name": "itincontrifiera-bolzano.",
+    "links": [
+        "http://maps.google.it/maps?q=fiera+bolzano&amp;hl=it&amp;sll=46.280529,11.197815&amp;sspn=1.205364,3.348083&amp;hq=fiera+bolzano&amp;t=m&amp;z=9",
+        "mailto:info@fieramesse.cominfo@fieramesse.com/a",
+        "https://www.facebook.com/FieraMesseBolzanoBozen/",
+        "https://www.instagram.com/fieramesse/",
+        "http://www.fieramesse.com"
+    ],
+    "location": [
+        "Dove:",
+        "P.zza",
+        "Fiera",
+        "1,",
+        "Bolzano",
+        "(a",
+        "href=http://maps.google.it/maps?q=fiera+bolzano&amp;hl=it&amp;sll=46.280529,11.197815&amp;sspn=1.205364,3.348083&amp;hq=fiera+bolzano&amp;t=m&amp;z=9",
+        "target=_blankgoogle",
+        "maps/a)",
+        "br/",
+        "Contatti:",
+        "tel.",
+        "0471.516000",
+        "/",
+        "a",
+        "href=mailto:info@fieramesse.cominfo@fieramesse.com/a",
+        "/",
+        "a",
+        "href=https://www.facebook.com/FieraMesseBolzanoBozen/"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": []
+}

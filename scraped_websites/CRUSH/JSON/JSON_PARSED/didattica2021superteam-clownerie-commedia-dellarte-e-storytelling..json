@@ -1,0 +1,28 @@
+{
+    "name": "didattica2021superteam-clownerie-commedia-dellarte-e-storytelling.",
+    "links": [
+        "#",
+        "mailto:cortocircuito@teatrocristallo.itcortocircuito@teatrocristallo.it/a",
+        "https://www.teatrocristallo.it/index.php?option=com_content&amp;view=article&amp;id=31",
+        "/it/incontri/corto-circuito-youngculture.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Cristallo",
+        "-",
+        "sala",
+        "Cristallo",
+        "Young,",
+        "Via",
+        "Dalmazia",
+        "30,",
+        "Bolzano"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

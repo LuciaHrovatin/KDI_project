@@ -1,0 +1,22 @@
+{
+    "name": "didattica2021percorso-adulti-passion.",
+    "links": [
+        "#",
+        "https://www.estroteatro.com/adultipassion",
+        "/it/didattica/estroteatro.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressEstro,",
+        "Via",
+        "Venezia",
+        "1,",
+        "Trento"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

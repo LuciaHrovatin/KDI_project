@@ -1,0 +1,31 @@
+{
+    "name": "danza-teatro2021le-allegre-comari-di-windsor_73410.",
+    "links": [
+        "#",
+        "https://www.comune.rivadelgarda.tn.it/Notizie-ed-eventi/Archivio-delle-notizie/In-evidenza/Torna-il-teatro-a-Riva-del-Garda-e-a-Nago-Torbole",
+        "https://www.trentinospettacoli.it/eventi/le-allegre-comari-di-windsor-2/",
+        "https://www.primiallaprima.it/PrimiAllaPrima/it/event/le-allegre-comari-di-windsor-rivadelgarda/369508",
+        "https://www.trentinospettacoli.it/eventi/le-allegre-comari-di-windsor-2/",
+        "/it/danza-teatro/stagione-di-prosa-riva-del-garda.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressSala",
+        "Garda,",
+        "Palazzo",
+        "dei",
+        "Congressi,",
+        "Riva",
+        "del",
+        "Garda",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "21.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

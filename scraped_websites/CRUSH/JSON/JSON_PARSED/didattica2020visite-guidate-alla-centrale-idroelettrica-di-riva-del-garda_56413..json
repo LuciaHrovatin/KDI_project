@@ -1,0 +1,28 @@
+{
+    "name": "didattica2020visite-guidate-alla-centrale-idroelettrica-di-riva-del-garda_56413.",
+    "links": [
+        "#",
+        "http://www.hydrotourdolomiti.it/content/it/riva-del-garda",
+        "mailto:booking@hydrotourdolomiti.itbooking@hydrotourdolomiti.it/a",
+        "http://www.hydrotourdolomiti.it",
+        "http://www.hydrotourdolomiti.it/content/it/riva-del-garda",
+        "/it/incontri/hydrotour-dolomiti.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressVia",
+        "G.",
+        "Cis",
+        "13,",
+        "Riva",
+        "del",
+        "Garda",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

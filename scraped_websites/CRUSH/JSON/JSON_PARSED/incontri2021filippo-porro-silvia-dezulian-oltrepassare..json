@@ -1,0 +1,30 @@
+{
+    "name": "incontri2021filippo-porro-silvia-dezulian-oltrepassare.",
+    "links": [
+        "#",
+        "https://www.orienteoccidente.it/it/dance-festival/programma-2021/il-grande-viaggio--lungo-le-carovaniere-della-via-_5167_ida/",
+        "/it/danza-teatro/oriente-occidente.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressRitrovo",
+        "presso",
+        "la",
+        "Chiesa",
+        "di",
+        "S.",
+        "Clemente,",
+        "Castione",
+        "di",
+        "Brentonico",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "15.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

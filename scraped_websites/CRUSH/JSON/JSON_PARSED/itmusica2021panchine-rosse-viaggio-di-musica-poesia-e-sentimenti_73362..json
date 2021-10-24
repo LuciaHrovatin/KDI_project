@@ -1,0 +1,24 @@
+{
+    "name": "itmusica2021panchine-rosse-viaggio-di-musica-poesia-e-sentimenti_73362.",
+    "links": [
+        "#",
+        "http://www.facebook.com/BibliotecaBorgoValsugana/",
+        "/it/incontri/comune-di-borgo-valsugana-assess-alla-cultura.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressPiazzale",
+        "Dante,",
+        "Borgo",
+        "Valsugana",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "16.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

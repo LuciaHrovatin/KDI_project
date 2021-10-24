@@ -1,0 +1,33 @@
+{
+    "name": "itmostre2020museo-delle-palafitte-del-lago-di-ledro-allestimento_69752.",
+    "links": [
+        "#",
+        "https://www.palafitteledro.it/info/",
+        "http://www.palafitteledro.it",
+        "https://www.muse.it/it/visita/Muse-sul-Territorio/Pagine/Il-Muse-sul-territorio.aspx",
+        "/it/mostre/museo-delle-palafitte-del-lago-di-ledro.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMuseo",
+        "delle",
+        "Palafitte",
+        "del",
+        "Lago",
+        "di",
+        "Ledro,",
+        "via",
+        "Lungolago",
+        "1,",
+        "Molina",
+        "di",
+        "Ledro",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

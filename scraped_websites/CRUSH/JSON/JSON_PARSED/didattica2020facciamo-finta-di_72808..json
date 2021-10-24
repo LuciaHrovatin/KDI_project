@@ -1,0 +1,33 @@
+{
+    "name": "didattica2020facciamo-finta-di_72808.",
+    "links": [
+        "#",
+        "mailto:info@teatroblu.netinfo@teatroblu.net/a",
+        "https://www.teatrocristallo.it/index.php?option=com_content&amp;view=article&amp;id=71",
+        "/it/danza-teatro/teatro-cristallo.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressSala",
+        "don",
+        "Lino",
+        "Giuliani,",
+        "II",
+        "Piano",
+        "Centro",
+        "Culturale",
+        "Cristallo,",
+        "Via",
+        "Dalmazia",
+        "30,",
+        "Bolzano"
+    ],
+    "duration_hours": [
+        "15.30"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

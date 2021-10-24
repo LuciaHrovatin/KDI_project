@@ -1,0 +1,30 @@
+{
+    "name": "didattica2021fotografare-con-lo-smartphone-sesta-edizione.",
+    "links": [
+        "#",
+        "https://www.studioandromeda.net/smarthphone",
+        "/it/didattica/studio-darte-andromeda-workshop.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressStudio",
+        "dArte",
+        "Andromeda,",
+        "via",
+        "Malpaga,",
+        "Trento"
+    ],
+    "duration_hours": [
+        "20.00"
+    ],
+    "duration_days": [
+        "25/",
+        "10/202",
+        "8/",
+        "11/202"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

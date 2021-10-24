@@ -1,0 +1,24 @@
+{
+    "name": "itmostre2021visita-il-castello-di-bondone.",
+    "links": [
+        "#",
+        "mailto:info@fyllo.euinfo@fyllo.eu/a",
+        "http://www.fyllo.eu",
+        "http://www.reteriservealpiledrensi.tn.it",
+        "https://www.palafitteledro.it/wp-content/uploads/2021/07/Palafittando-2021.pdf",
+        "/it/mostre/museo-delle-palafitte-del-lago-di-ledro.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressVal",
+        "di",
+        "Ledro",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

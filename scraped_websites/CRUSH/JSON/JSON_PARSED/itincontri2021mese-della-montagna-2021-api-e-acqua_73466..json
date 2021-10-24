@@ -1,0 +1,19 @@
+{
+    "name": "itincontri2021mese-della-montagna-2021-api-e-acqua_73466.",
+    "links": [
+        "#",
+        "https://www.comune.lavis.tn.it/Novita/Avvisi/Mese-della-Montagna-2021-Api-ed-acqua",
+        "/it/incontri/comune-di-lavis.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressLavis",
+        "(Tn)"
+    ],
+    "duration_hours": 441,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

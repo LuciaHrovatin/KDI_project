@@ -1,0 +1,20 @@
+{
+    "name": "didattica2021ws-instrumenta-commercialista-steuerberater-mattia-prevedello.",
+    "links": [
+        "#",
+        "mailto:wall@weighstation.euwall@weighstation.eu/abr/",
+        "https://weighstation.eu/it/",
+        "https://www.facebook.com/events/1035255053957750",
+        "/it/incontri/weigh-station-for-culture.html"
+    ],
+    "location": "Dove:  itemprop=streetAddressonline (*)",
+    "duration_hours": "Not specified",
+    "duration_days": [
+        "content=2021-10-21",
+        "content=2021-10-21"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

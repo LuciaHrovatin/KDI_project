@@ -1,0 +1,22 @@
+{
+    "name": "didattica2021visita-guidata-in-nottura-alla-chiesetta-di-santippolito.",
+    "links": [
+        "#",
+        "https://www.visitvalsugana.it/it/eventi-valsugana/visite-guidate-in-notturna-alla-chiesetta-di-santi_15970_idat/",
+        "/it/incontri/apt-valsugana-lagorai.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastello",
+        "Tesino",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "21"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

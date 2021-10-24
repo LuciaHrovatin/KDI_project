@@ -1,0 +1,27 @@
+{
+    "name": "didattica2021upload-school-alto-adige.",
+    "links": [
+        "#",
+        "mailto:school@uploadsounds.euschool@uploadsounds.eu/a",
+        "http://www.uploadsounds.eu",
+        "https://www.crushsite.it/it/notizie/bandi/2021/uploadsounds-2021-presenta-upload-school-alto-adige-workshop-coaching.htmlUploadSounds",
+        "https://www.uploadsounds.eu/it/pagine/dettaglio/independent,-1/upload_school_alto_adige,49.html",
+        "/it/musica/upload-sounds.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressBeat",
+        "Studios,",
+        "Galvanistudio",
+        "6/c,",
+        "Bolzano"
+    ],
+    "duration_hours": [
+        "10.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

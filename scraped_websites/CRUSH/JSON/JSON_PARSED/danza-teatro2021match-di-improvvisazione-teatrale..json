@@ -1,0 +1,24 @@
+{
+    "name": "danza-teatro2021match-di-improvvisazione-teatrale.",
+    "links": [
+        "#",
+        "https://www.teatrosanmarco.it/calendario/",
+        "/it/danza-teatro/teatro-san-marco.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "San",
+        "Marco,",
+        "Via",
+        "S.",
+        "Bernardino,",
+        "Trento"
+    ],
+    "duration_hours": 471,
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

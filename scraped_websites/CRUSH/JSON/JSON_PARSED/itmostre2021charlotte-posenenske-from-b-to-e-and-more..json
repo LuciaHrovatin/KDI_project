@@ -1,0 +1,26 @@
+{
+    "name": "itmostre2021charlotte-posenenske-from-b-to-e-and-more.",
+    "links": [
+        "#",
+        "https://fondazioneantoniodallenogare.com/posenenske/"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressFondazione",
+        "Antonio",
+        "Dalle",
+        "Nogare,",
+        "Via",
+        "Rafenstein,",
+        "Bolzano"
+    ],
+    "duration_hours": "Not specified",
+    "duration_days": [
+        "content=2021-09-11",
+        "content=2022-05-28"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

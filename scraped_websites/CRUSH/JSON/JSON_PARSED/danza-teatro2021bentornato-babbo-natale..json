@@ -1,0 +1,26 @@
+{
+    "name": "danza-teatro2021bentornato-babbo-natale.",
+    "links": [
+        "#",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/bentornato-babbo-natale",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/bentornato-babbo-natale",
+        "/it/danza-teatro/centro-s-chiara-stagione-ragazzi.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Cuminetti,",
+        "Via",
+        "S.",
+        "Croce,",
+        "Trento"
+    ],
+    "duration_hours": [
+        "16.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

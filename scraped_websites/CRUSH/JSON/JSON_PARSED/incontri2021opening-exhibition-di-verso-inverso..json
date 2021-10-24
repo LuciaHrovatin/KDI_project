@@ -1,0 +1,29 @@
+{
+    "name": "incontri2021opening-exhibition-di-verso-inverso.",
+    "links": [
+        "#",
+        "mailto:centrotrevi@provincia.bz.itcentrotrevi@provincia.bz.it/a",
+        "https://www.facebook.com/events/2087758824706174",
+        "/it/incontri/weigh-station-for-culture.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressBolzano,",
+        "Merano,",
+        "Bressanone",
+        "(Bz)"
+    ],
+    "duration_hours": [
+        "11:00",
+        "10:00",
+        "16:00"
+    ],
+    "duration_days": [
+        "content=2021-10-28",
+        "content=2021-10-29"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

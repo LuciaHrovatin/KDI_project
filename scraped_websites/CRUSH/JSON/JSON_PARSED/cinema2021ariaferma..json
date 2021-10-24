@@ -1,0 +1,53 @@
+{
+    "name": "cinema2021ariaferma.",
+    "links": [
+        "#",
+        "http://www.cinemaastratrento.it",
+        "http://www.cinemaastratrento.it",
+        "https://www.visiondistribution.it/film/ariaferma/",
+        "https://www.youtube.com/watch?v=4yXtEwCcbWc",
+        "/it/cinema/multisala-astra.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMultisala",
+        "Astra,",
+        "Corso",
+        "Buonarroti,",
+        "Trento",
+        "Orario:",
+        "Martedì",
+        "19:",
+        "18.30",
+        "-",
+        "21.00",
+        "/",
+        "Mercoledì",
+        "20:",
+        "18.45",
+        "-",
+        "21.15",
+        "Note:",
+        "a",
+        "href=http://www.cinemaastratrento.it",
+        "target=_blankwww.cinemaastratrento.it/a",
+        "(biglietti,",
+        "modalità",
+        "di",
+        "accesso,",
+        "info",
+        "e",
+        "contatti)",
+        "Sito",
+        "web:",
+        "a",
+        "href=http://www.cinemaastratrento.it",
+        "target=_blankwww.cinemaastratrento.it/"
+    ],
+    "duration_hours": [],
+    "duration_days": "Not specified",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "itdidattica2021visite-guidate-del-sabato-e-della-domenica.",
+    "links": [
+        "#",
+        "http://www.castellodiavio.it",
+        "http://www.castellodiavio.it",
+        "https://www.facebook.com/events/212189713689603/",
+        "/it/mostre/fai-castello-di-avio.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressCastello",
+        "di",
+        "Avio,",
+        "Via",
+        "al",
+        "Castello,",
+        "Sabbionara,",
+        "Avio",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "11.00,",
+        "14.00",
+        "16.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

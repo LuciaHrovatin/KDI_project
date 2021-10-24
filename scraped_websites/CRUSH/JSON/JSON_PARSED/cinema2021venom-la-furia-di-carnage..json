@@ -1,0 +1,25 @@
+{
+    "name": "cinema2021venom-la-furia-di-carnage.",
+    "links": [
+        "#",
+        "https://www.supercinemarovereto.it/",
+        "https://www.webtic.it/#/shopping?action=loadLocal&amp;localId=5393",
+        "https://www.warnerbros.it/scheda-film/genere-avventura/venom-la-furia-di-carnage/",
+        "https://www.youtube.com/watch?v=72fjFzUHWPc",
+        "/it/cinema/supercinema-rovereto.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressSupercinema,",
+        "Piazza",
+        "Rosmini,",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

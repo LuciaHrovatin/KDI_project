@@ -1,0 +1,22 @@
+{
+    "name": "didattica2021estro-cinema-percorso-di-regia-cinematografica.",
+    "links": [
+        "#",
+        "https://www.estroteatro.com/regiacinema",
+        "/it/didattica/estroteatro.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressEstro,",
+        "Via",
+        "Venezia",
+        "1,",
+        "Trento"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

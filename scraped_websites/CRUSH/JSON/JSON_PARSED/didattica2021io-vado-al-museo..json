@@ -1,0 +1,27 @@
+{
+    "name": "didattica2021io-vado-al-museo.",
+    "links": [
+        "#",
+        "https://www.visitrovereto.it/vivi/eventi/io-vado-al-museo/",
+        "/it/incontri/azienda-per-il-turismo-rovereto-e-vallagarina.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressMusei",
+        "di",
+        "Rovereto",
+        "(Tn)"
+    ],
+    "duration_hours": [
+        "esperte",
+        "15.00br/"
+    ],
+    "duration_days": [
+        "content=2021-10-19",
+        "content=2021-10-19"
+    ],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

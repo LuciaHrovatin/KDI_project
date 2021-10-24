@@ -1,0 +1,26 @@
+{
+    "name": "itdanza-teatro2021il-piu-furbo-disavventure-di-un-incorreggibile-lupo.",
+    "links": [
+        "#",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/il-piu-furbo",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/il-piu-furbo",
+        "/it/danza-teatro/centro-s-chiara-stagione-ragazzi.html"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressTeatro",
+        "Cuminetti,",
+        "Via",
+        "S.",
+        "Croce,",
+        "Trento"
+    ],
+    "duration_hours": [
+        "16.00"
+    ],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}

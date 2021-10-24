@@ -1,0 +1,38 @@
+{
+    "name": "incontri2018la-casa-di-babbo-natale_53354.",
+    "links": [
+        "#",
+        "http://www.casadibabbonataleriva.it/programma/",
+        "http://www.casadibabbonataleriva.it",
+        "http://www.casadibabbonataleriva.it/programma/",
+        "http://www.casadibabbonataleriva.it/la-rocca/",
+        "http://www.casadibabbonataleriva.it/riva-del-garda/",
+        "http://www.casadibabbonataleriva.it/cucina-di-nonna-natalina/",
+        "http://www.casadibabbonataleriva.it/ufficio-postale/",
+        "http://www.casadibabbonataleriva.it/officina-degli-elfi/",
+        "http://www.casadibabbonataleriva.it/tag/lavoretti/",
+        "http://www.casadibabbonataleriva.it/stanza-dei-racconti/",
+        "http://www.casadibabbonataleriva.it/latelier-di-natalina/",
+        "http://www.casadibabbonataleriva.it/cucina-di-nonna-natalina/",
+        "http://www.casadibabbonataleriva.it",
+        "https://www.facebook.com/ProlocoRivaDelGarda/"
+    ],
+    "location": [
+        "Dove:",
+        "itemprop=streetAddressRocca,",
+        "Piazza",
+        "C.",
+        "Battisti",
+        "3/A,",
+        "Riva",
+        "del",
+        "Garda",
+        "(Tn)"
+    ],
+    "duration_hours": [],
+    "duration_days": [],
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ]
+}
