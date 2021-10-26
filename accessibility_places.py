@@ -5,7 +5,8 @@ import pandas as pd
 
 class accessibilityAPI():
     """
-     Class getting the information from Open Trentino
+     Class getting the information from Convext Aware about the accessibility of facilities
+     for people with physical disabilities.
      """
 
     def __init__(self):
@@ -13,6 +14,9 @@ class accessibilityAPI():
         self.file_name = "accessibility_" + self.city + ".csv"
 
     def save_acc_file(self, path: str, city: str):
+        """
+        Open the files, clean them from wrongly encoded rows and save them locally.
+        """
         self.city = city
         with open(path, "r", encoding="utf-8") as f:
             with open(self.file_name, "w", encoding="utf-8") as c:
@@ -33,6 +37,10 @@ class accessibilityAPI():
                             my_writer.writerow(d)
 
     def parse_acc_file(self):
+        """
+        Parse the information contained in the csv files
+        and deleted specific columns, savinig them as separate files.
+        """
         data = pd.read_csv(self.file_name, sep=";", engine='python')
         data.drop(labels=[x for x in data.columns if "NOTE" in x or "PM" in x or "AM" in x], axis=1, inplace=True)
         data.dropna(axis=1, inplace=True, thresh=20)
