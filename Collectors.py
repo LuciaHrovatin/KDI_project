@@ -189,3 +189,17 @@ class StayHappeningCollector():
                 print("Not able to access {}".format(link[1]))
            
 
+class SubLanEvents() :
+    def __init__(self) :
+        self.link = "https://www.mymovies.it/cinema/trento/versione-originale/"
+        self.classe = ["schedine-titolo","mm-line-height-130 schedine-lancio", "mm-medium", 
+        'mm-btn stonda3 mm-btn-nocursor mm-padding-2 mm-letter-spacing btn-buy-no mm-margin-b4' ]
+    
+    def scrape_and_write(self) : 
+        source = urllib.request.urlopen(self.link).read()
+        scrape = Scraping(source,self.link, parser)
+        print("Scraping {} and writing it to file".format(self.link))
+        print(scrape.body)
+                    
+                    #scrape.write_to_csv(title,self.classe, path_esn)
+
