@@ -3,6 +3,7 @@ from scraping import Scraping, parser, path_crush, path_esn, path_stay
 import urllib.request
 import json
 import requests
+import csv
 
 class CrushCollector():
     def __init__(self):
@@ -201,9 +202,15 @@ class SubLanEvents() :
         source = urllib.request.urlopen(self.link).read()
         scrape = Scraping(source,self.link, parser)
         print("Scraping {} and writing it to file".format(self.link))
-        print(scrape.body)
+        body = scrape.get_body(self.classe)
+
+        with open('Original_language_movies_html.csv', 'w', encoding = 'utf-8') as f :
+            writer = csv.writer(f)
+            writer.writerow(body)
+            f.close()
+
+        
                     
-                    #scrape.write_to_csv(title,self.classe, path_esn)
                     
 class meetupAPI:
 
@@ -222,3 +229,36 @@ class meetupAPI:
                                    ensure_ascii=False)
             f.write(final_str)
 
+
+class Rewiever() : 
+
+    def __init__(self) :
+        self.link = ["https://www.tripadvisor.it/ShowUserReviews-g187861-d600982-r509916737-Castello_del_Buonconsiglio_Monumenti_e_Collezioni_Provinciali-Trento_Province_of_.html",
+        "https://www.tripadvisor.it/ShowUserReviews-g194889-d2054642-r140669078-Museo_di_Arte_Moderna_e_Contemporanea_di_Trento_e_Rovereto-Rovereto_Province_of_.html",
+        "https://www.tripadvisor.it/Restaurant_Review-g187861-d1128166-Reviews-Antica_Birreria_Pedavena-Trento_Province_of_Trento_Trentino_Alto_Adige.html"
+        ]
+        self.classe = ["quote", "partial_entry"]
+
+    def scrape_and_write(self):
+        l = ['Buonconsiglio.csv', 'MART.csv', 'Pedavena.csv']
+        i = 0
+        for link in self.link :
+            try :
+                print("Scraping {} and writing it to file".format(link))
+                source = urllib.request.urlopen(link).read()
+                scrape = Scraping(source,link, parser)
+                body = scrape.get_body(self.classe)
+
+                with open(l[i], 'w', encoding = 'utf-8') as f :
+                    writer = csv.writer(f)
+                    writer.writerow(body)
+                    f.close()
+            except:
+                print('Not possible!!')
+            i += 1
+
+        
+
+rw = Rewiever()
+
+rw.scrape_and_write()

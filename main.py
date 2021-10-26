@@ -13,6 +13,7 @@ if __name__ == "__main__":
         #cc.write_events()
         #esn.visit_event_and_write()
         #sh.write_events()
+        
         # Twitter
         #visit_trentino = twitterAPI()
         #visit_trentino.parsing_tweets()
