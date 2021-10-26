@@ -7,6 +7,10 @@ class jetnData():
         self.file_name = file_name
 
     def clean_jetn(self):
+        """
+        Cleans the dataset obtained from Eventbrite.com. Due to privacy issues,
+        the original data are neither displayed nor stored in the project repository.
+        """
         path = os.getcwd()
         jd = {}
         with open(os.path.join(path, self.file_name), encoding="utf-8") as f:
@@ -19,6 +23,10 @@ class jetnData():
                     json.dump(jd, f, ensure_ascii=False, indent=4, default=str)
 
     def parse_jetn(self):
+        """
+        Filters the participant state to detect possible changes among individuals.
+        Summarises the event in an unique json by reporting the overall number of participants.
+        """
         with open(self.file_name, "r", encoding="utf-8") as json_file:
             data = json.load(json_file)
             ret = set()
