@@ -1,6 +1,5 @@
 from __future__ import absolute_import, annotations
 import csv
-import requests
 import pandas as pd
 
 class accessibilityAPI():
