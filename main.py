@@ -1,5 +1,6 @@
 #from Collectors import CrushCollector, EsnCollector, StayHappeningCollector, meetupAPI
 from accessibility_places import accessibilityAPI
+from jetn import jetnData
 #from twitter import twitterAPI
 from open_data import opendataAPI
 #cc = CrushCollector()
@@ -40,6 +41,9 @@ if __name__ == "__main__":
         acc_rov.save_acc_file(path="Rovereto_2021-10-23_11-58-52.csv", city="rovereto")
         acc_rov.parse_acc_file()
 
+        # jetn
+        #jt = jetnData(file_name = "JETN_climbing_gap.json")
+        #jt.parse_jetn()
     except:
         print('Error in page building encountered, please check if the link is correct')
 
