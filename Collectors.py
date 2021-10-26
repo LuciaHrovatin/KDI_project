@@ -1,6 +1,8 @@
 
 from scraping import Scraping, parser, path_crush, path_esn, path_stay
 import urllib.request
+import json
+import requests
 
 class CrushCollector():
     def __init__(self):
@@ -188,4 +190,21 @@ class StayHappeningCollector():
             except :
                 print("Not able to access {}".format(link[1]))
            
+
+class meetupAPI:
+
+    def __init__(self, url):
+        self.url = url
+        self.file_name = "meetup_data.json"
+
+    def parsing_events(self):
+        df = requests.get(self.url)
+        data = df.json()
+
+        with open(self.file_name,"w", encoding="utf-8") as f:
+            final_str = json.dumps(data, indent=4,
+                                   sort_keys=True,
+                                   separators=(",", ": "),
+                                   ensure_ascii=False)
+            f.write(final_str)
 
