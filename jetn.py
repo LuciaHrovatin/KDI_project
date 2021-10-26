@@ -12,4 +12,4 @@ with open(os.path.join(path,'JETN_report_climbing_gap.csv'), encoding ="utf-8") 
             
         with open('{}\{}.json'.format(path,'JETN_climbing_gap'), 'a', encoding='utf-8') as f:
             json.dump(jd, f, ensure_ascii=False, indent=4, default=str)
-    
+

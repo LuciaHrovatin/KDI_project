@@ -1,10 +1,7 @@
 from __future__ import absolute_import, annotations
-import argparse
 import json
-import time
 import requests
-from datetime import date, datetime
-
+from datetime import date
 
 class opendataAPI:
     """

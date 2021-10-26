@@ -1,6 +1,8 @@
 
 from scraping import Scraping, parser, path_crush, path_esn, path_stay
 import urllib.request
+import json
+import requests
 
 class CrushCollector():
     def __init__(self):
@@ -202,7 +204,7 @@ class SubLanEvents() :
         print(scrape.body)
                     
                     #scrape.write_to_csv(title,self.classe, path_esn)
-
+                    
 class meetupAPI:
 
     def __init__(self, url):
@@ -219,3 +221,4 @@ class meetupAPI:
                                    separators=(",", ": "),
                                    ensure_ascii=False)
             f.write(final_str)
+
