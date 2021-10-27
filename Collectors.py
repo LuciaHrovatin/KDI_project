@@ -1,4 +1,5 @@
 
+from os import lseek
 from scraping import Scraping, parser, path_crush, path_esn, path_stay
 import urllib.request
 import json
@@ -237,25 +238,27 @@ class Rewiever() :
         "https://www.tripadvisor.it/ShowUserReviews-g194889-d2054642-r140669078-Museo_di_Arte_Moderna_e_Contemporanea_di_Trento_e_Rovereto-Rovereto_Province_of_.html",
         "https://www.tripadvisor.it/Restaurant_Review-g187861-d1128166-Reviews-Antica_Birreria_Pedavena-Trento_Province_of_Trento_Trentino_Alto_Adige.html"
         ]
-        self.classe = ["quote", "partial_entry"]
+        self.classe = ["ui_column is-9"]
 
     def scrape_and_write(self):
         l = ['Buonconsiglio.csv', 'MART.csv', 'Pedavena.csv']
         i = 0
-        for link in self.link :
-            try :
-                print("Scraping {} and writing it to file".format(link))
-                source = urllib.request.urlopen(link).read()
-                scrape = Scraping(source,link, parser)
-                body = scrape.get_body(self.classe)
+        for lk in self.link :
+        
+            print("Scraping {} and writing it to file".format(lk))
+            source = urllib.request.urlopen(lk)
+            
+            scrape = Scraping(source,lk, parser)
+        
+            body = scrape.get_n_body(self.classe, 10)
+            
 
-                with open(l[i], 'w', encoding = 'utf-8') as f :
-                    writer = csv.writer(f)
-                    writer.writerow(body)
-                    f.close()
-            except:
-                print('Not possible!!')
+            with open(l[i], 'w', encoding = 'utf-8') as f :
+                writer = csv.writer(f)
+                writer.writerow(body)
+                f.close()
             i += 1
+     
 
         
 

@@ -35,7 +35,17 @@ class Scraping() :
         for div in self.soup.find_all('div', class_=classe):
                 lista.append(div)
         return lista
-            
+
+    def get_n_body(self, classe, n) :
+        lista = []
+        i = 0
+        for div in self.soup.find_all('div', class_=classe):
+                lista.append(div)
+                if (i == n) :
+                    break
+        return lista
+        
+
 
     def write_to_csv(self, event_name, classe, path):
         """ Write the Body of the Page to csv"""
