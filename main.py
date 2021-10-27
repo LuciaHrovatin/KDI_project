@@ -6,6 +6,8 @@ from open_data import opendataAPI
 #cc = CrushCollector()
 #esn = EsnCollector()
 #sh = StayHappeningCollector()
+#rw = Rewiever()
+#sl = SubLanEvents()
 if __name__ == "__main__":
 
     try:
@@ -14,7 +16,9 @@ if __name__ == "__main__":
         #cc.write_events()
         #esn.visit_event_and_write()
         #sh.write_events()
-        
+        #rw.scrape_and_write(10)
+        #
+
         # Twitter
         #visit_trentino = twitterAPI()
         #visit_trentino.parsing_tweets()

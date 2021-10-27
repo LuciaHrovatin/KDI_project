@@ -240,7 +240,7 @@ class Rewiever() :
         ]
         self.classe = ["ui_column is-9"]
 
-    def scrape_and_write(self):
+    def scrape_and_write(self,n):
         l = ['Buonconsiglio.csv', 'MART.csv', 'Pedavena.csv']
         i = 0
         for lk in self.link :
@@ -250,7 +250,7 @@ class Rewiever() :
             
             scrape = Scraping(source,lk, parser)
         
-            body = scrape.get_n_body(self.classe, 10)
+            body = scrape.get_n_body(self.classe, n)
             
 
             with open(l[i], 'w', encoding = 'utf-8') as f :
@@ -262,6 +262,3 @@ class Rewiever() :
 
         
 
-rw = Rewiever()
-
-rw.scrape_and_write()
