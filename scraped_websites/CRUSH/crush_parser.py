@@ -10,7 +10,8 @@ class CrushParser() :
         self.new_dir_json = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\JSON"
         self.list_dir_paths =  [os.path.join(self.dir_csv, f) for f in  os.listdir(self.dir_csv)]
         self.to_save = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\JSON\JSON_PARSED"
-  
+        self.json_json =  r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\JSON\JSON_PARSED"
+
         self.mesi =  {'gennaio': 1,'febbraio' : 2,
             'marzo': 3,'aprile': 4,'maggio': 5,
             'giugno': 6, 'luglio': 7, 'agosto': 8, 
@@ -186,10 +187,7 @@ class CrushParser() :
     def second_parsing(self) : 
         self.dir_json = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\JSON"
         self._list_dir = os.listdir(self.dir_json)
-        self.list_dir_paths_json = [os.path.join(self.dir, f) for f in self.list_dir_json]
-
-        new_dir = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\JSON\JSON_PARSED"
-
+        self.list_dir_paths_json = [os.path.join(self.dir_json, f) for f in self.list_dir]
 
 
 
@@ -302,19 +300,46 @@ class CrushParser() :
                                     parsed['duration_days'] = giorno2 
 
                     
-                with open(os.path.join(new_dir,name)+'.json', 'w', encoding='utf-8') as f:
+                with open(os.path.join(self.json_json,name)+'.json', 'w', encoding='utf-8') as f:
                     json.dump(parsed, f, ensure_ascii=False, indent=4, default=str)
-            
-    def date_time_location_parsing(self, file) : 
-        """ FINAL PARSING FOR CRUSH SITE """
+"""    
+    def date_time_location_parsing(self) : 
+        # FINAL PARSING FOR CRUSH SITE 
 
-        # with open(file, encoding ="utf-8") as f :
-        #        parsed = {}
-        #        dic = json.load(f)
+        list_json = os.listdir(self.json_json)
+        parse_path = [os.path.join(self.json_json, f) for f in list_json]
+
+        i = 0
+        
+        for source in parse_path : 
+    
+            with open(source, encoding ="utf-8") as f :
+                    parsed = {}
+                    dic = json.load(f)
+
+                    for e in dic :
+                        if (e == 'name') :
+                            parsed[e] = ' '.join(e.split())
+                        if (e == 'location') : 
+                            if ('Dove:' in dic[e]) : 
+                                i_where = dic[e].index('Dove:') + 2
+                                flag_where = True
+                            if ('Orario:' in dic[e]) :
+                                i_when = dic[e].index('Orario:')
+                                flag_when = True
+                            if (dic['location'] != 'Not specified') and len(dic['location'] != 0) : 
+                                parsed[e] = dic['location']
+                                if flag_where :
+                                    parsed[e].append(dic[e][i_where:])
+                        else :
+                            l = dic[e]
+                            for j in range(len(l)) : 
+
         
 
 
-
+ck = CrushParser()
+ck.date_time_location_parsing()"""
 
 
                                 
