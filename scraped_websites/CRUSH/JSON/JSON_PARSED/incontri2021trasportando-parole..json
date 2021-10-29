@@ -24,6 +24,7 @@
         "18.00"
     ],
     "duration_days": [],
+    "info": "Ingresso gratuito (distribuzione biglietti in cassa a partire da una settimana prima dellevento) / a / Info biglietti, abbonamenti in a",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

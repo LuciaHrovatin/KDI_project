@@ -79,6 +79,8 @@
     ],
     "duration_hours": [],
     "duration_days": "Not specified",
+    "info": "(biglietti, modalità di accesso, info e contatti) / a (prenota/acquista online)",
+    "description": "Regia: Ridley Scott Con: Jodie Comer, Adam Driver, Matt Damon, Ben Affleck Nazione: USA Durata: 152 Genere: drammatico Informazioni complete/trailer: a a Evento segnalato da a title=Cineworld/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

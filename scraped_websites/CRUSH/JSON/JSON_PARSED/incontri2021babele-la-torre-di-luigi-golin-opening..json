@@ -18,6 +18,8 @@
     ],
     "duration_hours": "18.00",
     "duration_days": [],
+    "info": "Richiesta prenotazione, obbligo di mascherina e green pass",
+    "description": "pOpening a Torre di Luigi Golin./abr/ Informazioni complete: a Evento segnalato da a title=Spazio FoyEr/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

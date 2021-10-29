@@ -36,6 +36,8 @@
     ],
     "duration_hours": [],
     "duration_days": "Not specified",
+    "info": "(biglietti, modalità di accesso, info e contatti) / a (prenota/acquista online)",
+    "description": "Regia: Paolo Santolini Nazione: Italia Durata: 11ì00 Genere: documentario Informazioni complete/trailer: a a Evento segnalato da a title=Cineworld/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

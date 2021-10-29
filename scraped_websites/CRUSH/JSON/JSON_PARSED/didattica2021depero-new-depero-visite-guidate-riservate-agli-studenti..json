@@ -39,6 +39,8 @@
         "15.00"
     ],
     "duration_days": "Not specified",
+    "info": "Costo:  3 / Prenotazioni entro le ore 12.00 del giorno precedente: a Sito web: a",
+    "description": "pSecondo appuntamento nellambito del progetto di rete con il Museo Storico Italiano della Guerra e la Fondazione Museo Civico di Rovereto, che prevede un calendario di incontri mensili riservati agli studenti delle scuole medie e superiori che visitano il museo in autonomia. Il Mart offre lingresso gratuito al museo agli studenti che prenotano la visita guidata a loro dedicata Informazioni: a Evento segnalato da a title=Mart/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

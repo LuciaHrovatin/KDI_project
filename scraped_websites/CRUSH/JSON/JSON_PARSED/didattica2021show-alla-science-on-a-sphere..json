@@ -18,6 +18,8 @@
     ],
     "duration_hours": "Not specified",
     "duration_days": [],
+    "info": "per tutti / Compreso nel biglietto dingresso MUSE",
+    "description": "pEsperimenti e dimostrazioni per dialogare di scienza attraverso lexhibit Science on a Sphere Informazioni e programma settimanale: a Evento segnalato da a title=MUSE - Museo delle Scienze/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

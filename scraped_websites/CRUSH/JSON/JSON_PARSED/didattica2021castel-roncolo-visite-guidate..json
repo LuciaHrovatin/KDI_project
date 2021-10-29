@@ -22,6 +22,8 @@
         "15.00,"
     ],
     "duration_days": [],
+    "info": "Visite guidate in tedesco tutti i giorni alle ore 15.00, durata ca. 1 ora / Visite guidate in italiano tutti i giorni alle ore 16.00, durata ca. 1 o",
+    "description": "pVisite guidate a a Roncolo/a Informazioni: a Evento segnalato da a title=Castel Roncolo/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

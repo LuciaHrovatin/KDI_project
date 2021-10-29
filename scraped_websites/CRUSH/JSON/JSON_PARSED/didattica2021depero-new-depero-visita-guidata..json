@@ -51,6 +51,8 @@
         "15.00-16.00"
     ],
     "duration_days": "Not specified",
+    "info": "Costo:  2 + biglietto di ingresso con prevendita / Prenotazioni (max 2 persone) entro le ore 12.00 del venerdì: a / Lacquisto del biglietto e della visita guidata si effettua presso la biglietteria del museo. I visitatori sono pregati di presentarsi con la mail di conferma della prenotazione 10 minuti prima dellorario della visita Sito web: a",
+    "description": "pVisita guidata alla mostra a new Depero/a Informazioni: a Evento segnalato da a title=Mart/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

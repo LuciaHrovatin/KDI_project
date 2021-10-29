@@ -20,6 +20,8 @@
     ],
     "duration_hours": "15.00",
     "duration_days": [],
+    "info": "Iscrizioni aperte fino al 17 ottobre 2021 e fino ad esaurimento posti",
+    "description": "pConvegno Informazioni complete: a Evento segnalato da a title=Castello del Buonconsiglio/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

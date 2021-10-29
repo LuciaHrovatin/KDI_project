@@ -20,6 +20,8 @@
         "content=2021-10-19",
         "content=2021-10-19"
     ],
+    "info": "img height=128 src=/themes/2018/foto-def/calendar-128.png width=128/ content=Io vado al museo itemprop=name content=A.P.T. Rovereto e Vallagarina itemprop=organizer style=display:none content=2021-10-19 itemprop=startDate content=2021-10-19 itemprop=endDate Data: itemprop=location itemscope= itemtype=http://schema.org/Place itemprop=address itemscope= itemtype=http://schema.org/PostalAddress Dove: itemprop=streetAddressMusei di Rovereto (Tn)",
+    "description": "Attività per ragazzi nei musei di Rovereto #iovadoalmuseo è un ricco calendario di incontri pomeridiani nei Musei di Rovereto: il martedì al Museo Storico Italiano della Guerra, il mercoledì al Mart e il giovedì alla Fondazione Museo Civico. Hai tra i 12 e i 19 anni? /Allora questi appuntamenti fanno al caso tuo!br/ Vivi questa serie di esperienze in compagnia dei tuoi amici, oppure lasciati raccontare larte, la storia e le scienze dalle esperte guide dei musei!br/ Al termine delle attività riceverai anche un attestato di partecipazione, che riconoscerà il tuo impegno e la tua dedizione nellapprendere nuove conoscenze u19 ottobre/u | ore 15.00br/ Museo Storico Italiano della Guerrabr/ Dalla Rivoluzione francese alle guerre dindipendenza attraverso le collezioni del Museobr/ S2br/ Informazioni complete e calendario settimanale: a Evento segnalato da a title=A.P.T. Rovereto e Vallagarina/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"

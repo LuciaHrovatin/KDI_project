@@ -17,6 +17,8 @@
     ],
     "duration_hours": 471,
     "duration_days": "Not specified",
+    "info": "img height=128 src=/themes/2018/foto-def/calendar-128.png width=128/ content=Match di improvvisazione teatrale itemprop=name content=Teatro San Marco itemprop=organizer style=display:none content=2021-10-22 itemprop=startDate content=2021-10-22 itemprop=endDate Data: itemprop=location itemscope= itemtype=http://schema.org/Place itemprop=address itemscope= itemtype=http://schema.org/PostalAddress Dove: itemprop=streetAddressTeatro San Marco, Via S. Bernardino, Trento Orario: ore 21.00",
+    "description": "pMatch All Stars. Categoria professionisti - Brescia vs Roma Informazioni: a Evento segnalato da a title=Teatro San Marco/",
     "schema": [
         "itemtype=http://schema.org/Place",
         "itemtype=http://schema.org/PostalAddress"
