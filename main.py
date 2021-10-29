@@ -8,6 +8,11 @@ from open_data import opendataAPI
 #sh = StayHappeningCollector()
 #rw = Rewiever()
 #sl = SubLanEvents()
+from scraped_websites.CRUSH import crush_parser as cp 
+
+
+
+
 if __name__ == "__main__":
 
     try:
@@ -17,7 +22,8 @@ if __name__ == "__main__":
         #esn.visit_event_and_write()
         #sh.write_events()
         #rw.scrape_and_write(10)
-        #
+        cp.CrushParser().second_parsing()
+        
 
         # Twitter
         #visit_trentino = twitterAPI()
@@ -41,9 +47,9 @@ if __name__ == "__main__":
         # acc.save_acc_file(path="Trento_2021-10-26_09-56-54.csv", city = "trento")
         # acc.parse_acc_file()
 
-        acc_rov = accessibilityAPI()
-        acc_rov.save_acc_file(path="Rovereto_2021-10-23_11-58-52.csv", city="rovereto")
-        acc_rov.parse_acc_file()
+        #acc_rov = accessibilityAPI()
+        #acc_rov.save_acc_file(path="Rovereto_2021-10-23_11-58-52.csv", city="rovereto")
+        #acc_rov.parse_acc_file()
 
         # jetn
         #jt = jetnData(file_name = "JETN_climbing_gap.json")

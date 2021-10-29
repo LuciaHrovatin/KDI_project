@@ -182,7 +182,7 @@ class CrushParser() :
         with open(os.path.join(self.new_dir_json, title)+'.json', 'w', encoding='utf-8') as f:
             json.dump(dic, f, ensure_ascii=False, indent=4, default=str)
     
-"""
+
 
     def second_parsing(self) : 
         self.dir_json = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\JSON"
@@ -190,21 +190,17 @@ class CrushParser() :
         self.list_dir_paths_json = [os.path.join(self.dir_json, f) for f in self._list_dir]
 
 
-        o = 0
-
-        for file in self.list_dir_paths_json : 
-      
         
-            with open(file, encoding ="utf-8") as f :
-                parsed = {}
+        for file in self.list_dir_paths_json :
+        
+            with open(file,'r') as f :
                 dic = json.load(f)
+                parsed = {}
                 name = file.split('\\')
                 name = name[-1].split('html')
                 name = name[0]
                 dic['name'] = '  '.join(name.replace('-',' ').split()) 
                 
-
-
 
               
                 parsed = {k:[] for k in list(dic.keys())}
@@ -264,11 +260,6 @@ class CrushParser() :
                     else :
                         parsed['location'] = ' '.join(rev[:i]).replace('itemprop=street','')
 
-
-                
-                        
- 
- 
                 parsed['duration_days'] = parsed['recurrency']
                 if ('Orario:' in other_loc) : 
                     other_loc = other_loc[:other_loc.index('Orario:')]
@@ -283,7 +274,6 @@ class CrushParser() :
                     for w in inf : 
                         if ('Dove:' in w) :
                             i = inf.index(w) 
-                            print(inf[i+1:])
                             break 
                     
                     parsed['location'] += ', ' +' '.join(inf[i:]).replace('Dove: itemprop=streetAddress','')
@@ -313,59 +303,45 @@ class CrushParser() :
                             if ('itemprop=endDate' in w) : 
                                 j = l.index(w)
                         if (i != 0) : 
-                            parsed['duration_days'].extend(' '.join(l[i:j]).replace('itemprop=startDate','').replace('itemprop=endDate','').split())
+                            parsed['duration_days'].extend(' '.join(l[i:j]).replace('itemprop=startDate','').replace('itemprop=endDate','').replace('content=','').split())
                         
-                if (parsed['duration_hours'] == 'Not specified') : """
+                if (parsed['duration_hours'] == 'Not specified') : 
+                    l = parsed['description']
+                    h = []
+                    for w in l :
+                        if ('.' in w) and (w[:w.index('.')].isnumeric()) and (w[w.index('.')+1:].isnumeric()) : 
+                            h.append(w)
+
+                    parsed['duration_hours'] = h
+                    if (h == []) :
+                        r = parsed['information'] 
+                        y = []
+
+                        for w in r :
+                            if ('.' in w) and (w[:w.index('.')].isnumeric()) and (w[w.index('.')+1:].isnumeric()) : 
+                                y.append(w)
+                        
+                        parsed['duration_hours'] = r
+          
+             
+                with open(file,'w', encoding ="utf-8") as f :
+                    json.dump(parsed, f, ensure_ascii=False, indent=4, default=str)
+                    
+
 
                 
 
  
                             
                     
-                
-
-
-
-
-
-
-
-            if (o > 56 and o < 67) :
-                pp(parsed)
-            if (o == 67) :
-                break
-            o += 1
-"""    
-    def date_time_location_parsing(self) : 
-        # FINAL PARSING FOR CRUSH SITE 
-
-        list_json = os.listdir(self.json_json)
-        parse_path = [os.path.join(self.json_json, f) for f in list_json]
-
-        i = 0
-        
-        for source in parse_path : 
-    
-            with open(source, encoding ="utf-8") as f :
-                    
-                    
-                    
-
-                    pp(parsed)
-          
-                                    
-                                    
-
-            if i == 3 :
-                break
-            i += 1
-
-
-        
-"""
-
 ck = CrushParser()
-ck.second_parsing()
+ck.second_parsing()         
+
+
+
+
+
+
 
 
                                 
