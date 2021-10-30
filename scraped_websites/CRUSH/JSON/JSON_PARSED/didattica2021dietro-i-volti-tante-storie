@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "didattica2021dietro i volti tante storie.",
     "location": "Castello del Buonconsiglio/, telefonicamente!",
-    "duration_hours": [
-        "15.00"
-    ],
+    "duration_hours": "15.00",
     "info": "tariffa: 8,00  a nucleo familiare / info: Servizi educativi del museo tel. 0461 492811 / PRENOTAZIONE OBBLIGATORIA a qui/a o contattaci telefonicamente!",
     "schema": [
         "itemtype=http://schema.org/Place",

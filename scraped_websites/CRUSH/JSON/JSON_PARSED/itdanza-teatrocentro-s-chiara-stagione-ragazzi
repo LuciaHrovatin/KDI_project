@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "itdanza teatrocentro s chiara stagione ragazzi.",
     "location": "Castello del Buonconsiglio/, a",
-    "duration_hours": [
-        "18.30"
-    ],
+    "duration_hours": "18.30",
     "info": "Ingresso gratuito con prenotazione obbligatoria ( informazioni e modalità di accesso in a",
     "schema": [
         "itemtype=http://schema.org/Place",

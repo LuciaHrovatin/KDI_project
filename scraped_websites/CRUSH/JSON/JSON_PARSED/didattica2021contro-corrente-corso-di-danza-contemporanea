@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "didattica2021contro corrente corso di danza contemporanea.",
     "location": "Teatro Cristallo/, a",
-    "duration_hours": [
-        "18.15"
-    ],
+    "duration_hours": "18.15",
     "info": "cura di La quinta danza e teatroBlu, con Stefania Bertola / Costo: 60,00 euro al mese / età: dai 15 anni / info e iscrizioni a",
     "schema": [
         "itemtype=http://schema.org/Place",

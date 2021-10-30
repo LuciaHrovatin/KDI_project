@@ -4,9 +4,7 @@
     ],
     "name": "danza teatro2021dancing for children.",
     "location": "Teatro Cristallo/, qui/",
-    "duration_hours": [
-        "20.30"
-    ],
+    "duration_hours": "20.30",
     "info": "Ingresso gratuito con Green Pass e prenotazione obbligatoria online o in cassa / Info e prenotazioni a / I biglietti si possono prenotare e stampare a qui/",
     "schema": [
         "itemtype=http://schema.org/Place",

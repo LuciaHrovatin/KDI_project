@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "didattica2021fede galizia mirabile pittoressa visite guidate alla mostra.",
     "location": "Castello del Buonconsiglio/, ONLINE/",
-    "duration_hours": [
-        "11"
-    ],
+    "duration_hours": "11",
     "info": "3,00  a persona oltre il biglietto di ingresso / prenotazione obbligatoria, posti limitati a 15 partecipanti / a ONLINE/",
     "schema": [
         "itemtype=http://schema.org/Place",

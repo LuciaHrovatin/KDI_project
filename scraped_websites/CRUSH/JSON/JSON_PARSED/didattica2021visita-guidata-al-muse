@@ -4,7 +4,7 @@
     ],
     "name": "didattica2021visita guidata al muse.",
     "location": "MUSE - Museo delle Scienze/, MUSE, Corso del lavoro e della scienza, Trento Orario: Dal martedì al venerdì alle 15 / Sabato, domenica e festivi alle 11, 13, 15 e 17 / Novità dal 17 ottobre - Mercoledì alle 15 e domenica alle 17 visita alla Nuova Galleria della Sostenibilità",
-    "duration_hours": [],
+    "duration_hours": "",
     "info": "img height=128 src=/themes/2018/foto-def/calendar-128.png width=128/ content=Visita guidata al MUSE itemprop=name content=MUSE - Museo delle Scienze itemprop=organizer style=display:none content=2021-07-01 itemprop=startDate content=2021-12-31 itemprop=endDate Data: da a itemprop=location itemscope= itemtype=http://schema.org/Place itemprop=address itemscope= itemtype=http://schema.org/PostalAddress Dove: itemprop=streetAddressMUSE, Corso del lavoro e della scienza, Trento Orario: Dal martedì al venerdì alle 15 / Sabato, domenica e festivi alle 11, 13, 15 e 17 / Novità dal 17 ottobre - Mercoledì alle 15 e domenica alle 17 visita alla Nuova Galleria della Sostenibilità",
     "schema": [
         "itemtype=http://schema.org/Place",

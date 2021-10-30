@@ -2,10 +2,7 @@
     "duration_days": [],
     "name": "danza teatro2021la cosa sbagliata piu grande che ho fatto viaggio a spoon river.",
     "location": "Centro Servizi Culturali S.Chiara/, online/",
-    "duration_hours": [
-        "17.30,",
-        "dovrà"
-    ],
+    "duration_hours": "17.30,dovrà",
     "info": "Biglietti in prevendita al costo di 15  (con riduzione a 8  per gli Under 26). Si ricorda, infine, che dal 6 agosto 2021 per accedere agli eventi del Centro S. Chiara è necessario esibire il Green Pass, come previsto dal Decreto-Legge 23 luglio 2021 n. 105. Al momento dellingresso lo spettatore dovrà mostrare alla persona addetta il QR Code presente sulla propria Certificazione verde, attendere il controllo di validità ed esibire infine il proprio documento di identità per la verifica e la corrispondenza dei dati personali. In caso di indisponibilità della Certificazione verde oppure a rendere noti i propri dati personali (seppur in possesso di Green Pass), non sarà possibile accedere allevento / a il biglietto online/",
     "schema": [
         "itemtype=http://schema.org/Place",

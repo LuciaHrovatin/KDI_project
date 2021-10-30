@@ -4,9 +4,7 @@
     ],
     "name": "danza teatro2021spellbound contemporary ballet spellbound 25.",
     "location": "Centro S. Chiara / InDanza/, a",
-    "duration_hours": [
-        "21.00"
-    ],
+    "duration_hours": "21.00",
     "info": "Info, biglietti e modalità di accesso in a",
     "schema": [
         "itemtype=http://schema.org/Place",

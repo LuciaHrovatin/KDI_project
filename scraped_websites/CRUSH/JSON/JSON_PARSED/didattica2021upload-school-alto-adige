@@ -8,9 +8,7 @@
     ],
     "name": "didattica2021upload school alto adige.",
     "location": "Uploadsounds/, a",
-    "duration_hours": [
-        "10.00"
-    ],
+    "duration_hours": "10.00",
     "info": "È possibile iscriversi ad Upload School fino al 15/10/2021 scrivendo allindirizzo a Sito web: a",
     "schema": [
         "itemtype=http://schema.org/Place",

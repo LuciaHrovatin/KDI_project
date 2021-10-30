@@ -7,9 +7,7 @@
     ],
     "name": "itincontri2021panchine rosse viaggio di musica poesia e sentimenti 73362 73363.",
     "location": "Comune di Borgo Valsugana/, prenotazione",
-    "duration_hours": [
-        "16.00"
-    ],
+    "duration_hours": "16.00",
     "info": "ingresso libero / per incontri in biblioteca è necessaria la prenotazione",
     "schema": [
         "itemtype=http://schema.org/Place",

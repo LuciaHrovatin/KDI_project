@@ -2,10 +2,7 @@
     "duration_days": [],
     "name": "didattica2021castel roncolo visite guidate.",
     "location": "Castel Roncolo/, o",
-    "duration_hours": [
-        "15.00",
-        "15.00,"
-    ],
+    "duration_hours": "15.0015.00,",
     "info": "Visite guidate in tedesco tutti i giorni alle ore 15.00, durata ca. 1 ora / Visite guidate in italiano tutti i giorni alle ore 16.00, durata ca. 1 o",
     "schema": [
         "itemtype=http://schema.org/Place",

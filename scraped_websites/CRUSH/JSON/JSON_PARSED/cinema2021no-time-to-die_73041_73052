@@ -4,9 +4,7 @@
     ],
     "name": "cinema2021no time to die_73041_73052.",
     "location": "Supercinema Rovereto/, online)",
-    "duration_hours": [
-        "20.45"
-    ],
+    "duration_hours": "20.45",
     "info": "(biglietti, modalità di accesso, info e contatti) / a (prenotazione online)",
     "schema": [
         "itemtype=http://schema.org/Place",

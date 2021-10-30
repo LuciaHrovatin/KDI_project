@@ -312,7 +312,7 @@ class CrushParser() :
                             if ('.' in w) and (w[:w.index('.')].isnumeric()) and (w[w.index('.')+1:].isnumeric()) : 
                                 h.append(w)
 
-                        parsed['duration_hours'] = h
+                        parsed['duration_hours'] = ''.join(h)
                         if (h == []) :
                             r = parsed['info'] 
                             y = []
@@ -321,9 +321,20 @@ class CrushParser() :
                                 if ('.' in w) and (w[:w.index('.')].isnumeric()) and (w[w.index('.')+1:].isnumeric()) : 
                                     y.append(w)
                             
-                            parsed['duration_hours'] = r
+                            parsed['duration_hours'] = ''.join(r)
             
-                
+
+
+                    if (isinstance(parsed['duration_hours'], list)) : 
+                        parsed['duration_hours'] = ''.join(parsed['duration_hours'])
+                    if (isinstance(parsed['location'], list)) :
+                        
+                        parsed['location'] = ''.join(parsed['location']).replace('Dove:','').replace('/a', '')
+                    
+                    
+                        
+                            
+
                     with open(os.path.join(self.json_json, name),'w', encoding ="utf-8") as doc :
                         json.dump(parsed, doc, ensure_ascii=False, indent=4, default=str)
                 except: 

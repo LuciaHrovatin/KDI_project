@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "incontri2021le storie raccontathe storie di mostri si grazie.",
     "location": "Teatro Cristallo Young/, a",
-    "duration_hours": [
-        "16.30"
-    ],
+    "duration_hours": "16.30",
     "info": "Numero partecipanti : minimo 7 | massimo 10 / gratuito (prenotazione obbligatoria) / dai 5 anni, con accompagnatore / a cura Cristallo Young / Info e iscrizioni: a",
     "schema": [
         "itemtype=http://schema.org/Place",

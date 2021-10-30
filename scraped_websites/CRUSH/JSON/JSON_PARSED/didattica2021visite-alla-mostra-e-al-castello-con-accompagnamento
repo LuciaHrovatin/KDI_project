@@ -2,10 +2,7 @@
     "duration_days": [],
     "name": "didattica2021visite alla mostra e al castello con accompagnamento.",
     "location": "Castel Pergine/, tutel",
-    "duration_hours": [
-        "10.30",
-        "10.30"
-    ],
+    "duration_hours": "10.3010.30",
     "info": "In tedesco e in altri giorni/orari per gruppi su prenotazione / Prenotazione obbligatoria a a / È richiesto un contributo per i doveri di conservazione e tutel",
     "schema": [
         "itemtype=http://schema.org/Place",

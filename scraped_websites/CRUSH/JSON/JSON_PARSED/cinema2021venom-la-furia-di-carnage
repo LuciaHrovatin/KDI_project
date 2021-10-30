@@ -4,7 +4,7 @@
     ],
     "name": "cinema2021venom la furia di carnage.",
     "location": "Supercinema Rovereto/, online)",
-    "duration_hours": [],
+    "duration_hours": "",
     "info": "(biglietti, modalità di accesso, info e contatti) / a (prenotazione online)",
     "schema": [
         "itemtype=http://schema.org/Place",

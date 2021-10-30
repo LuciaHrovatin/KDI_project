@@ -2,10 +2,7 @@
     "duration_days": [],
     "name": "didattica2021faccio io laboratorio di metodologia di studio.",
     "location": "Vintola 18/, a",
-    "duration_hours": [
-        "16.30",
-        "18.00"
-    ],
+    "duration_hours": "16.3018.00",
     "info": "Il laboratorio può essere seguito anche sulla piattaforma Zoom / Info e iscrizioni: n. 0471.978418, a",
     "schema": [
         "itemtype=http://schema.org/Place",

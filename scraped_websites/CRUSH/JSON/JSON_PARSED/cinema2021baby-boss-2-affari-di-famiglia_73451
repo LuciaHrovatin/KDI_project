@@ -4,10 +4,7 @@
     ],
     "name": "cinema2021baby boss 2 affari di famiglia_73451.",
     "location": "Comune di Cles/, PASS",
-    "duration_hours": [
-        "21.00",
-        "17.00"
-    ],
+    "duration_hours": "21.0017.00",
     "info": "Informazioni e prenotazioni biglietti in a / È attivo il NUOVO SISTEMA DI PRENOTAZIONE DEL POSTO E PREVENDITA DEI BIGLIETTI! Seguire le istruzioni indicate nella pagina dedicata del sito Cinema Teatro Cles: a / Si verrà indirizzati sul sito di Vivaticket (sistema nazionale per la prenotazione di eventi di vario genere), è necessario registrarsi e una volta scelto levento desiderato selezionare il posto cliccando su selezione manuale del posto. Seguire poi la procedura inserendo tutti i dati personali. Pagamento con carta di credito o bonifico online. Il servizio ha un costo di  1. Si ricorda che per laccesso alla sala è obbligatorio esibire il GREEN PASS",
     "schema": [
         "itemtype=http://schema.org/Place",

@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "danza teatro2021le allegre comari di windsor_73410.",
     "location": "Stagione teatrale / Riva del Garda, Nago-Torbole/, a",
-    "duration_hours": [
-        "21.00"
-    ],
+    "duration_hours": "21.00",
     "info": "Informazioni su prenotazioni, costi e biglietti in a e a / online: a",
     "schema": [
         "itemtype=http://schema.org/Place",

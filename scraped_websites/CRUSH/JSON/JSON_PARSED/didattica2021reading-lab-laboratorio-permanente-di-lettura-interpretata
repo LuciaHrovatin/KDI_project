@@ -2,7 +2,7 @@
     "duration_days": [],
     "name": "didattica2021reading lab laboratorio permanente di lettura interpretata.",
     "location": "Emit Flesti/, interpretat",
-    "duration_hours": [],
+    "duration_hours": "",
     "info": "Costo: 530 + 20 quota di iscrizione associativa, in ununica rata a inizio anno. In alternativa, pagamento in tre rate nel corso dellanno per un totale di 580 + 20 quota di iscrizione associativa / Sconto universitari: 430 + 20 quota di iscrizione associativa, in ununica rata a inizio anno. In alternativa, pagamento in tre rate nel corso dellanno per un totale di 480 + 20 quota di iscrizione associativa. / Sconto per più corsi: chi si iscrive a più di un corso ha diritto al 10% di sconto su entrambi i corsi / Numero partecipanti: Minimo 7 - massimo 12 / A chi si rivolge: Allievi o ex allievi di corsi di dizione e lettura interpretat",
     "schema": [
         "itemtype=http://schema.org/Place",

@@ -5,9 +5,7 @@
     ],
     "name": "danza teatro2021asino a chi_73399.",
     "location": "Teatro di Meano/, online/",
-    "duration_hours": [
-        "17.00"
-    ],
+    "duration_hours": "17.00",
     "info": "Informazioni su prenotazioni, costi e biglietti nel a ufficiale del teatro/a, n. 0461.511332 (mar-ven 17-20 e sab 10-12.30), a / Acquista a online/",
     "schema": [
         "itemtype=http://schema.org/Place",

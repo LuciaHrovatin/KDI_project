@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "didattica2021il clown come strumento di relazione.",
     "location": "Pituit studio darti/, 7719702.",
-    "duration_hours": [
-        "14.00"
-    ],
+    "duration_hours": "14.00",
     "info": "50 a weekend | 90 2 weekend | 130 3 weekend + 15 di quota associativa / Informazioni/iscrizioni: a / t. 392 7719702.",
     "schema": [
         "itemtype=http://schema.org/Place",

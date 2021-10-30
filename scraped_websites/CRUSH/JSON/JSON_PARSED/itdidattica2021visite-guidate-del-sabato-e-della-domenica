@@ -2,11 +2,7 @@
     "duration_days": [],
     "name": "itdidattica2021visite guidate del sabato e della domenica.",
     "location": "FAI - Castello di Avio/, a",
-    "duration_hours": [
-        "11.00,",
-        "14.00",
-        "16.00"
-    ],
+    "duration_hours": "11.00,14.0016.00",
     "info": "La prenotazione è obbligatoria al link: /a (scegliere visita guidata) / Prezzi (biglietto di ingresso + visita guidata): Adulto: 12,00 euro; Studente: 8,00 euro; Ridotto: 6,00 euro; Iscritti FAI, Residenti o Trentino Guest Card: 4,00 euro; Ticket famiglia: 31,00 euro / appuntamento presso la biglietteria del Castello qualche minuto prima della partenza Sito web: a",
     "schema": [
         "itemtype=http://schema.org/Place",

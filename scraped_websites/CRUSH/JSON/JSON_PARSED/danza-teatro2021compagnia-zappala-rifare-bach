@@ -12,9 +12,7 @@
     ],
     "name": "danza teatro2021compagnia zappala rifare bach.",
     "location": "Centro S. Chiara / InDanza/, a",
-    "duration_hours": [
-        "20.30"
-    ],
+    "duration_hours": "20.30",
     "info": "Info, biglietti e modalità di accesso in a",
     "schema": [
         "itemtype=http://schema.org/Place",

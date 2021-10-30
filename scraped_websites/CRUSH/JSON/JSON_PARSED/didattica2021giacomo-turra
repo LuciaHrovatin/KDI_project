@@ -13,9 +13,7 @@
     ],
     "name": "didattica2021giacomo turra.",
     "location": "Uploadsounds/, a",
-    "duration_hours": [
-        "20.30"
-    ],
+    "duration_hours": "20.30",
     "info": "coming soon Sito web: a",
     "schema": [
         "itemtype=http://schema.org/Place",

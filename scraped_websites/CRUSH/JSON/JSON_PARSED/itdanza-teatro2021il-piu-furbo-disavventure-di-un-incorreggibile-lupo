@@ -5,9 +5,7 @@
     ],
     "name": "itdanza teatro2021il piu furbo disavventure di un incorreggibile lupo.",
     "location": "Centro S. Chiara / Teatro ragazzi/, a",
-    "duration_hours": [
-        "16.00"
-    ],
+    "duration_hours": "16.00",
     "info": "Biglietti, abbonamenti e modalità daccesso su a",
     "schema": [
         "itemtype=http://schema.org/Place",

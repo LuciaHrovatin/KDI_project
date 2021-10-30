@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "danza teatro2021il naso dargento.",
     "location": "Festival dei Piccoli/, a",
-    "duration_hours": [
-        "17.00"
-    ],
+    "duration_hours": "17.00",
     "info": "Ingresso libero fino a esaurimento posti / Consigliata prenotazione via mail indicando nome e cognome di ogni partecipante e un numero di telefono di riferimento, scrivendo a a",
     "schema": [
         "itemtype=http://schema.org/Place",

@@ -5,9 +5,7 @@
     ],
     "name": "danza teatro2021zuppa di sasso.",
     "location": "Centro S. Chiara / Teatro ragazzi/, a",
-    "duration_hours": [
-        "16.00"
-    ],
+    "duration_hours": "16.00",
     "info": "Biglietti, abbonamenti e modalità daccesso su a",
     "schema": [
         "itemtype=http://schema.org/Place",

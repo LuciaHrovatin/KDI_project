@@ -5,9 +5,7 @@
     ],
     "name": "didattica2020facciamo finta di_72808.",
     "location": "Teatro Cristallo/, a",
-    "duration_hours": [
-        "15.30"
-    ],
+    "duration_hours": "15.30",
     "info": "costo 38.00  al mese / Info e iscrizionI a a",
     "schema": [
         "itemtype=http://schema.org/Place",

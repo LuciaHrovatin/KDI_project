@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "itdidattica2021visita guidata alla mostra con i curatori.",
     "location": "Comune di Cles/, dellevento",
-    "duration_hours": [
-        "20.30"
-    ],
+    "duration_hours": "20.30",
     "info": "Ingresso gratuito su prenotazione / Per info e prenotazioni n. 0463.662091 o a entro le ore 16.00 del giorno stesso dellevento",
     "schema": [
         "itemtype=http://schema.org/Place",

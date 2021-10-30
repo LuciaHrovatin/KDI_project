@@ -2,9 +2,7 @@
     "duration_days": [],
     "name": "didattica2021laboratorio di riciclo creativo chi ha paura dei mostri.",
     "location": "Teatro Cristallo Young/, a",
-    "duration_hours": [
-        "16.30"
-    ],
+    "duration_hours": "16.30",
     "info": "gratuito (prenotazione obbligatoria) / Docenti: Aldana Soledad Da Tos / Età dai 6 ai 10 anni / Numero partecipanti: minimo 6 | massimo 12 / a cura di Cristallo Young / Info e iscrizioni: a",
     "schema": [
         "itemtype=http://schema.org/Place",
