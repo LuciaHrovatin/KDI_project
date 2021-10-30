@@ -1,0 +1,18 @@
+{
+    "duration_days": [],
+    "name": "incontri2021il muse per i piccoli.",
+    "location": [],
+    "duration_hours": "Not specified",
+    "info": "Per prenotare chiama il numero 0461 270391 (lun-ven 08:30-18 | sab-dom 10-13:30 e 14:30-19) o scrivi una mail a a / In ottemperanza alle disposizioni governative vigenti (DPCM del 23 luglio 2021), dal 6 agosto 2021 per accedere al museo e alle sue sedi territoriali e per partecipare agli eventi è necessario presentare il Green Pass. Il personale potrà richiedere lesibizione di un documento di identità per verificare il legittimo possesso della certificazione medesima. Sono esentati i bambini minori di 12 anni e persone che per comprovati motivi di salute, sulla base di idonea certificazione medica, non possono vaccinarsi. Per maggiori informazioni sulla certificazione verde Covid-19: a Sito web: a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "mailto:prenotazioni@muse.itprenotazioni@muse.it/a",
+        "http://www.dgc.gov.it/web/www.dgc.gov.it/web//a",
+        "http://www.muse.it"
+    ],
+    "recurrency": []
+}

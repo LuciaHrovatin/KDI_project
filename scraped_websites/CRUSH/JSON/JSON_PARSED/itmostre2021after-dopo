@@ -1,0 +1,22 @@
+{
+    "duration_days": [
+        "2018",
+        "2019"
+    ],
+    "name": "itmostre2021after dopo.",
+    "location": "Arte Sella/, a",
+    "duration_hours": [],
+    "info": "tariffe, orari e modalità di accesso in a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "http://www.artesella.it",
+        "http://www.artesella.it/it/eventi/after-dopo.html",
+        "/it/mostre/arte-sella-incontri-internazionali-arte-natura.html"
+    ],
+    "description": "Mostra fotografica La mostra AFTER/DOPO, /curata da Giovanna Calvenzi,/ nasce dalla volontà di indagare la Val di Sella a seguito della distruzione causata dalla tempesta Vaia nel 2018 Nel corso del 2019 e del 2020, gli artisti Olivo Barbieri, Giacomo Bianchi, Luca Campigotto, Paola De Pietri, Giovanni Hännine, Martino Marangoni, Paolo Pellegrin, Moira Ricci, Alessandro Scotti e Massimo Vitali/ sono stati invitati da Arte Sella per documentare, con uno sguardo personale, le conseguenze di questo evento Lesposizione, attraverso la narrazione fotografica, arricchita dallintervento grafico di Clare Lillingston/ e dal racconto di Alberto Amoretti,/ documenta una realtà ambientale mutata e dà senso a un evento che ci ha lasciati basiti, ricordando come in un brevissimo lasso di tempo si sia distrutto un mondo che ci apparteneva Lesposizione realizzata in collaborazione con Apt Valsugana e con il contributo della Comunità di Valle Valsugana e Tesina sarà ospitata presso lo Spazio espositivo Montura di Borgo Valsugana, frutta della collaborazione tra Arte Sella e Montura; uno spazio dedicato allarte e alla cultura, in dialogo con il centro storico del paese e recentemente rinnovao per accogliere nuovi progetti espositivi ed incontri La mostra è accompagnata da un volume edito da Silvana Editoriale, con progetto grafico di TomoTomo, realizzato con il contributo di Etifor e in collaborazione con Calchera San Giorgio. Informazioni complete: a Evento segnalato da a title=Arte Sella/",
+    "recurrency": []
+}

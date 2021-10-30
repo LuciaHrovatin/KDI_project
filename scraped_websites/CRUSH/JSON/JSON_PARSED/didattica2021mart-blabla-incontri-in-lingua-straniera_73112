@@ -1,0 +1,35 @@
+{
+    "duration_days": [
+        "venerdì",
+        "Venerdì",
+        "Venerdì"
+    ],
+    "name": "didattica2021mart blabla incontri in lingua straniera_73112.",
+    "location": "Mart, Corso Bettini, Rovereto (Tn)",
+    "duration_hours": [
+        "18.00-19.30,",
+        "18.00-19.30,",
+        "1",
+        "2",
+        ".",
+        "0",
+        "0"
+    ],
+    "info": "Costo:  5 / I docenti possono richiedere lattestato di frequenza valido ai fini dellaggiornamento. Prenotazione consigliata entro le ore 12.00 del venerdì precedente: T 0464.454108-151 o a Sito web: a Note: Costo:  5 / I docenti possono richiedere lattestato di frequenza valido ai fini dellaggiornamento. Prenotazione consigliata entro le ore del venerdì precedente: T 0464.454108-151 o a href=mailto:education@mart.tn.iteducation@mart.tn.it/a Sito web: a href=http://www.mart.trento.it target=_blankwww.mart.trento.it/",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "mailto:education@mart.tn.iteducation@mart.tn.it/a",
+        "http://www.mart.trento.it",
+        "/it/mostre/mart.html"
+    ],
+    "description": "pRitornano gli incontri mensili in lingua straniera nelle sale del museo, a diretto contatto con le opere darte. Mart Bla Bla non è un corso di lingue ma unoccasione particolare per esercitare, anche saltuariamente, il proprio tedesco. Non importa il livello di conoscenza della lingua straniera: lattività con un mediatore del Mart comprende non solo la conversazione ma anche attività pratiche e coinvolgenti, per piccoli gruppi. Evento segnalato da a title=Mart/",
+    "recurrency": [
+        "venerdì",
+        "Venerdì",
+        "Venerdì"
+    ]
+}

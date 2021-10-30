@@ -1,0 +1,23 @@
+{
+    "duration_days": [
+        "97"
+    ],
+    "name": "cinema2021venom la furia di carnage.",
+    "location": "Supercinema Rovereto/, online)",
+    "duration_hours": [],
+    "info": "(biglietti, modalità di accesso, info e contatti) / a (prenotazione online)",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.supercinemarovereto.it/",
+        "https://www.webtic.it/#/shopping?action=loadLocal&amp;localId=5393",
+        "https://www.warnerbros.it/scheda-film/genere-avventura/venom-la-furia-di-carnage/",
+        "https://www.youtube.com/watch?v=72fjFzUHWPc",
+        "/it/cinema/supercinema-rovereto.html"
+    ],
+    "description": "Regia: Andy Serkis Con: Tom Hardy, Michell, Naomie Harris e Woody Harrelson Nazione: USA Durata: 97 Genere: avventura, eroi/supereroi, fantascienza Tom Hardy ritorna sul grande schermo nel ruolo del protettore letale Venom, uno dei personaggi Marvel più enigmatici e complessi. Diretto da Andy Serkis, tra i protagonisti anche Michelle Williams, Naomie Harris e Woody Harrelson, nel ruolo del villain Cletus Kasady/Carnage Informazioni complete/trailer: a a Evento segnalato da a title=Supercinema Rovereto/",
+    "recurrency": []
+}

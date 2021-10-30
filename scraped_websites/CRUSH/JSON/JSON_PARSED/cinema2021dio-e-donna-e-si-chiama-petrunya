@@ -1,0 +1,26 @@
+{
+    "duration_days": [
+        "12"
+    ],
+    "name": "cinema2021dio e donna e si chiama petrunya.",
+    "location": "Teatro di Meano/, online/",
+    "duration_hours": [
+        "20.45"
+    ],
+    "info": "Informazioni su prenotazioni, costi e biglietti nel a ufficiale del teatro/a, n. 0461.511332 (mar-ven 17-20 e sab 10-12.30), a / a online/",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "http://www.teatrodimeano.it/biglietteria/",
+        "mailto:info@teatrodimeano.itinfo@teatrodimeano.it/a",
+        "https://toptix1.mioticket.it/TeatroPergine/it-IT/categories/teatro%20di%20meano",
+        "https://www.crushsite.it/it/danza-teatro/teatro-di-meano.htmlTeatro",
+        "http://www.teatrodimeano.it/event/vita-da-cani-2/",
+        "/it/danza-teatro/teatro-di-meano.html"
+    ],
+    "description": "Di Giulio Federico Janni / Con Silvia Marchetti, Giulio Federico Janni, Christian Renzicchi, Davide Pedrini, Niccolò Curradi / Disegno luci Luca De Martini / Regia di Maura Pettorruso / Produzione RaumTraum / Realizzato con il contributo di Fondazione Caritro e Provincia Autonoma di Trento Stagione in abbonamento, Teatro Professionale. Con lo spettacolo Vita da cani prende ufficialmente il via la Stagione Professionale 2021-2022 del /a di Meano/a! Una compagnia di attori si ritrova in tournée in un piccolo paesino del Sud Italia. Posto di mare, a novembre. Lalbergo fronte spiaggia dove alloggiano è deserto: ci sono solo loro. Anche il bar della hall è deserto. I camerieri sono in ferie. Loro possono comunque servirsi. Da soli. Larrivo di una giovane e dirompente ragazza interrompe bruscamente la monotonia delle ore. E una turista dellultima ora, unamante del mare dinverno, uninsolita bagnante in cerca di un bar aperto in quella sconfinata landa desolata. Come un Deus ex machina, la donna apre le stanze segrete degli increduli attori, ne scopre altarini, segreti, paure, ossessioni; li mette a nudo nei loro fallimenti a metà, nelle loro vite da cani a metà. Mentre le ore passano scandite da note jazz e battute irriverenti, Leo riceve la visita inaspettata di Alex che non vede da 12 anni. Sono gli ultimi (o forse i primi?) nodi che vengono al pettine Una commedia amara, dove si ride per non piangere, dove si piange per non ridere. Perché la (loro) vita è così: troppo sfuggente per prenderla completamente sul serio Informazioni: a Evento segnalato da a title=Teatro di Meano/",
+    "recurrency": []
+}

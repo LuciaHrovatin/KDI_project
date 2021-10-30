@@ -19,7 +19,6 @@ class CrushParser() :
    
         self.giorni = ['lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato', 'domenica']
 
-    @staticmethod
     def create_parsed_dictionary_and_write(self) : 
         """PARSES THE HTML FILE INTO A DICTIONARY"""
             
@@ -125,7 +124,7 @@ class CrushParser() :
                                
               
         
-    @staticmethod
+    
     def parse_dict(self, dic):
         """CLEANS THE KEYS TO BE READABLE """
         for key in dic:
@@ -177,7 +176,7 @@ class CrushParser() :
                     dic[key] = new
         return dic
     
-    @staticmethod
+   
     def write_dic_to_json(self,dic,title) :
         with open(os.path.join(self.new_dir_json, title)+'.json', 'w', encoding='utf-8') as f:
             json.dump(dic, f, ensure_ascii=False, indent=4, default=str)
@@ -185,18 +184,18 @@ class CrushParser() :
 
 
     def second_parsing(self) : 
-        self.dir_json = r"C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\KDI_project\scraped_websites\CRUSH\JSON"
-        self._list_dir = os.listdir(self.dir_json)
-        self.list_dir_paths_json = [os.path.join(self.dir_json, f) for f in self._list_dir]
+        general_json_files = [os.path.join(self.new_dir_json , f) for f in os.listdir(self.new_dir_json)]
+        #save_json_files = [os.path.join(self.json_json, f) for f in self.new_dir_json]
 
 
         
-        for file in self.list_dir_paths_json :
-        
-            with open(file,'r') as f :
-                dic = json.load(f)
+        for i in range(len(general_json_files)) : 
+           
+            with open(general_json_files[i], encoding ='utf-8') as f :
                 parsed = {}
-                name = file.split('\\')
+                dic = json.load(f)
+                
+                name = general_json_files[i].split('\\')
                 name = name[-1].split('html')
                 name = name[0]
                 dic['name'] = '  '.join(name.replace('-',' ').split()) 
@@ -205,137 +204,141 @@ class CrushParser() :
               
                 parsed = {k:[] for k in list(dic.keys())}
                 other_loc = ''
-
-                for e in dic :
-                        
-                    parsed[e] = dic[e]
-                    if (e == 'name') :
-                        parsed[e] = ' '.join(dic[e].split())
-                    if (e == 'location') : 
-                        if ('Dove:' in dic[e]) : 
-                            i_where = dic[e].index('Dove:') + 2
-                            flag_where = True
-                        if ('Orario:' in dic[e]) :
-                            i_when = dic[e].index('Orario:')
-                                
-                            if (dic['duration_hours'] == 'Not specified') : 
-                                parsed['duration_hours'] = dic[e][i_when:]
-
-                        if (dic['location'] != 'Not specified') and (len(dic['location']) != 0) : 
-                            s1 = ' '.join(dic['location'][3:])
-                            parsed[e] = dic['location']
-                            if flag_where :
-                                s2 = ' '.join(dic[e][i_where:])
-                                if (s1 != s2) :
-                                    other_loc = ' '.join(dic[e][i_where:]) 
-                               
-                               
-                         
-
-                parsed['recurrency'] = []   
-                rev = []
-              
-                for key in parsed : 
-                    if (key == 'location') :
-                        k = 0
-                        if (not type(parsed[key]) == list) :
-                            parsed[key] = parsed[key].split()
-                        while len(parsed[key]) > 0 : 
-                            el = parsed[key].pop()
-                            if (el.lower() in self.giorni) : 
-                                parsed['recurrency'].append(el)
-                            if ('.' in el and el[:el.index('.')].isnumeric() and el[el.index('.')+1:].isnumeric()): 
-                                parsed['duration_hours'].append(el)
-
-                            else :
-                                rev.append(el)
-                            k += 1
-                rev = rev[::-1][2:]
-                if ('Orario:' in rev) :
-                    i = rev.index('Orario:') 
-                    if ('Note:' in rev):
-                        j = rev.index('Note:')
-                        parsed['location'] = ' '.join(rev[:i]).replace('itemprop=streetAddress','')
-                        parsed['info'] += ' '+' '.join(rev[j:])
-                    else :
-                        parsed['location'] = ' '.join(rev[:i]).replace('itemprop=street','')
-
-                parsed['duration_days'] = parsed['recurrency']
-                if ('Orario:' in other_loc) : 
-                    other_loc = other_loc[:other_loc.index('Orario:')]
-                    parsed['location'] += ', ' + ''.join(other_loc)
-
-                if (len(parsed['location']) == 0) :
-                    if ('title=' in parsed['description']) : 
-                        title = parsed['description'].index('title=')
-                        parsed['location'] = parsed['description'][title:].replace('title=','')
-                    inf = parsed['info'].split()
-                    i = -1
-                    for w in inf : 
-                        if ('Dove:' in w) :
-                            i = inf.index(w) 
-                            break 
-                    
-                    parsed['location'] += ', ' +' '.join(inf[i:]).replace('Dove: itemprop=streetAddress','')
-                
-                if (len(parsed['duration_days']) == 0) :
-                    l = parsed['description'].split()
-                    t = []
-                    for i in range(len(l)) :
+                try :
+                    for e in dic :
                             
-                        if (l[i].lower() in self.mesi) : 
-                            if (l[i-1].isnumeric()) :
-                                t.append(l[i-1])
-                                t.append((l[i],self.mesi[l[i].lower()]))
-                                if (l[i+1].isnumeric()) :
-                                    t.append(l[i+1]+ '|')
-                        if (l[i].isnumeric() and l[i]not in t) and ('dalle' != l[i-1] and 'alle' != l[i-1]) :
-                            t.append(l[i])
-                    parsed['duration_days'] = t 
-                    if (t == []) :
-                        j = -1
-                        i = 0
+                        parsed[e] = dic[e]
+                        if (e == 'name') :
+                            parsed[e] = ' '.join(dic[e].split())
+                        if (e == 'location') : 
+                            if ('Dove:' in dic[e]) : 
+                                i_where = dic[e].index('Dove:') + 2
+                                flag_where = True
+                            if ('Orario:' in dic[e]) :
+                                i_when = dic[e].index('Orario:')
+                                    
+                                if (dic['duration_hours'] == 'Not specified') : 
+                                    parsed['duration_hours'] = dic[e][i_when:]
 
-                        l = parsed['info'].split() 
-                        for w in l :
-                            if ('itemprop=startDate' in w) :
-                                i = l.index(w) 
-                            if ('itemprop=endDate' in w) : 
-                                j = l.index(w)
-                        if (i != 0) : 
-                            parsed['duration_days'].extend(' '.join(l[i:j]).replace('itemprop=startDate','').replace('itemprop=endDate','').replace('content=','').split())
+                            if (dic['location'] != 'Not specified') and (len(dic['location']) != 0) : 
+                                s1 = ' '.join(dic['location'][3:])
+                                parsed[e] = dic['location']
+                                if flag_where :
+                                    s2 = ' '.join(dic[e][i_where:])
+                                    if (s1 != s2) :
+                                        other_loc = ' '.join(dic[e][i_where:]) 
+                                
+                                
+                            
+
+                    parsed['recurrency'] = []   
+                    rev = []
+                
+                    for key in parsed : 
+                        if (key == 'location') :
+                            k = 0
+                            if (not type(parsed[key]) == list) :
+                                parsed[key] = parsed[key].split()
+                            while len(parsed[key]) > 0 : 
+                                el = parsed[key].pop()
+                                if (el.lower() in self.giorni) : 
+                                    parsed['recurrency'].append(el)
+                                if ('.' in el and el[:el.index('.')].isnumeric() and el[el.index('.')+1:].isnumeric()): 
+                                    
+                                    parsed['duration_hours']+= el
+
+                                else :
+                                    rev.append(el)
+                                k += 1
+                    rev = rev[::-1][2:]
+                    if ('Orario:' in rev) :
+                        i = rev.index('Orario:') 
+                        if ('Note:' in rev):
+                            j = rev.index('Note:')
+                            parsed['location'] = ' '.join(rev[:i]).replace('itemprop=streetAddress','')
+                            parsed['info'] += ' '+' '.join(rev[j:])
+                        else :
+                            parsed['location'] = ' '.join(rev[:i]).replace('itemprop=street','')
+
+                    parsed['duration_days'] = parsed['recurrency']
+                    if ('Orario:' in other_loc) : 
+                        other_loc = other_loc[:other_loc.index('Orario:')]
+                        parsed['location'] += ', ' + ''.join(other_loc)
+
+                    if (len(parsed['location']) == 0) :
+                        if ('title=' in parsed['description']) : 
+                            title = parsed['description'].index('title=')
+                            parsed['location'] = parsed['description'][title:].replace('title=','')
+                        inf = parsed['info'].split()
+                        i = -1
+                        for w in inf : 
+                            if ('Dove:' in w) :
+                                i = inf.index(w) 
+                                break 
                         
-                if (parsed['duration_hours'] == 'Not specified') : 
-                    l = parsed['description']
-                    h = []
-                    for w in l :
-                        if ('.' in w) and (w[:w.index('.')].isnumeric()) and (w[w.index('.')+1:].isnumeric()) : 
-                            h.append(w)
-
-                    parsed['duration_hours'] = h
-                    if (h == []) :
-                        r = parsed['information'] 
-                        y = []
-
-                        for w in r :
-                            if ('.' in w) and (w[:w.index('.')].isnumeric()) and (w[w.index('.')+1:].isnumeric()) : 
-                                y.append(w)
-                        
-                        parsed['duration_hours'] = r
-          
-             
-                with open(file,'w', encoding ="utf-8") as f :
-                    json.dump(parsed, f, ensure_ascii=False, indent=4, default=str)
+                        parsed['location'] += ', ' +' '.join(inf[i:]).replace('Dove: itemprop=streetAddress','')
                     
+                    if (len(parsed['duration_days']) == 0) :
+                        l = parsed['description'].split()
+                        t = []
+                        for i in range(len(l)) :
+                                
+                            if (l[i].lower() in self.mesi) : 
+                                if (l[i-1].isnumeric()) :
+                                    t.append(l[i-1])
+                                    t.append((l[i],self.mesi[l[i].lower()]))
+                                    if (l[i+1].isnumeric()) :
+                                        t.append(l[i+1]+ '|')
+                            if (l[i].isnumeric() and l[i]not in t) and ('dalle' != l[i-1] and 'alle' != l[i-1]) :
+                                t.append(l[i])
+                        parsed['duration_days'] = t 
+                        if (t == []) :
+                            j = -1
+                            i = 0
+
+                            l = parsed['info'].split() 
+                            for w in l :
+                                if ('itemprop=startDate' in w) :
+                                    i = l.index(w) 
+                                if ('itemprop=endDate' in w) : 
+                                    j = l.index(w)
+                            if (i != 0) : 
+                                parsed['duration_days'].extend(' '.join(l[i:j]).replace('itemprop=startDate','').replace('itemprop=endDate','').replace('content=','').split())
+                            
+                    if (parsed['duration_hours'] == 'Not specified') : 
+                        l = parsed['description']
+                        h = []
+                        for w in l :
+                            if ('.' in w) and (w[:w.index('.')].isnumeric()) and (w[w.index('.')+1:].isnumeric()) : 
+                                h.append(w)
+
+                        parsed['duration_hours'] = h
+                        if (h == []) :
+                            r = parsed['info'] 
+                            y = []
+
+                            for w in r :
+                                if ('.' in w) and (w[:w.index('.')].isnumeric()) and (w[w.index('.')+1:].isnumeric()) : 
+                                    y.append(w)
+                            
+                            parsed['duration_hours'] = r
+            
+                
+                    with open(os.path.join(self.json_json, name),'w', encoding ="utf-8") as doc :
+                        json.dump(parsed, doc, ensure_ascii=False, indent=4, default=str)
+                except: 
+                    print(general_json_files[i])
+                        
 
 
                 
 
  
-                            
+                     
                     
 ck = CrushParser()
-ck.second_parsing()         
+ck.second_parsing()      
+
 
 
 

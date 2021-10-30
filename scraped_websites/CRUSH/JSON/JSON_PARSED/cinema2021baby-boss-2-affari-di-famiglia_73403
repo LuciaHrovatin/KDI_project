@@ -1,0 +1,58 @@
+{
+    "duration_days": [
+        "Mercoledì",
+        "Martedì",
+        "Lunedì",
+        "Domenica",
+        "Sabato",
+        "Venerdì",
+        "Giovedì"
+    ],
+    "name": "cinema2021baby boss 2 affari di famiglia_73403.",
+    "location": "Multisala Modena, Via S. Francesco DAssisi, Trento",
+    "duration_hours": [
+        "1",
+        "7",
+        ".",
+        "3",
+        "0",
+        "1",
+        "7",
+        ".",
+        "0",
+        "0",
+        "1",
+        "7",
+        ".",
+        "0",
+        "0",
+        "1",
+        "7",
+        ".",
+        "0",
+        "0"
+    ],
+    "info": "(biglietti, modalità di accesso, info e contatti) / a (prenota/acquista online) Note: a href=https://www.cineworldtrento.it/ target=_blankwww.cineworldtrento.it/a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.cineworldtrento.it/",
+        "https://cineworld.18tickets.it/",
+        "https://www.universalpictures.it/micro/boss-baby-2",
+        "https://www.youtube.com/watch?v=ria05eInE08&amp;t=1s",
+        "/it/cinema/cineworld-multisala-modena-supercinema-vittoria-nuovo-roma.html"
+    ],
+    "description": "Regia: Tom McGrath Nazione: USA Durata: 107 Genere: animazione Nel sequel della commedia campione dincassi di DreamWorks Animation nominata agli Oscar®, i fratelli Templeton - Tim (James Marsden, noto per il franchise di X-Men) e il suo fratello minore Baby Boss Ted (Alec Baldwin)  sono diventati adulti e si sono allontanati. Tim è un papà e marito pantofolaio a tempo pieno. Ted è un CEO di fondi speculativi. Ma un nuovo baby boss dallapproccio innovativo e dallatteggiamento positivo li riunirà e sarà dispirazione per un nuovo affare di famiglia. Tim e sua moglie, Carol (Eva Longoria), la vera capofamiglia, vivono nella periferia con la loro super-intelligente figlia Tabitha (Ariana Greenblatt, Avengers: Infinity War) e ladorabile nuova bambina Tina (Amy Sedaris, BoJack Horseman - Netflix). Tabhita, che è la migliore della sua classe al Centro Acorn per Bambini Dotati, idolatra suo zio Ted and vorrebbe diventare come lui, ma Tim, ancora in contatto con la sua iperattiva Informazioni complete/trailer: a a Evento segnalato da a title=Cineworld/",
+    "recurrency": [
+        "Mercoledì",
+        "Martedì",
+        "Lunedì",
+        "Domenica",
+        "Sabato",
+        "Venerdì",
+        "Giovedì"
+    ]
+}

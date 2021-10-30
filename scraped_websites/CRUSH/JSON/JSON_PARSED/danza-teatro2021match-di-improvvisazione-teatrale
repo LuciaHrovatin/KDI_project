@@ -1,0 +1,20 @@
+{
+    "duration_days": [
+        "2021-10-22"
+    ],
+    "name": "danza teatro2021match di improvvisazione teatrale.",
+    "location": "Teatro San Marco/, Teatro San Marco, Via S. Bernardino, Trento Orario: ore 21.00",
+    "duration_hours": "ore",
+    "info": "img height=128 src=/themes/2018/foto-def/calendar-128.png width=128/ content=Match di improvvisazione teatrale itemprop=name content=Teatro San Marco itemprop=organizer style=display:none content=2021-10-22 itemprop=startDate content=2021-10-22 itemprop=endDate Data: itemprop=location itemscope= itemtype=http://schema.org/Place itemprop=address itemscope= itemtype=http://schema.org/PostalAddress Dove: itemprop=streetAddressTeatro San Marco, Via S. Bernardino, Trento Orario: ore 21.00",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.teatrosanmarco.it/calendario/",
+        "/it/danza-teatro/teatro-san-marco.html"
+    ],
+    "description": "pMatch All Stars. Categoria professionisti - Brescia vs Roma Informazioni: a Evento segnalato da a title=Teatro San Marco/",
+    "recurrency": []
+}

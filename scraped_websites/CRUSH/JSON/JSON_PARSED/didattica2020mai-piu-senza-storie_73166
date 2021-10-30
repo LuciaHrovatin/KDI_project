@@ -1,0 +1,20 @@
+{
+    "duration_days": [
+        "3"
+    ],
+    "name": "didattica2020mai piu senza storie_73166.",
+    "location": "Comune di Riva del Garda/, obbligatori",
+    "duration_hours": "Entrata gratuita con prenotazione obbligatori",
+    "info": "Entrata gratuita con prenotazione obbligatori",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.comune.rivadelgarda.tn.it/Aree-tematiche/Biblioteca-civica/Bibliosnack-Eventi/Letture-ad-alta-voce-dai-3-anni/Mai-piu-senza-storie",
+        "/it/incontri/comune-di-riva-del-garda.html"
+    ],
+    "description": "Mai più senza storie è condotto da Elisabetta Parisi Vi aspettiamo in biblioteca per gli incontri di lettura ad alta voce dedicati ai bambini dai 3 anni. Un momento magico di ascolto e divertimento guidati dalla voce e i laboratori di Elisabetta Ogni incontro sarà seguito da un piccolo laboratorio manuale realizzato da Elisabetta Parisi Informazioni, prenotazioni e calendario completo: a Evento segnalato da a title=Comune di Riva del Garda/",
+    "recurrency": []
+}

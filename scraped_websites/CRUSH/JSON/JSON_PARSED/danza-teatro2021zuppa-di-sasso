@@ -1,0 +1,24 @@
+{
+    "duration_days": [
+        "3",
+        "8"
+    ],
+    "name": "danza teatro2021zuppa di sasso.",
+    "location": "Centro S. Chiara / Teatro ragazzi/, a",
+    "duration_hours": [
+        "16.00"
+    ],
+    "info": "Biglietti, abbonamenti e modalità daccesso su a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/zuppa-di-sasso-tr-21",
+        "http://www.centrosantachiara.it/spettacoli/spettacoli/zuppa-di-sasso-tr-21",
+        "/it/danza-teatro/centro-s-chiara-stagione-ragazzi.html"
+    ],
+    "description": "Di Danilo Conti e Antonella Piroli / Con Danilo Conti / Scenografia e oggetti di scena Scuola Arti e Mestieri di Cotignola, Massimiliano Fabbri / TPC Tanti Cosi Progetti / Accademia Perduta Romagna Teatri / Età consigliata: da 3 a 8 anni La fiaba a cui è ispirato lo spettacolo si perde nelle trame del tessuto popolare fitto di storie, racconti, aneddoti. Risale ad epoche in cui giramondo, vagabondi e soldati, incontravano gli abitanti di villaggi sul loro percorso La storia della Minestra di sasso, fonte di ispirazione dello spettacolo, racconta le vicende di un viandante - impersonato in questoccasione da un lupo  che, una volta arrivato in un villaggio, non trovando ospitalità per la paura e la diffidenza degli abitanti, riuscirà a saziarsi solamente grazie ad un espediente: luomo improvvisa un fuoco nella piazza del paese e, dopo aver chiesto in prestito una pentola, mette a bollire un sasso di fiume. La curiosità prende il sopravvento sulla diffidenza e ben presto tutti gli abitanti del posto desiderano aggiungere qualcosa allingrediente segreto che bolle in pentola. Tante le versioni finali proposte: in alcuni casi la fiaba termina con una grande festa, in altri invece, la minestra se la mangia solamente limprovvisato cuoco. In tutte le versioni della storia però cè un denominatore comune: il viandante, così come è apparso se ne va, senza dare spiegazioni. Semplicemente riprende il suo viaggio e scompare con il suo sasso, lasciando però una profonda traccia del suo passaggio E la morale? Beh, questa antica fiaba ci insegna che la diffidenza e il sospetto sono sentimenti che vanno messi da parte, perché qualsiasi figura, umana o animale che sia, può lasciare un segno profondo nella vita di ognuno di noi Informazioni, biglietti e modalità di accesso: a Evento segnalato da a title=Centro S. Chiara / Teatro ragazzi/",
+    "recurrency": []
+}
