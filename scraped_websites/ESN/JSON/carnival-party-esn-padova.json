@@ -1,13 +1,23 @@
 {
     "name": "carnival-party-esn-padova",
-    "duration_days": [
-        "23"
+    "description": "Needed to activate contextual links class group-image class colorbox data-cbox-img-attrs '{title: , alt: }' data-colorbox-gallery gallery-node-30903-PUTIkrhRsVU href X8jYzjkN title img alt src dblnMbuw&amp;c 92d4a68efec566a4d792774e86f94cb7 title //a class group-content class group-secondary class date-display-single23/02/2019 - 00:00 class countryItaly",
+    "location": [
+        ":  ",
+        "Italy"
     ],
     "duration_hours": [
-        "00:00"
+        " 00:00 "
     ],
-    "description": "even\"- english below - erasmus! ecco uno degli eventi più attesi dell'inverno: il carnevale organizzato da esn padova. quando: sabato 23 febbraio dove: padova costo: 20, che comprende: - navetta da padova fino alla discoteca - ingresso in discoteca - 2 drink tema della festa: lights, camera....action!!!!! programma del viaggio: - orari di partenza e rientro sono a discrezione degli studenti opzione 1: arrivare a padova in tarda mattinata, fare un city tour della città, apertitivo per scaldarci e poi dritti a ballare opzione 2: arrivare in serata, fare un aperitivo per scaldarci e poi dritti a ballare come raggiungere padova? in macchina, con il flixbus (20 euro andata e ritorno) o in treno (25 euro andata e ritorno). la durata è di circa 2/2.30 a tratta. si tratta di un evento nazionale, quindi ci saranno studenti erasmus provenienti da tutta italia! per iscrivervi, vi aspettiamo @ufficio esn. chiusura iscrizioni: giovedì 9 febbraio se sei uno studente erasmus in arrivo dopo la chiusura delle iscrizioni non preoccuparti! scrivici alla pagina e ti daremo le indicazioni per pagare via bonifico :d ---------------------------------------------------------------- erasmus people! here you have one of the most awaited events of this winter: the carnival night organized by esn padova. when: saturday, 23th february where: padova how much does it cost: 20, which include: - shuttle from padova to the disco - entrance to the party - 2 drinks program: - the transfer from trento to padova is not included in the price so you can decide how and when to get in padova option 1: arrival at the late morning, city tour with a member from esn padova, free time for aperitivo( \"spritz\" was invented in padova, just saying... :p) and dinner (not included), transfer to the party; option 2: arrival in the evening, aperitivo and disco. how to get there? by car, by flixbus(20 go and return), by train (25 go and return). the transfer takes 2/2.30 hours. theme of the party: lights, camera....action!!!!! it's a national event so there are going to be erasmus students from all over italy! apply @esn office! deadline: 9th february if you are an incoming student and you aren't in trento yet, don't panic! write us on facebook and we will give you all the details to pay via bank transfer.",
-    "links": [],
-    "info": "",
-    "location": "italy"
+    "duration_days": [
+        "23/02/2019 "
+    ],
+    "links": [
+        "https://trento.esn.it/sites/esntrento.it/files/styles/zoom/public/events/images/50562815_2086742804750212_3872701504620068864_o_5.jpg?itok",
+        "https://trento.esn.it/sites/esntrento.it/files/styles/page/public/events/images/50562815_2086742804750212_3872701504620068864_o_5.jpg?itok"
+    ],
+    "schema": [],
+    "info": [],
+    "recurrency": [
+        "23/02/2019 "
+    ]
 }

@@ -1,5 +1,14 @@
 {
     "name": "",
+    "description": "class title id page-title Welcome Week ESN Trento",
+    "location": [
+        "Trento",
+        "ESN"
+    ],
+    "duration_hours": [],
     "duration_days": [],
-    "duration_hours": []
+    "links": [],
+    "schema": [],
+    "info": [],
+    "recurrency": []
 }

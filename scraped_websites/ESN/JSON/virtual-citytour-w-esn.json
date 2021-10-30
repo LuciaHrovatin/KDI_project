@@ -1,13 +1,23 @@
 {
     "name": "virtual-citytour-w-esn",
-    "duration_days": [
-        "17/09/2020"
+    "description": "Needed to activate contextual links class group-image class colorbox data-cbox-img-attrs '{title: , alt: }' data-colorbox-gallery gallery-node-30956-6apFRsVYzAM href vewj36iq title img alt src d2_EyeSD title //a class group-content class group-secondary class date-display-single17/09/2020 - 21:00 class countryItaly class item-listul class textformatter-listli class first lastEveryone is invited./li /ul",
+    "location": [
+        ":  ",
+        "Italy "
     ],
     "duration_hours": [
-        "21:00"
+        " 21:00 "
     ],
-    "description": "even\"lets learn something about our wonderful city, its ancient history and its monuments, through an online guided tour. were going to show you the main attractions using zoom and google maps platforms. youll also discover some fun facts and anecdotes about the city, as well as interesting info about our local culture!",
-    "links": [],
-    "info": "",
-    "location": "italy"
+    "duration_days": [
+        "17/09/2020 "
+    ],
+    "links": [
+        "https://trento.esn.it/sites/esntrento.it/files/styles/zoom/public/events/images/09.jpg?itok",
+        "https://trento.esn.it/sites/esntrento.it/files/styles/page/public/events/images/09.jpg?itok"
+    ],
+    "schema": [],
+    "info": [],
+    "recurrency": [
+        "17/09/2020 "
+    ]
 }

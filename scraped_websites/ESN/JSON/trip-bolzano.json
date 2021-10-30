@@ -1,15 +1,26 @@
 {
     "name": "trip-bolzano",
-    "duration_days": [
-        "19th"
+    "description": "Needed to activate contextual links class group-image class colorbox data-cbox-img-attrs '{title: , alt: }' data-colorbox-gallery gallery-node-30929-tuweRt727w4 href slr8FqYi title img alt src 7f8oVRFi title //a class group-content class group-secondary class date-display-single19/05/2019 - 08:30 class countryItaly",
+    "location": [
+        ":  ",
+        "Italy",
+        "bolzano"
     ],
     "duration_hours": [
-        "8.308.30"
+        " 08:30 "
     ],
-    "description": "even\"trip to bolzano maybe you have already visited rome, florence, venice... but what about all the cities of trentino region? so many beautiful places right under your nose! we have thought about everything and organized a trip to bolzano! the 19th we will meet our friends from esn bozenbolzano - erasmus student network and we will discover the city with them. may, 19th meeting point at trento central station 8.30 am the train ticket is on behalf of the participants. we will meet there at 8.30 am to buy the tickets and take the train at 8.54, so please do not be late! let us know if you can participate by signing up this form a href=\"https://docs.google.com/forms/d/e/1faipqlsfc2ijia33ns8y7vioz8myr9ht8_f6dsdevp7tpimdyff6utw/viewform?usp=sf_link\"https://docs.google.com/forms/d/e/1faipqlsfc2ijia33ns8y7vioz8myr9ht8_f6d.../a see you all there!",
+    "duration_days": [
+        "19/05/2019 "
+    ],
     "links": [
-        "href=\"https://docs.google.com/forms/d/e/1faipqlsfc2ijia33ns8y7vioz8myr9ht8_f6dsdevp7tpimdyff6utw/viewform?usp=sf_link\"https://docs.google.com/forms/d/e/1faipqlsfc2ijia33ns8y7vioz8myr9ht8_f6d.../a"
+        "https://trento.esn.it/sites/esntrento.it/files/styles/zoom/public/events/images/e0c7e849-dc56-46a6-ab75-08a0034a8c03.jpg?itok",
+        "https://trento.esn.it/sites/esntrento.it/files/styles/page/public/events/images/e0c7e849-dc56-46a6-ab75-08a0034a8c03.jpg?itok",
+        "https://docs.google.com/forms/d/e/1FAIpQLSfc2IjIA33nS8Y7VioZ8myR9ht8_f6dSdEVp7TpImDyFF6UTw/viewform?usp",
+        "sf_linkhttps://docs.google.com/forms/d/e/1FAIpQLSfc2IjIA33nS8Y7VioZ8myR9ht8_f6d.../a/p pSee you all there!/p  class"
     ],
-    "info": "",
-    "location": "italy"
+    "schema": [],
+    "info": [],
+    "recurrency": [
+        "19/05/2019 "
+    ]
 }

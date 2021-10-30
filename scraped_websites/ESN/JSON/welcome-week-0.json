@@ -1,9 +1,20 @@
 {
     "name": "welcome-week-0",
-    "duration_days": [],
-    "duration_hours": [],
-    "description": "even\" - 00:00 even\"",
+    "description": "Needed to activate contextual links class group-image class group-content class group-secondary class date-display-single15/09/2018 - 00:00 class countryItaly",
+    "location": [
+        ":  ",
+        "Italy"
+    ],
+    "duration_hours": [
+        " 00:00 "
+    ],
+    "duration_days": [
+        "15/09/2018 "
+    ],
     "links": [],
-    "info": "",
-    "location": "italy"
+    "schema": [],
+    "info": [],
+    "recurrency": [
+        "15/09/2018 "
+    ]
 }

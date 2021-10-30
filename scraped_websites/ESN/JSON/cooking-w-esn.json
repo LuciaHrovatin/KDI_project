@@ -1,9 +1,20 @@
 {
     "name": "cooking-w-esn",
-    "duration_days": [],
-    "duration_hours": [],
-    "description": "even\"our weekly scheduled activities with esn never stop although the lockdown. switch on your stoves, it's cooking time again, altogether. in our weekly schedule, connected with the platform zoom we are discoverying a typical hungarian dish! we will prepare together paradicsomos húsgombóc or meatballs. this delicious dish is prepared in many places around the world and there are really many different ways to do it. they say the hungarian one is the most ancient and maybe the most delicious one as well. so prepare your taste buds and your kitchen aprons, toghether we are revive the chef that lives in us.",
+    "description": "Needed to activate contextual links class group-image class group-content class group-secondary class date-display-single17/04/2020 - 00:00 class countryItaly class",
+    "location": [
+        ":  ",
+        "Italy "
+    ],
+    "duration_hours": [
+        " 00:00 "
+    ],
+    "duration_days": [
+        "17/04/2020 "
+    ],
     "links": [],
-    "info": "",
-    "location": "italy"
+    "schema": [],
+    "info": [],
+    "recurrency": [
+        "17/04/2020 "
+    ]
 }
