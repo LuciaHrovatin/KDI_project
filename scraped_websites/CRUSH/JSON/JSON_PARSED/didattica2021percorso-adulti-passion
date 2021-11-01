@@ -1,18 +1,1 @@
-{
-    "duration_days": [],
-    "name": "didattica2021percorso adulti passion.",
-    "location": "Estro/, associativ",
-    "duration_hours": "",
-    "info": "uMartedì 12 e martedì 19 ottobre 2021/u LEZIONI DI PROVA! / Presenteremo il corso uGiovedì 7 ottobre 2021, alle 20.30/u, presso il teatro San Marco / Costo totale del corso: 600  + 20  di tessera associativ",
-    "schema": [
-        "itemtype=http://schema.org/Place",
-        "itemtype=http://schema.org/PostalAddress"
-    ],
-    "links": [
-        "#",
-        "https://www.estroteatro.com/adultipassion",
-        "/it/didattica/estroteatro.html"
-    ],
-    "description": "Insegnanti: Andrea Visibelli e Clara Setti Sei in cerca di un percorso che alimenti una tua passione per il teatro, che ti permetta di approfondire la tua esperienza artistica, offrendoti un confronto col pubblico che lasci in te una nuova conaspevolezza?br/ Il nostro percorso passion è quello che fa per te!br/ Lasciati Estravolgere dai nostri insegnanti, attori e performer professionisti ,che sapranno guidarti in questesperienza!br/ Informazioni complete ed iscrizioni: a Evento segnalato da a title=Estro/",
-    "recurrency": []
-}
+{"duration_days": [], "name": "didattica2021percorso adulti passion.", "location": "Estro/,", "duration_hours": "", "info": "uMarted\u00ec 12 e marted\u00ec 19 ottobre 2021/u LEZIONI DI PROVA! / Presenteremo il corso uGioved\u00ec 7 ottobre 2021, alle 20.30/u, presso il teatro San Marco / Costo totale del corso: 600 \u0080 + 20 \u0080 di tessera associativ,", "schema": ["itemtype=http://schema.org/Place", "itemtype=http://schema.org/PostalAddress"], "links": ["#", "https://www.estroteatro.com/adultipassion", "/it/didattica/estroteatro.html"], "description": "Insegnanti: Andrea Visibelli e Clara Setti Sei in cerca di un percorso che alimenti una tua passione per il teatro, che ti permetta di approfondire la tua esperienza artistica, offrendoti un confronto col pubblico che lasci in te una nuova conaspevolezza?br/ Il nostro percorso \u0093passion\u0094 \u00e8 quello che fa per te!br/ Lasciati Estravolgere dai nostri insegnanti, attori e performer professionisti ,che sapranno guidarti in quest\u0092esperienza!br/ Informazioni complete ed iscrizioni: a Evento segnalato da a title=Estro/", "recurrency": [], "lat_lon": [36.11219166513901, -87.66174968035416]}

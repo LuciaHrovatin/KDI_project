@@ -168,6 +168,6 @@ class EsnParser() :
                 
     
     
-ep = EsnParser()            
-ep.create_parsed_dictionary_and_write()
+#ep = EsnParser()            
+#ep.create_parsed_dictionary_and_write()
 

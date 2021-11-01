@@ -1,17 +1,1 @@
-{
-    "duration_days": [],
-    "name": "itincontricomune di ala ufficio attivita culturali e turistiche.",
-    "location": ",  P.zza San Giovanni 1, Ala (Tn) (a maps) br/ Contatti: tel. 0464.674068 / a / a / a Sito internet:/ a / a",
-    "duration_hours": "img alt= height=106 src=/upload/images/media/medium/020960-020902-comuneala-logo.png width=106/ !-- img src=--!--foto-def/calendar-128.png title= width=128 height=128 /-- style=width: 80% Dove: P.zza San Giovanni 1, Ala (Tn) (a maps/a) br/ Contatti: tel. 0464.674068 / a / a / a Sito internet:/ a / a",
-    "info": "img alt= height=106 src=/upload/images/media/medium/020960-020902-comuneala-logo.png width=106/ !-- img src=--!--foto-def/calendar-128.png title= width=128 height=128 /-- style=width: 80% Dove: P.zza San Giovanni 1, Ala (Tn) (a maps/a) br/ Contatti: tel. 0464.674068 / a / a / a Sito internet:/ a / a",
-    "links": [
-        "https://www.google.it/maps/place/Piazza+S.+Giovanni,+1,+38061+Ala+TN/@45.75663,11.002786,17z/data=!3m1!4b1!4m5!3m4!1s0x478206aaf8d51b61:0xe86f266e3bd64f55!8m2!3d45.75663!4d11.00498",
-        "mailto:info@cittadivelluto.itinfo@cittadivelluto.it/a",
-        "mailto:cultura@comune.ala.tn.itcultura@comune.ala.tn.it/a",
-        "https://www.facebook.com/ComunediAlaUfficioCultura",
-        "http://www.cittadivelluto.it",
-        "http://www.comune.ala.tn.it/eventi"
-    ],
-    "description": "pLe iniziative organizzate dallUfficio Attività Culturali e Turistiche del Comune di Ala/./p",
-    "recurrency": []
-}
+{"duration_days": [], "name": "itincontricomune di ala ufficio attivita culturali e turistiche.", "location": ",  P.zza San Giovanni 1, Ala (Tn) (a maps) br/ Contatti: tel. 0464.674068 / a / a / a Sito internet:/ a / a", "duration_hours": "img alt= height=106 src=/upload/images/media/medium/020960-020902-comuneala-logo.png width=106/ !-- img src=--!--foto-def/calendar-128.png title= width=128 height=128 /-- style=width: 80% Dove: P.zza San Giovanni 1, Ala (Tn) (a maps/a) br/ Contatti: tel. 0464.674068 / a / a / a Sito internet:/ a / a", "info": "img alt= height=106 src=/upload/images/media/medium/020960-020902-comuneala-logo.png width=106/ !-- img src=--!--foto-def/calendar-128.png title= width=128 height=128 /-- style=width: 80% Dove: P.zza San Giovanni 1, Ala (Tn) (a maps/a) br/ Contatti: tel. 0464.674068 / a / a / a Sito internet:/ a / a", "links": ["https://www.google.it/maps/place/Piazza+S.+Giovanni,+1,+38061+Ala+TN/@45.75663,11.002786,17z/data=!3m1!4b1!4m5!3m4!1s0x478206aaf8d51b61:0xe86f266e3bd64f55!8m2!3d45.75663!4d11.00498", "mailto:info@cittadivelluto.itinfo@cittadivelluto.it/a", "mailto:cultura@comune.ala.tn.itcultura@comune.ala.tn.it/a", "https://www.facebook.com/ComunediAlaUfficioCultura", "http://www.cittadivelluto.it", "http://www.comune.ala.tn.it/eventi"], "description": "pLe iniziative organizzate dallUfficio Attivit\u00e0 Culturali e Turistiche del Comune di Ala/./p", "recurrency": [], "lat_lon": [45.75667000178092, 11.005050032867615]}
