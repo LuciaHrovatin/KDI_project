@@ -1,0 +1,348 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/bf365aa7-cfe8-479c-9fdc-4335ea7dba0a>
+        rdf:type           schema:Organization ;
+        schema:identifier  "05056400483" ;
+        schema:legalName   "mymovies" ;
+        schema:leiCode     "05056400483" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/bc543221-588f-467d-938e-7e51802fb51a>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "https://wiki.openstreetmap.org/wiki/Leisure" ;
+        dct:title        "Leisure" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/bdb8e9c4-40b2-4bcd-8295-7242dc5858da>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "open data - https://wiki.openstreetmap.org/wiki/Using_OpenStreetMap" ;
+        dct:created        "2021-11-01T15:33:18Z"^^xsd:dateTime ;
+        dct:description    "Json obtained by REST API call. Saved and structured as follows: ('changeset'=float),('lon'=float32),('lat'=float32),('timestamp'=int - download time),('id'=int),('tags'= str),('version'=int), ('addr:city'=str),('add:housen'=str),('addr:housename'=str),('addr:postcode'=str),('addr:street'=str),('email'=str),('name':str),('website'=str),('amenity':str, href to concept 'Amenity'),('geometry'=geometry),('osm_type'=str),('addr:country'=str),('operator'=str),('phone'=str),('building'=str, href to concept 'building'),('office'=str, href to concept 'office'),('wikipedia'=str, href)" ;
+        dct:identifier     "source7" ;
+        dct:issued         "2021-11-01T15:33:24Z"^^xsd:dateTime ;
+        dct:language       "Ita, Eng" ;
+        dct:modified       "2021-11-01T15:33:21Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/a7735c79-2828-43dd-b198-58b494aa9fc3> ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
+        dct:title          "open-street-map-source" ;
+        dct:type           "JSON"^^xsd:anyURI ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/c61f8c3f-a818-47d8-8aa4-bca4aa5f3c20> ;
+        dcat:keyword       "open-street-source" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/47564b57-d602-47a8-bf5b-2b95d8278205> , <https://www.epos-eu.org/epos-dcat-ap#Concept/406782b9-ed74-4512-9d50-057ed23846a2> , <https://www.epos-eu.org/epos-dcat-ap#Concept/6d5c7a03-9b7e-4f08-9891-37ddf50c8ebf> , <https://www.epos-eu.org/epos-dcat-ap#Concept/ab1f4edd-bcaf-4843-80cc-b7692ddc8fd7> , <https://www.epos-eu.org/epos-dcat-ap#Concept/019f948c-1924-4580-9323-c1ac6c34a6dc> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/b267a50f-dc08-44d5-a19a-54a3395a25ad>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "https://schema.org/Event" ;
+        dct:title        "schema.org" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/ab1f4edd-bcaf-4843-80cc-b7692ddc8fd7>
+        rdf:type         skos:Concept ;
+        skos:definition  "https://wiki.openstreetmap.org/wiki/Building\r\n" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/850acbb5-e037-4f1d-ad28-9d914197b93a> ;
+        skos:prefLabel   "Building" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/47def352-8d9a-4695-8d5b-22ce78e1e7b2>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "open data" ;
+        dct:created        "2021-10-18T13:26:29Z"^^xsd:dateTime ;
+        dct:description    "Folder containing three sub-folders: csv, json, json_parsed. considered data is Json_parsed which contains all parsed events from csv, to intermediate json parsing, to a json structured as follows.  (\\name\\) = file name, category-year-name, (\\location\\) = if not an online event, streetaddress, (\\lat_lon\\) = lat lon of location, (\\description\\) = event description, ticket info, contacts, office hours, event content, (\\info\\) = additional event information, according to website's organization could contain office hours, age range, recurrency, (\\links\\) = all hrefs encountered during parsing, (\\schema\\) = all links to schema.org defining the <div> object, (\\recurrency\\) = to be defined to weekly, monthly or daily." , "Folder containing three sub-folders: csv, json, json_parsed. The data that is going to be considered is Json_parsed which contains all parsed events from csv, to intermediate json parsing, to a json structured as follows.  (\\name\\) = file name, category-year-name, (\\location\\) = if not an online event, streetaddress, (\\lat_lon\\) = lat lon of location, (\\description\\) = event description, ticket info, contacts, office hours, event content, (\\info\\) = additional event information, according to website's organization could contain office hours, age range, recurrency, (\\links\\) = all hrefs encountered during parsing, (\\schema\\) = all links to schema.org defining the <div> object, (\\recurrency\\) = to be defined to weekly, monthly or daily. " , "Folder containing three sub-folders: csv, json, json_parsed. considered data is Json_parsed which contains all parsed events from csv, to intermediate json parsing, to a json structured as follows.  (\\name\\ =  str, it is the name of the file built the following way: category-year-name), (\\location\\ = str, address / online), (\\lat_lon\\ = float, location's geocoordinates), (\\description\\ = str, event description such as ticket info, contacts, office hours, event content), (\\info\\ = str, additional event information, content may vary according to website's organization), (\\links\\ = URL, all hrefs encountered during parsing), (\\schema\\ = URL, all links to schema.org defining the <div> object class), (\\recurrency\\ = str, to be defined to weekly, monthly or daily)." ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/tree/main/scraped_websites/CRUSH"^^xsd:anyURI ;
+        dct:issued         "2021-10-17T13:26:38Z"^^xsd:dateTime ;
+        dct:language       "Italian" ;
+        dct:modified       "2021-10-29T13:26:34Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/06095b1a-001f-4eef-a123-23cf2d328a34> ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
+        dct:title          "Crushsite-source-folder" ;
+        dct:type           "Json"^^xsd:anyURI ;
+        adms:versionNotes  "The first version of the dataset did not contain keys (\\recurrency\\ - to be further discussed- , \\lat_lon\\).  Keys were: location, name, description, links, schema, duarion_hours and duration_days" ;
+        dcat:contactPoint  "annamaria.fetz@studenti.unitn.it" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/1d24c233-a125-4770-adad-0ae72d5a43e8> ;
+        dcat:keyword       "json_folder_crush" , "online_agenda_categories_splitting_trentino" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/61a9f31e-3cbe-4ade-87f2-12e0a73d43ad>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2021-10-22T15:13:26Z"^^xsd:dateTime ;
+        dct:description    "Reference parsed json. Main keys: (immagine, str - picture), (url, str - url to the event page), (abstract_text, str - event description without html tags), (abstract, str, event description), (title, str - event title), (lon, str, gps coordinate for longitude), (lat, str, gps coordinate for latitude), (modifica, str, last update), (link, str, link of the event via API), (duration_days, list with starting date and end date as str), (duration_hours, str with starting hour and end hour), (weekday, str - day of the event), (indirizzo, str - address of the event's location) " ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/blob/main/OpenData/opendata_rovereto_parsed.json"^^xsd:anyURI ;
+        dct:issued         "2021-10-22T15:13:31Z"^^xsd:dateTime ;
+        dct:language       "Ita" ;
+        dct:modified       "2021-10-22T15:13:29Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/1dc713f7-e1c3-4aef-9fd9-63848aa63619> ;
+        dct:title          "open-data-source-Rovereto" ;
+        dct:type           "JSON"^^xsd:anyURI ;
+        adms:versionNotes  "Three keys have been added from the original json: weeday, duration_days, and duration_hours for further data integration\t" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/c61f8c3f-a818-47d8-8aa4-bca4aa5f3c20> ;
+        dcat:keyword       "c_h612_comune-di-rovereto-eventi" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/15c6fed0-b26b-40ea-9ae9-1921e649dec8>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2021-10-26T17:50:03Z"^^xsd:dateTime ;
+        dct:description    "dataset contianing sample events in original language. specifically movies. CSV files, not parsed yet." ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/blob/main/my-movies.csv"^^xsd:anyURI ;
+        dct:issued         "2021-10-26T17:49:56Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/bf365aa7-cfe8-479c-9fdc-4335ea7dba0a> ;
+        dct:title          "my-movies-dataset" ;
+        dct:type           "CSV"^^xsd:anyURI ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/1d24c233-a125-4770-adad-0ae72d5a43e8> ;
+        dcat:keyword       "my-movies-data-source" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/60881d5e-5458-425e-b46e-d74015c02446>
+        rdf:type           schema:Organization ;
+        schema:address     "C/O Dipartimento di Economia e Management, Via Vigilio Inama 5, 38122 Trento" ;
+        schema:email       "trento@esn.it\t" ;
+        schema:identifier  "CF 92105850348 " ;
+        schema:legalName   "ESN Italia" ;
+        schema:leiCode     "CF 92105850348" ;
+        schema:url         "https://trento.esn.it/"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/4aa0c8c8-515f-4c33-adc8-1da5b3b076db>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "https://wiki.openstreetmap.org/wiki/Key:tourism" ;
+        dct:title        "wiki-tourism" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/22cda8db-7c08-468f-9c8a-c39cec90317e>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "https://wiki.openstreetmap.org/wiki/Leisure\r\n" ;
+        dct:title        "wiki-leisure" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/1d24c233-a125-4770-adad-0ae72d5a43e8>
+        rdf:type            schema:ContactPoint ;
+        schema:contactType  "Email" ;
+        schema:email        "annamaria.fetz@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/019f948c-1924-4580-9323-c1ac6c34a6dc>
+        rdf:type         skos:Concept ;
+        skos:definition  "https://wiki.openstreetmap.org/wiki/Leisure" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/22cda8db-7c08-468f-9c8a-c39cec90317e> ;
+        skos:prefLabel   "Leisure" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((11.14013671875 46.23305294479792,11.3818359375 46.39998810407906,11.4697265625 46.004593255744446,11.107177734375 45.98932892799917,10.843505859375 46.17222297845504,10.72265625 46.4075639663003,11.14013671875 46.23305294479792))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/842dbca8-07db-41fc-8a33-3fb5221e6114>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2021-10-19T13:43:25Z"^^xsd:dateTime ;
+        dct:description    "JSON file retrieved through REST API call. One event available, correctly split into \\description\\: str, \\duration\\:int- event duration, \\fee\\: (dict(\\amount\\:int,\\currency\\.str, \\accepted payment method\\:str, \\requirement\\:bool)), \\group\\:str, \\visibility\\, \\how_to_find_us\\: str -route,   \\id\\: \\str\\, \\is_online_event\\: bool,\\link\\: \\href\\, \\local_date\\: \\yyy-mm-dd\\, \\local_time\\: \\hh:ms\\,  \\member_pay_fee\\: bool,  \\name\\: \\str\\, \\status\\: \\str\\, \\time\\: isodatetime, \\updated\\: isodatetime,  \\utc_offset\\: 7200000,  Respectively, group (dict) is subdivided into  \\country\\: \\str\\, \\created\\: datetime isoformat,  \\id\\: int, \\join_mode\\: \\str\\,  \\lat\\: float, \\localized_location\\: \\str\\, \\lon\\: float, \\name\\: \\str\\, \\region\\: \\str\\, \\state\\: \\str\\, \\timezone\\: UTC Time, str , \\urlname\\: \\str\\,  \\who\\: \\str\\ . " ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/blob/main/meetup_data.json"^^xsd:anyURI ;
+        dct:issued         "2021-10-19T13:43:30Z"^^xsd:dateTime ;
+        dct:language       "Italian" ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/2b5b8eb3-29cc-46c5-a6aa-284fa19d36d2> ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
+        dct:title          "meetup-source" ;
+        dct:type           "JSON"^^xsd:anyURI ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/c61f8c3f-a818-47d8-8aa4-bca4aa5f3c20> ;
+        dcat:keyword       "meet-up-source" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/6d5c7a03-9b7e-4f08-9891-37ddf50c8ebf>
+        rdf:type         skos:Concept ;
+        skos:definition  "https://wiki.openstreetmap.org/wiki/Leisure\r\n" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/bc543221-588f-467d-938e-7e51802fb51a> ;
+        skos:prefLabel   "Leisure" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/fc93c33a-a617-43e3-8372-59ae11559129>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "open data" ;
+        dct:created        "2021-10-27T15:20:07Z"^^xsd:dateTime ;
+        dct:description    "csv file storing html.text scraped from the respective websites of MART; Buoncosiglio Castle, Birreria Pedavena and eventually BOOKIQUE. Not parsed yet for the purpose of further Sentiment analysis" ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/tree/main/TripAdvisor"^^xsd:anyURI ;
+        dct:language       "Ita, Eng" ;
+        dct:modified       "2021-10-27T15:20:09Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/cbb6524c-228a-4cdf-aab6-8b9312097afb> ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
+        dct:title          "trip-advisor-folder" ;
+        dct:type           "CSV"^^xsd:anyURI ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/1d24c233-a125-4770-adad-0ae72d5a43e8> ;
+        dcat:keyword       "reviews" , "trip-advisor-source" , "sentiment analysis" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/324d16dc-cd8c-40d2-94d2-c58a6c7edb0e> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/a7735c79-2828-43dd-b198-58b494aa9fc3>
+        rdf:type  schema:Organization .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/6e7e8276-d727-4844-9f65-613ab425b25d>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Open - Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)" ;
+        dct:created        "2021-10-22T13:59:48Z"^^xsd:dateTime ;
+        dct:description    "\\metadata\\: (event-id, int),(remoteId, str), (classIdentifier,str), (class, url -str), (ownerId, int), (ownerName, key(ita-IT, str)), (mainNodeId, int), (sectionIdentifier, str -  access mode), (stateIdentifiers, list of str), (published, str - first publication), (modified, str - last update), (languages, list of str), (name, str - event name), (parentNodes, int), (link, str - data url), \\data\\ : for each language a dictionary including (priority, str), (special, int), (titolo, str - event title), (short title, str - shorter event title), (abstract, str - introduction), (text, str - event description), (file, if not null contains keys((filename,str), (url, str))), (from_time, str - event start), (to_time, str - event end), (periodo_svolgimento, str - event starting time and (sometimes) address), (orario_svolgimento, str - event starting time), (durata, str (moslty null) - duration of the event), (gps, dict with keys((latitudine, float), (longitudine, float), (address, str))), (url, str - (if not null) url of event's official page), (email, str), (telefono, str - (if not null) phone of the organiser), (informazioni, str - further information), (costi, str - description of the costs), (image, dict with keys((filename, str - image name), (url, str - link to the picture), (alt, str), (mime_type, str - image format), (width, str), (height, str))), (tipo_eventi_manifestazoni, https://www.google.com/url?q=http://www.comune.trento.it/api/opendata/v2/classes/tipo_eventi&sa=D&source=editors&ust=1635777999641000&usg=AOvVaw2_sTgyTcGLuMWoSHEAro_H) ,(list of dict with keys((id, int), (remoteId, str), (classIdentifier, str), (class, str), (languages, list of str), (name, str), (link, str), (mainNodeId, str))), (iniziativa, list of dict - contains the information about the main event), (tipo_evento, list with references to the class definition of event for Comune di Trento), (materia, list of dict to classify the event within one category), (io_sono, list), (circoscrizione, list), (servizio_sul_territorio, list), (associazione, list always empty), (ente, list always empty), (progessivo, always null)" ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/blob/main/OpenData/opendata_trento_parsed.json"^^xsd:anyURI ;
+        dct:issued         "2021-10-22T13:59:52Z"^^xsd:dateTime ;
+        dct:language       "Ita, Eng" ;
+        dct:modified       "2021-10-22T13:59:50Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/1dc713f7-e1c3-4aef-9fd9-63848aa63619> ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
+        dct:title          "open data source - Trento" ;
+        dct:type           "JSON"^^xsd:anyURI ;
+        adms:versionNotes  "Metadata and data keys have been extracted from the original JSON file and saved in a new one. \t" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/c61f8c3f-a818-47d8-8aa4-bca4aa5f3c20> ;
+        dcat:keyword       "open-data-trento" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/cbb6524c-228a-4cdf-aab6-8b9312097afb>
+        rdf:type           schema:Organization ;
+        schema:identifier  "TRIP" ;
+        schema:legalName   "Trip Advisor LLC" ;
+        schema:leiCode     "TRIP" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/d429163b-7062-4b49-965d-54006d50c138>
+        rdf:type           schema:Organization ;
+        schema:identifier  "P.IVA EU528002381" ;
+        schema:legalName   "EU528002381" ;
+        schema:leiCode     "EU528002381" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/164336ab-fd30-4a29-8ad9-a041fd7e126e>
+        rdf:type           schema:Organization ;
+        schema:address     "1402, Capstone, Chirag Motors Cross Roads, Near Parimal Garden, Ellisbridge, Ahmedabad, Gujarat 380006" ;
+        schema:identifier  "https://allevents.in/"^^xsd:anyURI ;
+        schema:legalName   "allevents" ;
+        schema:url         "https://allevents.in/"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/2b5b8eb3-29cc-46c5-a6aa-284fa19d36d2>
+        rdf:type           schema:Organization ;
+        schema:identifier  "https://www.meetup.com/it-IT"^^xsd:anyURI ;
+        schema:legalName   "Meetup LLC" ;
+        schema:leiCode     "Meetup LLC" ;
+        schema:url         "https://www.meetup.com/it-IT"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/324d16dc-cd8c-40d2-94d2-c58a6c7edb0e>
+        rdf:type         skos:Concept ;
+        skos:definition  "A review of an item - for example, of a restaurant, movie, or store." ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/88fd2387-5aa5-49e0-ad5a-9939d9186d75> ;
+        skos:prefLabel   "Review" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/0cb1906e-82a6-4a3b-bfa7-1bc684867cae>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "open data\r\n" ;
+        dct:created        "2021-10-18T13:12:40Z"^^xsd:dateTime ;
+        dct:description    "Folder containing two sub-folders: csv, json. considered data is Json which contains all parsed events from csv structured as follows.  (\\name\\ =  str, it is the name of the file built the following way: category-year-name), (\\location\\ = str, address / online), (\\lat_lon\\ = float, location's geocoordinates), (\\description\\ = str, event description such as ticket info, contacts, office hours, event content), (\\info\\ = str, additional event information, content may vary according to website's organization), (\\links\\ = URL, all hrefs encountered during parsing), (\\schema\\ = URL, all links to schema.org defining the <div> object class), (\\recurrency\\ = str, to be defined to weekly, monthly or daily)." ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/tree/main/scraped_websites/ESN/JSON"^^xsd:anyURI ;
+        dct:issued         "2021-10-18T13:12:44Z"^^xsd:dateTime ;
+        dct:language       "English, Italian" ;
+        dct:modified       "2021-10-27T13:12:42Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/60881d5e-5458-425e-b46e-d74015c02446> ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
+        dct:title          "esn-folder-source" , "esn-folder" ;
+        dct:type           "JSON"^^xsd:anyURI ;
+        adms:versionNotes  "Some tweaks to location were introduced as the standard country was italy, without city specification. For these first steps, the location has been intended as the place in which the organizator is located, if no further notice is given. \t" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/1d24c233-a125-4770-adad-0ae72d5a43e8> ;
+        dcat:keyword       "json_folder_esn" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/c61f8c3f-a818-47d8-8aa4-bca4aa5f3c20>
+        rdf:type            schema:ContactPoint ;
+        schema:contactType  "email" ;
+        schema:email        "lucia.hrovatin@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/37490edc-016f-40ca-a064-3a9ce1dca75e>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Restricted data" ;
+        dct:created        "2021-10-17T17:38:59Z"^^xsd:dateTime ;
+        dct:description    "Folder containing JSON files and CSV files. CSV are intended for further sentiment analysis while JSON files will be used to integrte data from previously-scraped resources" ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/blob/main/JETN_climbing_gap.json"^^xsd:anyURI ;
+        dct:issued         "2021-10-20T17:38:53Z"^^xsd:dateTime ;
+        dct:language       "Ita, Eng" ;
+        dct:modified       "2021-10-23T17:38:55Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/851bd1c5-f20d-4570-9352-611111e338eb> , <https://www.epos-eu.org/epos-dcat-ap#Organization/d429163b-7062-4b49-965d-54006d50c138> ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
+        dct:title          "Eventbrite-folder-source" ;
+        adms:versionNotes  "JETn events were aggregated and anonymized according to GDPR, while csv files have to be parsed." ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/c61f8c3f-a818-47d8-8aa4-bca4aa5f3c20> , <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/1d24c233-a125-4770-adad-0ae72d5a43e8> ;
+        dcat:keyword       "eventbrite-soyrce-folder" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/324d16dc-cd8c-40d2-94d2-c58a6c7edb0e> , <https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/49398524-c504-4c3a-a537-9ae6ac0a0db5>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2021-10-18T12:22:09Z"^^xsd:dateTime ;
+        dct:description    "Folder containing two sub-folders: csv, json. considered data is Json which contains all parsed events from csv structured, as follows.  (\\name\\=  str, file name: category-year-name), (\\location\\ = str, address/online), (\\lat_lon\\ =  float, lat lon of location), (\\description\\ = str, event description, ticket info, contacts [...]), (\\info\\ = str, additional event information, dependent on  website's organization), (\\links\\=  URL, all hrefs encountered during parsing), (\\schema\\ = URL, hrefs to schema.org defining the <div> object class), (\\recurrency\\ = str, to be defined to weekly, monthly or daily)." ;
+        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/tree/main/scraped_websites/STAY/JSON"^^xsd:anyURI ;
+        dct:issued         "2021-10-17T13:22:44Z"^^xsd:dateTime ;
+        dct:language       "italian, english" ;
+        dct:modified       "2021-10-29T13:22:43Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/164336ab-fd30-4a29-8ad9-a041fd7e126e> ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
+        dct:title          "stay-happening" ;
+        dct:type           "JSON"^^xsd:anyURI ;
+        adms:versionNotes  "No specific parsing was applied. Data well organized within the body of the web page." ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/1d24c233-a125-4770-adad-0ae72d5a43e8> ;
+        dcat:keyword       "stayhappening" , "hashtag" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/1dc713f7-e1c3-4aef-9fd9-63848aa63619>
+        rdf:type           schema:Organization ;
+        schema:address     "Piazza Dante,15 - 38122 Trento (It)" ;
+        schema:identifier  "IVA c_l378" ;
+        schema:legalName   "open" ;
+        schema:leiCode     "IVA c_l378" ;
+        schema:url         "https://dati.trentino.it/"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/7a2a3f8f-1a48-4073-aacc-bcd86806294e>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "https://wiki.openstreetmap.org/wiki/Amenity" ;
+        dct:title        "wiki-amenity" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/406782b9-ed74-4512-9d50-057ed23846a2>
+        rdf:type         skos:Concept ;
+        skos:definition  "https://wiki.openstreetmap.org/wiki/Amenity" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/7a2a3f8f-1a48-4073-aacc-bcd86806294e> ;
+        skos:prefLabel   "Amenity" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/850acbb5-e037-4f1d-ad28-9d914197b93a>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "https://wiki.openstreetmap.org/wiki/Building\r\n" ;
+        dct:title        "wiki- building" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/47564b57-d602-47a8-bf5b-2b95d8278205>
+        rdf:type         skos:Concept ;
+        skos:definition  "https://wiki.openstreetmap.org/wiki/Key:tourism" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/4aa0c8c8-515f-4c33-adc8-1da5b3b076db> ;
+        skos:prefLabel   "Tourism" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/88fd2387-5aa5-49e0-ad5a-9939d9186d75>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "https://schema.org/Review" ;
+        dct:title        "Review" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Agent/851bd1c5-f20d-4570-9352-611111e338eb>
+        rdf:type   foaf:Agent ;
+        foaf:name  "- UDU\r\n- JETn\r\n- ESN\r\n- L'Universitario" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/7dd1cc33-6088-42d5-8962-fc3e743e72a1>
+        rdf:type         skos:Concept ;
+        skos:definition  "An event happening at a certain time and location, such as a concert, lecture, or festival. Ticketing information may be added via the offers property. Repeated events may be structured as separate Event objects." ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/b267a50f-dc08-44d5-a19a-54a3395a25ad> ;
+        skos:prefLabel   "Event" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/06095b1a-001f-4eef-a123-23cf2d328a34>
+        rdf:type           schema:Organization ;
+        schema:address     "Via Angeli 7/A, 38074 (Dro - Italia)" ;
+        schema:email       "info@crushsite.it info@pec.2crushsite.it" ;
+        schema:identifier  "REA 180005" ;
+        schema:legalName   "2crushsite" ;
+        schema:leiCode     "p.iva" ;
+        schema:url         "https://www.crushsite.it/it/"^^xsd:anyURI ;
+        epos:annotation    "Crushsite.it is an online arts and culture agenda" .
