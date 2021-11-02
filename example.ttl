@@ -51,9 +51,10 @@
         rdf:type           schema:Organization ;
         schema:address     "Piazza Dante,15 - 38122 Trento (It)" ;
         schema:identifier  "IVA c_l378" ;
-        schema:legalName   "open" ;
+        schema:legalName   "open data" ;
         schema:leiCode     "IVA c_l378" ;
-        schema:url         "https://dati.trentino.it/"^^xsd:anyURI .
+        schema:url         "https://dati.trentino.it/"^^xsd:anyURI ;
+        epos:annotation    "https://dati.trentino.it/dataset/eventi-del-comune-di-trento" , "https://dati.trentino.it/dataset/comune-di-rovereto-eventi" .
 
 <https://www.epos-eu.org/epos-dcat-ap#Organization/bf365aa7-cfe8-479c-9fdc-4335ea7dba0a>
         rdf:type           schema:Organization ;
@@ -239,7 +240,7 @@
         dct:issued         "2021-11-01T15:33:24Z"^^xsd:dateTime ;
         dct:language       "Ita, Eng" ;
         dct:modified       "2021-11-01T15:33:21Z"^^xsd:dateTime ;
-        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/a7735c79-2828-43dd-b198-58b494aa9fc3> ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/ab9c70bf-bf12-4aaa-b4ae-2c1a86eeb387> , <https://www.epos-eu.org/epos-dcat-ap#Organization/a7735c79-2828-43dd-b198-58b494aa9fc3> ;
         dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/72940301-90cf-4c47-9ed6-a464ae0a2932> ;
         dct:title          "open-street-map-source" ;
         dct:type           "JSON"^^xsd:anyURI ;
@@ -301,6 +302,9 @@
         skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/850acbb5-e037-4f1d-ad28-9d914197b93a> ;
         skos:prefLabel   "Building" .
 
+<https://www.epos-eu.org/epos-dcat-ap#Agent/ab9c70bf-bf12-4aaa-b4ae-2c1a86eeb387>
+        rdf:type  foaf:Agent .
+
 <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/7a2a3f8f-1a48-4073-aacc-bcd86806294e>
         rdf:type         skos:ConceptScheme ;
         dct:description  "https://wiki.openstreetmap.org/wiki/Amenity" ;
@@ -348,7 +352,6 @@
         rdf:type           dcat:Dataset ;
         dct:created        "2021-10-22T15:13:26Z"^^xsd:dateTime ;
         dct:description    "Reference parsed json. Main keys: (immagine, str - picture), (url, str - url to the event page), (abstract_text, str - event description without html tags), (abstract, str, event description), (title, str - event title), (lon, str, gps coordinate for longitude), (lat, str, gps coordinate for latitude), (modifica, str, last update), (link, str, link of the event via API), (duration_days, list with starting date and end date as str), (duration_hours, str with starting hour and end hour), (weekday, str - day of the event), (indirizzo, str - address of the event's location) " ;
-        dct:identifier     "https://github.com/LuciaHrovatin/KDI_project/blob/main/OpenData/opendata_rovereto_parsed.json"^^xsd:anyURI ;
         dct:issued         "2021-10-22T15:13:31Z"^^xsd:dateTime ;
         dct:language       "Ita" ;
         dct:modified       "2021-10-22T15:13:29Z"^^xsd:dateTime ;
