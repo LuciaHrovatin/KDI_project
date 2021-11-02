@@ -355,7 +355,7 @@
         dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/1dc713f7-e1c3-4aef-9fd9-63848aa63619> ;
         dct:title          "open-data-source-Rovereto" ;
         dct:type           "JSON"^^xsd:anyURI ;
-        adms:versionNotes  "Three keys have been added from the original json: weeday, duration_days, and duration_hours for further data integration\t" ;
+        adms:versionNotes  "Four keys have been added from the original json: weeday, duration_days, duration_hours, and repeated (to signal events repeated ove time) for further data integration\t" ;
         dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/c61f8c3f-a818-47d8-8aa4-bca4aa5f3c20> ;
         dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/f7e6fd9e-2ff0-411b-bf4d-0b1bce0deeaa> ;
         dcat:keyword       "c_h612_comune-di-rovereto-eventi" ;

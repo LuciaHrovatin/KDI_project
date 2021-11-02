@@ -246,42 +246,17 @@ class Reviewer() :
         i = 0
         for lk in self.link :
         
-            
-            source = urllib.request.urlopen(lk)
-            scrape = Scraping(source,lk, parser)
+            req = requests.get(lk,headers={"User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 12871.102.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.141 Safari/537.36"}) 
+   
+            scrape = Scraping(req.content,lk, parser)
             print("Scraping {} and writing it to file".format(lk))
             body = scrape.get_n_body(self.classe, n)
             
-            with open(l[i], 'w', encoding = 'utf-8') as f :
-                    writer = csv.writer(f)
-                    writer.writerow(body)
-                    f.close()
+            if (l[i] == 'Bookique.csv') : 
+                with open(l[i], 'w', encoding = 'utf-8') as f :
+                        writer = csv.writer(f)
+                        writer.writerow(body)
+                        f.close()
             i += 1
-     
-
-#rw = Reviewer() 
-#rw.scrape_and_write(10)
 
 
-#req = urllib.request.urlopen("https://www.tripadvisor.com/Restaurant_Review-g187861-d10304321-Reviews-Bookique-Trento_Province_of_Trento_Trentino_Alto_Adige.html")
-#print(req)
-##obj = Scraping(req.text,"https://www.tripadvisor.com/Restaurant_Review-g187861-d10304321-Reviews-Bookique-Trento_Province_of_Trento_Trentino_Alto_Adige.html", parser)
-#print(obj)
-#body = obj.get_n_body("ui_column is-9", 6)
-            
-#with open('bookique.csv', 'w', encoding = 'utf-8') as f :
-#    writer = csv.writer(f)
-#    writer.writerow(body)
-#    f.close()
-
-
-
-try:
-    req = urllib.request.urlopen("https://www.tripadvisor.com/Restaurant_Review-g187861-d10304321-Reviews-Bookique-Trento_Province_of_Trento_Trentino_Alto_Adige.html") 
-   
-    main_categories = Scraping(req,"https://www.tripadvisor.com/Restaurant_Review-g187861-d10304321-Reviews-Bookique-Trento_Province_of_Trento_Trentino_Alto_Adige.html", parser)
-    body = main_categories.get_n_body("ui_column is-9", 5)
-
-except urllib.error.HTTPError as e:
-    print(e.code)
-    print(e.read()) 

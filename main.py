@@ -2,7 +2,7 @@
 from accessibility_places import accessibilityAPI
 from jetn import jetnData
 #from twitter import twitterAPI
-from open_data import opendataAPI
+from OpenData.open_data import opendataAPI
 #cc = CrushCollector()
 #esn = EsnCollector()
 #sh = StayHappeningCollector()
@@ -22,8 +22,8 @@ if __name__ == "__main__":
         #esn.visit_event_and_write()
         #sh.write_events()
         #rw.scrape_and_write(10)
-        cp.CrushParser().second_parsing()
-        
+        #cp.CrushParser().second_parsing()
+      
 
         # Twitter
         #visit_trentino = twitterAPI()
