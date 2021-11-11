@@ -44,25 +44,35 @@ def create_parsed_dictionary_and_write() :
                 reader = csv.reader(f, delimiter=',')
 
                 for row in reader: 
+                    
                     clean = ' '.join(row).strip().split() 
+                   
                 
                     for word in clean :
                         if (word == sc['name'][0]) :
                             name = []
                             ind = clean.index(word)
-                            while (sc['name'][1] not in clean[ind]) : 
+                            while (ind < len(clean)-1) and (sc['name'][1] not in clean[ind]) : 
                                 name.append(word)
                                 ind +=1
                             name.append(clean[ind])
                             name.extend(['-',cat])
+                        if ('tags:' in word) :
+                            d['tags'] = []
+                            i = clean.index(word)
+                            while (i < len(clean)-1) and ('</a>' not in clean[i]) : 
+                                w = clean[i].replace('<span','').replace( 'class="badge', '').replace('</h3>','').replace('badge-dark','').replace('mr-2','').replace('mb-2','').replace('</span>','').replace('tags:','').replace(' float-left">','')
+                                d['tags'].append(w)
+                                i += 1
+
                         if ('duration_hours' not in d) :
                             
                             if (sc['duration_hours'][0] in word) :
                                 
                                 
                                 ind = clean.index(word)
-                                
-                                while (sc['duration_hours'][1] not in clean[ind]) :
+                                 
+                                while (ind < len(clean)) and (sc['duration_hours'][1] not in clean[ind]) :
                                    
                                     if (':' in clean[ind]) :
                                         j = clean[ind].index(':') 
@@ -95,7 +105,8 @@ def create_parsed_dictionary_and_write() :
                                 ds.append(clean[ind])
                                 ind += 1
 
-                            d['description'] = ds
+                            d['description'] = ' '.join(ds)
+                            d['name'] = title
                 write_dic_to_json(d,title) 
 
                         
@@ -105,6 +116,7 @@ def create_parsed_dictionary_and_write() :
 
         
 def write_dic_to_json(dic,title) :
+    
     with open(os.path.join(new_dir, title)+'.json', 'w', encoding='utf-8') as f:
         json.dump(dic, f, ensure_ascii=False, indent=4, default=str)
         

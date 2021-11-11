@@ -1,1 +1,41 @@
-{"duration_days": ["Mercoled\u00ec", "Mercoled\u00ec", "Marted\u00ec", "Marted\u00ec", "Luned\u00ec", "Domenica", "Sabato", "Venerd\u00ec", "Gioved\u00ec"], "name": "cinema2021the last duel_73380.", "location": "Supercinema Vittoria, Via Manci 158, Trento", "duration_hours": "21.0018.0022.0017.3021.0018.0021.0018.0020.4017.4021.1518.1521.0018.0021.0018.00", "info": "(biglietti, modalit\u00e0 di accesso, info e contatti) / a (prenota/acquista online) Note: a href=https://www.cineworldtrento.it/ target=_blankwww.cineworldtrento.it/a", "schema": ["itemtype=http://schema.org/Place", "itemtype=http://schema.org/PostalAddress"], "links": ["#", "https://www.cineworldtrento.it/", "https://cineworld.18tickets.it/", "https://www.thelastduel.it/", "https://www.youtube.com/watch?v=41WdQ8iY7D4", "/it/cinema/cineworld-multisala-modena-supercinema-vittoria-nuovo-roma.html"], "description": "Regia: Ridley Scott Con: Jodie Comer, Adam Driver, Matt Damon, Ben Affleck Nazione: USA Durata: 152 Genere: drammatico Informazioni complete/trailer: a a Evento segnalato da a title=Cineworld/", "recurrency": ["Mercoled\u00ec", "Mercoled\u00ec", "Marted\u00ec", "Marted\u00ec", "Luned\u00ec", "Domenica", "Sabato", "Venerd\u00ec", "Gioved\u00ec"], "lat_lon": [46.06989000000004, 11.124100000000055]}
+{
+    "duration_days": [
+        "Mercoledì",
+        "Mercoledì",
+        "Martedì",
+        "Martedì",
+        "Lunedì",
+        "Domenica",
+        "Sabato",
+        "Venerdì",
+        "Giovedì"
+    ],
+    "name": "cinema2021the last duel_73380.",
+    "location": "Supercinema Vittoria, Via Manci 158, Trento",
+    "duration_hours": "21.0018.0022.0017.3021.0018.0021.0018.0020.4017.4021.1518.1521.0018.0021.0018.00",
+    "info": "(biglietti, modalità di accesso, info e contatti) / a (prenota/acquista online) Note: a href=https://www.cineworldtrento.it/ target=_blankwww.cineworldtrento.it/a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.cineworldtrento.it/",
+        "https://cineworld.18tickets.it/",
+        "https://www.thelastduel.it/",
+        "https://www.youtube.com/watch?v=41WdQ8iY7D4",
+        "/it/cinema/cineworld-multisala-modena-supercinema-vittoria-nuovo-roma.html"
+    ],
+    "description": "Regia: Ridley Scott Con: Jodie Comer, Adam Driver, Matt Damon, Ben Affleck Nazione: USA Durata: 152 Genere: drammatico Informazioni complete/trailer: a a Evento segnalato da a title=Cineworld/",
+    "recurrency": [
+        "Mercoledì",
+        "Mercoledì",
+        "Martedì",
+        "Martedì",
+        "Lunedì",
+        "Domenica",
+        "Sabato",
+        "Venerdì",
+        "Giovedì"
+    ]
+}

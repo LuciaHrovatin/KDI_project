@@ -1,1 +1,46 @@
-{"links": ["src=\"https://cdn.stayhappening.com/events9/banners/3376590a565afe06b3bef3bcb81e064628bcc7dda24b22e6dd41ee9e5010acf4-rimg-w526-h296-gmir.jpg?v=1634893541\"", "href=\"https://stayhappening.com/trento--music\"", "href=\"https://stayhappening.com/trento--entertainment\"", "href=\"https://stayhappening.com/trento--concerts\"", "data-url=\"https://stayhappening.com/e/giovanni-allevi-piano-solo-tour-trento-E2ISSGOMWFQ?ref=ep_sharer\"></div>"], "schema": [], "duration_hours": ["10:00", "pm", "12:00", "am", "UTC+02:00</h2>"], "duration_days": ["h6\">Tue", "Nov", "30", "2021", "to", "Wed", "Dec", "01", "2021"], "location": "c e n t r o   s a n t a   c h i a r a   ,   t r e n t o", "description": ["<article", "style=\"word-break:", "break-all;word-break:", "break-word;\">", "<img", "alt=\"Giovanni", "Allevi", "\\/\\/", "Piano", "Solo", "Tour", "\\/\\/", "Trento\"", "class=\"img-fluid", "rounded", "hover-translate-y-n3", "hover-shadow-lg", "mb-4\"", "height=\"296\"", "src=\"https://cdn.stayhappening.com/events9/banners/3376590a565afe06b3bef3bcb81e064628bcc7dda24b22e6dd41ee9e5010acf4-rimg-w526-h296-gmir.jpg?v=1634893541\"", "style=\"width:", "100%;min-height:", "150px;\"", "width=\"526\"/>", "Il", "concerto", "in", "programma", "a", "Trento", "(Teatro", "Auditorium", "Santa", "Chiara)", "\u00e8", "stato", "nuovamente", "posticipato", "al", "30", "novembre", "2021.", "I", "biglietti", "gi\u00e0", "acquistati", "per", "le", "date", "precedenti", "(17", "marzo", "2020,", "27", "maggio", "2020,", "14", "novembre", "2020", "e", "27", "marzo", "2021)", "rimangono", "validi", "per", "la", "nuova", "data."], "lat_lon": [46.06352000000004, 11.124210000000062]}
+{
+    "links": [
+        "src=\"https://cdn.stayhappening.com/events9/banners/3376590a565afe06b3bef3bcb81e064628bcc7dda24b22e6dd41ee9e5010acf4-rimg-w526-h296-gmir.jpg?v=1634893541\"",
+        "href=\"https://stayhappening.com/trento--music\"",
+        "href=\"https://stayhappening.com/trento--entertainment\"",
+        "href=\"https://stayhappening.com/trento--concerts\"",
+        "data-url=\"https://stayhappening.com/e/giovanni-allevi-piano-solo-tour-trento-E2ISSGOMWFQ?ref=ep_sharer\"></div>"
+    ],
+    "schema": [],
+    "duration_hours": [
+        "10:00",
+        "pm",
+        "12:00",
+        "am",
+        "UTC+02:00</h2>"
+    ],
+    "duration_days": [
+        "h6\">Tue",
+        "Nov",
+        "30",
+        "2021",
+        "to",
+        "Wed",
+        "Dec",
+        "01",
+        "2021"
+    ],
+    "location": "Centro Santa Chiara , Trento",
+    "description": "<article style=\"word-break: break-all;word-break: break-word;\"> <img alt=\"Giovanni Allevi \\/\\/ Piano Solo Tour \\/\\/ Trento\" class=\"img-fluid rounded hover-translate-y-n3 hover-shadow-lg mb-4\" height=\"296\" src=\"https://cdn.stayhappening.com/events9/banners/3376590a565afe06b3bef3bcb81e064628bcc7dda24b22e6dd41ee9e5010acf4-rimg-w526-h296-gmir.jpg?v=1634893541\" style=\"width: 100%;min-height: 150px;\" width=\"526\"/> Il concerto in programma a Trento (Teatro Auditorium Santa Chiara) è stato nuovamente posticipato al 30 novembre 2021. I biglietti già acquistati per le date precedenti (17 marzo 2020, 27 maggio 2020, 14 novembre 2020 e 27 marzo 2021) rimangono validi per la nuova data.",
+    "name": "-giovanni-allevi-piano-solo-tour-trento-E2ISSGOMWFQ.csv",
+    "tags": [
+        "",
+        "<a",
+        "href=\"https://stayhappening.com/trento--music\"",
+        "title=\"Trento",
+        "Best",
+        "music",
+        "Events\">",
+        "",
+        "",
+        "",
+        "",
+        "float-left\">Music",
+        "in"
+    ]
+}

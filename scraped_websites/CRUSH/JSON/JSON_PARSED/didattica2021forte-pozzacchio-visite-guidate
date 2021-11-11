@@ -1,1 +1,27 @@
-{"duration_days": ["15", "345", "126", "7009", "1", "30"], "name": "didattica2021forte pozzacchio visite guidate.", "location": "A.P.T. Rovereto e Vallagarina/, a", "duration_hours": "Tutte le domeniche nei mesi di agosto, settembre, ottobre alle ore 14.00 : Visite guidate solo su prenotazione al numero 345 1267009 o mail ", "info": "Visite guidate solo su prenotazione al numero 345 1267009 o mail a", "schema": ["itemtype=http://schema.org/Place", "itemtype=http://schema.org/PostalAddress"], "links": ["#", "mailto:info@fortepozzacchio.itinfo@fortepozzacchio.it/a", "mailto:info@fortepozzacchio.itinfo@fortepozzacchio.it/al.", "https://www.visitrovereto.it/vivi/eventi/forte-pozzacchio-eventi-aperture/", "/it/incontri/azienda-per-il-turismo-rovereto-e-vallagarina.html"], "description": "Spettacoli, incontri, ricordi nellultima fortezza dellImpero austro-ungarico Forte Pozzacchio propone eventi di grande spessore, che si affiancano al calendario delle visite guidate nel weekend Visite guidate al forte tutte le domeniche: /tutte le domeniche nei mesi di agosto, settembre, ottobre alle ore 14.00 / Prenotazione obbligatoria (max 15 persone a visita) telefonando allo +39 345 126 7009 (anche Whatsapp) o via mail a a Durata: circa 1 ora e 30 Prezzo: \u0080 5,00 a persona oltre il prezzo del biglietto d\u0092ingresso Informazioni e programma completo: a Evento segnalato da a title=A.P.T. Rovereto e Vallagarina/", "recurrency": [], "lat_lon": [45.816730000000064, 10.954180000000065]}
+{
+    "duration_days": [
+        "15",
+        "345",
+        "126",
+        "7009",
+        "1",
+        "30"
+    ],
+    "name": "didattica2021forte pozzacchio visite guidate.",
+    "location": "A.P.T. Rovereto e Vallagarina/, a",
+    "duration_hours": "Tutte le domeniche nei mesi di agosto, settembre, ottobre alle ore 14.00 : Visite guidate solo su prenotazione al numero 345 1267009 o mail ",
+    "info": "Visite guidate solo su prenotazione al numero 345 1267009 o mail a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "mailto:info@fortepozzacchio.itinfo@fortepozzacchio.it/a",
+        "mailto:info@fortepozzacchio.itinfo@fortepozzacchio.it/al.",
+        "https://www.visitrovereto.it/vivi/eventi/forte-pozzacchio-eventi-aperture/",
+        "/it/incontri/azienda-per-il-turismo-rovereto-e-vallagarina.html"
+    ],
+    "description": "Spettacoli, incontri, ricordi nellultima fortezza dellImpero austro-ungarico Forte Pozzacchio propone eventi di grande spessore, che si affiancano al calendario delle visite guidate nel weekend Visite guidate al forte tutte le domeniche: /tutte le domeniche nei mesi di agosto, settembre, ottobre alle ore 14.00 / Prenotazione obbligatoria (max 15 persone a visita) telefonando allo +39 345 126 7009 (anche Whatsapp) o via mail a a Durata: circa 1 ora e 30 Prezzo:  5,00 a persona oltre il prezzo del biglietto dingresso Informazioni e programma completo: a Evento segnalato da a title=A.P.T. Rovereto e Vallagarina/",
+    "recurrency": []
+}

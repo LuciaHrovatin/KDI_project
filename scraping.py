@@ -51,10 +51,11 @@ class Scraping() :
         """ Write the Body of the Page to csv"""
         
         
-        with open("{}/{}.csv".format(path, event_name), "w") as f:  
+        with open("{}/{}.csv".format(path_stay, event_name.replace('/','')), "w", encoding ='utf-8') as f:  
             div = self.soup.find_all('div', class_=classe)
             for d in div:
                 csv_writer = csv.writer(f)
+                print(d)
                 csv_writer.writerow(d)
         f.close()
            

@@ -1,1 +1,40 @@
-{"links": ["src=\"https://cdn.stayhappening.com/events9/banners/7cc4640bbf0c1792a7d570217dd7ad000f0cff178ebef76bb123249ff87eae21-rimg-w514-h720-gmir.jpg?v=1634927827\"", "href=\"https://stayhappening.com/trento--music\"", "href=\"https://stayhappening.com/trento--art\"", "href=\"https://stayhappening.com/trento--literary-art\"", "href=\"https://stayhappening.com/trento--entertainment\"", "data-url=\"https://stayhappening.com/e/david-wilkinson-memorial-E2ISU10KA7Y?ref=ep_sharer\"></div>"], "schema": [], "duration_hours": ["05:00", "pm", "UTC+02:00</h2>"], "duration_days": ["h6\">Sat", "Oct", "23", "2021"], "location": "g r a n d   h o t e l   t r e n t o   ,   t r e n t o", "description": ["<article", "style=\"word-break:", "break-all;word-break:", "break-word;\">", "<img", "alt=\"David", "Wilkinson", "Memorial\"", "class=\"img-fluid", "rounded", "hover-translate-y-n3", "hover-shadow-lg", "mb-4\"", "height=\"720\"", "src=\"https://cdn.stayhappening.com/events9/banners/7cc4640bbf0c1792a7d570217dd7ad000f0cff178ebef76bb123249ff87eae21-rimg-w514-h720-gmir.jpg?v=1634927827\"", "style=\"width:", "100%;min-height:", "150px;\"", "width=\"514\"/>", "Presentazione", "delle", "ultime", "pubblicazioni", "del", "poeta", "internazionale", "appena", "scomparso.", "La", "chitarra", "di", "Martin", "de", "la", "Cruz", "si", "intervaller\u00e0", "alla", "lettura", "delle", "poesie", "del", "Wilkinson.", "Seguir\u00e0", "un", "brindisi", "alla", "memoria", "del", "noto", "poeta", "anglotrentino.", "L\u0092entrata", "\u00e8", "libera", "ad", "esaurimento", "posti", "con", "green", "pass."], "lat_lon": [46.07098000000008, 11.121660000000077]}
+{
+    "links": [
+        "src=\"https://cdn.stayhappening.com/events9/banners/7cc4640bbf0c1792a7d570217dd7ad000f0cff178ebef76bb123249ff87eae21-rimg-w514-h720-gmir.jpg?v=1634927827\"",
+        "href=\"https://stayhappening.com/trento--music\"",
+        "href=\"https://stayhappening.com/trento--art\"",
+        "href=\"https://stayhappening.com/trento--literary-art\"",
+        "href=\"https://stayhappening.com/trento--entertainment\"",
+        "data-url=\"https://stayhappening.com/e/david-wilkinson-memorial-E2ISU10KA7Y?ref=ep_sharer\"></div>"
+    ],
+    "schema": [],
+    "duration_hours": [
+        "05:00",
+        "pm",
+        "UTC+02:00</h2>"
+    ],
+    "duration_days": [
+        "h6\">Sat",
+        "Oct",
+        "23",
+        "2021"
+    ],
+    "location": "Grand Hotel Trento , Trento",
+    "description": "<article style=\"word-break: break-all;word-break: break-word;\"> <img alt=\"David Wilkinson Memorial\" class=\"img-fluid rounded hover-translate-y-n3 hover-shadow-lg mb-4\" height=\"720\" src=\"https://cdn.stayhappening.com/events9/banners/7cc4640bbf0c1792a7d570217dd7ad000f0cff178ebef76bb123249ff87eae21-rimg-w514-h720-gmir.jpg?v=1634927827\" style=\"width: 100%;min-height: 150px;\" width=\"514\"/> Presentazione delle ultime pubblicazioni del poeta internazionale appena scomparso. La chitarra di Martin de la Cruz si intervallerà alla lettura delle poesie del Wilkinson. Seguirà un brindisi alla memoria del noto poeta anglotrentino. Lentrata è libera ad esaurimento posti con green pass.",
+    "name": "-david-wilkinson-memorial-E2ISU10KA7Y.csv",
+    "tags": [
+        "",
+        "<a",
+        "href=\"https://stayhappening.com/trento--music\"",
+        "title=\"Trento",
+        "Best",
+        "music",
+        "Events\">",
+        "",
+        "",
+        "",
+        "",
+        "float-left\">Music",
+        "in"
+    ]
+}

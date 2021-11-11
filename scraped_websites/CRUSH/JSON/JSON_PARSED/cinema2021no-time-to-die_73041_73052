@@ -1,1 +1,23 @@
-{"duration_days": ["163"], "name": "cinema2021no time to die_73041_73052.", "location": "Supercinema Rovereto/, online)", "duration_hours": "20.45", "info": "(biglietti, modalit\u00e0 di accesso, info e contatti) / a (prenotazione online), online)", "schema": ["itemtype=http://schema.org/Place", "itemtype=http://schema.org/PostalAddress"], "links": ["#", "https://www.supercinemarovereto.it/", "https://www.webtic.it/#/shopping?action=loadLocal&amp;localId=5393", "https://www.universalpictures.it/micro/no-time-to-die", "https://www.youtube.com/watch?v=DWn09Qk6iTU", "/it/cinema/supercinema-rovereto.html"], "description": "Regia: Cary Joji Fukunaga Con: Daniel Craig, Rami Malek, L\u00e9a Seydoux, Lashana Lynch, Ben Whishaw, Naomie Harris, Jeffrey Wright, Christoph Waltz, Ralph Fiennes, Ana de Armas, Billy Magnussen, Rory Kinnear, David Dencik, Dali Benssalah Nazione: USA Durata: 163 Genere: azione In No Time To Die, Bond si gode una vita tranquilla in Giamaica dopo essersi ritirato dal servizio attivo. Il suo quieto vivere viene per\u00f2 bruscamente interrotto quando Felix Leiter, un vecchio amico ed agente della CIA, ricompare chiedendogli aiuto. La missione per liberare uno scienziato dai suoi sequestratori si rivela essere pi\u00f9 insidiosa del previsto, portando Bond sulle tracce di un misterioso villain armato di una nuova e pericolosa tecnologia Informazioni complete/trailer: a a Evento segnalato da a title=Supercinema Rovereto/", "recurrency": [], "lat_lon": [45.88713000000007, 11.043310000000076]}
+{
+    "duration_days": [
+        "163"
+    ],
+    "name": "cinema2021no time to die_73041_73052.",
+    "location": "Supercinema Rovereto/, online)",
+    "duration_hours": "20.45",
+    "info": "(biglietti, modalità di accesso, info e contatti) / a (prenotazione online)",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.supercinemarovereto.it/",
+        "https://www.webtic.it/#/shopping?action=loadLocal&amp;localId=5393",
+        "https://www.universalpictures.it/micro/no-time-to-die",
+        "https://www.youtube.com/watch?v=DWn09Qk6iTU",
+        "/it/cinema/supercinema-rovereto.html"
+    ],
+    "description": "Regia: Cary Joji Fukunaga Con: Daniel Craig, Rami Malek, Léa Seydoux, Lashana Lynch, Ben Whishaw, Naomie Harris, Jeffrey Wright, Christoph Waltz, Ralph Fiennes, Ana de Armas, Billy Magnussen, Rory Kinnear, David Dencik, Dali Benssalah Nazione: USA Durata: 163 Genere: azione In No Time To Die, Bond si gode una vita tranquilla in Giamaica dopo essersi ritirato dal servizio attivo. Il suo quieto vivere viene però bruscamente interrotto quando Felix Leiter, un vecchio amico ed agente della CIA, ricompare chiedendogli aiuto. La missione per liberare uno scienziato dai suoi sequestratori si rivela essere più insidiosa del previsto, portando Bond sulle tracce di un misterioso villain armato di una nuova e pericolosa tecnologia Informazioni complete/trailer: a a Evento segnalato da a title=Supercinema Rovereto/",
+    "recurrency": []
+}

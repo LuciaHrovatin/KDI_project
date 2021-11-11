@@ -1,1 +1,19 @@
-{"links": [], "schema": [], "duration_hours": ["11:30", "am", "06:00", "pm", "UTC+02:00</h2>"], "duration_days": ["h6\">Fri", "Nov", "12", "2021", "to"], "location": "t r e n t i n o   s o c i a l   t a n k   ,   t r e n t o", "lat_lon": [45.934660000000065, 11.228720000000067]}
+{
+    "links": [],
+    "schema": [],
+    "duration_hours": [
+        "11:30",
+        "am",
+        "06:00",
+        "pm",
+        "UTC+02:00</h2>"
+    ],
+    "duration_days": [
+        "h6\">Fri",
+        "Nov",
+        "12",
+        "2021",
+        "to"
+    ],
+    "location": "Trentino Social Tank , Trento"
+}

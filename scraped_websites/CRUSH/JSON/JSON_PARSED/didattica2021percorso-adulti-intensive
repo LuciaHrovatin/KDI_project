@@ -1,1 +1,18 @@
-{"duration_days": [], "name": "didattica2021percorso adulti intensive.", "location": "Estro/,", "duration_hours": "", "info": "uMercoled\u00ec 13 e mercoled\u00ec 20 ottobre 2021/u LEZIONI DI PROVA! / Presenteremo il corso uGioved\u00ec 7 ottobre 2021, alle 20.30/u, presso il teatro San Marco / Costo totale del corso: 650 \u0080 + 20 \u0080 di quota associativ,", "schema": ["itemtype=http://schema.org/Place", "itemtype=http://schema.org/PostalAddress"], "links": ["#", "https://www.estroteatro.com/adultiintensive", "/it/didattica/estroteatro.html"], "description": "Insegnante Marta Marchi Vuoi intraprendere un viaggio intenso ed impegnativo nelle discipline dell\u0092arte scenica, senza tralasciare incursioni nella tecnica e nella regia? Vuoi cimentarti con testi classici, ma anche con improvvisazione e teatro fisico? Vuoi avere l\u0092occasione di esprimere ci\u00f2 che sei e ci\u00f2 che senti preparando diversi appuntamenti performativi con il pubblico?br/ Informazioni complete ed iscrizioni: a Evento segnalato da a title=Estro/", "recurrency": [], "lat_lon": [36.11219166513901, -87.66174968035416]}
+{
+    "duration_days": [],
+    "name": "didattica2021percorso adulti intensive.",
+    "location": "Estro/, associativ",
+    "duration_hours": "",
+    "info": "uMercoledì 13 e mercoledì 20 ottobre 2021/u LEZIONI DI PROVA! / Presenteremo il corso uGiovedì 7 ottobre 2021, alle 20.30/u, presso il teatro San Marco / Costo totale del corso: 650  + 20  di quota associativ",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.estroteatro.com/adultiintensive",
+        "/it/didattica/estroteatro.html"
+    ],
+    "description": "Insegnante Marta Marchi Vuoi intraprendere un viaggio intenso ed impegnativo nelle discipline dellarte scenica, senza tralasciare incursioni nella tecnica e nella regia? Vuoi cimentarti con testi classici, ma anche con improvvisazione e teatro fisico? Vuoi avere loccasione di esprimere ciò che sei e ciò che senti preparando diversi appuntamenti performativi con il pubblico?br/ Informazioni complete ed iscrizioni: a Evento segnalato da a title=Estro/",
+    "recurrency": []
+}

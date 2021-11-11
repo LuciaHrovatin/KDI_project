@@ -1,1 +1,16 @@
-{"links": [], "schema": [], "duration_hours": ["10:00", "pm", "UTC+02:00</h2>"], "duration_days": ["h6\">Sat", "Oct", "30", "2021"], "location": "i l   s i m p o s i o   b a r   -   r i s t o r a n t e   ,   t r e n t o", "lat_lon": [46.07005000000004, 11.119290000000035]}
+{
+    "links": [],
+    "schema": [],
+    "duration_hours": [
+        "10:00",
+        "pm",
+        "UTC+02:00</h2>"
+    ],
+    "duration_days": [
+        "h6\">Sat",
+        "Oct",
+        "30",
+        "2021"
+    ],
+    "location": "Il Simposio Bar - Ristorante , Trento"
+}
