@@ -1,0 +1,25 @@
+{
+    "duration_days": [
+        "Domenica"
+    ],
+    "name": "didattica2021depero new depero visita guidata.",
+    "location": "Mart, Corso Bettini, Rovereto (Tn)",
+    "duration_hours": "15.00-16.0012.00",
+    "info": "Costo:  2 + biglietto di ingresso con prevendita / Prenotazioni (max 2 persone) entro le ore 12.00 del venerdì: a / Lacquisto del biglietto e della visita guidata si effettua presso la biglietteria del museo. I visitatori sono pregati di presentarsi con la mail di conferma della prenotazione 10 minuti prima dellorario della visita Sito web: a Note: Costo:  2 + biglietto di ingresso con prevendita / Prenotazioni (max 2 persone) entro le ore del venerdì: a href=mailto:education@mart.trento.iteducation@mart.trento.it/a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "mailto:education@mart.trento.iteducation@mart.trento.it/a",
+        "http://www.mart.tn.it",
+        "https://www.crushsite.it/it/mostre/2021/depero-new-depero.html",
+        "http://www.mart.tn.it",
+        "/it/mostre/mart.html"
+    ],
+    "description": "pVisita guidata alla mostra a new Depero/a Informazioni: a Evento segnalato da a title=Mart/",
+    "recurrency": [
+        "Domenica"
+    ]
+}

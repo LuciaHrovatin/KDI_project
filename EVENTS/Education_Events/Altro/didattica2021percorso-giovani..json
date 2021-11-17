@@ -1,0 +1,21 @@
+{
+    "duration_days": [
+        "15",
+        "18"
+    ],
+    "name": "didattica2021percorso giovani.",
+    "location": "Estro/, associativ",
+    "duration_hours": "",
+    "info": "uMartedì 13 ottobre e martedì 20 ottobre/u LEZIONI DI PROVA / Presenteremo il corso uGiovedì 7 ottobre 2021, alle 20.30/u, presso il teatro San Marco / Costo totale del corso: 400  + 20  di tessera associativ",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.estroteatro.com/giovani",
+        "/it/didattica/estroteatro.html"
+    ],
+    "description": "Insegnanti: Andrea Visibelli e Clara Setti Dai 15 ai 18 anni i ragazzi e le ragazze hanno un incredibile desiderio di comunicare, di fare esperienze coinvolgenti e noi siamo pronti ad offrir loro un percorso allaltezza delle loro (esigentissime) aspettative! Il teatro può essere un compagno davvero prezioso per chi si trova a camminare nelletà del cambiamento e della trasformazione!!!br/ Informazioni complete ed iscrizioni: a Evento segnalato da a title=Estro/",
+    "recurrency": []
+}

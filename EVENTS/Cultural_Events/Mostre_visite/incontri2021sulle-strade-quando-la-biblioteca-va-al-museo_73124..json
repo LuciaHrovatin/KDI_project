@@ -1,0 +1,35 @@
+{
+    "duration_days": [
+        "2021",
+        "19",
+        "23",
+        "23",
+        [
+            "settembre",
+            9
+        ],
+        "21",
+        "21",
+        [
+            "ottobre",
+            10
+        ]
+    ],
+    "name": "incontri2021sulle strade quando la biblioteca va al museo_73124.",
+    "location": "MAG Museo Alto Garda/, Museo Riva del Garda, P.zza Cesare Battisti 3/a, Riva d/G (Tn) Orario: il 19 agosto, il 23 settembre e il 21 ottobre dalle 18.00 alle 20.00",
+    "duration_hours": " il 19 agosto, il 23 settembre e il 21 ottobre dalle 18.00 alle",
+    "info": "img height=128 src=/themes/2018/foto-def/calendar-128.png width=128/ content=Sulle strade. Quando la biblioteca va al Museo itemprop=name content=MAG Museo Alto Garda itemprop=organizer style=display:none content=2021-10-21 itemprop=startDate content=2021-10-21 itemprop=endDate Data: itemprop=location itemscope= itemtype=http://schema.org/Place itemprop=address itemscope= itemtype=http://schema.org/PostalAddress Dove: itemprop=streetAddressMuseo Riva del Garda, P.zza Cesare Battisti 3/a, Riva d/G (Tn) Orario: il 19 agosto, il 23 settembre e il 21 ottobre dalle 18.00 alle 20.00",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "https://www.comune.rivadelgarda.tn.it/Notizie-ed-eventi/Archivio-delle-notizie/In-evidenza/Sulle-strade.-Quando-la-biblioteca-va-al-museo-in-bicicletta",
+        "https://www.museoaltogarda.it/it/attivita/eventi/events/event/399",
+        "https://www.facebook.com/events/399297298458390/",
+        "/it/mostre/mag-museo-alto-garda.html"
+    ],
+    "description": "Letture, storie e visite guidate sulla mobilità La biblioteca civica di Riva del Garda e il MAG Museo Alto Garda propongono tre appuntamenti sul tema dellanno dei musei dellEuregio 2021 trasporti, transito, mobilità tra letture, storie e visite guidate. Gli incontri si terranno il 19 agosto, il 23 settembre e il 21 ottobre dalle 18.00 alle 20.00 al Museo di Riva del Garda e prevedono la prenotazione obbligatoria su a Per maggiori informazioni: a a Evento segnalato da a title=MAG Museo Alto Garda/",
+    "recurrency": []
+}
