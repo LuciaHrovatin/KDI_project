@@ -1,0 +1,20 @@
+{
+    "duration_days": [],
+    "name": "itdidattica2021visite guidate del sabato e della domenica.",
+    "location": "FAI - Castello di Avio/, a",
+    "duration_hours": "11.00,14.0016.00",
+    "info": "La prenotazione è obbligatoria al link: /a (scegliere visita guidata) / Prezzi (biglietto di ingresso + visita guidata): Adulto: 12,00 euro; Studente: 8,00 euro; Ridotto: 6,00 euro; Iscritti FAI, Residenti o Trentino Guest Card: 4,00 euro; Ticket famiglia: 31,00 euro / appuntamento presso la biglietteria del Castello qualche minuto prima della partenza Sito web: a",
+    "schema": [
+        "itemtype=http://schema.org/Place",
+        "itemtype=http://schema.org/PostalAddress"
+    ],
+    "links": [
+        "#",
+        "http://www.castellodiavio.it",
+        "http://www.castellodiavio.it",
+        "https://www.facebook.com/events/212189713689603/",
+        "/it/mostre/fai-castello-di-avio.html"
+    ],
+    "description": "pDa questanno ogni sabato e domenica/ vi sarà la possibilità di visitare il Castello di Avio/ anche con una visita guidata! Tre appuntamenti ad orario fisso, sia al sabato che alla domenica, alle ore 11.00, alle ore 14.00 e alle ore 16.00/ per visitare uno dei manieri più suggestivi di tutto il Trentino, conoscerne la storia, le varie fasi architettoniche e i suoi cicli di affreschi Vi porteremo a scoprire la storia di Emanuela Castelbarco, colei che ha donato il Castello al FAI  Fondo Ambiente Italiano, scopriremo gli affreschi della Casa delle Guardie, uno dei cicli meglio conservati in regione, fino ad arrivare in cima alla nostra Torre, alla Camera di Amore Le modalità di visita e il numero dei partecipanti sono in linea con le normative covid19 A fine visita fai una sosta alla nostra Locanda al Castello e gusta una delle ricette della tradizione trentina preparate dallo chef Michele Informazioni: a Evento segnalato da a title=FAI - Castello di Avio/",
+    "recurrency": []
+}

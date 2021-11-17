@@ -190,7 +190,7 @@ class CrushParser() :
 
         
         for i in range(len(general_json_files)) : 
-           
+            
             with open(general_json_files[i], encoding ='utf-8') as f :
                 parsed = {}
                 dic = json.load(f)
@@ -334,7 +334,7 @@ class CrushParser() :
                     
                         
                             
-
+                    name = name +'.json'
                     with open(os.path.join(self.json_json, name),'w', encoding ="utf-8") as doc :
                         json.dump(parsed, doc, ensure_ascii=False, indent=4, default=str)
                 except: 
