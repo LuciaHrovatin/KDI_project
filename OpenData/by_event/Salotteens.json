@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "id": 1334249,
+        "remoteId": "b5d9ff7f0261396de7c2d1928b03564e",
+        "classIdentifier": "event",
+        "class": "http://www.comune.trento.it/api/opendata/v2/classes/event",
+        "ownerId": 206970,
+        "ownerName": {
+            "ita-IT": "Pisoni Roberto (admin) "
+        },
+        "mainNodeId": 1342911,
+        "sectionIdentifier": "aperto_a_tutti",
+        "stateIdentifiers": [
+            "publishing.undefined",
+            "moderazione.no_moderazione",
+            "booking.in_attesa_di_approvazione"
+        ],
+        "published": "2021-04-26T12:49:00+02:00",
+        "modified": "2021-04-22T08:18:06+02:00",
+        "languages": [
+            "ita-IT"
+        ],
+        "name": {
+            "ita-IT": "Salotteens"
+        },
+        "parentNodes": [
+            1342900
+        ],
+        "link": "http://www.comune.trento.it/api/opendata/v2/content/read/1334249"
+    },
+    "data": {
+        "ita-IT": {
+            "priority": "0",
+            "special": 0,
+            "titolo": "Salotteens",
+            "short_title": null,
+            "abstract": "<p>Idee a confronto, quattro chiacchiere sul divano</p>",
+            "text": "<p>Un nuovo format, nato dalla collaborazione tra i teenager di Trento, MUSE - Museo delle Scienze e Centro Studi Erickson, mette al centro le opinioni e le idee di ragazzi e ragazze. Si parte giovedì 18 febbraio 2021 alle 18.30 con una diretta su invecchiamento della politica e fiducia nelle istituzioni. I primi due ospiti relatori sono Alessandro Rosina, docente di demografia all'Università Cattolica di Milano e Marco Balzano, insegnante e scrittore.</p><p>Un divano, dei giovanissimi ospiti e, di volta in volta, due relatori “adulti” con cui dialogare sugli argomenti che toccano più da vicino il mondo dei teenager. &quot;SalotTEENS. Idee a confronto, quattro chiacchiere sul divano” è il titolo della nuova rassegna ideata dai giovani per i giovani assieme a MUSE – Museo delle Scienze e Centro Studi Erickson Trento e in collaborazione con Ufficio Politiche Giovanili del Comune di Trento, OTIUM e Forum trentino per la Pace e i diritti umani.</p><p>Il ciclo di appuntamenti, che sarà trasmesso in diretta sulla pagina Facebook e sul canale YouTube del MUSE e sulla pagina Facebook di Erickson, si struttura su quattro incontri, il 18 febbraio, 18 marzo, 26 aprile e 13 maggio 2021, pensati per aprire un confronto intergenerazionale a più voci sull'attualità: la politica e l’Europa, l’incertezza del futuro, i tabù e gli stereotipi, con lo scopo di promuovere l’integrazione e la partecipazione attiva dei giovani nelle scelte “politiche” della città.</p><p>Il secondo evento di “SalotTEENS”, dal titolo “Oggi decido io”, è in programma giovedì 18 marzo 2021 alle 18.30 e avrà come ospite Gaia Alaimo, professionista delle Risorse Umane e fondatrice di Yourmillennialmentor, una start-up creata per aiutare i giovani nella ricerca di opportunità lavorative o universitarie più adatte al percorso di ognuno. Il secondo ospite sarà Manlio Castagna: scrittore, regista, sceneggiatore, fotografo e vice direttore dal 2007 del più importante festival di cinema per ragazzi al Mondo: Giffoni Experience.  A moderare l’evento Samuela Caliari del MUSE alla presenza di due giovani rappresentanti della generazione Z: Susanna Pergher, 17 anni, studentessa del Liceo Da Vinci di Trento, e Matteo Esposito, 18 anni, studente dell’istituto professionale delle Arti Grafiche Artigianelli.</p><p>\nIl terzo, dal titolo “La società del pudore”, si terrà nella mattinata di lunedì 26 aprile 2021 e vedrà la collaborazione di alcuni istituti superiori di Trento e Rovereto: una grande assemblea di istituto plenaria, inserita all'interno del progetto OTIUM, che anticipa l’evento di chiusura dell’anno scolastico 2020/2021, in programma a giugno e dal titolo “Non è un paese per giovani”.<br />L’ultimo appuntamento di “SalotTEENS”, giovedì 13 maggio alle 18.30, si focalizzerà infine sugli stereotipi con l’incontro dal titolo “Io non sono razzista ma…”, un confronto su tematiche attuali come la parità di genere e l’immigrazione.</p><p>«La prima domanda che ci siamo posti – spiegano i giovani protagonisti – è stata: “perché non mettersi a confronto con il mondo degli adulti sulle varie tematiche che ci stanno più a cuore?” Grazie alla collaborazione e il supporto di MUSE e Centro Studi Erickson abbiamo individuate una serie di tematiche sulle quali ci interessa dibattere e confrontarci con gli esperti. Gli eventi si terranno on line sulla piattaforma di Facebook e Youtube, con la possibilità di intervenire con domande e proposte, e saranno aperti a persone di tutte le età. A caratterizzare i dibattiti sarà un clima informale, di amicizia e rispetto reciproco, come quello del salotto di casa. Lo “spirito” di partecipazione, solidarietà e confronto di SalotTEENS ispirerà anche i prossimi eventi organizzati dalle varie Commissioni di OTIUM, come l’assemblea plenaria di alcuni Istituti di Trento e Rovereto, che si terrà il 26 di aprile e, appunto, l’evento OTIUM 2021 “Non è un paese per giovani”, che avrà luogo nelle prime giornate di giugno».</p>",
+            "file": null,
+            "from_time": "2021-04-26T12:49:00+02:00",
+            "to_time": "2021-04-26T12:49:00+02:00",
+            "periodo_svolgimento": "lunedì 26 aprile 2021",
+            "orario_svolgimento": "ore 18.30",
+            "durata": null,
+            "luogo_svolgimento": "in diretta streaming sulla pagina Facebook e sul canale YouTube del MUSE e sulla pagina Facebook di Centri Studi Erickson",
+            "gps": {
+                "latitude": 0,
+                "longitude": 0,
+                "address": ""
+            },
+            "url": null,
+            "email": null,
+            "telefono": null,
+            "informazioni": "",
+            "costi": null,
+            "image": {
+                "filename": "Salotteens.png",
+                "url": "/var/comunetn/storage/images/media/newsletter/newsletter-system/trento-comunica/trento-comunica159/salotteens/12758278-1-ita-IT/Salotteens.png",
+                "alt": "",
+                "mime_type": "image/png",
+                "width": "947",
+                "height": "318"
+            },
+            "tipo_eventi_manifestazioni": [
+                {
+                    "id": 837876,
+                    "remoteId": "5c1969e836cd9da7e77699906be2b23f",
+                    "classIdentifier": "tipo_eventi_manifestazioni",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/tipo_eventi_manifestazioni",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Evento singolo"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/837876",
+                    "mainNodeId": "819172"
+                }
+            ],
+            "iniziativa": [],
+            "tipo_evento": [
+                {
+                    "id": 835352,
+                    "remoteId": "62c72035917229782914419382597af9",
+                    "classIdentifier": "tipo_eventi",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/tipo_eventi",
+                    "languages": [
+                        "eng-GB",
+                        "ger-DE",
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "eng-GB": "Meeting, workshop, conference",
+                        "ger-DE": "Treffen, Kongress, Konferenz",
+                        "ita-IT": "Incontri, convegni e conferenze"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/835352",
+                    "mainNodeId": "816674"
+                }
+            ],
+            "materia": [
+                {
+                    "id": 823605,
+                    "remoteId": "16bb2680ba6523e4d20a61be3f3d024f",
+                    "classIdentifier": "materia",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/materia",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Scienze sociali"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/823605",
+                    "mainNodeId": "803627"
+                },
+                {
+                    "id": 829194,
+                    "remoteId": "21161b6c74831a43d1da7606cd66cda1",
+                    "classIdentifier": "sotto_materia",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/sotto_materia",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Formazione ed educazione"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/829194",
+                    "mainNodeId": "809471"
+                }
+            ],
+            "io_sono": [
+                {
+                    "id": 221976,
+                    "remoteId": "e616f994af0e1cd105c5f62391dc02b7",
+                    "classIdentifier": "io_sono",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/io_sono",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Giovane"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/221976",
+                    "mainNodeId": "219390"
+                }
+            ],
+            "circoscrizione": [],
+            "servizio_sul_territorio": [],
+            "associazione": [],
+            "ente": [],
+            "progressivo": null
+        }
+    }
+}
