@@ -1,12 +1,1 @@
-{
-    "indirizzo": "il giovedì  Palazzo della Regione 38122 Trento",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/diventare-tutore-volontario/1722168-1-ita-IT/Diventare-tutore-volontario.png",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/133100",
-    "abstract_text": "corso per tutori",
-    "abstract": "<p>corso per tutori</p>",
-    "nome": "Avrò cura di te",
-    "lon": "11.122059",
-    "modifica": "2021-09-10",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133100",
-    "lat": "46.071725"
-}
+{"indirizzo": "il gioved\u00ec  Palazzo della Regione 38122 Trento", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/diventare-tutore-volontario/1722168-1-ita-IT/Diventare-tutore-volontario.png", "url": "https://www.comune.rovereto.tn.it/openpa/object/133100", "abstract_text": "corso per tutori", "abstract": "<p>corso per tutori</p>", "nome": "Avr\u00f2 cura di te", "lon": "11.122059", "modifica": "2021-09-10", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133100", "lat": "46.071725"}

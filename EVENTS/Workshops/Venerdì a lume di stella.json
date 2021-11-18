@@ -1,12 +1,1 @@
-{
-    "indirizzo": "tutti i venerdì sino al 24 settembre 2021 Dalle 21.30 in luglio e agosto, dalle 21:00 in settembre Osservatorio Astronomico di Monte Zugna",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/serate-di-osservazione-del-cielo-presso-l-osservatorio-astronomico-di-monte-zugna/1714417-1-ita-IT/Serate-di-osservazione-del-cielo-presso-l-Osservatorio-Astronomico-di-Monte-Zugna.png",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132561",
-    "abstract_text": "Serate di osservazione del cielo presso l'Osservatorio Astronomico di Monte Zugna",
-    "abstract": "<p>Serate di osservazione del cielo presso l'Osservatorio Astronomico di Monte Zugna</p>",
-    "nome": "Venerdì a lume di stella",
-    "lon": "11.057435",
-    "modifica": "2021-07-06",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132561",
-    "lat": "45.808567"
-}
+{"indirizzo": "tutti i venerd\u00ec sino al 24 settembre 2021 Dalle 21.30 in luglio e agosto, dalle 21:00 in settembre Osservatorio Astronomico di Monte Zugna", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/serate-di-osservazione-del-cielo-presso-l-osservatorio-astronomico-di-monte-zugna/1714417-1-ita-IT/Serate-di-osservazione-del-cielo-presso-l-Osservatorio-Astronomico-di-Monte-Zugna.png", "url": "https://www.comune.rovereto.tn.it/openpa/object/132561", "abstract_text": "Serate di osservazione del cielo presso l'Osservatorio Astronomico di Monte Zugna", "abstract": "<p>Serate di osservazione del cielo presso l'Osservatorio Astronomico di Monte Zugna</p>", "nome": "Venerd\u00ec a lume di stella", "lon": "11.057435", "modifica": "2021-07-06", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132561", "lat": "45.808567"}

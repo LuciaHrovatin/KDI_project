@@ -1,12 +1,1 @@
-{
-    "indirizzo": "22 - 23 ottobre, Biblioteca civica - Sala Multimediale  ",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/biblioteca/eventi-e-attivita/mostra-sensoltre/1737183-2-ita-IT/Mostra-Sensoltre.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/134227",
-    "abstract_text": "Sensoltre è una serie di percorsi multisensoriali, oltre la vista, tra quadri tattili da ascoltare con tecnologia NFC.",
-    "abstract": "<p>Sensoltre è una serie di percorsi multisensoriali, oltre la vista, tra quadri tattili da ascoltare con tecnologia NFC.</p>",
-    "nome": "Mostra Sensoltre",
-    "lon": "",
-    "modifica": "2021-10-18",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134227",
-    "lat": ""
-}
+{"indirizzo": "22 - 23 ottobre, Biblioteca civica - Sala Multimediale  ", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/biblioteca/eventi-e-attivita/mostra-sensoltre/1737183-2-ita-IT/Mostra-Sensoltre.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/134227", "abstract_text": "Sensoltre \u00e8 una serie di percorsi multisensoriali, oltre la vista, tra quadri tattili da ascoltare con tecnologia NFC.", "abstract": "<p>Sensoltre \u00e8 una serie di percorsi multisensoriali, oltre la vista, tra quadri tattili da ascoltare con tecnologia NFC.</p>", "nome": "Mostra Sensoltre", "lon": "", "modifica": "2021-10-18", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134227", "lat": ""}

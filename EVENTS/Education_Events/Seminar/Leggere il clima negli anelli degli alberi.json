@@ -1,12 +1,1 @@
-{
-    "indirizzo": "giovedì 3 dicembre 2020 dalle 18 alle 19.30 online",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontro-online/1639020-1-ita-IT/incontro-online.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/128640",
-    "abstract_text": "La ricostruzione degli eventi climatici attraverso la dendrocronologia",
-    "abstract": "<p>La ricostruzione degli eventi climatici attraverso la dendrocronologia</p>",
-    "nome": "Leggere il clima negli anelli degli alberi",
-    "lon": "11.038687",
-    "modifica": "2020-12-09",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128640",
-    "lat": "45.889871"
-}
+{"indirizzo": "gioved\u00ec 3 dicembre 2020 dalle 18 alle 19.30 online", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontro-online/1639020-1-ita-IT/incontro-online.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/128640", "abstract_text": "La ricostruzione degli eventi climatici attraverso la dendrocronologia", "abstract": "<p>La ricostruzione degli eventi climatici attraverso la dendrocronologia</p>", "nome": "Leggere il clima negli anelli degli alberi", "lon": "11.038687", "modifica": "2020-12-09", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128640", "lat": "45.889871"}

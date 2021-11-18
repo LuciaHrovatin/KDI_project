@@ -1,12 +1,1 @@
-{
-    "indirizzo": "giovedì 16 settembre 2021 Gratuito Corso Bettini - Mart Sala Conferenze",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mart-cinema/1728678-1-ita-IT/MART-cinema.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/133684",
-    "abstract_text": "Il Mart presenta il docufilm Leonardo contro il progetto",
-    "abstract": "<p>Il Mart presenta il docufilm Leonardo contro il progetto</p>",
-    "nome": "Leonardo contro il progetto",
-    "lon": "11.043673",
-    "modifica": "2021-09-16",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133684",
-    "lat": "45.893237"
-}
+{"indirizzo": "gioved\u00ec 16 settembre 2021 Gratuito Corso Bettini - Mart Sala Conferenze", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mart-cinema/1728678-1-ita-IT/MART-cinema.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/133684", "abstract_text": "Il Mart presenta il docufilm Leonardo contro il progetto", "abstract": "<p>Il Mart presenta il docufilm Leonardo contro il progetto</p>", "nome": "Leonardo contro il progetto", "lon": "11.043673", "modifica": "2021-09-16", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133684", "lat": "45.893237"}

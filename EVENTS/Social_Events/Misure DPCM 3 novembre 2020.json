@@ -1,12 +1,1 @@
-{
-    "indirizzo": "  Trentino Alto Adige",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mappa-aree/1628122-2-ita-IT/Mappa-Aree.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/128194",
-    "abstract_text": "Il nuovo Dpcm individua tre aree: gialla, arancione e rossa corrispondenti ai differenti livelli di criticità nelle Regioni del Paese.",
-    "abstract": "<p>Il nuovo Dpcm individua tre aree: gialla, arancione e rossa corrispondenti ai differenti livelli di criticità nelle Regioni del Paese.</p>",
-    "nome": "Misure DPCM 3 novembre 2020",
-    "lon": "11.045237",
-    "modifica": "2020-11-10",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128194",
-    "lat": "45.886548"
-}
+{"indirizzo": "  Trentino Alto Adige", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mappa-aree/1628122-2-ita-IT/Mappa-Aree.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/128194", "abstract_text": "Il nuovo Dpcm individua tre aree: gialla, arancione e rossa corrispondenti ai differenti livelli di criticit\u00e0 nelle Regioni del Paese.", "abstract": "<p>Il nuovo Dpcm individua tre aree: gialla, arancione e rossa corrispondenti ai differenti livelli di criticit\u00e0 nelle Regioni del Paese.</p>", "nome": "Misure DPCM 3 novembre 2020", "lon": "11.045237", "modifica": "2020-11-10", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128194", "lat": "45.886548"}

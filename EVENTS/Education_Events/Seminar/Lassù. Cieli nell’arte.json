@@ -1,12 +1,1 @@
-{
-    "indirizzo": "Sabato 30 gennaio 2021 dalle 14.00 alle 18.00 Mart, Corso Bettini 43",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/corso-di-formazione/1645655-5-ita-IT/Corso-di-formazione.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/128911",
-    "abstract_text": "Corso di formazione per insegnanti, mediatori museali e culturali, educatori e a studenti universitari e post-lauream",
-    "abstract": "<p>Corso di formazione per insegnanti, mediatori museali e culturali, educatori e a studenti universitari e post-lauream</p>",
-    "nome": "Lassù. Cieli nell’arte",
-    "lon": "11.045023",
-    "modifica": "2020-12-14",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128911",
-    "lat": "45.894003"
-}
+{"indirizzo": "Sabato 30 gennaio 2021 dalle 14.00 alle 18.00 Mart, Corso Bettini 43", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/corso-di-formazione/1645655-5-ita-IT/Corso-di-formazione.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/128911", "abstract_text": "Corso di formazione per insegnanti, mediatori museali e culturali, educatori e a studenti universitari e post-lauream", "abstract": "<p>Corso di formazione per insegnanti, mediatori museali e culturali, educatori e a studenti universitari e post-lauream</p>", "nome": "Lass\u00f9. Cieli nell\u2019arte", "lon": "11.045023", "modifica": "2020-12-14", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128911", "lat": "45.894003"}

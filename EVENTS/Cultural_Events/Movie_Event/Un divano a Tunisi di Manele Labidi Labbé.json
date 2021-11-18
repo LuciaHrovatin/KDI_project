@@ -1,12 +1,1 @@
-{
-    "indirizzo": "lunedì 23 agosto 2021  dalle  20.45 alle 22.15 Giardino delle sculture del Mart corso Bettini 43",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/film29/1717485-2-ita-IT/film.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132721",
-    "abstract_text": "Cinema Estate 2021",
-    "abstract": "<p>Cinema Estate 2021</p>",
-    "nome": "Un divano a Tunisi di Manele Labidi Labbé",
-    "lon": "11.044773",
-    "modifica": "2021-08-23",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132721",
-    "lat": "45.894645"
-}
+{"indirizzo": "luned\u00ec 23 agosto 2021  dalle  20.45 alle 22.15 Giardino delle sculture del Mart corso Bettini 43", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/film29/1717485-2-ita-IT/film.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132721", "abstract_text": "Cinema Estate 2021", "abstract": "<p>Cinema Estate 2021</p>", "nome": "Un divano a Tunisi di Manele Labidi Labb\u00e9", "lon": "11.044773", "modifica": "2021-08-23", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132721", "lat": "45.894645"}

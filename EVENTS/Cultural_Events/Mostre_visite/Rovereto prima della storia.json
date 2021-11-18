@@ -1,12 +1,1 @@
-{
-    "indirizzo": "sabato 3 luglio 2021 Dalle 10.00 alle 12.00 Borgo Sacco",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/visita-guidata-al-quartiere-di-borgo-sacco/1713479-2-ita-IT/Visita-guidata-al-quartiere-di-Borgo-Sacco.png",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132480",
-    "abstract_text": "Visita guidata al quartiere di Borgo Sacco",
-    "abstract": "<p>Visita guidata al quartiere di Borgo Sacco</p>",
-    "nome": "Rovereto prima della storia",
-    "lon": "11.017957",
-    "modifica": "2021-07-02",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132480",
-    "lat": "45.884781"
-}
+{"indirizzo": "sabato 3 luglio 2021 Dalle 10.00 alle 12.00 Borgo Sacco", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/visita-guidata-al-quartiere-di-borgo-sacco/1713479-2-ita-IT/Visita-guidata-al-quartiere-di-Borgo-Sacco.png", "url": "https://www.comune.rovereto.tn.it/openpa/object/132480", "abstract_text": "Visita guidata al quartiere di Borgo Sacco", "abstract": "<p>Visita guidata al quartiere di Borgo Sacco</p>", "nome": "Rovereto prima della storia", "lon": "11.017957", "modifica": "2021-07-02", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132480", "lat": "45.884781"}

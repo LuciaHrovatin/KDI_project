@@ -1,12 +1,1 @@
-{
-    "indirizzo": "domenica 20 giugno 2021 dalle 20.45 alle 22 Teatro Riccardo Zandonai - Corso Bettini 78",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto88/1709081-1-ita-IT/concerto.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132119",
-    "abstract_text": "concerto sinfonico",
-    "abstract": "<p>concerto sinfonico</p>",
-    "nome": "Italiana - Settenovecento",
-    "lon": "11.043633",
-    "modifica": "2021-06-08",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132119",
-    "lat": "45.893133"
-}
+{"indirizzo": "domenica 20 giugno 2021 dalle 20.45 alle 22 Teatro Riccardo Zandonai - Corso Bettini 78", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto88/1709081-1-ita-IT/concerto.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132119", "abstract_text": "concerto sinfonico", "abstract": "<p>concerto sinfonico</p>", "nome": "Italiana - Settenovecento", "lon": "11.043633", "modifica": "2021-06-08", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132119", "lat": "45.893133"}

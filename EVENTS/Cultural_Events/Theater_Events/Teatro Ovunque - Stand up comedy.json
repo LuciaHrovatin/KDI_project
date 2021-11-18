@@ -1,12 +1,1 @@
-{
-    "indirizzo": "domenica 8 agosto 2021   dalle 21 alle 22 Piazzale Parco di San Giorgio",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale86/1716110-1-ita-IT/spettacolo-teatrale.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132654",
-    "abstract_text": "Un'altra serata all'insegna della comicità con la stand up comedy.",
-    "abstract": "<p>Un'altra serata all'insegna della comicità con la stand up comedy.</p>",
-    "nome": "Teatro Ovunque - Stand up comedy",
-    "lon": "11.029163",
-    "modifica": "2021-07-08",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132654",
-    "lat": "45.895668"
-}
+{"indirizzo": "domenica 8 agosto 2021   dalle 21 alle 22 Piazzale Parco di San Giorgio", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale86/1716110-1-ita-IT/spettacolo-teatrale.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132654", "abstract_text": "Un'altra serata all'insegna della comicit\u00e0 con la stand up comedy.", "abstract": "<p>Un'altra serata all'insegna della comicit\u00e0 con la stand up comedy.</p>", "nome": "Teatro Ovunque - Stand up comedy", "lon": "11.029163", "modifica": "2021-07-08", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132654", "lat": "45.895668"}

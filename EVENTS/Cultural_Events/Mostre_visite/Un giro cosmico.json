@@ -1,12 +1,1 @@
-{
-    "indirizzo": "ogni giovedì alle 17 Museo di Scienze e Archeologia, borgo S.Caterina",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/visita-guidata-all-esposizione-fotografica-al-planetario/1674187-1-ita-IT/Visita-guidata-all-esposizione-fotografica-al-Planetario.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/130030",
-    "abstract_text": "Visita guidata all'esposizione fotografica al Planetario",
-    "abstract": "<p>Visita guidata all'esposizione fotografica al Planetario</p>",
-    "nome": "Un giro cosmico",
-    "lon": "11.038687",
-    "modifica": "2021-02-05",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/130030",
-    "lat": "45.889871"
-}
+{"indirizzo": "ogni gioved\u00ec alle 17 Museo di Scienze e Archeologia, borgo S.Caterina", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/visita-guidata-all-esposizione-fotografica-al-planetario/1674187-1-ita-IT/Visita-guidata-all-esposizione-fotografica-al-Planetario.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/130030", "abstract_text": "Visita guidata all'esposizione fotografica al Planetario", "abstract": "<p>Visita guidata all'esposizione fotografica al Planetario</p>", "nome": "Un giro cosmico", "lon": "11.038687", "modifica": "2021-02-05", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/130030", "lat": "45.889871"}

@@ -1,12 +1,1 @@
-{
-    "indirizzo": " Dalle 10.00 Sperimentarea, al Bosco della Città",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/conoscere-e-nutrire-le-testuggini-di-terra-e-di-acqua/1713175-1-ita-IT/Conoscere-e-nutrire-le-testuggini-di-terra-e-di-acqua.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132468",
-    "abstract_text": "Conoscere e nutrire le testuggini di terra e di acqua",
-    "abstract": "<p>Conoscere e nutrire le testuggini di terra e di acqua</p>",
-    "nome": "Tartarugando a Sperimentarea",
-    "lon": "11.056229",
-    "modifica": "2021-07-01",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132468",
-    "lat": "45.903301"
-}
+{"indirizzo": " Dalle 10.00 Sperimentarea, al Bosco della Citt\u00e0", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/conoscere-e-nutrire-le-testuggini-di-terra-e-di-acqua/1713175-1-ita-IT/Conoscere-e-nutrire-le-testuggini-di-terra-e-di-acqua.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132468", "abstract_text": "Conoscere e nutrire le testuggini di terra e di acqua", "abstract": "<p>Conoscere e nutrire le testuggini di terra e di acqua</p>", "nome": "Tartarugando a Sperimentarea", "lon": "11.056229", "modifica": "2021-07-01", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132468", "lat": "45.903301"}

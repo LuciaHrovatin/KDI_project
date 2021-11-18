@@ -1,12 +1,1 @@
-{
-    "indirizzo": "da sabato 24 aprile a sabato 8 maggio 2021 dalle 8 alle 22 all'aperto in via Roma",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mostra37/1700150-1-ita-IT/mostra.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/131301",
-    "abstract_text": " &quot;Per cambiare il mondo bisogna esserci&quot; Tina Anselmi",
-    "abstract": "<p>\n&quot;Per cambiare il mondo bisogna esserci&quot; <br />Tina Anselmi</p>",
-    "nome": "Fermata 25 Aprile  Storie di donne e uomini resistenti",
-    "lon": "11.043027",
-    "modifica": "2021-04-21",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131301",
-    "lat": "45.889506"
-}
+{"indirizzo": "da sabato 24 aprile a sabato 8 maggio 2021 dalle 8 alle 22 all'aperto in via Roma", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mostra37/1700150-1-ita-IT/mostra.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/131301", "abstract_text": " &quot;Per cambiare il mondo bisogna esserci&quot; Tina Anselmi", "abstract": "<p>\n&quot;Per cambiare il mondo bisogna esserci&quot; <br />Tina Anselmi</p>", "nome": "Fermata 25 Aprile  Storie di donne e uomini resistenti", "lon": "11.043027", "modifica": "2021-04-21", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131301", "lat": "45.889506"}

@@ -1,12 +1,1 @@
-{
-    "indirizzo": "Sabato 21 agosto 2021 dalle 10.00 alle 12.00 Baita degli Alpini, loc. Costa Violina, Lizzana",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/itinerario-attraverso-i-boschi-con-gli-esperti-del-museo/1715112-1-ita-IT/Itinerario-attraverso-i-boschi-con-gli-esperti-del-museo.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132582",
-    "abstract_text": "Itinerario naturalistico",
-    "abstract": "<p>Itinerario naturalistico</p>",
-    "nome": "Passeggiata naturalistica al Fungo di Albaredo",
-    "lon": "11.035118",
-    "modifica": "2021-07-21",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132582",
-    "lat": "45.85336"
-}
+{"indirizzo": "Sabato 21 agosto 2021 dalle 10.00 alle 12.00 Baita degli Alpini, loc. Costa Violina, Lizzana", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/itinerario-attraverso-i-boschi-con-gli-esperti-del-museo/1715112-1-ita-IT/Itinerario-attraverso-i-boschi-con-gli-esperti-del-museo.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132582", "abstract_text": "Itinerario naturalistico", "abstract": "<p>Itinerario naturalistico</p>", "nome": "Passeggiata naturalistica al Fungo di Albaredo", "lon": "11.035118", "modifica": "2021-07-21", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132582", "lat": "45.85336"}

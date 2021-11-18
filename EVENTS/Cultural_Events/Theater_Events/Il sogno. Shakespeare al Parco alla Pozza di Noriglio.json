@@ -1,12 +1,1 @@
-{
-    "indirizzo": "mercoledì 21 luglio 2021 dalle 17 alle 20.30 Parco alla Pozza Noriglio",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/letture-e-spettacolo2/1717590-1-ita-IT/letture-e-spettacolo.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132724",
-    "abstract_text": "Una giornata dedicata alla commedia Sogno di una notte di mezza estate",
-    "abstract": "<p>Una giornata dedicata alla commedia Sogno di una notte di mezza estate</p>",
-    "nome": "Il sogno. Shakespeare al Parco alla Pozza di Noriglio",
-    "lon": "11.065754",
-    "modifica": "2021-07-12",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132724",
-    "lat": "45.884766"
-}
+{"indirizzo": "mercoled\u00ec 21 luglio 2021 dalle 17 alle 20.30 Parco alla Pozza Noriglio", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/letture-e-spettacolo2/1717590-1-ita-IT/letture-e-spettacolo.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132724", "abstract_text": "Una giornata dedicata alla commedia Sogno di una notte di mezza estate", "abstract": "<p>Una giornata dedicata alla commedia Sogno di una notte di mezza estate</p>", "nome": "Il sogno. Shakespeare al Parco alla Pozza di Noriglio", "lon": "11.065754", "modifica": "2021-07-12", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132724", "lat": "45.884766"}

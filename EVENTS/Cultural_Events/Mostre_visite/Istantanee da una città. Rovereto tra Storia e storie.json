@@ -1,12 +1,1 @@
-{
-    "indirizzo": "dal martedì alla domenica dalle 10 alle 18 Museo della Città, via Calcinari 18 Rovereto",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mostra-fotografica10/1703038-1-ita-IT/mostra-fotografica.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/131554",
-    "abstract_text": "Una mostra fotografica che racconta Rovereto con i suoi luoghi e i suoi cittadini",
-    "abstract": "<p>Una mostra fotografica che racconta Rovereto con i suoi luoghi e i suoi cittadini</p>",
-    "nome": "Istantanee da una città. Rovereto tra Storia e storie",
-    "lon": "11.044564",
-    "modifica": "2021-06-09",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131554",
-    "lat": "45.886778"
-}
+{"indirizzo": "dal marted\u00ec alla domenica dalle 10 alle 18 Museo della Citt\u00e0, via Calcinari 18 Rovereto", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mostra-fotografica10/1703038-1-ita-IT/mostra-fotografica.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/131554", "abstract_text": "Una mostra fotografica che racconta Rovereto con i suoi luoghi e i suoi cittadini", "abstract": "<p>Una mostra fotografica che racconta Rovereto con i suoi luoghi e i suoi cittadini</p>", "nome": "Istantanee da una citt\u00e0. Rovereto tra Storia e storie", "lon": "11.044564", "modifica": "2021-06-09", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131554", "lat": "45.886778"}

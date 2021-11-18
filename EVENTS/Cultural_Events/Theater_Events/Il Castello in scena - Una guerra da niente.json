@@ -1,12 +1,1 @@
-{
-    "indirizzo": "sabato 24 ottobre 2020 Primo spettacolo ore 15.00 | Secondo spettacolo ore 18.00 Museo Storico Italiano della Guerra Via Castelbarco, 7",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/rassegna-teatrale-al-castello-di-rovereto2/1612825-1-ita-IT/Rassegna-teatrale-al-Castello-di-Rovereto.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/127625",
-    "abstract_text": "Spettacolo di teatro",
-    "abstract": "<p>Spettacolo di teatro</p>",
-    "nome": "Il Castello in scena - Una guerra da niente",
-    "lon": "11.046312",
-    "modifica": "2020-10-22",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/127625",
-    "lat": "45.886317"
-}
+{"indirizzo": "sabato 24 ottobre 2020 Primo spettacolo ore 15.00 | Secondo spettacolo ore 18.00 Museo Storico Italiano della Guerra Via Castelbarco, 7", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/rassegna-teatrale-al-castello-di-rovereto2/1612825-1-ita-IT/Rassegna-teatrale-al-Castello-di-Rovereto.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/127625", "abstract_text": "Spettacolo di teatro", "abstract": "<p>Spettacolo di teatro</p>", "nome": "Il Castello in scena - Una guerra da niente", "lon": "11.046312", "modifica": "2020-10-22", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/127625", "lat": "45.886317"}

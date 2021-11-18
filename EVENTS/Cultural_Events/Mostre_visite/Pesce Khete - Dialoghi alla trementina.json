@@ -1,12 +1,1 @@
-{
-    "indirizzo": "giovedì 8 aprile 2021  dalle 18.30 alle 19.30 evento su Teams",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mart-talk/1697923-1-ita-IT/Mart-Talk.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/131101",
-    "abstract_text": "Focus espositivi",
-    "abstract": "<p>Focus espositivi</p>",
-    "nome": "Pesce Khete - Dialoghi alla trementina",
-    "lon": "11.045031",
-    "modifica": "2021-04-08",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131101",
-    "lat": "45.893992"
-}
+{"indirizzo": "gioved\u00ec 8 aprile 2021  dalle 18.30 alle 19.30 evento su Teams", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mart-talk/1697923-1-ita-IT/Mart-Talk.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/131101", "abstract_text": "Focus espositivi", "abstract": "<p>Focus espositivi</p>", "nome": "Pesce Khete - Dialoghi alla trementina", "lon": "11.045031", "modifica": "2021-04-08", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131101", "lat": "45.893992"}

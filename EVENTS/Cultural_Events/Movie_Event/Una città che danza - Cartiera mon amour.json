@@ -1,12 +1,1 @@
-{
-    "indirizzo": "giovedì 29 luglio 2021 dalle 21 alle 22 Giardino delle Sculture MART",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/proiezione-documentario3/1717625-1-ita-IT/proiezione-documentario.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132725",
-    "abstract_text": "Cartiera mon amour",
-    "abstract": "<p>Cartiera mon amour</p>",
-    "nome": "Una città che danza - Cartiera mon amour",
-    "lon": "11.044747",
-    "modifica": "2021-07-12",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132725",
-    "lat": "45.894589"
-}
+{"indirizzo": "gioved\u00ec 29 luglio 2021 dalle 21 alle 22 Giardino delle Sculture MART", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/proiezione-documentario3/1717625-1-ita-IT/proiezione-documentario.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132725", "abstract_text": "Cartiera mon amour", "abstract": "<p>Cartiera mon amour</p>", "nome": "Una citt\u00e0 che danza - Cartiera mon amour", "lon": "11.044747", "modifica": "2021-07-12", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132725", "lat": "45.894589"}

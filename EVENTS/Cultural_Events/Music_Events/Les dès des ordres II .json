@@ -1,12 +1,1 @@
-{
-    "indirizzo": "lunedì 27 settembre 2021 dalle 21.00 alle 22.30 Corso Rosmini, 86 - Sala Filarmonica",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto112/1732305-2-ita-IT/concerto.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/133892",
-    "abstract_text": "Opera di Cosimo Colazzo per Emilio Villa.",
-    "abstract": "<p>Opera di Cosimo Colazzo per Emilio Villa.</p>",
-    "nome": "Les dès des ordres II ",
-    "lon": "11.036609",
-    "modifica": "2021-09-24",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133892",
-    "lat": "45.890841"
-}
+{"indirizzo": "luned\u00ec 27 settembre 2021 dalle 21.00 alle 22.30 Corso Rosmini, 86 - Sala Filarmonica", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto112/1732305-2-ita-IT/concerto.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/133892", "abstract_text": "Opera di Cosimo Colazzo per Emilio Villa.", "abstract": "<p>Opera di Cosimo Colazzo per Emilio Villa.</p>", "nome": "Les d\u00e8s des ordres II ", "lon": "11.036609", "modifica": "2021-09-24", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133892", "lat": "45.890841"}

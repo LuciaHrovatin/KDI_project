@@ -1,12 +1,1 @@
-{
-    "indirizzo": "martedì 13 aprile 2021  dalle 18:30 alle 19:30 online ",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/webinar-gratuito-per-capire-il-meccanismo-che-regola-il-sonno/1696530-6-ita-IT/Webinar-gratuito-per-capire-il-meccanismo-che-regola-il-sonno.png",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/131029",
-    "abstract_text": "Prosegue il percorso di Filo di Arianna con un intervento sul sonno, tenuto dalla dott.ssa Paola Taufer",
-    "abstract": "<p>Prosegue il percorso di Filo di Arianna con un intervento sul sonno, tenuto dalla dott.ssa Paola Taufer</p>",
-    "nome": "Dormire il sonno del giusto anche in tempi che sembrano ingiusti",
-    "lon": "11.057112",
-    "modifica": "2021-04-13",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131029",
-    "lat": "45.885866"
-}
+{"indirizzo": "marted\u00ec 13 aprile 2021  dalle 18:30 alle 19:30 online ", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/webinar-gratuito-per-capire-il-meccanismo-che-regola-il-sonno/1696530-6-ita-IT/Webinar-gratuito-per-capire-il-meccanismo-che-regola-il-sonno.png", "url": "https://www.comune.rovereto.tn.it/openpa/object/131029", "abstract_text": "Prosegue il percorso di Filo di Arianna con un intervento sul sonno, tenuto dalla dott.ssa Paola Taufer", "abstract": "<p>Prosegue il percorso di Filo di Arianna con un intervento sul sonno, tenuto dalla dott.ssa Paola Taufer</p>", "nome": "Dormire il sonno del giusto anche in tempi che sembrano ingiusti", "lon": "11.057112", "modifica": "2021-04-13", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131029", "lat": "45.885866"}

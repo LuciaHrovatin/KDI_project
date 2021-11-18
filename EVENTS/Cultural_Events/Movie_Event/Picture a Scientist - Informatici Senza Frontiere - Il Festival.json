@@ -1,12 +1,1 @@
-{
-    "indirizzo": "giovedì 21 ottobre 2021 dalle 21.00 alle 22.30 Teatro Zandonai, Corso Bettini 78, 38068 Rovereto ",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/film-documentario/1735024-1-ita-IT/film-documentario.png",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/134088",
-    "abstract_text": "Un documentario su l’esperienza e l’impegno delle ricercatrici nella storia della scienza.",
-    "abstract": "<p>Un documentario su l’esperienza e l’impegno delle ricercatrici nella storia della scienza.</p>",
-    "nome": "Picture a Scientist - Informatici Senza Frontiere - Il Festival",
-    "lon": "11.043572",
-    "modifica": "2021-10-20",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134088",
-    "lat": "45.893029"
-}
+{"indirizzo": "gioved\u00ec 21 ottobre 2021 dalle 21.00 alle 22.30 Teatro Zandonai, Corso Bettini 78, 38068 Rovereto ", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/film-documentario/1735024-1-ita-IT/film-documentario.png", "url": "https://www.comune.rovereto.tn.it/openpa/object/134088", "abstract_text": "Un documentario su l\u2019esperienza e l\u2019impegno delle ricercatrici nella storia della scienza.", "abstract": "<p>Un documentario su l\u2019esperienza e l\u2019impegno delle ricercatrici nella storia della scienza.</p>", "nome": "Picture a Scientist - Informatici Senza Frontiere - Il Festival", "lon": "11.043572", "modifica": "2021-10-20", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134088", "lat": "45.893029"}

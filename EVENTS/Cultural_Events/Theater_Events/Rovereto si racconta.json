@@ -1,12 +1,1 @@
-{
-    "indirizzo": "giovedì 8 luglio 2021 Alle ore 19.30, 20.30 e 21.30 Rovereto, partenza da Piazza Malfatti",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/piccola-rassegna-teatrale/1713514-4-ita-IT/Piccola-rassegna-teatrale.png",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132481",
-    "abstract_text": "Piccola rassegna teatrale con tappa conclusiva al Museo della Città",
-    "abstract": "<p>Piccola rassegna teatrale con tappa conclusiva al Museo della Città</p>",
-    "nome": "Rovereto si racconta",
-    "lon": "0",
-    "modifica": "2021-07-02",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132481",
-    "lat": "0"
-}
+{"indirizzo": "gioved\u00ec 8 luglio 2021 Alle ore 19.30, 20.30 e 21.30 Rovereto, partenza da Piazza Malfatti", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/piccola-rassegna-teatrale/1713514-4-ita-IT/Piccola-rassegna-teatrale.png", "url": "https://www.comune.rovereto.tn.it/openpa/object/132481", "abstract_text": "Piccola rassegna teatrale con tappa conclusiva al Museo della Citt\u00e0", "abstract": "<p>Piccola rassegna teatrale con tappa conclusiva al Museo della Citt\u00e0</p>", "nome": "Rovereto si racconta", "lon": "0", "modifica": "2021-07-02", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132481", "lat": "0"}

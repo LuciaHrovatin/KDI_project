@@ -1,12 +1,1 @@
-{
-    "indirizzo": "sabato 18 settembre 2021 dalle 15.00 alle 16.30 MART -  Parco delle Sculture, Corso Bettini, 43 - 38068 Rovereto TN",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/laboratorio10/1727751-1-ita-IT/laboratorio.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/133654",
-    "abstract_text": "Laboratorio per famiglie con bambini dai 5 ai 12 anni",
-    "abstract": "<p>Laboratorio per famiglie con bambini dai 5 ai 12 anni</p>",
-    "nome": "Mart -Museo di arte moderna e contemporanea di Trento e Rovereto - Arte a cielo aperto",
-    "lon": "11.044752",
-    "modifica": "2021-09-10",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133654",
-    "lat": "45.894597"
-}
+{"indirizzo": "sabato 18 settembre 2021 dalle 15.00 alle 16.30 MART -  Parco delle Sculture, Corso Bettini, 43 - 38068 Rovereto TN", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/laboratorio10/1727751-1-ita-IT/laboratorio.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/133654", "abstract_text": "Laboratorio per famiglie con bambini dai 5 ai 12 anni", "abstract": "<p>Laboratorio per famiglie con bambini dai 5 ai 12 anni</p>", "nome": "Mart -Museo di arte moderna e contemporanea di Trento e Rovereto - Arte a cielo aperto", "lon": "11.044752", "modifica": "2021-09-10", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133654", "lat": "45.894597"}

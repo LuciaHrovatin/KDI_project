@@ -1,12 +1,1 @@
-{
-    "indirizzo": "martedì 13 luglio 2021 dalle 19.00 alle 20.30 Libreria Arcadia, via Felice e Gregorio Fontana, 16    38068 Rovereto TN",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontro-con-annibale-salsa/1716524-1-ita-IT/Incontro-con-Annibale-Salsa.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132690",
-    "abstract_text": "La Libreria Arcadia presenta il nuovo libro di Annibale Salsa.",
-    "abstract": "<p>La Libreria Arcadia presenta il nuovo libro di Annibale Salsa.</p>",
-    "nome": "Un’estate in alpeggio",
-    "lon": "11.039822",
-    "modifica": "2021-07-12",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132690",
-    "lat": "45.89052"
-}
+{"indirizzo": "marted\u00ec 13 luglio 2021 dalle 19.00 alle 20.30 Libreria Arcadia, via Felice e Gregorio Fontana, 16    38068 Rovereto TN", "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontro-con-annibale-salsa/1716524-1-ita-IT/Incontro-con-Annibale-Salsa.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132690", "abstract_text": "La Libreria Arcadia presenta il nuovo libro di Annibale Salsa.", "abstract": "<p>La Libreria Arcadia presenta il nuovo libro di Annibale Salsa.</p>", "nome": "Un\u2019estate in alpeggio", "lon": "11.039822", "modifica": "2021-07-12", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132690", "lat": "45.89052"}
