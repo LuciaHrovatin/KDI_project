@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Martedì 13 aprile 2021 Dalle ore 17.30 on line piattafoma Zoom",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/evento-on-line-su-piattaforma-zoom/1698458-2-ita-IT/Evento-on-line-su-piattaforma-zoom.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/131129",
     "abstract_text": "La Campana dei Caduti, facilitatore di incontri tra religioni diverse",
     "abstract": "<p>La Campana dei Caduti, facilitatore di incontri tra religioni diverse</p>",
-    "nome": "Sotto lo stesso Cielo. La Campana dei Caduti e il dialogo tra le religioni",
+    "title": "Sotto lo stesso Cielo. La Campana dei Caduti e il dialogo tra le religioni",
     "lon": "11.038881",
     "modifica": "2021-04-12",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131129",
-    "lat": "45.873984"
+    "lat": "45.873984",
+    "duration_days": "[datetime.date(2021, 4, 13), datetime.date(2021, 4, 13)]",
+    "duration_hours": "('17:30',)",
+    "weekday": "['martedì']",
+    "indirizzo": "['Dalle', 'ore', 'on', 'line', 'piattafoma', 'Zoom']",
+    "repeated": "False"
 }

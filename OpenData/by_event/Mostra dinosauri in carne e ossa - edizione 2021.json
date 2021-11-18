@@ -1,12 +1,16 @@
 {
-    "indirizzo": " venerdì dalle 15 alle 18.30 - sabato e domenica dalle 10 alle 18.30 Sempre aperto per i gruppi e le scolaresche (previa prenotazione) nel giardino ex asilo nido Manifattura - Rovereto Borgo Sacco via delle Zigherane",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/dinosauri-in-carne-e-ossa/1702405-1-ita-IT/Dinosauri-in-carne-e-ossa.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/131504",
     "abstract_text": "Ritorna la mostra Dinosauri in carne e ossa dal 7 maggio 2021 fino al 10 ottobre 2021",
     "abstract": "<p>Ritorna la mostra <strong><em>Dinosauri in carne e ossa</em></strong> dal 7 maggio 2021 fino al 10 ottobre 2021</p>",
-    "nome": "Mostra dinosauri in carne e ossa - edizione 2021",
+    "title": "Mostra dinosauri in carne e ossa - edizione 2021",
     "lon": "11.022913",
     "modifica": "2021-09-17",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131504",
-    "lat": "45.882585"
+    "lat": "45.882585",
+    "duration_days": "[datetime.date(2021, 1, 10), datetime.date(2021, 12, 15)]",
+    "duration_hours": "('18:30', '18:30')",
+    "weekday": "['venerdì', 'sabato', 'domenica']",
+    "indirizzo": "['dalle', 'alle', '-', 'e', 'dalle', 'alle', 'Sempre', 'aperto', 'per', 'i', 'gruppi', 'e', 'le', 'scolaresche', '(previa', 'prenotazione)', 'nel', 'giardino', 'ex', 'asilo', 'nido', 'Manifattura', '-', 'Rovereto', 'Borgo', 'Sacco', 'via', 'delle', 'Zigherane']",
+    "repeated": "False"
 }

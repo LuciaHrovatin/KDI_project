@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/biblioteca/eventi-e-attivita/la-gallina-e-un-animale-intelligente/1733138-1-ita-IT/La-gallina-e-un-animale-intelligente.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133944",
+    "abstract_text": "Letture animate per bambini da 4 a 8 anni con Laura Mirone e Veronica Risatti",
+    "abstract": "<p>Letture animate per bambini da 4 a 8 anni con <i>Laura Mirone</i> e <i>Veronica Risatti</i></p>",
+    "title": "La gallina è un animale intelligente",
+    "lon": "",
+    "modifica": "2021-09-28",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133944",
+    "lat": "",
+    "duration_days": "[datetime.date(2021, 10, 2), datetime.date(2021, 10, 2)]",
+    "duration_hours": "('10:00',)",
+    "weekday": "['sabato']",
+    "indirizzo": "['ore', 'e', 'ore', '11.00,', '(2', 'turni),', 'Biblioteca', 'civica', 'Tartarotti']",
+    "repeated": "False"
+}

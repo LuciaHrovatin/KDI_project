@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Da giovedì 22.10 al 19.11.2020 Dalle ore 17.30 alle 20.30 Urban Center, corso A. Rosmini 58",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/come-rendere-sostenibile-un-progetto-culturale/1616462-1-ita-IT/Come-rendere-sostenibile-un-progetto-culturale.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/127760",
     "abstract_text": " Sei un giovane tra i 18 e i 35 anni? Vorresti dare vita a un nuovo progetto ma non sei certo sia sostenibile? Cerchi gli strumenti per organizzare al meglio il lavoro? Nella tua associazione nessuno ama gestire la parte amministrativa? Vuoi scoprire come finanziare i tuoi progetti?Questo percorso è quello che fa per te!",
     "abstract": "<p>\nSei un giovane tra i 18 e i 35 anni?<br />\nVorresti dare vita a un nuovo progetto ma non sei certo sia sostenibile?<br />\nCerchi gli strumenti per organizzare al meglio il lavoro?<br />\nNella tua associazione nessuno ama gestire la parte amministrativa?<br />\nVuoi scoprire come finanziare i tuoi progetti?<br />Questo percorso è quello che fa per te!</p>",
-    "nome": "La bussola della finanza",
+    "title": "La bussola della finanza",
     "lon": "11.041582",
     "modifica": "2020-10-15",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/127760",
-    "lat": "45.890929"
+    "lat": "45.890929",
+    "duration_days": "[datetime.date(2021, 1, 1), datetime.date(2021, 12, 30)]",
+    "duration_hours": "('17:30', '20:30')",
+    "weekday": "['giovedì']",
+    "indirizzo": "['Da', 'al', '19.11.2020', 'Dalle', 'ore', 'alle', 'Urban', 'Center,', 'corso', 'A.', 'Rosmini', '58']",
+    "repeated": "False"
 }

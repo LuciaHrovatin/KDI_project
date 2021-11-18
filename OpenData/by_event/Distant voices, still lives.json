@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/francesco-dillon-violoncello-e-emanuele-torquati-pianoforte/1728596-1-ita-IT/Francesco-Dillon-violoncello-e-Emanuele-Torquati-pianoforte.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133681",
+    "abstract_text": "Un progetto della Associazione Filarmonica di Rovereto, in collaborazione con il Mart",
+    "abstract": "<p>Un progetto della Associazione Filarmonica di Rovereto, in collaborazione con il Mart</p>",
+    "title": "Distant voices, still lives",
+    "lon": "11.044672",
+    "modifica": "2021-09-09",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133681",
+    "lat": "45.893936",
+    "duration_days": "[datetime.date(2021, 9, 12), datetime.date(2021, 9, 12)]",
+    "duration_hours": "('16:00', '17:30')",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'Corso', 'Bettini,', '43', '-', 'MART', 'Rovereto', '(TN)']",
+    "repeated": "False"
+}

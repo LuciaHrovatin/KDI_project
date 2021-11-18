@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 17 settembre 2021 dalle 11.30 alle 12.30  Chiesa di San Marco piazza San Marco",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto102/1719869-3-ita-IT/concerto.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132872",
     "abstract_text": "I Mozart Boys&amp;Girls ospiteranno un gruppo di Mozartkinder",
     "abstract": "<p>I Mozart Boys&amp;Girls ospiteranno un gruppo di Mozartkinder</p>",
-    "nome": "Settimana Mozartiana: Mozart Boys&Girls & Friends",
+    "title": "Settimana Mozartiana: Mozart Boys&Girls & Friends",
     "lon": "11.045524",
     "modifica": "2021-07-16",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132872",
-    "lat": "45.888686"
+    "lat": "45.888686",
+    "duration_days": "[datetime.date(2021, 9, 17), datetime.date(2021, 9, 17)]",
+    "duration_hours": "('11:30', '12:30')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'Chiesa', 'di', 'San', 'Marco', 'piazza', 'San', 'Marco']",
+    "repeated": "False"
 }

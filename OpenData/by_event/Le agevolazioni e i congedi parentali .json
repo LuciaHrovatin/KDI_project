@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontro-formativo-online/1637371-1-ita-IT/incontro-formativo-online.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/128558",
+    "abstract_text": "incontro per futuri e neo genitori",
+    "abstract": "<p>incontro per futuri e neo genitori</p>",
+    "title": "Le agevolazioni e i congedi parentali ",
+    "lon": "11.043808",
+    "modifica": "2020-11-23",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128558",
+    "lat": "45.89357",
+    "duration_days": "[datetime.date(2020, 12, 20), datetime.date(2020, 12, 9)]",
+    "duration_hours": "()",
+    "weekday": "['mercoledì']",
+    "indirizzo": "['dalle', 'alle', 'su', 'piattaforma', 'online']",
+    "repeated": "False"
+}

@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/presentazione-per-i-genitori-dell-asilo-nido2/1689007-1-ita-IT/Presentazione-per-i-genitori-dell-Asilo-nido.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/130622",
+    "abstract_text": "Quest'anno a causa dell'emergenza sanitaria, non è possibile accogliere i genitori al nido e così abbiamo realizzato delle visite di presentazione “virtuali” che tramite le foto e le descrizioni accompagnino i visitatori dentro i Nidi.",
+    "abstract": "<p class=\" text-justify\">Quest'anno a causa dell'emergenza sanitaria, non è possibile accogliere i genitori al nido e così abbiamo realizzato delle visite di presentazione “virtuali” che tramite le foto e le descrizioni accompagnino i visitatori dentro i Nidi.</p>",
+    "title": "Incontri per conoscere l'asilo nido",
+    "lon": "11.044033",
+    "modifica": "2021-03-08",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/130622",
+    "lat": "45.89354",
+    "duration_days": "[datetime.date(2021, 3, 29), datetime.date(2021, 3, 29)]",
+    "duration_hours": "('18:00',)",
+    "weekday": "[]",
+    "indirizzo": "['15,', '16,', '17,', '18,', '22,', '24,', '25,', 'Dalle', 'ore', 'on', 'line', 'su', 'piattaforma', 'Meet']",
+    "repeated": "False"
+}

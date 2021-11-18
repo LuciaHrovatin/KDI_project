@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/film-festival5/1736698-2-ita-IT/Film-Festival.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/134209",
+    "abstract_text": "Sessione della mattina - RAM film festival",
+    "abstract": "<p>Sessione della mattina - RAM film festival</p>",
+    "title": "Proiezioni  -  RAM film festival",
+    "lon": "11.043315",
+    "modifica": "2021-10-14",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134209",
+    "lat": "45.893054",
+    "duration_days": "[datetime.date(2021, 10, 15), datetime.date(2021, 10, 15)]",
+    "duration_hours": "('10:00', '12:30')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['Dalle', 'alle', 'Teatro', 'Zandonai,', 'C.so', 'Bettini,78', '-', '38068', 'Rovereto', 'TN']",
+    "repeated": "False"
+}

@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/video-online/1699919-1-ita-IT/Video-online.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/131283",
+    "abstract_text": "Osserviamo come avviene in primavera l'uscita dal letargo delle testuggini",
+    "abstract": "<p>Osserviamo come avviene in primavera l'uscita dal letargo delle testuggini</p>",
+    "title": "Succede al Civico: il risveglio delle testuggini",
+    "lon": "11.056229",
+    "modifica": "2021-04-20",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131283",
+    "lat": "45.903301",
+    "duration_days": "[datetime.date(2021, 4, 11), datetime.date(2021, 4, 25)]",
+    "duration_hours": "()",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'online', 'su', 'YouTube', 'e', 'Facebook']",
+    "repeated": "False"
+}

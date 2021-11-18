@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale93/1732565-1-ita-IT/spettacolo-teatrale.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133913",
+    "abstract_text": "Spettacolo ispirato alle fiabe italiane di Italo Calvino tra i suoni della fisarmonica.Compagnia Stradeverie",
+    "abstract": "<p>Spettacolo ispirato alle fiabe italiane di Italo Calvino tra i suoni della fisarmonica.</p><p>Compagnia Stradeverie</p>",
+    "title": "Il naso d'argento - Festival dei Piccoli 2021",
+    "lon": "11.036534",
+    "modifica": "2021-09-27",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133913",
+    "lat": "45.89083",
+    "duration_days": "[datetime.date(2021, 10, 24), datetime.date(2021, 10, 24)]",
+    "duration_hours": "('17:00', '18:00')",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'Sala', 'Filarmonica,', 'Corso', 'Rosmini', '86,', '38068', 'Rovereto', '(Tn)']",
+    "repeated": "False"
+}

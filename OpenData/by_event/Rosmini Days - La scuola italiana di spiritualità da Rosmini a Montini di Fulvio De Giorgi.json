@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 18 giugno 2021 dalle 17.30 alle 19 piattaforma Zoom",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/presentazione-libro-online4/1706168-1-ita-IT/presentazione-libro-online.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/131801",
     "abstract_text": "VI Edizione Rosmini Days",
     "abstract": "<p>VI Edizione Rosmini Days</p>",
-    "nome": "Rosmini Days - La scuola italiana di spiritualità da Rosmini a Montini di Fulvio De Giorgi",
+    "title": "Rosmini Days - La scuola italiana di spiritualità da Rosmini a Montini di Fulvio De Giorgi",
     "lon": "11.043786",
     "modifica": "2021-05-20",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131801",
-    "lat": "45.8936"
+    "lat": "45.8936",
+    "duration_days": "[datetime.date(2021, 6, 18), datetime.date(2021, 6, 19)]",
+    "duration_hours": "('17:30',)",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'piattaforma', 'Zoom']",
+    "repeated": "False"
 }

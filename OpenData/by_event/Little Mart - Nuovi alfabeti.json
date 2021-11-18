@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/laboratori-educativi3/1734590-1-ita-IT/laboratori-educativi.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/134055",
+    "abstract_text": "Impara l’arte divertendoti",
+    "abstract": "<p>Impara l’arte divertendoti</p>",
+    "title": "Little Mart - Nuovi alfabeti",
+    "lon": "11.043781",
+    "modifica": "2021-10-05",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134055",
+    "lat": "45.89323",
+    "duration_days": "[datetime.date(2021, 10, 15), datetime.date(2021, 10, 17)]",
+    "duration_hours": "('16:30',)",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'Mart', ',', 'Area', 'educazione', 'Corso', 'Bettini,', '43', '38068', 'Rovereto', 'TN']",
+    "repeated": "False"
+}

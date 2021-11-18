@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/rievocazione-storica/1726225-1-ita-IT/Rievocazione-storica.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133569",
+    "abstract_text": "Giornata di rievocazione storica al Castello di Rovereto",
+    "abstract": "<p>Giornata di rievocazione storica al Castello di Rovereto</p>",
+    "title": "Medioevo al castello",
+    "lon": "11.04661",
+    "modifica": "2021-08-31",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133569",
+    "lat": "45.886455",
+    "duration_days": "[datetime.date(2021, 9, 4), datetime.date(2021, 9, 4)]",
+    "duration_hours": "('10:30', '18:00')",
+    "weekday": "['sabato']",
+    "indirizzo": "['dalle', 'alle', 'Museo', 'Storico', 'Italiano', 'della', 'Guerra']",
+    "repeated": "False"
+}

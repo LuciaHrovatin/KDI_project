@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Domenica 26 settembre 2021 dalle 11 alle 12 Sala Filarmonica, Corso Rosmini, 86  38068 Rovereto",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-per-bambini19/1729161-1-ita-IT/spettacolo-per-bambini.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133702",
     "abstract_text": "Spettacolo per bambini e famiglie che prende forma attraverso il teatro degli oggetti, la musica ed il racconto.",
     "abstract": "<p>Spettacolo per bambini e famiglie che prende forma attraverso il teatro degli oggetti, la musica ed il racconto.</p>",
-    "nome": "Il Lupo - Festival dei Piccoli 2021",
+    "title": "Il Lupo - Festival dei Piccoli 2021",
     "lon": "11.036646",
     "modifica": "2021-09-13",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133702",
-    "lat": "45.890886"
+    "lat": "45.890886",
+    "duration_days": "[datetime.date(2021, 9, 11), datetime.date(2021, 9, 26)]",
+    "duration_hours": "()",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'Sala', 'Filarmonica,', 'Corso', 'Rosmini,', '86', '38068', 'Rovereto']",
+    "repeated": "False"
 }

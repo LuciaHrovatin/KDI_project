@@ -1,12 +1,16 @@
 {
-    "indirizzo": "lunedì 4 ottobre 2021 dalle 20.45 alle 21.45 Sala Filarmonica  Corso Antonio Rosmini, 86",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto110/1729377-1-ita-IT/concerto.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133710",
     "abstract_text": "Stagione dei Concerti Associazione Filarmonica",
     "abstract": "<p>Stagione dei Concerti Associazione Filarmonica</p>",
-    "nome": "Romantico",
+    "title": "Romantico",
     "lon": "11.036622",
     "modifica": "2021-09-14",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133710",
-    "lat": "45.890887"
+    "lat": "45.890887",
+    "duration_days": "[datetime.date(2021, 10, 4), datetime.date(2021, 10, 4)]",
+    "duration_hours": "('20:45', '21:45')",
+    "weekday": "['lunedì']",
+    "indirizzo": "['dalle', 'alle', 'Sala', 'Filarmonica', 'Corso', 'Antonio', 'Rosmini,', '86']",
+    "repeated": "False"
 }

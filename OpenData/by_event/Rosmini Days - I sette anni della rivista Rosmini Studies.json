@@ -1,12 +1,16 @@
 {
-    "indirizzo": "mercoledì 16 giugno 2021 dalle 17 alle 18.30 piattaforma Zoom",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontro-online17/1706098-1-ita-IT/incontro-online.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/131799",
     "abstract_text": "VI Edizione Rosmini Days",
     "abstract": "<p>VI Edizione Rosmini Days</p>",
-    "nome": "Rosmini Days - I sette anni della rivista \"Rosmini Studies\"",
+    "title": "Rosmini Days - I sette anni della rivista \"Rosmini Studies\"",
     "lon": "11.043915",
     "modifica": "2021-05-20",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131799",
-    "lat": "45.890893"
+    "lat": "45.890893",
+    "duration_days": "[datetime.date(2021, 6, 16), datetime.date(2021, 6, 17)]",
+    "duration_hours": "('18:30',)",
+    "weekday": "['mercoledì']",
+    "indirizzo": "['dalle', 'alle', 'piattaforma', 'Zoom']",
+    "repeated": "False"
 }

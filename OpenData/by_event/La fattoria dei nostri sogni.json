@@ -1,12 +1,16 @@
 {
-    "indirizzo": "martedì 31 Agosto 2021  dalle 20.30 alle 22.00 Oratorio Parrocchiale di Borgo Sacco, Via Zotti, 19",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/cinema-all-aperto-in-oratorio-di-borgo-sacco2/1723913-2-ita-IT/Cinema-all-Aperto-in-Oratorio-Di-Borgo-Sacco.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133259",
     "abstract_text": "Film a tema ambientale per bambini e ragazzi.L'incredibile storia vera di John e Molly Chester, fuggiti dalla città per realizzare il sogno di una vita, costruire un'enorme fattoria seguendo i criteri della coltivazione biologica.Film di John Chester con John Chester, Molly Chester.",
     "abstract": "<p>Film a tema ambientale per bambini e ragazzi.</p><p>L'incredibile storia vera di John e Molly Chester, fuggiti dalla città per realizzare il sogno di una vita, costruire un'enorme fattoria seguendo i criteri della coltivazione biologica.</p><p>Film di John Chester con John Chester, Molly Chester.</p>",
-    "nome": "La fattoria dei nostri sogni",
+    "title": "La fattoria dei nostri sogni",
     "lon": "11.021819",
     "modifica": "2021-08-18",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133259",
-    "lat": "45.886509"
+    "lat": "45.886509",
+    "duration_days": "[datetime.date(2021, 8, 19), datetime.date(2021, 8, 31)]",
+    "duration_hours": "('20:30', '22:00')",
+    "weekday": "['martedì']",
+    "indirizzo": "['dalle', 'alle', 'Oratorio', 'Parrocchiale', 'di', 'Borgo', 'Sacco,', 'Via', 'Zotti,']",
+    "repeated": "False"
 }

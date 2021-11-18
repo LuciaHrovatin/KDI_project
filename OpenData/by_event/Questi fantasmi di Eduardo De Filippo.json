@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 16 luglio 2021 dalle 21 alle 22.30 Teatro Zandonai  - Corso Bettini 78",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale74/1711534-1-ita-IT/spettacolo-teatrale.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132336",
     "abstract_text": "Sipario d'Oro 2021",
     "abstract": "<p>Sipario d'Oro 2021</p>",
-    "nome": "Questi fantasmi di Eduardo De Filippo",
+    "title": "Questi fantasmi di Eduardo De Filippo",
     "lon": "11.043633",
     "modifica": "2021-06-21",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132336",
-    "lat": "45.893133"
+    "lat": "45.893133",
+    "duration_days": "[datetime.date(2021, 7, 16), datetime.date(2021, 7, 21)]",
+    "duration_hours": "('22:30',)",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'Teatro', 'Zandonai', '-', 'Corso', 'Bettini', '78']",
+    "repeated": "False"
 }

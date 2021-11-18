@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Venerdì 10 settembre 2021 dalle 18 alle 19 Largo Vittime delle Foibe ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/danza9/1718914-2-ita-IT/danza.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132790",
     "abstract_text": "Oplà la danza in piazza - Oriente Occidente",
     "abstract": "<p>Oplà la danza in piazza - Oriente Occidente</p>",
-    "nome": " Ivona  Pablo Girolami ",
+    "title": " Ivona  Pablo Girolami ",
     "lon": "11.042274",
     "modifica": "2021-09-06",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132790",
-    "lat": "45.889355"
+    "lat": "45.889355",
+    "duration_days": "[datetime.date(2021, 9, 10), datetime.date(2021, 9, 19)]",
+    "duration_hours": "()",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'Largo', 'Vittime', 'delle', 'Foibe']",
+    "repeated": "False"
 }

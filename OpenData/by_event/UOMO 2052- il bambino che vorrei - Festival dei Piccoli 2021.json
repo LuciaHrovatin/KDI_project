@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Domenica 26 settembre 2021 dalle 14 alle 16.30  Sala Filarmonica, Corso Rosmini 86,  38068 Rovereto (Tn)  ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/tavola-rotonda2/1730871-1-ita-IT/tavola-rotonda.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133818",
     "abstract_text": "I genitori incontrano gli operatori teatrali, editori, pedagoghi, insegnati, amministratori per capire la strada da percorrere insieme nella formazione e crescita del proprio bambino..",
     "abstract": "<p>I genitori incontrano gli operatori teatrali, editori, pedagoghi, insegnati, amministratori per capire la strada da percorrere insieme nella formazione e crescita del proprio bambino..</p>",
-    "nome": "UOMO 2052: il bambino che vorrei - Festival dei Piccoli 2021",
+    "title": "UOMO 2052: il bambino che vorrei - Festival dei Piccoli 2021",
     "lon": "11.036534",
     "modifica": "2021-09-17",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133818",
-    "lat": "45.89083"
+    "lat": "45.89083",
+    "duration_days": "[datetime.date(2021, 9, 14), datetime.date(2021, 9, 26)]",
+    "duration_hours": "('16:30',)",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'Sala', 'Filarmonica,', 'Corso', 'Rosmini', '86,', '38068', 'Rovereto', '(Tn)']",
+    "repeated": "False"
 }

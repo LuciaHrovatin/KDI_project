@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Mercoledì 06 ottobre 2021, ore 17.30; ore 21.00, Sala conferenze Mart; Auditorium “Fausto Melotti”  ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/biblioteca/eventi-e-attivita/8mm-di-storia2/1733106-1-ita-IT/8mm-di-storia.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133945",
     "abstract_text": "Rovereto dagli anni Venti agli anni Ottanta nei film d’autore e amatoriali",
     "abstract": "<p>Rovereto dagli anni Venti agli anni Ottanta nei film d’autore e amatoriali</p>",
-    "nome": "8mm di storia",
+    "title": "8mm di storia",
     "lon": "",
     "modifica": "2021-09-28",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133945",
-    "lat": ""
+    "lat": "",
+    "duration_days": "[datetime.date(2021, 10, 6), datetime.date(2021, 10, 6)]",
+    "duration_hours": "('2021:',)",
+    "weekday": "['mercoledì']",
+    "indirizzo": "['ore', '17.30;', 'ore', '21.00,', 'Sala', 'conferenze', 'Mart;', 'Auditorium', '“Fausto', 'Melotti”']",
+    "repeated": "False"
 }

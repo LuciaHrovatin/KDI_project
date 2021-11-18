@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/visita-guidata81/1705616-1-ita-IT/visita-guidata.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/131722",
+    "abstract_text": "Iniziativa promossa dai musei di Rovereto e rivolta ai ragazzi e alle ragazze delle scuole secondarie",
+    "abstract": "<p>Iniziativa promossa dai musei di Rovereto e rivolta ai ragazzi e alle ragazze delle scuole secondarie</p>",
+    "title": "#Iovadoalmuseo | Antichi abitanti della Vallagarina: visite alle sale di archeologia del museo",
+    "lon": "11.038663",
+    "modifica": "2021-05-19",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131722",
+    "lat": "45.889784",
+    "duration_days": "[datetime.date(2021, 5, 15), datetime.date(2021, 5, 25)]",
+    "duration_hours": "('16:30', '17:30')",
+    "weekday": "['martedì']",
+    "indirizzo": "['dalle', 'alle', 'e', 'dalle', 'alle', 'Fondazione', 'Museo', 'Civico', 'Borgo', 'Santa', 'Caterina', '41']",
+    "repeated": "False"
+}

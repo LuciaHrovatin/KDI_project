@@ -1,12 +1,16 @@
 {
-    "indirizzo": "giovedì 02 e giovedì 09 settembre 2021 dalle 10 alle 11,30 Ortinbosco, località Bosco della Città",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/laboratorio9/1715348-1-ita-IT/Laboratorio.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132591",
     "abstract_text": "Conosciamo i Lithops, &quot;le piante sasso&quot; della Fondazione Museo Civico di Rovereto",
     "abstract": "<p>Conosciamo i Lithops, &quot;le piante sasso&quot; della Fondazione Museo Civico di Rovereto</p>",
-    "nome": "Sono una pianta o sono un sasso?",
+    "title": "Sono una pianta o sono un sasso?",
     "lon": "11.05583",
     "modifica": "2021-08-26",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132591",
-    "lat": "45.901492"
+    "lat": "45.901492",
+    "duration_days": "[datetime.date(2021, 9, 2), datetime.date(2021, 9, 10)]",
+    "duration_hours": "('11:30',)",
+    "weekday": "['giovedì', 'giovedì']",
+    "indirizzo": "['e', 'dalle', 'alle', 'Ortinbosco,', 'località', 'Bosco', 'della', 'Città']",
+    "repeated": "False"
 }

@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 30 luglio 2021 dalle 17.30 alle 22.30 Piazza San Marco - Rovereto TN",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacoli2/1721045-2-ita-IT/spettacoli.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132999",
     "abstract_text": "Iniziativa del Distretto San Marco",
     "abstract": "<p>Iniziativa del Distretto San Marco</p>",
-    "nome": "Gelsomini verso sera",
+    "title": "Gelsomini verso sera",
     "lon": "11.045338",
     "modifica": "2021-08-26",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132999",
-    "lat": "45.888669"
+    "lat": "45.888669",
+    "duration_days": "[datetime.date(2021, 7, 30), datetime.date(2021, 7, 30)]",
+    "duration_hours": "('17:30', '22:30')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'Piazza', 'San', 'Marco', '-', 'Rovereto', 'TN']",
+    "repeated": "False"
 }

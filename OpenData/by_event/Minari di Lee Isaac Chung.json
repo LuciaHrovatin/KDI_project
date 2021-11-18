@@ -1,12 +1,16 @@
 {
-    "indirizzo": "mercoledì 21 luglio 2021  dalle  21.30 alle 23.10 Giardino delle sculture del Mart corso Bettini 43",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/film20/1717170-1-ita-IT/film.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132712",
     "abstract_text": "Cinema Estate 2021",
     "abstract": "<p>Cinema Estate 2021</p>",
-    "nome": "Minari di Lee Isaac Chung",
+    "title": "Minari di Lee Isaac Chung",
     "lon": "11.044773",
     "modifica": "2021-07-12",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132712",
-    "lat": "45.894645"
+    "lat": "45.894645",
+    "duration_days": "[datetime.date(2021, 7, 21), datetime.date(2021, 7, 21)]",
+    "duration_hours": "('21:30', '23:10')",
+    "weekday": "['mercoledì']",
+    "indirizzo": "['dalle', 'alle', 'Giardino', 'delle', 'sculture', 'del', 'Mart', 'corso', 'Bettini', '43']",
+    "repeated": "False"
 }

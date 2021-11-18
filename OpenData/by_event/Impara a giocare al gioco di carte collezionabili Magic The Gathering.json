@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato 24 e domenica 25 luglio 2021 dalle 10 alle 19 Giardini Giorgio Perlasca ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/giochi5/1714470-1-ita-IT/giochi.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132563",
     "abstract_text": " Dimostrazioni gratuite..... ... anche side event draft ",
     "abstract": "<p>\nDimostrazioni gratuite..... <br />... anche side event draft </p>",
-    "nome": "Impara a giocare al gioco di carte collezionabili Magic The Gathering",
+    "title": "Impara a giocare al gioco di carte collezionabili Magic The Gathering",
     "lon": "11.042489",
     "modifica": "2021-07-06",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132563",
-    "lat": "45.894669"
+    "lat": "45.894669",
+    "duration_days": "[datetime.date(2021, 7, 10), datetime.date(2021, 7, 25)]",
+    "duration_hours": "()",
+    "weekday": "['sabato', 'domenica']",
+    "indirizzo": "['e', 'dalle', 'alle', 'Giardini', 'Giorgio', 'Perlasca']",
+    "repeated": "False"
 }

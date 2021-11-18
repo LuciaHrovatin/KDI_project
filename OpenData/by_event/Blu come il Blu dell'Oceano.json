@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/blu-come-il-blu-dell-oceano/1701711-1-ita-IT/Blu-come-il-Blu-dell-Oceano.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/131468",
+    "abstract_text": "Opere di Eleonora Cumer",
+    "abstract": "<p>Opere di Eleonora Cumer</p>",
+    "title": "Blu come il Blu dell'Oceano",
+    "lon": "11.043894",
+    "modifica": "2021-05-05",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131468",
+    "lat": "45.893522",
+    "duration_days": "[datetime.date(2021, 4, 20), datetime.date(2021, 5, 22)]",
+    "duration_hours": "('17:00',)",
+    "weekday": "[]",
+    "indirizzo": "['dal', 'al', 'dalle', '9.00', 'alle', 'Palazzo', 'Alberti']",
+    "repeated": "False"
+}

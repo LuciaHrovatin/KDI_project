@@ -1,12 +1,16 @@
 {
-    "indirizzo": "giovedì 21 ottobre 2021 dalle 17.30 alle 19.30 Sala Fondazione Caritro piazza Rosmini, 38068 Rovereto TN  ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/seminario3/1736940-1-ita-IT/seminario.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/134217",
     "abstract_text": "Coltivazione e lavorazione del tabacco in Vallagarina fra XVIII e XXI secolo",
     "abstract": "<p>Coltivazione e lavorazione del tabacco in Vallagarina fra XVIII e XXI secolo</p>",
-    "nome": "Vite di tabacco \"La Manifattura Tabacchi di Borgo Sacco\"",
+    "title": "Vite di tabacco \"La Manifattura Tabacchi di Borgo Sacco\"",
     "lon": "11.043985",
     "modifica": "2021-10-18",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134217",
-    "lat": "45.890852"
+    "lat": "45.890852",
+    "duration_days": "[datetime.date(2021, 10, 21), datetime.date(2021, 10, 21)]",
+    "duration_hours": "('17:30', '19:30')",
+    "weekday": "['giovedì']",
+    "indirizzo": "['dalle', 'alle', 'Sala', 'Fondazione', 'Caritro', 'piazza', 'Rosmini,', '38068', 'Rovereto', 'TN']",
+    "repeated": "False"
 }

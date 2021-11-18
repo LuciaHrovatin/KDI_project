@@ -1,12 +1,16 @@
 {
-    "indirizzo": "domenica 03 Ottobre 2021 dalle 09.00 alle 12.30  Cooperativa Amalia Guardini,  Via Pasqui, 63,  38068 Rovereto",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/trekking-solidale/1733485-1-ita-IT/Trekking-solidale.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133960",
     "abstract_text": "ManifestAzioni - Fa la cosa giusta - Trekking solidale",
     "abstract": "<p>ManifestAzioni - Fa la cosa giusta - Trekking solidale</p>",
-    "nome": "ManifestAzioni - Trekking solidale ",
+    "title": "ManifestAzioni - Trekking solidale ",
     "lon": "11.037617",
     "modifica": "2021-09-30",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133960",
-    "lat": "45.89957"
+    "lat": "45.89957",
+    "duration_days": "[datetime.date(2021, 10, 3), datetime.date(2021, 10, 3)]",
+    "duration_hours": "('09:00', '12:30')",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'Cooperativa', 'Amalia', 'Guardini,', 'Via', 'Pasqui,', '63,', '38068', 'Rovereto']",
+    "repeated": "False"
 }

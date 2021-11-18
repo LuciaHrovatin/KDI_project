@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato 11 settembre 2021 dalle 22.00 alle 23.00 Teatro alla Cartiera, Via alla Cartiera, Rovereto (Tn)",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/danza11/1727374-1-ita-IT/danza.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133640",
     "abstract_text": "Dance Festival   Oriente Occidente.",
     "abstract": "<p>Dance Festival   Oriente Occidente.</p>",
-    "nome": "Pablo Girolami - Manbuhsona ",
+    "title": "Pablo Girolami - Manbuhsona ",
     "lon": "11.056259",
     "modifica": "2021-09-07",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133640",
-    "lat": "45.885595"
+    "lat": "45.885595",
+    "duration_days": "[datetime.date(2021, 9, 11), datetime.date(2021, 9, 11)]",
+    "duration_hours": "('22:00', '23:00')",
+    "weekday": "['sabato']",
+    "indirizzo": "['dalle', 'alle', 'Teatro', 'alla', 'Cartiera,', 'Via', 'alla', 'Cartiera,', 'Rovereto', '(Tn)']",
+    "repeated": "False"
 }

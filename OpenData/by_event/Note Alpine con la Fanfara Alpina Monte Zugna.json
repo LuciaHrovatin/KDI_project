@@ -1,12 +1,16 @@
 {
-    "indirizzo": "giovedì 15 luglio 2021   dalle 20.30 alle 21.30 Cortile Urbano via Roma",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto94/1717095-1-ita-IT/concerto.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132709",
     "abstract_text": "concerto",
     "abstract": "<p>concerto</p>",
-    "nome": "Note Alpine con la Fanfara Alpina Monte Zugna",
+    "title": "Note Alpine con la Fanfara Alpina Monte Zugna",
     "lon": "11.042848",
     "modifica": "2021-07-12",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132709",
-    "lat": "45.889441"
+    "lat": "45.889441",
+    "duration_days": "[datetime.date(2021, 7, 15), datetime.date(2021, 7, 15)]",
+    "duration_hours": "('20:30', '21:30')",
+    "weekday": "['giovedì']",
+    "indirizzo": "['dalle', 'alle', 'Cortile', 'Urbano', 'via', 'Roma']",
+    "repeated": "False"
 }

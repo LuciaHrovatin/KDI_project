@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/presentazione-libro-online3/1699716-1-ita-IT/presentazione-libro-online.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/131267",
+    "abstract_text": "Per il ciclo Storie e Storia",
+    "abstract": "<p>Per il ciclo Storie e Storia</p>",
+    "title": "I disarmati. Profughi, prigionieri e donne del fronte italo-austriaco  The Disarmed. Refugees, Prisoners and Women of the Austro-Italian Front  a cura di Étienne Boisserie, Marco Mondini",
+    "lon": "11.04663",
+    "modifica": "2021-04-19",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131267",
+    "lat": "45.88658",
+    "duration_days": "[datetime.date(2021, 4, 21), datetime.date(2021, 4, 21)]",
+    "duration_hours": "('17:30', '18:30')",
+    "weekday": "['mercoledì']",
+    "indirizzo": "['dalle', 'alle', 'Online', 'su', 'piattaforma', 'Zoom']",
+    "repeated": "False"
+}

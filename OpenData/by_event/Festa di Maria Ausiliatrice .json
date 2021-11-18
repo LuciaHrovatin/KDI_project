@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/festa-votiva2/1721550-1-ita-IT/festa-votiva.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133059",
+    "abstract_text": "Festa Patronale",
+    "abstract": "<p>Festa Patronale</p>",
+    "title": "Festa di Maria Ausiliatrice ",
+    "lon": "11.045246",
+    "modifica": "2021-08-03",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133059",
+    "lat": "45.8886",
+    "duration_days": "[datetime.date(2021, 8, 5), datetime.date(2021, 8, 5)]",
+    "duration_hours": "('18:00', '19:30')",
+    "weekday": "['giovedì']",
+    "indirizzo": "['dalle', 'ore', 'alle', 'ore', 'Piazza', 'San', 'Marco', 'Rovereto', 'TN']",
+    "repeated": "False"
+}

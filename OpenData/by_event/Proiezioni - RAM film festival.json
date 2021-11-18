@@ -1,12 +1,16 @@
 {
-    "indirizzo": "mercoledì 13 ottobre 2021 Dalle 20.30 alle 23.00 Teatro Zandonai, C.so Bettini,78 - 38068 Rovereto TN",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/film-festival2/1736291-1-ita-IT/Film-Festival.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/134190",
     "abstract_text": "mercoledì 13 ottobre - sera",
     "abstract": "<p>mercoledì 13 ottobre - sera</p>",
-    "nome": "Proiezioni - RAM film festival",
+    "title": "Proiezioni - RAM film festival",
     "lon": "11.043315",
     "modifica": "2021-10-13",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134190",
-    "lat": "45.893054"
+    "lat": "45.893054",
+    "duration_days": "[datetime.date(2021, 10, 13), datetime.date(2021, 10, 13)]",
+    "duration_hours": "('20:30', '23:00')",
+    "weekday": "['mercoledì']",
+    "indirizzo": "['Dalle', 'alle', 'Teatro', 'Zandonai,', 'C.so', 'Bettini,78', '-', '38068', 'Rovereto', 'TN']",
+    "repeated": "False"
 }

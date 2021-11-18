@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato7 e domenica 8 agosto  2021 dalle 18.30 alle 22.30 Monte Zugna Roverto TN",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/danza2/1718669-1-ita-IT/danza.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132783",
     "abstract_text": "Oplà la danza in piazza - Oriente Occidente",
     "abstract": "<p>Oplà la danza in piazza - Oriente Occidente</p>",
-    "nome": "  Il mondo altrove Nicola Galli",
+    "title": "  Il mondo altrove Nicola Galli",
     "lon": "11.057793",
     "modifica": "2021-08-03",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132783",
-    "lat": "45.807623"
+    "lat": "45.807623",
+    "duration_days": "[datetime.date(2021, 8, 8), datetime.date(2021, 8, 8)]",
+    "duration_hours": "('18:30', '22:30')",
+    "weekday": "['domenica']",
+    "indirizzo": "['sabato7', 'e', 'dalle', 'alle', 'Monte', 'Zugna', 'Roverto', 'TN']",
+    "repeated": "False"
 }

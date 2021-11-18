@@ -1,12 +1,16 @@
 {
-    "indirizzo": "martedì 27 ottobre 2020 - ore 14:00 e mercoledì 28 ottobre 2020 - ore 09:00 dalle 14 alle 18 il martedì; dalle 9 alle 13 il mercoledì online su piattaforma ZOOM",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/convegno-online/1616497-1-ita-IT/convegno-online.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/127761",
     "abstract_text": "4° Convegno “Pietro Prini” - Evento online su piattaforma ZOOM",
     "abstract": "<p>4° Convegno “Pietro Prini” - Evento online su piattaforma ZOOM</p>",
-    "nome": "Tra teologia e neuroscienze  Da Rosmini a Prini",
+    "title": "Tra teologia e neuroscienze  Da Rosmini a Prini",
     "lon": "11.045412",
     "modifica": "2020-10-22",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/127761",
-    "lat": "45.886553"
+    "lat": "45.886553",
+    "duration_days": "[datetime.date(2020, 10, 13), datetime.date(2020, 10, 9)]",
+    "duration_hours": "()",
+    "weekday": "['martedì', 'mercoledì', 'mercoledì']",
+    "indirizzo": "['-', 'ore', 'e', '-', 'ore', 'dalle', 'alle', 'il', 'martedì;', 'dalle', 'alle', 'il', 'online', 'su', 'piattaforma', 'ZOOM']",
+    "repeated": "False"
 }

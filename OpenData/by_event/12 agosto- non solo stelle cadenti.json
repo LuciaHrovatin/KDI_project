@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/attivita-laboratori-a-tema-osservazione-del-cielo-con-gli-esperti-del-museo/1714995-2-ita-IT/Attivita-laboratori-a-tema-osservazione-del-cielo-con-gli-esperti-del-museo.png",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/132578",
+    "abstract_text": "Attività, laboratori a tema, osservazione del cielo con gli esperti del museo",
+    "abstract": "<p>Attività, laboratori a tema, osservazione del cielo con gli esperti del museo</p>",
+    "title": "12 agosto: non solo stelle cadenti",
+    "lon": "11.068806",
+    "modifica": "2021-07-15",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132578",
+    "lat": "45.799654",
+    "duration_days": "[datetime.date(2021, 8, 12), datetime.date(2021, 8, 15)]",
+    "duration_hours": "('22:30',)",
+    "weekday": "['giovedì']",
+    "indirizzo": "['Dalle', 'alle', 'Osservatorio', 'Astronomico', 'di', 'Monte', 'Zugna']",
+    "repeated": "False"
+}

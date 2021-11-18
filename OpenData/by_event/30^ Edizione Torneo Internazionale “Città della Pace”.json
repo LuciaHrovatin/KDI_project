@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato 2 e domenica 3 ottobre 2021 dalle 10.00 alle 18.00  Campi sportivi e palestre di Rovereto e di tutta la Vallagarina (Tn)",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/torneo-internazionale/1732375-1-ita-IT/Torneo-Internazionale.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133894",
     "abstract_text": " Il Torneo della Pace torna con una formula inedita.Sarà un evento sportivo-culturale completamente nuovo, diffuso su tutta la Vallagarina.",
     "abstract": "<p>\nIl Torneo della Pace torna con una formula inedita.<br />Sarà un evento sportivo-culturale completamente nuovo, diffuso su tutta la Vallagarina.</p>",
-    "nome": "30^ Edizione Torneo Internazionale “Città della Pace”",
+    "title": "30^ Edizione Torneo Internazionale “Città della Pace”",
     "lon": "11.043314",
     "modifica": "2021-09-27",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133894",
-    "lat": "45.890893"
+    "lat": "45.890893",
+    "duration_days": "[datetime.date(2021, 10, 2), datetime.date(2021, 10, 3)]",
+    "duration_hours": "('10:00', '18:00')",
+    "weekday": "['sabato', 'domenica']",
+    "indirizzo": "['e', 'dalle', 'alle', 'Campi', 'sportivi', 'e', 'palestre', 'di', 'Rovereto', 'e', 'di', 'tutta', 'la', 'Vallagarina', '(Tn)']",
+    "repeated": "False"
 }

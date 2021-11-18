@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 17 settembre 2021 dalle 19.30 alle 23.00 circa Via Roma - cortile Urbano",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/cena-spettacolo-in-centro-storico/1726713-1-ita-IT/cena-spettacolo-in-centro-storico.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133606",
     "abstract_text": "Una grande tavola nel cuore di Rovereto",
     "abstract": "<p>Una grande tavola nel cuore di Rovereto</p>",
-    "nome": "...c'era una volta Rovereto",
+    "title": "...c'era una volta Rovereto",
     "lon": "11.042944",
     "modifica": "2021-09-15",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133606",
-    "lat": "45.889392"
+    "lat": "45.889392",
+    "duration_days": "[datetime.date(2021, 9, 17), datetime.date(2021, 9, 17)]",
+    "duration_hours": "('19:30', '23:00')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'circa', 'Via', 'Roma', '-', 'cortile', 'Urbano']",
+    "repeated": "False"
 }

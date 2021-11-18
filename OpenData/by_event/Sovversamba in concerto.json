@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato 18 settembre 2021 dalle 20.30 alle 21.30 Cortile Urbano Via Roma",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto100/1719655-4-ita-IT/concerto.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132864",
     "abstract_text": "Rovereto Estate Musica",
     "abstract": "<p>Rovereto Estate Musica</p>",
-    "nome": "Sovversamba in concerto",
+    "title": "Sovversamba in concerto",
     "lon": "11.042864",
     "modifica": "2021-09-16",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132864",
-    "lat": "45.889396"
+    "lat": "45.889396",
+    "duration_days": "[datetime.date(2021, 9, 18), datetime.date(2021, 9, 18)]",
+    "duration_hours": "('20:30', '21:30')",
+    "weekday": "['sabato']",
+    "indirizzo": "['dalle', 'alle', 'Cortile', 'Urbano', 'Via', 'Roma']",
+    "repeated": "False"
 }

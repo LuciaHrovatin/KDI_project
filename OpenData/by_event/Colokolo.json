@@ -1,12 +1,16 @@
 {
-    "indirizzo": "lunedì 6 settembre  2021 ore 17.00 e ore 19.00 dalle 17 alle 18 e dalle 19 alle 20  Piazzale Caduti sul lavoro Vicolo Tintori",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/danza7/1718844-1-ita-IT/danza.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132788",
     "abstract_text": "Oplà la danza in piazza - Oriente Occidente",
     "abstract": "<p>Oplà la danza in piazza - Oriente Occidente</p>",
-    "nome": "Colokolo",
+    "title": "Colokolo",
     "lon": "11.04406",
     "modifica": "2021-09-06",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132788",
-    "lat": "45.886087"
+    "lat": "45.886087",
+    "duration_days": "[datetime.date(2021, 9, 17), datetime.date(2021, 9, 6)]",
+    "duration_hours": "('17:00', '19:00')",
+    "weekday": "['lunedì']",
+    "indirizzo": "['ore', 'e', 'ore', 'dalle', 'alle', 'e', 'dalle', 'alle', 'Piazzale', 'Caduti', 'sul', 'lavoro', 'Vicolo', 'Tintori']",
+    "repeated": "False"
 }

@@ -1,12 +1,13 @@
 {
-    "indirizzo": "martedì 13, sabato 17, martedì 20 Luglio 2021 Il 13/7 e 17/7 dalle ore 09,30 alle 10,30 e il 20/7 dalle 17,00 alle 18,00 Via calcinari, 38068 Rovereto TN",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/beata-vergine-del-suffragio/1715812-1-ita-IT/Beata-Vergine-del-Suffragio.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132644",
     "abstract_text": "Visita guidata",
     "abstract": "<p>Visita guidata</p>",
-    "nome": "Vuoi visitare questa chiesa?",
+    "title": "Vuoi visitare questa chiesa?",
     "lon": "11.043963",
     "modifica": "2021-07-09",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132644",
-    "lat": "45.887159"
+    "lat": "45.887159",
+    "schedule": true,
+    "indirizzo": "martedì 13, sabato 17, martedì 20 Luglio 2021 Il 13/7 e 17/7 dalle ore 09,30 alle 10,30 e il 20/7 dalle 17,00 alle 18,00 Via calcinari, 38068 Rovereto TN"
 }

@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato 25 settembre 2021 dalle 10.30 alle 12.00 Teatro Zandonai,  Corso Bettini, 78 - Rovereto (Tn)",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/visita-guidata113/1731134-1-ita-IT/visita-guidata.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133831",
     "abstract_text": "Visita guidata nell' ambito della manifestazione, Progetto Opera 2021 - Euritmus",
     "abstract": "<p>Visita guidata nell' ambito della manifestazione, Progetto Opera 2021 - Euritmus</p>",
-    "nome": "Viaggio nella Salisburgo del Trentino",
+    "title": "Viaggio nella Salisburgo del Trentino",
     "lon": "11.043749",
     "modifica": "2021-09-17",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133831",
-    "lat": "45.893178"
+    "lat": "45.893178",
+    "duration_days": "[datetime.date(2021, 9, 25), datetime.date(2021, 9, 25)]",
+    "duration_hours": "('10:30', '12:00')",
+    "weekday": "['sabato']",
+    "indirizzo": "['dalle', 'alle', 'Teatro', 'Zandonai,', 'Corso', 'Bettini,', '78', '-', 'Rovereto', '(Tn)']",
+    "repeated": "False"
 }

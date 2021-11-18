@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Giovedì 13 maggio dalle 11.00 alle 17.00, Biblioteca civica   ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/biblioteca/eventi-e-attivita/dinosauri-disegnati-e-strane-creature-in-biblioteca-live-painting/1701647-1-ita-IT/Dinosauri-disegnati-e-strane-creature-in-biblioteca-Live-painting.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/131466",
     "abstract_text": "Andrea Antinori, illustratore, realizza un'illustrazione a tema dinosauri sulla vetrata della biblioteca che si affaccia sulla caffetteria del MART.",
     "abstract": "<p><strong>Andrea Antinori</strong>, illustratore, realizza un'illustrazione a tema <strong>dinosauri</strong> sulla vetrata della biblioteca che si affaccia sulla caffetteria del MART.</p>",
-    "nome": "Dinosauri disegnati e strane creature in biblioteca | Live painting",
+    "title": "Dinosauri disegnati e strane creature in biblioteca | Live painting",
     "lon": "",
     "modifica": "2021-05-10",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131466",
-    "lat": ""
+    "lat": "",
+    "duration_days": "[datetime.date(2021, 5, 13), datetime.date(2021, 5, 13)]",
+    "duration_hours": "('11:00',)",
+    "weekday": "['giovedì']",
+    "indirizzo": "['dalle', 'alle', '17.00,', 'Biblioteca', 'civica']",
+    "repeated": "False"
 }

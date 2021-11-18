@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/un-filo-di-seta/1713030-9-ita-IT/Un-filo-di-seta.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/132452",
+    "abstract_text": "Sulle tracce di questo prezioso filato",
+    "abstract": "<p><strong>Sulle tracce di questo prezioso filato</strong></p>",
+    "title": "Un filo di seta per la Vallagarina",
+    "lon": "11.045685",
+    "modifica": "2021-07-08",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132452",
+    "lat": "45.885699",
+    "duration_days": "[datetime.date(2021, 7, 12), datetime.date(2021, 8, 9)]",
+    "duration_hours": "()",
+    "weekday": "[]",
+    "indirizzo": "['dal', 'al', 'dalle', 'alle', 'e', 'dalle', 'alle', 'Colle-Masotti', '-', 'Via', 'Santa', 'Maria']",
+    "repeated": "False"
+}

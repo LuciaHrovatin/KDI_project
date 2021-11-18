@@ -1,12 +1,16 @@
 {
-    "indirizzo": "giovedì 22 aprile 2021   dalle 18 alle 19 online su YouTube e Facebook",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/conferenza-online/1699852-1-ita-IT/conferenza-online.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/131281",
     "abstract_text": "Scopriamo assieme il Parco Naturale Locale Monte Baldo",
     "abstract": "<p>Scopriamo assieme il Parco Naturale Locale Monte Baldo</p>",
-    "nome": "Alla scoperta della biodiversità dei prati falciati",
+    "title": "Alla scoperta della biodiversità dei prati falciati",
     "lon": "11.038712",
     "modifica": "2021-04-20",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131281",
-    "lat": "45.889986"
+    "lat": "45.889986",
+    "duration_days": "[datetime.date(2021, 4, 18), datetime.date(2021, 4, 22)]",
+    "duration_hours": "()",
+    "weekday": "['giovedì']",
+    "indirizzo": "['dalle', 'alle', 'online', 'su', 'YouTube', 'e', 'Facebook']",
+    "repeated": "False"
 }

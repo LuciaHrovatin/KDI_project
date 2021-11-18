@@ -1,12 +1,16 @@
 {
-    "indirizzo": "martedì 7 settembre  2021ore 19.00 dalle 19 alle 20  Giardino delle Sculture Mart - Corso Bettini, 43",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/danza8/1718879-2-ita-IT/danza.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132789",
     "abstract_text": "Oplà la danza in piazza - Oriente Occidente",
     "abstract": "<p>Oplà la danza in piazza - Oriente Occidente</p>",
-    "nome": "Elegìa delle cose perdute  Stefano Mazzotta  ",
+    "title": "Elegìa delle cose perdute  Stefano Mazzotta  ",
     "lon": "11.044757",
     "modifica": "2021-09-06",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132789",
-    "lat": "45.894578"
+    "lat": "45.894578",
+    "duration_days": "[datetime.date(2021, 9, 19), datetime.date(2021, 9, 7)]",
+    "duration_hours": "('19:00',)",
+    "weekday": "['martedì']",
+    "indirizzo": "['2021ore', 'dalle', 'alle', 'Giardino', 'delle', 'Sculture', 'Mart', '-', 'Corso', 'Bettini,', '43']",
+    "repeated": "False"
 }

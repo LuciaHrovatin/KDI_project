@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-per-bambini13/1718246-1-ita-IT/spettacolo-per-bambini.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/132746",
+    "abstract_text": "Storia animata con il linguaggio del Teatro d’Arte dei Burattini...",
+    "abstract": "<p>Storia animata con il linguaggio del Teatro d’Arte dei Burattini...</p>",
+    "title": "Racconto d'estate  ",
+    "lon": "11.042853",
+    "modifica": "2021-07-13",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132746",
+    "lat": "45.889444",
+    "duration_days": "[datetime.date(2021, 8, 18), datetime.date(2021, 8, 2)]",
+    "duration_hours": "()",
+    "weekday": "['lunedì']",
+    "indirizzo": "['dalle', 'alle', 'Cortile', 'Urbano', 'Via', 'Roma']",
+    "repeated": "False"
+}

@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/visita-guidata-attivita/1705511-1-ita-IT/visita-guidata-attivita.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/131719",
+    "abstract_text": "Iniziativa promossa dai musei di Rovereto e rivolta ai ragazzi e alle ragazze delle scuole secondarie",
+    "abstract": "<p>Iniziativa promossa dai musei di Rovereto e rivolta ai ragazzi e alle ragazze delle scuole secondarie</p>",
+    "title": "#Iovadoalmuseo | La Prima guerra mondiale nelle sale del Museo",
+    "lon": "11.046581",
+    "modifica": "2021-05-19",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/131719",
+    "lat": "45.886524",
+    "duration_days": "[datetime.date(2021, 5, 20), datetime.date(2021, 5, 20)]",
+    "duration_hours": "('16:30', '17:30')",
+    "weekday": "['giovedì']",
+    "indirizzo": "['ore', 'dalle', 'alle', 'Museo', 'della', 'Guerra', 'via', 'Castelbarco']",
+    "repeated": "False"
+}

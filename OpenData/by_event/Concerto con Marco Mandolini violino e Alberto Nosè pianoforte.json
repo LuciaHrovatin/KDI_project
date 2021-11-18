@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Giovedì 14 gennaio 2021 dalle 20.30 alle 21.30 Teatro R. Zandonai - in diretta streaming",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto-in-diretta-streaming/1662098-1-ita-IT/Concerto-in-diretta-streaming.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/129553",
     "abstract_text": "2021 - 30° anno di attività dell’Associazione Mozart Italia",
     "abstract": "<p>2021 - 30° anno di attività dell’Associazione Mozart Italia</p>",
-    "nome": "Concerto con Marco Mandolini violino e Alberto Nosè pianoforte",
+    "title": "Concerto con Marco Mandolini violino e Alberto Nosè pianoforte",
     "lon": "11.043577",
     "modifica": "2021-01-13",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/129553",
-    "lat": "45.89307"
+    "lat": "45.89307",
+    "duration_days": "[datetime.date(2021, 1, 14), datetime.date(2021, 1, 14)]",
+    "duration_hours": "('20:30', '21:30')",
+    "weekday": "['giovedì']",
+    "indirizzo": "['dalle', 'alle', 'Teatro', 'R.', 'Zandonai', '-', 'in', 'diretta', 'streaming']",
+    "repeated": "False"
 }

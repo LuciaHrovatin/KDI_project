@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontro-con-l-osteopata-leo-zampi/1708799-1-ita-IT/Incontro-con-l-osteopata-Leo-Zampi.png",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/132099",
+    "abstract_text": "Si conclude martedì 29 giugno la prima parte di Filo di Arianna, calendario di appuntamenti organizzato da Associazione Armonia di Rovereto. ",
+    "abstract": "<p>Si conclude martedì 29 giugno la prima parte di Filo di Arianna, calendario di appuntamenti organizzato da Associazione Armonia di Rovereto. </p>",
+    "title": "Funzionare meglio: autotrattamento delle zone riflesse ",
+    "lon": "1105917692",
+    "modifica": "2021-06-29",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132099",
+    "lat": "45.883825",
+    "duration_days": "[datetime.date(2021, 6, 29), datetime.date(2021, 6, 29)]",
+    "duration_hours": "()",
+    "weekday": "['martedì']",
+    "indirizzo": "['18:30-', 'online']",
+    "repeated": "False"
+}

@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/festival7/1731350-1-ita-IT/Festival.png",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133841",
+    "abstract_text": "Il Festival delle idee per uno sviluppo sostenibile.",
+    "abstract": "<p>Il Festival delle idee per uno sviluppo sostenibile.</p>",
+    "title": "Arcipelago Lavoro - Il Festival delle idee per uno sviluppo sostenibile",
+    "lon": "11.044714",
+    "modifica": "2021-09-22",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133841",
+    "lat": "45.887051",
+    "duration_days": "[datetime.date(2021, 9, 27), datetime.date(2021, 9, 27)]",
+    "duration_hours": "('20:30', '22:00')",
+    "weekday": "['lunedì']",
+    "indirizzo": "['dalle', 'alle', 'Tana', 'dei', 'Papà,', 'Piazzetta', 'Sichardt,', '38068', 'Rovereto']",
+    "repeated": "False"
+}

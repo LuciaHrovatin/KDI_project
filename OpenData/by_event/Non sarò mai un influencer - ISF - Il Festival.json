@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 22 ottobre 2021 dalle 10.45 alle 12.15 online piattaforma e-learning Iprase",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/festival-webinar/1737223-1-ita-IT/festival-webinar.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/134229",
     "abstract_text": "Dibattiti, incontri, laboratori e spettacoli sull'impatto sociale dell'innovazione e l'utilizzo etico delle nuove tecnologie.",
     "abstract": "<p>Dibattiti, incontri, laboratori e spettacoli sull'impatto sociale dell'innovazione e l'utilizzo etico delle nuove tecnologie.</p>",
-    "nome": "Non sarò mai un influencer - ISF - Il Festival",
+    "title": "Non sarò mai un influencer - ISF - Il Festival",
     "lon": "11.043572",
     "modifica": "2021-10-20",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134229",
-    "lat": "45.893029"
+    "lat": "45.893029",
+    "duration_days": "[datetime.date(2021, 10, 22), datetime.date(2021, 10, 22)]",
+    "duration_hours": "('10:45', '12:15')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'online', 'piattaforma', 'e-learning', 'Iprase']",
+    "repeated": "False"
 }

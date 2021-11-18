@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/iniziative-nel-centro-storico-della-citta2/1729451-6-ita-IT/Iniziative-nel-centro-storico-della-citta.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133713",
+    "abstract_text": "Musica, spettacoli, artigianato tutto al femminile.",
+    "abstract": "<p>Musica, spettacoli, artigianato tutto al femminile.</p>",
+    "title": "Canto... più piano - Rovereto in Rosa 2021",
+    "lon": "11.043668",
+    "modifica": "2021-09-16",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133713",
+    "lat": "45.890049",
+    "duration_days": "[datetime.date(2021, 9, 17), datetime.date(2021, 9, 17)]",
+    "duration_hours": "('21:00', '22:00')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'aale', 'per', 'le', 'vie', 'del', 'centro', 'storico', 'della', 'città']",
+    "repeated": "False"
+}

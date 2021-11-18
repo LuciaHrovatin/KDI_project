@@ -1,12 +1,16 @@
 {
-    "indirizzo": "lunedì 2 agosto 2021  dalle  20.45 alle 22.15 Giardino delle sculture del Mart corso Bettini 43",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/film23/1717275-1-ita-IT/film.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132715",
     "abstract_text": "Cinema Estate 2021",
     "abstract": "<p>Cinema Estate 2021</p>",
-    "nome": " Comedians  di Giuseppe Salvatores",
+    "title": " Comedians  di Giuseppe Salvatores",
     "lon": "11.044773",
     "modifica": "2021-07-12",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132715",
-    "lat": "45.894645"
+    "lat": "45.894645",
+    "duration_days": "[datetime.date(2021, 8, 2), datetime.date(2021, 8, 2)]",
+    "duration_hours": "('20:45', '22:15')",
+    "weekday": "['lunedì']",
+    "indirizzo": "['dalle', 'alle', 'Giardino', 'delle', 'sculture', 'del', 'Mart', 'corso', 'Bettini', '43']",
+    "repeated": "False"
 }

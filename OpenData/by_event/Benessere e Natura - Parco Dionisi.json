@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Da lunedì 14 giugno a venerdì 30 luglio 2021 Pilates, martedì 18.30/19.30 Parco Dionisi Viale della Vittoria,  Rovereto",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/attivita-aperte-a-tutti-nei-parchi-cittadini2/1709704-6-ita-IT/Attivita-aperte-a-tutti-nei-parchi-cittadini.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132150",
     "abstract_text": "Incontri di Yoga (lunedì e mercoledì), Nordic Walking (martedì) Pilates (martedì e giiovedì), Taiji quan (mercoledì e venerdì), Ginnastica dolce (mercoledì e giovedì)",
     "abstract": "<p>Incontri di Yoga (lunedì e mercoledì), Nordic Walking (martedì) Pilates (martedì e giiovedì), Taiji quan (mercoledì e venerdì), Ginnastica dolce (mercoledì e giovedì)</p>",
-    "nome": "Benessere e Natura - Parco Dionisi",
+    "title": "Benessere e Natura - Parco Dionisi",
     "lon": "11.022559",
     "modifica": "2021-06-09",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132150",
-    "lat": "45.884945"
+    "lat": "45.884945",
+    "duration_days": "[datetime.date(2021, 6, 14), datetime.date(2021, 7, 30)]",
+    "duration_hours": "()",
+    "weekday": "['lunedì', 'venerdì', 'martedì']",
+    "indirizzo": "['Da', 'a', 'Pilates,', '18.30/19.30', 'Parco', 'Dionisi', 'Viale', 'della', 'Vittoria,', 'Rovereto']",
+    "repeated": "False"
 }

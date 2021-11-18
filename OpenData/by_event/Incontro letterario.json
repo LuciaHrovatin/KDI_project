@@ -1,12 +1,16 @@
 {
-    "indirizzo": "giovedì 29 ottobre dalle 17.00 alle 19.00 Biblioteca civica Tartraotti, corso Bettini 43, Rovereto",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/dialogo-con-gli-autori/1623101-1-ita-IT/Dialogo-con-gli-autori.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/128002",
     "abstract_text": "Incontro con alcuni scrittori della collana Equilibri (Edizioni del Faro).",
     "abstract": "<p>Incontro con alcuni scrittori della collana Equilibri (Edizioni del Faro).</p>",
-    "nome": "Incontro letterario",
+    "title": "Incontro letterario",
     "lon": "11.043965",
     "modifica": "2020-10-27",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128002",
-    "lat": "45.894123"
+    "lat": "45.894123",
+    "duration_days": "[datetime.date(2021, 10, 29), datetime.date(2021, 10, 29)]",
+    "duration_hours": "('17:00', '19:00')",
+    "weekday": "['giovedì']",
+    "indirizzo": "['dalle', 'alle', 'Biblioteca', 'civica', 'Tartraotti,', 'corso', 'Bettini', '43,', 'Rovereto']",
+    "repeated": "False"
 }

@@ -1,12 +1,16 @@
 {
-    "indirizzo": "mercoledì 11 novembre 2020 dalle 17.30 alle 18.30 online in modalità webinar",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/presentazione-libro-online/1630399-1-ita-IT/presentazione-libro-online.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/128269",
     "abstract_text": "Presentazione del libro Weimar. La Germania dal 1918 al 1933 di Gustavo Corni",
     "abstract": "<p>Presentazione del libro Weimar. La Germania dal 1918 al 1933 di Gustavo Corni</p>",
-    "nome": "Storie e storia 2020 - Weimar. La Germania dal 1918 al 1933 di Gustavo Corni",
+    "title": "Storie e storia 2020 - Weimar. La Germania dal 1918 al 1933 di Gustavo Corni",
     "lon": "11.046377",
     "modifica": "2020-11-10",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128269",
-    "lat": "45.886356"
+    "lat": "45.886356",
+    "duration_days": "[datetime.date(2020, 11, 11), datetime.date(2020, 11, 11)]",
+    "duration_hours": "('17:30', '18:30')",
+    "weekday": "['mercoledì']",
+    "indirizzo": "['dalle', 'alle', 'online', 'in', 'modalità', 'webinar']",
+    "repeated": "False"
 }

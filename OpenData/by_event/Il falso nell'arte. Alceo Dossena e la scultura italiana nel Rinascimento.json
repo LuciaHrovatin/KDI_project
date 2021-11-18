@@ -1,12 +1,16 @@
 {
-    "indirizzo": "da sabato 25 settembre 2021 a domenica 9 gennaio 2022 dalle 10.00 alle 18.00 Corso Bettini, 43 - MART Rovereto - 38068",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mart-rovereto/1728561-1-ita-IT/Mart-Rovereto.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133680",
     "abstract_text": "A cura di Dario Del Bufalo e Marco Horak",
     "abstract": "<p>A cura di Dario Del Bufalo e Marco Horak</p>",
-    "nome": "Il falso nell'arte. Alceo Dossena e la scultura italiana nel Rinascimento",
+    "title": "Il falso nell'arte. Alceo Dossena e la scultura italiana nel Rinascimento",
     "lon": "11.045026",
     "modifica": "2021-09-15",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133680",
-    "lat": "45.893925"
+    "lat": "45.893925",
+    "duration_days": "[datetime.date(2021, 9, 25), datetime.date(2022, 1, 9)]",
+    "duration_hours": "('10:00', '18:00')",
+    "weekday": "['sabato', 'domenica']",
+    "indirizzo": "['da', 'a', 'dalle', 'alle', 'Corso', 'Bettini,', '43', '-', 'MART', 'Rovereto', '-', '38068']",
+    "repeated": "False"
 }

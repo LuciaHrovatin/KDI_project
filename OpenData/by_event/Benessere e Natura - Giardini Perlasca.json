@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Da lunedì 14 giugno a venerdì 30 luglio 2021 Yoga il mercoledì 08.30/09.30, Taiji quan il mercoledì e venerdì 08.30/09.30, Ginnastica dolce 09.00/10.00 Giardini Perlasca Corso Bettini, 84a Rovereto",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/attivita-aperte-a-tutti-nei-parchi-cittadini4/1709786-1-ita-IT/Attivita-aperte-a-tutti-nei-parchi-cittadini.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132153",
     "abstract_text": "Incontri di Yoga (lunedì e mercoledì), Nordic Walking (martedì) Pilates (martedì e giiovedì), Taiji quan (mercoledì e venerdì), Ginnastica dolce (mercoledì e giovedì)",
     "abstract": "<p>Incontri di Yoga (lunedì e mercoledì), Nordic Walking (martedì) Pilates (martedì e giiovedì), Taiji quan (mercoledì e venerdì), Ginnastica dolce (mercoledì e giovedì)</p>",
-    "nome": "Benessere e Natura - Giardini Perlasca",
+    "title": "Benessere e Natura - Giardini Perlasca",
     "lon": "11.042489",
     "modifica": "2021-06-09",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132153",
-    "lat": "45.894669"
+    "lat": "45.894669",
+    "duration_days": "[datetime.date(2021, 6, 14), datetime.date(2021, 7, 30)]",
+    "duration_hours": "()",
+    "weekday": "['lunedì', 'venerdì', 'mercoledì', 'mercoledì', 'venerdì']",
+    "indirizzo": "['Da', 'a', 'Yoga', 'il', '08.30/09.30,', 'Taiji', 'quan', 'il', 'e', '08.30/09.30,', 'Ginnastica', 'dolce', '09.00/10.00', 'Giardini', 'Perlasca', 'Corso', 'Bettini,', '84a', 'Rovereto']",
+    "repeated": "False"
 }

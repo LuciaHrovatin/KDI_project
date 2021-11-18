@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato 4 settembre 2021  dalle 6 alle 7 Campana dei Caduti Colle di Miravalle ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/danza5/1718774-3-ita-IT/danza.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132786",
     "abstract_text": "Oplà la danza in piazza - Oriente Occidente",
     "abstract": "<p>Oplà la danza in piazza - Oriente Occidente</p>",
-    "nome": "  Choros. Il luogo dove si danza  Alessio Maria Romano",
+    "title": "  Choros. Il luogo dove si danza  Alessio Maria Romano",
     "lon": "11.038881",
     "modifica": "2021-07-14",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132786",
-    "lat": "45.873984"
+    "lat": "45.873984",
+    "duration_days": "[datetime.date(2021, 9, 4), datetime.date(2021, 9, 7)]",
+    "duration_hours": "()",
+    "weekday": "['sabato']",
+    "indirizzo": "['dalle', 'alle', 'Campana', 'dei', 'Caduti', 'Colle', 'di', 'Miravalle']",
+    "repeated": "False"
 }

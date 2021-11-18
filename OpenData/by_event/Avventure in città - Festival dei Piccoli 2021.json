@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale94/1732946-1-ita-IT/spettacolo-teatrale.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133935",
+    "abstract_text": "Buffe avventure notturne da Marte al labirinto sotto terraDi Elementare Teatro.",
+    "abstract": "<p>Buffe avventure notturne da Marte al labirinto sotto terra</p><p>Di Elementare Teatro.</p>",
+    "title": "Avventure in città - Festival dei Piccoli 2021",
+    "lon": "11.036534",
+    "modifica": "2021-09-28",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133935",
+    "lat": "45.89083",
+    "duration_days": "[datetime.date(2021, 12, 5), datetime.date(2021, 12, 5)]",
+    "duration_hours": "('17:00', '18:00')",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'Sala', 'Filarmonica,', 'Corso', 'Rosmini', '86,', '38068', 'Rovereto', '(Tn)']",
+    "repeated": "False"
+}

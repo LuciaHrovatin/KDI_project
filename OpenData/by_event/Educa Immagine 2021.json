@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 01 ottobre 2021 dalle 15.00 alle 23.00 Corso Bettini, 84 (Palazzo istruzione aula magna) e Teatro Zandonai e online",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/festival-dell-educazione/1731964-5-ita-IT/Festival-dell-educazione.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133878",
     "abstract_text": "Anteprima della &quot;3^ Edizione di Educa immagine&quot;. Rassegna sul linguaggio del cinema e dei media. Festival dell’audiovisivo dedicata a bambini, ragazzi e adulti. Webinar di approfondimento sulla grammatica delle immagini. Film provenienti da riconosciuti festival internazionali Laboratori di introduzione al linguaggio cinematograficoInterventi di, registi, attori, giornalisti, influencer e non solo",
     "abstract": "<p>Anteprima della &quot;3^ Edizione di Educa immagine&quot;. Rassegna sul linguaggio del cinema e dei media. Festival dell’audiovisivo dedicata a bambini, ragazzi e adulti.</p><p>\n<strong>Webinar</strong> di approfondimento sulla grammatica delle immagini.<br />\n<strong>Film </strong>provenienti da riconosciuti festival internazionali<br />\n<strong>Laboratori</strong> di introduzione al linguaggio cinematografico<br /><strong>Interventi</strong> di, registi, attori, giornalisti, influencer e non solo</p>",
-    "nome": "Educa Immagine 2021",
+    "title": "Educa Immagine 2021",
     "lon": "11.043481",
     "modifica": "2021-09-27",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133878",
-    "lat": "45.893525"
+    "lat": "45.893525",
+    "duration_days": "[datetime.date(2021, 10, 1), datetime.date(2021, 10, 1)]",
+    "duration_hours": "('15:00', '23:00')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'Corso', 'Bettini,', '84', '(Palazzo', 'istruzione', 'aula', 'magna)', 'e', 'Teatro', 'Zandonai', 'e', 'online']",
+    "repeated": "False"
 }

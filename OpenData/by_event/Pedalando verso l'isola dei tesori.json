@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato 25 Settembre 2021 Dalle 9.30 alle 12.30 Partenza dal parcheggio del Ponte delle Zigherane, Borgo Sacco - Rovereto",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/percorso-a-tappe-in-bicicletta/1715077-2-ita-IT/Percorso-a-tappe-in-bicicletta.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132581",
     "abstract_text": "Percorso a tappe in bicicletta tra archeologia e natura con gli esperti del museo",
     "abstract": "<p>Percorso a tappe in bicicletta tra archeologia e natura con gli esperti del museo</p>",
-    "nome": "Pedalando verso l'isola dei tesori",
+    "title": "Pedalando verso l'isola dei tesori",
     "lon": "11.022136",
     "modifica": "2021-07-16",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132581",
-    "lat": "45.880568"
+    "lat": "45.880568",
+    "duration_days": "[datetime.date(2021, 9, 25), datetime.date(2021, 9, 25)]",
+    "duration_hours": "('12:30',)",
+    "weekday": "['sabato']",
+    "indirizzo": "['Dalle', '9.30', 'alle', 'Partenza', 'dal', 'parcheggio', 'del', 'Ponte', 'delle', 'Zigherane,', 'Borgo', 'Sacco', '-', 'Rovereto']",
+    "repeated": "False"
 }

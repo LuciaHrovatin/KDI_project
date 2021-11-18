@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 22 ottobre 2021 dalle 11.30 alle 12.30 online ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/festival-webinar2/1737398-1-ita-IT/festival-webinar.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/134234",
     "abstract_text": "Dibattiti, incontri, laboratori e spettacoli sull'impatto sociale dell'innovazione e l'utilizzo etico delle nuove tecnologie.",
     "abstract": "<p>Dibattiti, incontri, laboratori e spettacoli sull'impatto sociale dell'innovazione e l'utilizzo etico delle nuove tecnologie.</p>",
-    "nome": "L’imprenditoria tra il sociale e il digitale. Nuove forme di istruzione, azione e partecipazione - Il Festival",
+    "title": "L’imprenditoria tra il sociale e il digitale. Nuove forme di istruzione, azione e partecipazione - Il Festival",
     "lon": "11.043572",
     "modifica": "2021-10-20",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134234",
-    "lat": "45.893029"
+    "lat": "45.893029",
+    "duration_days": "[datetime.date(2021, 10, 22), datetime.date(2021, 10, 22)]",
+    "duration_hours": "('11:30', '12:30')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'online']",
+    "repeated": "False"
 }

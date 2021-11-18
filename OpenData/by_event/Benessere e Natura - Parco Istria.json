@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Da lunedì 14 giugno a mercoledì 28 luglio 2021 Ginnastica dolce il mercoledì 19.00/20.00 Parco Istria Via Benacense  Rovereto",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/attivita-aperte-a-tutti-nei-parchi-cittadini5/1709821-2-ita-IT/Attivita-aperte-a-tutti-nei-parchi-cittadini.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132154",
     "abstract_text": "Incontri di Yoga (lunedì e mercoledì), Nordic Walking (martedì) Pilates (martedì e giiovedì), Taiji quan (mercoledì e venerdì), Ginnastica dolce (mercoledì e giovedì)",
     "abstract": "<p>Incontri di Yoga (lunedì e mercoledì), Nordic Walking (martedì) Pilates (martedì e giiovedì), Taiji quan (mercoledì e venerdì), Ginnastica dolce (mercoledì e giovedì)</p>",
-    "nome": "Benessere e Natura - Parco Istria",
+    "title": "Benessere e Natura - Parco Istria",
     "lon": "11.033508",
     "modifica": "2021-06-09",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132154",
-    "lat": "45.877547"
+    "lat": "45.877547",
+    "duration_days": "[datetime.date(2021, 6, 14), datetime.date(2021, 7, 28)]",
+    "duration_hours": "()",
+    "weekday": "['lunedì', 'mercoledì', 'mercoledì']",
+    "indirizzo": "['Da', 'a', 'Ginnastica', 'dolce', 'il', '19.00/20.00', 'Parco', 'Istria', 'Via', 'Benacense', 'Rovereto']",
+    "repeated": "False"
 }

@@ -1,12 +1,16 @@
 {
-    "indirizzo": "sabato 31 ottobre 2020 dalle 10 alle 12 Vari luoghi della città",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/visite-guidate24/1563217-1-ita-IT/visite-guidate.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/125853",
     "abstract_text": "Alla scoperta del territorio, un'occasione di approfondimento per i turisti ma anche per i residenti e i trentini ...",
     "abstract": "<p>Alla scoperta del territorio, un'occasione di approfondimento per i turisti ma anche per i residenti e i trentini ...</p>",
-    "nome": "Alla scoperta di Rovereto - Rovereto, la città più all’avanguardia del Trentino",
+    "title": "Alla scoperta di Rovereto - Rovereto, la città più all’avanguardia del Trentino",
     "lon": "11.045476",
     "modifica": "2020-07-24",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/125853",
-    "lat": "45.886562"
+    "lat": "45.886562",
+    "duration_days": "[datetime.date(2020, 10, 10), datetime.date(2020, 10, 31)]",
+    "duration_hours": "()",
+    "weekday": "['sabato']",
+    "indirizzo": "['dalle', 'alle', 'Vari', 'luoghi', 'della', 'città']",
+    "repeated": "False"
 }

@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontri-formativi/1606168-4-ita-IT/incontri-formativi.png",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/127387",
+    "abstract_text": "Incontri per neo mamme con bimbi/e 0-9 mesi",
+    "abstract": "<p>Incontri per neo mamme con bimbi/e 0-9 mesi</p>",
+    "title": "Cerchio delle mamme ",
+    "lon": "11.040764",
+    "modifica": "2020-10-13",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/127387",
+    "lat": "45.904869",
+    "duration_days": "[datetime.date(2020, 10, 26), datetime.date(2020, 10, 5)]",
+    "duration_hours": "('10:30', '12:00')",
+    "weekday": "[]",
+    "indirizzo": "['dal', 'al', 'dalle', 'alle', 'Smart', 'Lab', 'viale', 'Trento,', '46']",
+    "repeated": "False"
+}

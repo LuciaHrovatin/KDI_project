@@ -1,12 +1,16 @@
 {
-    "indirizzo": "domenica 26 settembre 2021 dalle17 alle 19.30 Teatro Riccardo Zandonai Corso Bettini 78",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/dramma-giocoso2/1720149-2-ita-IT/Dramma-giocoso.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132880",
     "abstract_text": "Dramma giocoso in due atti",
     "abstract": "<p>Dramma giocoso in due atti</p>",
-    "nome": "Settimana Mozartiana: Wolfgang Amadeus Mozart  Don Giovanni (Il dissoluto punito)",
+    "title": "Settimana Mozartiana: Wolfgang Amadeus Mozart  Don Giovanni (Il dissoluto punito)",
     "lon": "11.043633",
     "modifica": "2021-09-16",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132880",
-    "lat": "45.893133"
+    "lat": "45.893133",
+    "duration_days": "[datetime.date(2021, 9, 26), datetime.date(2021, 9, 26)]",
+    "duration_hours": "('19:30',)",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle17', 'alle', 'Teatro', 'Riccardo', 'Zandonai', 'Corso', 'Bettini', '78']",
+    "repeated": "False"
 }

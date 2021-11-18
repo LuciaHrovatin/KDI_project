@@ -1,12 +1,13 @@
 {
-    "indirizzo": "da sabato 21 ottore 2021 a domenica 13 febbraio 2022 dal martedì alla domenica dalle 10.00 alle 18.00 e il venerdì dalle 10.00 alle 21.00 Mart - Corso Bettini, 43 - 38068 Rovereto",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mostra39/1733285-1-ita-IT/mostra.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/133949",
     "abstract_text": "Pittura, teatro, scenografia, design, moda, pubblicità: la mostra “Depero new Depero”, curata da Nicoletta Boschiero",
     "abstract": "<p>Pittura, teatro, scenografia, design, moda, pubblicità: la mostra “Depero new Depero”, curata da Nicoletta Boschiero</p>",
-    "nome": "Depero new Depero ",
+    "title": "Depero new Depero ",
     "lon": "11.045023",
     "modifica": "2021-09-29",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133949",
-    "lat": "45.894003"
+    "lat": "45.894003",
+    "schedule": true,
+    "indirizzo": "da sabato 21 ottore 2021 a domenica 13 febbraio 2022 dal martedì alla domenica dalle 10.00 alle 18.00 e il venerdì dalle 10.00 alle 21.00 Mart - Corso Bettini, 43 - 38068 Rovereto"
 }

@@ -1,12 +1,16 @@
 {
-    "indirizzo": "domenica 27 dicembre 2020  dalle ore 17 alle 18 online piattaforma Retroscena.org",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-per-bambini-online2/1645480-1-ita-IT/spettacolo-per-bambini-online.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/128906",
     "abstract_text": "Due orfanelli un po’ cresciuti ci raccontano un classico tra musica e animazione",
     "abstract": "<p>Due orfanelli un po’ cresciuti ci raccontano un classico tra musica e animazione</p>",
-    "nome": "Il famoso canto di Natale di e con Giacomo Anderle e Alessio Kogoj - Teatro in Valle Edizione Kids 2020",
+    "title": "Il famoso canto di Natale di e con Giacomo Anderle e Alessio Kogoj - Teatro in Valle Edizione Kids 2020",
     "lon": "11.043808",
     "modifica": "2020-12-16",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128906",
-    "lat": "45.893607"
+    "lat": "45.893607",
+    "duration_days": "[datetime.date(2020, 12, 17), datetime.date(2020, 12, 27)]",
+    "duration_hours": "()",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'ore', 'alle', 'online', 'piattaforma', 'Retroscena.org']",
+    "repeated": "False"
 }

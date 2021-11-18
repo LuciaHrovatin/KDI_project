@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Venerdi' 23 ottobre 2020 dalle 18 alle ore 19.30 Sala Convegni \"F. Zeni\"  Fondazione Museo Civico di Rovereto -  Borgo Santa Caterina 41 ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/conferenza21/1613848-1-ita-IT/conferenza.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/127652",
     "abstract_text": "I Venerdi' dell'Archeologia 2020 - Ciclo di Conferenze",
     "abstract": "<p>I Venerdi' dell'Archeologia 2020 - Ciclo di Conferenze</p>",
-    "nome": "I Venerdì dell'Archeologia 2020 - Balnea e terme: piaceri e politica in epoca romana.",
+    "title": "I Venerdì dell'Archeologia 2020 - Balnea e terme: piaceri e politica in epoca romana.",
     "lon": "11.038722",
     "modifica": "2020-10-12",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/127652",
-    "lat": "45.889922"
+    "lat": "45.889922",
+    "duration_days": "[datetime.date(2020, 10, 18), datetime.date(2020, 10, 23)]",
+    "duration_hours": "('19:30',)",
+    "weekday": "[]",
+    "indirizzo": "[\"Venerdi'\", 'dalle', 'alle', 'ore', 'Sala', 'Convegni', '\"F.', 'Zeni\"', 'Fondazione', 'Museo', 'Civico', 'di', 'Rovereto', '-', 'Borgo', 'Santa', 'Caterina', '41']",
+    "repeated": "False"
 }

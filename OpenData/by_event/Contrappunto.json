@@ -1,12 +1,12 @@
 {
-    "indirizzo": "lunedì 30, martedì 31 agosto e mercoledì 1 settembre ore 18.00 Lunedì ore 18.00, martedì ore 18.00 e 20.30 e mercoledì ore 18.00 Piazzale Circoscrizione di Marco - via S. Romedio",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-per-bambini-e-famiglie/1719127-1-ita-IT/spettacolo-per-bambini-e-famiglie.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132797",
     "abstract_text": "Nel Teatro Ambulante uno spettacolo di clownerie, musica e marchingegni per tutte le età.",
     "abstract": "<p>Nel Teatro Ambulante uno spettacolo di clownerie, musica e marchingegni per tutte le età.</p>",
-    "nome": "Contrappunto",
+    "title": "Contrappunto",
     "lon": "11.007357",
     "modifica": "2021-08-23",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132797",
-    "lat": "45.843465"
+    "lat": "45.843465",
+    "indirizzo": "lunedì 30, martedì 31 agosto e mercoledì 1 settembre ore 18.00 Lunedì ore 18.00, martedì ore 18.00 e 20.30 e mercoledì ore 18.00 Piazzale Circoscrizione di Marco - via S. Romedio"
 }

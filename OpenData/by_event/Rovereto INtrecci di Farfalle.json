@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/iniziative-nel-centro-storico-della-citta/1721305-1-ita-IT/Iniziative-nel-centro-storico-della-citta.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133032",
+    "abstract_text": "Shopping e cultura",
+    "abstract": "<p>Shopping e cultura</p>",
+    "title": "Rovereto INtrecci di Farfalle",
+    "lon": "11.043776",
+    "modifica": "2021-09-24",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133032",
+    "lat": "45.89012",
+    "duration_days": "[datetime.date(2021, 7, 1), datetime.date(2021, 10, 30)]",
+    "duration_hours": "()",
+    "weekday": "[]",
+    "indirizzo": "['da', 'a', 'per', 'le', 'vie', 'del', 'centro', 'storico', 'della', 'città']",
+    "repeated": "False"
+}

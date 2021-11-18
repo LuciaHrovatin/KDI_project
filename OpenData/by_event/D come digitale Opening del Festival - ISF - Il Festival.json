@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 22 ottobre 2021 dalle 10.00 alle 11.00 Teatro Zandonai, Corso Bettini 78, 38068 Rovereto ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/festival22/1737081-1-ita-IT/festival.png",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/134224",
     "abstract_text": "Dibattiti, incontri, laboratori e spettacoli sull'impatto sociale dell'innovazione e l'utilizzo etico delle nuove tecnologie.",
     "abstract": "<p>Dibattiti, incontri, laboratori e spettacoli sull'impatto sociale dell'innovazione e l'utilizzo etico delle nuove tecnologie.</p>",
-    "nome": "D come digitale Opening del Festival - ISF - Il Festival",
+    "title": "D come digitale Opening del Festival - ISF - Il Festival",
     "lon": "11.043572",
     "modifica": "2021-10-20",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134224",
-    "lat": "45.893029"
+    "lat": "45.893029",
+    "duration_days": "[datetime.date(2021, 10, 22), datetime.date(2021, 10, 22)]",
+    "duration_hours": "('10:00', '11:00')",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'Teatro', 'Zandonai,', 'Corso', 'Bettini', '78,', '38068', 'Rovereto']",
+    "repeated": "False"
 }

@@ -1,12 +1,16 @@
 {
-    "indirizzo": "Sabato 11 settembre 2021 ore 17.30, Sala Belli c/o Palazzo Alberti - corso Bettini, 41  ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/biblioteca/eventi-e-attivita/il-pane-di-klaudio-findiku2/1725870-2-ita-IT/IL-PANE-di-Klaudio-Findiku.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/134129",
     "abstract_text": "Presentazione del libro IL PANE di Klaudio Findiku",
     "abstract": "<p class=\" text-justify\">Presentazione del libro IL PANE di Klaudio Findiku</p>",
-    "nome": "IL PANE di Klaudio Findiku ",
+    "title": "IL PANE di Klaudio Findiku ",
     "lon": "",
     "modifica": "2021-10-07",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/134129",
-    "lat": ""
+    "lat": "",
+    "duration_days": "[datetime.date(2021, 9, 11), datetime.date(2021, 9, 11)]",
+    "duration_hours": "()",
+    "weekday": "['sabato']",
+    "indirizzo": "['ore', '17.30,', 'Sala', 'Belli', 'c/o', 'Palazzo', 'Alberti', '-', 'corso', 'Bettini,', '41']",
+    "repeated": "False"
 }

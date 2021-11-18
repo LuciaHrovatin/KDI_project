@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale97/1732682-1-ita-IT/spettacolo-teatrale.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133917",
+    "abstract_text": "La vita dei cavernicoli messa alla dura provaDi Estro Teatro",
+    "abstract": "<p>La vita dei cavernicoli messa alla dura prova</p><p>Di Estro Teatro</p>",
+    "title": "Due clave e una caverna - Festival dei Piccoli 2021",
+    "lon": "11.036534",
+    "modifica": "2021-09-28",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133917",
+    "lat": "45.89083",
+    "duration_days": "[datetime.date(2021, 11, 21), datetime.date(2021, 11, 21)]",
+    "duration_hours": "('17:00', '18:00')",
+    "weekday": "['domenica']",
+    "indirizzo": "['dalle', 'alle', 'Sala', 'Filarmonica,', 'Corso', 'Rosmini', '86,', '38068', 'Rovereto', '(Tn)']",
+    "repeated": "False"
+}

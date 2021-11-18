@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/right/1727646-1-ita-IT/Right.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133651",
+    "abstract_text": "C&amp;C Company | COB Compagnia Opus Ballet - Italia",
+    "abstract": "<p>C&amp;C Company | COB Compagnia Opus Ballet - Italia</p>",
+    "title": "Carlo Massari / C&C Company: Right",
+    "lon": "11.056296",
+    "modifica": "2021-09-07",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133651",
+    "lat": "45.88555",
+    "duration_days": "[datetime.date(2021, 9, 8), datetime.date(2021, 9, 8)]",
+    "duration_hours": "('22:00', '23:00')",
+    "weekday": "['mercoledì']",
+    "indirizzo": "['dalle', 'alle', 'circa', 'Teatro', 'alla', 'Cartiera,', 'Via', 'alla', 'Cartiera,', 'Rovereto', '(Tn)']",
+    "repeated": "False"
+}

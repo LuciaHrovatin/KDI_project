@@ -1,0 +1,16 @@
+{
+    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/biblioteca/eventi-e-attivita/periodici-della-biblioteca/1724065-1-ita-IT/Periodici-della-Biblioteca.jpg",
+    "url": "https://www.comune.rovereto.tn.it/openpa/object/133277",
+    "abstract_text": "Da oggi i periodici esposti nelle sale di lettura hanno un segnaposto con impresso il QRCode della rivista.",
+    "abstract": "<p>Da oggi i periodici esposti nelle sale di lettura hanno un segnaposto con impresso il QRCode della rivista.</p>",
+    "title": "Periodici della Biblioteca",
+    "lon": "",
+    "modifica": "2021-09-13",
+    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/133277",
+    "lat": "",
+    "duration_days": "[datetime.date(2021, 8, 23), datetime.date(2021, 8, 23)]",
+    "duration_hours": "('2021:',)",
+    "weekday": "[]",
+    "indirizzo": "['Da', 'Biblioteca', 'Civica', 'Tartarotti']",
+    "repeated": "False"
+}

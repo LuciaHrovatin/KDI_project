@@ -1,12 +1,16 @@
 {
-    "indirizzo": " venerdì 30 ottobre 2020  dalle 17.30 alle 19 piattaforma digitale zoom",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/presentazione-libro19/1619452-1-ita-IT/presentazione-libro.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/127857",
     "abstract_text": " Il Governo senza orgoglio Le categorie del politico secondo Rosmini di Michele Nicoletti",
     "abstract": "<p>\nIl Governo senza orgoglio Le categorie del politico secondo Rosmini <br />di Michele Nicoletti</p>",
-    "nome": "Il Governo senza orgoglio di Michele Nicoletti",
+    "title": "Il Governo senza orgoglio di Michele Nicoletti",
     "lon": "11.045623",
     "modifica": "2020-10-22",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/127857",
-    "lat": "45.886455"
+    "lat": "45.886455",
+    "duration_days": "[datetime.date(2020, 10, 19), datetime.date(2020, 10, 30)]",
+    "duration_hours": "('17:30',)",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'piattaforma', 'digitale', 'zoom']",
+    "repeated": "False"
 }

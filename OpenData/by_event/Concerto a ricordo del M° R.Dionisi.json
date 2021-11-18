@@ -1,12 +1,16 @@
 {
-    "indirizzo": "martedì 24 agosto 2021  dalle 21 alle 22  Chiesa San Giovanni Battista  Borgo Sacco ",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto97/1717873-1-ita-IT/concerto.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132734",
     "abstract_text": "Dionisi: strumentale e……corale",
     "abstract": "<p>Dionisi: strumentale e……corale</p>",
-    "nome": "Concerto a ricordo del M° R.Dionisi",
+    "title": "Concerto a ricordo del M° R.Dionisi",
     "lon": "11.02051",
     "modifica": "2021-07-13",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132734",
-    "lat": "45.884004"
+    "lat": "45.884004",
+    "duration_days": "[datetime.date(2021, 8, 21), datetime.date(2021, 8, 24)]",
+    "duration_hours": "()",
+    "weekday": "['martedì']",
+    "indirizzo": "['dalle', 'alle', 'Chiesa', 'San', 'Giovanni', 'Battista', 'Borgo', 'Sacco']",
+    "repeated": "False"
 }

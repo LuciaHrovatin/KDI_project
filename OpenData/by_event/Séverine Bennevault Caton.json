@@ -1,12 +1,16 @@
 {
-    "indirizzo": "venerdì 3 settembre 2021 dalle 18 alle 19 Parco Colorio Via Silvio Pellico",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/danza3/1718704-1-ita-IT/danza.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/132784",
     "abstract_text": "Oplà la danza in piazza - Oriente Occidente",
     "abstract": "<p>Oplà la danza in piazza - Oriente Occidente</p>",
-    "nome": "Séverine Bennevault Caton",
+    "title": "Séverine Bennevault Caton",
     "lon": "11.041614",
     "modifica": "2021-07-14",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132784",
-    "lat": "45.905024"
+    "lat": "45.905024",
+    "duration_days": "[datetime.date(2021, 9, 18), datetime.date(2021, 9, 3)]",
+    "duration_hours": "()",
+    "weekday": "['venerdì']",
+    "indirizzo": "['dalle', 'alle', 'Parco', 'Colorio', 'Via', 'Silvio', 'Pellico']",
+    "repeated": "False"
 }

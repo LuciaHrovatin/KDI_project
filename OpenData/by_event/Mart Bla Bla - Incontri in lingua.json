@@ -1,12 +1,16 @@
 {
-    "indirizzo": "da gennaio ad aprile 2021 dalle 18 alle 19.30 Mart Rovereto Corso Bettini, 43",
     "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/incontro-arte-lingua-straniera/1624364-1-ita-IT/Incontro-Arte-Lingua-straniera.jpg",
     "url": "https://www.comune.rovereto.tn.it/openpa/object/128042",
     "abstract_text": "Parlare, scrivere, leggere, conoscere e approfondire la lingua inglese e tedesca giocando davanti alle opere del Mart.",
     "abstract": "<p>Parlare, scrivere, leggere, conoscere e approfondire la lingua inglese e tedesca giocando davanti alle opere del Mart.</p>",
-    "nome": "Mart Bla Bla | Incontri in lingua",
+    "title": "Mart Bla Bla | Incontri in lingua",
     "lon": "11.045023",
     "modifica": "2020-12-16",
     "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128042",
-    "lat": "45.894003"
+    "lat": "45.894003",
+    "duration_days": "[datetime.date(2021, 1, 18), datetime.date(2021, 4, 18)]",
+    "duration_hours": "('19:30',)",
+    "weekday": "[]",
+    "indirizzo": "['da', 'ad', 'dalle', 'alle', 'Mart', 'Rovereto', 'Corso', 'Bettini,', '43']",
+    "repeated": "False"
 }
