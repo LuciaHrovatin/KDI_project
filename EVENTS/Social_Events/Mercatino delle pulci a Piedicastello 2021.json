@@ -1,0 +1,199 @@
+{
+    "metadata": {
+        "id": 1342988,
+        "remoteId": "f57ee46ede8b36fe0f976c783839580c",
+        "classIdentifier": "event",
+        "class": "http://www.comune.trento.it/api/opendata/v2/classes/event",
+        "ownerId": 206970,
+        "ownerName": {
+            "ita-IT": "Pisoni Roberto (admin) "
+        },
+        "mainNodeId": 1351923,
+        "sectionIdentifier": "aperto_a_tutti",
+        "stateIdentifiers": [
+            "moderazione.no_moderazione",
+            "publishing.undefined",
+            "booking.in_attesa_di_approvazione"
+        ],
+        "published": "2021-11-14T08:50:00+01:00",
+        "modified": "2021-06-10T09:46:38+02:00",
+        "languages": [
+            "ita-IT"
+        ],
+        "name": {
+            "ita-IT": "Mercatino delle pulci a Piedicastello 2021"
+        },
+        "parentNodes": [
+            203977,
+            822340
+        ],
+        "link": "http://www.comune.trento.it/api/opendata/v2/content/read/1342988"
+    },
+    "data": {
+        "ita-IT": {
+            "priority": "0",
+            "special": 0,
+            "titolo": "Mercatino delle pulci a Piedicastello 2021",
+            "short_title": null,
+            "abstract": "<p>Piazza di Piedicastello nei giorni 16 maggio, 13 giugno, 19 settembre, 17 ottobre, 14 novembre e 8 dicembre 2021.</p>",
+            "text": "",
+            "file": null,
+            "from_time": "2021-11-14T08:50:00+01:00",
+            "to_time": "2021-11-14T08:50:00+01:00",
+            "periodo_svolgimento": "domenica  14 novembre 2021",
+            "orario_svolgimento": "dalle 7.00 alle 21.00",
+            "durata": null,
+            "luogo_svolgimento": "Trento, piazza di Piedicastello",
+            "gps": {
+                "latitude": 46.071013,
+                "longitude": 11.113175,
+                "address": "26, Piazza di Piedicastello, Laboratorio Sociale Officina Piedicastello, Piedicastello, Vela, Trento, Territorio Val d&#039;Adige, Provincia di Trento"
+            },
+            "url": null,
+            "email": "circoscrizione.centrostoricopiedicastello@comune.trento.it",
+            "telefono": "0461 889930",
+            "informazioni": "<p>Per informazioni contattare la Circoscrizione Centro storico - Piedicastello</p>",
+            "costi": null,
+            "image": {
+                "filename": "Mercatino-delle-pulci-a-Piedicastello-2021.jpg",
+                "url": "/var/comunetn/storage/images/aree-tematiche/cultura-e-turismo/eventi/tutti-gli-eventi/mercatino-delle-pulci-a-piedicastello-20215/12846236-1-ita-IT/Mercatino-delle-pulci-a-Piedicastello-2021.jpg",
+                "alt": "Foto di Denis Doukhan da Pixabay ",
+                "mime_type": "image/jpeg",
+                "width": "1920",
+                "height": "1332"
+            },
+            "tipo_eventi_manifestazioni": [
+                {
+                    "id": 837876,
+                    "remoteId": "5c1969e836cd9da7e77699906be2b23f",
+                    "classIdentifier": "tipo_eventi_manifestazioni",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/tipo_eventi_manifestazioni",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Evento singolo"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/837876",
+                    "mainNodeId": "819172"
+                }
+            ],
+            "iniziativa": [
+                {
+                    "id": 1017341,
+                    "remoteId": "42d774a5709743aa17861986ce22c95b",
+                    "classIdentifier": "iniziativa",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/iniziativa",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Mercatino delle pulci a Piedicastello"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/1017341",
+                    "mainNodeId": "1008426"
+                }
+            ],
+            "tipo_evento": [
+                {
+                    "id": 835354,
+                    "remoteId": "0303d10a3738753e3ea60f2f7e70aea3",
+                    "classIdentifier": "tipo_eventi",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/tipo_eventi",
+                    "languages": [
+                        "eng-GB",
+                        "ger-DE",
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "eng-GB": "Various initiatives",
+                        "ger-DE": "verschiedene Initiativen",
+                        "ita-IT": "Iniziative varie"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/835354",
+                    "mainNodeId": "816675"
+                }
+            ],
+            "materia": [
+                {
+                    "id": 823590,
+                    "remoteId": "a5693c159477696c059d93c24f521229",
+                    "classIdentifier": "materia",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/materia",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Intrattenimento - tempo libero"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/823590",
+                    "mainNodeId": "803613"
+                },
+                {
+                    "id": 829180,
+                    "remoteId": "bbf8d58d78318370405403ec7359bcb7",
+                    "classIdentifier": "sotto_materia",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/sotto_materia",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Folklore"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/829180",
+                    "mainNodeId": "809457"
+                },
+                {
+                    "id": 829181,
+                    "remoteId": "8e773dc623c9a6c54072adbe56394f06",
+                    "classIdentifier": "sotto_materia",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/sotto_materia",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Hobbistica"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/829181",
+                    "mainNodeId": "809458"
+                }
+            ],
+            "io_sono": [
+                {
+                    "id": 221987,
+                    "remoteId": "422122d085f45b597a351068fc841075",
+                    "classIdentifier": "io_sono",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/io_sono",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Turista"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/221987",
+                    "mainNodeId": "219401"
+                }
+            ],
+            "circoscrizione": [
+                {
+                    "id": 217247,
+                    "remoteId": "3008688d7ef55f9b1f5eeb8187af0a8f",
+                    "classIdentifier": "organo_politico",
+                    "class": "http://www.comune.trento.it/api/opendata/v2/classes/organo_politico",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Circoscrizione n. 12 - Centro storico - Piedicastello"
+                    },
+                    "link": "http://www.comune.trento.it/api/opendata/v2/content/read/217247",
+                    "mainNodeId": "214584"
+                }
+            ],
+            "servizio_sul_territorio": [],
+            "associazione": [],
+            "ente": [],
+            "progressivo": null
+        }
+    }
+}
