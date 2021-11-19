@@ -54,4 +54,57 @@ In the active virtual environment, install all libraries contained in the `requi
 pip install -r requirements.txt
 ```
 
+## OpenStreetMap data 
+The json file will follow this structure: 
+{
+"type": "FeatureCollection", # not interesting 
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, # descrizione del sistema di riferimento dei punti 
 
+"features": [ # here starts the interesting part 
+{ "type": "Feature", 
+  "properties": {
+                  "tags": {},  # di solito è un dizionario con roba interesting dentro <br>
+                  "lon": 11.033347129821777, # in degree <br>
+                  "id": 262147521,# openstreetmap identifier <br>
+                  "lat": 45.869724273681641, # latitude in degree<br>
+                  "addr:city": null, <br>
+                  "addr:country": null,<br>
+                  "addr:housenumber": null, <br>
+                  "addr:housename": null, <br>
+                  "addr:postcode": null, <br>
+                  "addr:place": null, <br>
+                  "addr:street": null, <br>
+                  "email": null, <br>
+                  "name": null, <br>
+                  "opening_hours": null, <br>
+                  "operator": null, <br>
+                  "phone": null, <br>
+                  "website": null, <br>
+                  "information": null, <br>
+                  "tourism": null, <br>
+"leisure": null, <br>
+"outdoor_seating": null,<br>
+"amenity": null, <br>
+"building": "yes", # POSSIAMO USARLO COME "is closed place"<br>
+"internet_access": null, <br>
+"parking": null, <br>
+"wikipedia": null, <br>
+"building:use": null, <br>
+"shop": null, <br>
+"building:levels": null, <br>
+"ice_cream": null, <br>
+"social_facility": null, <br>
+"height": null, <br>
+"landuse": null, <br>
+"building:material": null, <br>
+"craft": null },<br>
+"geometry": { "type": "Point", "coordinates": [ LONGITUDINE, LATITUDE] } },
+}
+
+--> IDEA: 
+intergrare queste info con quelle date dal magico dataset sulla accessibilità
+POSSIBILI cose interessanti: 
+-> nome dei posti 
+-> indirizzi vari 
+-> wheelchair: yes, no, maybe 
+-> identificazione di posti turistici sotto Tourism 
