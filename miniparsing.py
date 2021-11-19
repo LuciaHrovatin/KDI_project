@@ -6,8 +6,9 @@ dir = os.listdir(r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_20
 d = {os.path.join(r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\EVENTS',v): [] for v in dir}
 
 
-def return_list_of_files(dir) : 
-    global d 
+def return_list_of_files(dir,d) : 
+    """Returns all files in all EVENT subfolders"""
+  
     for current in d :
         l = os.listdir(current)
         for element in l :
@@ -21,6 +22,9 @@ def return_list_of_files(dir) :
     return d 
 
 def create_keys(dic) : 
+
+    """Adds new keys : ticket, is_online, is_offline, is_blended and event category"""
+
     key_words = {'b': set(['biglietto', 'prezzo','ticket', 'prenotazione','gratuito','ingresso libero','partecipazione','gratis','libero','ingresso', 'entrata']), 
     'l':set(['webinar', 'online', 'zoom', 'teams'])}
     refused = []
@@ -88,5 +92,5 @@ def create_keys(dic) :
                             
 
 
-ret = create_keys(return_list_of_files(dir))
-print('LASTLY, PRINT RET {}'.format(ret))
+#ret = create_keys(return_list_of_files(dir,d))
+#print('LASTLY, PRINT RET {}'.format(ret))

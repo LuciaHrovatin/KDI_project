@@ -1,12 +1,1 @@
-{
-    "indirizzo": "domenica 19 settembre 2021 dalle 11 alle 12  Chiesa di San Marco piazza San Marco",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto104/1719974-2-ita-IT/concerto.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132875",
-    "abstract_text": "concerto",
-    "abstract": "<p>concerto</p>",
-    "nome": "Settimana Mozartiana: Mozart Boys&Girls & Friends & Mozartkinder di Chemnitz",
-    "lon": "11.045524",
-    "modifica": "2021-07-16",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132875",
-    "lat": "45.888686"
-}
+{"immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/concerto104/1719974-2-ita-IT/concerto.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132875", "abstract_text": "concerto", "abstract": "<p>concerto</p>", "title": "Settimana Mozartiana: Mozart Boys&Girls & Friends & Mozartkinder di Chemnitz", "lon": "11.045524", "modifica": "2021-07-16", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132875", "lat": "45.888686", "duration_days": "[datetime.date(2021, 9, 11), datetime.date(2021, 9, 19)]", "duration_hours": "()", "weekday": "['domenica']", "indirizzo": "['dalle', 'alle', 'Chiesa', 'di', 'San', 'Marco', 'piazza', 'San', 'Marco']", "repeated": "False"}

@@ -1,12 +1,1 @@
-{
-    "indirizzo": "dal 06 novembre all'11 novembre 2020 lunedì- sabato 8.30 - 22; domenica 8.30-13 Biblioteca Civica G. Tartarotti, corso Bettini,  43",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mostra34/1626528-2-ita-IT/mostra.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/128119",
-    "abstract_text": "Per ricordare il 102° anniversario della fine del primo conflitto Mondiale (1914 -1918)",
-    "abstract": "<p>Per ricordare il 102° anniversario della fine del primo conflitto Mondiale (1914 -1918)</p>",
-    "nome": "Abbasso la guerra. Persone e Movimenti per la Pace dall'800 a oggi",
-    "lon": "11.043965",
-    "modifica": "2020-11-03",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128119",
-    "lat": "45.894123"
-}
+{"immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/mostra34/1626528-2-ita-IT/mostra.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/128119", "abstract_text": "Per ricordare il 102\u00b0 anniversario della fine del primo conflitto Mondiale (1914 -1918)", "abstract": "<p>Per ricordare il 102\u00b0 anniversario della fine del primo conflitto Mondiale (1914 -1918)</p>", "title": "Abbasso la guerra. Persone e Movimenti per la Pace dall'800 a oggi", "lon": "11.043965", "modifica": "2020-11-03", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128119", "lat": "45.894123", "duration_days": "[datetime.date(2020, 11, 6), datetime.date(2020, 11, 6)]", "duration_hours": "()", "weekday": "['sabato', 'domenica']", "indirizzo": "['dal', \"all'11\", 'luned\u00ec-', '8.30', '-', '22;', '8.30-13', 'Biblioteca', 'Civica', 'G.', 'Tartarotti,', 'corso', 'Bettini,', '43']", "repeated": "False"}
