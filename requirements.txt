@@ -47,3 +47,6 @@ urllib3==1.26.7
 virtualenv @ file:///C:/ci/virtualenv_1620977881384/work
 wincertstore==0.2
 wsproto==1.0.0
+pygeos==0.10.2
+pyrosm==0.6.1
+geopandas

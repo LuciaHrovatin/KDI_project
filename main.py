@@ -34,13 +34,14 @@ if __name__ == "__main__":
         #meetup.parsing_events()
 
         # Opendata Rovereto
-        #op = opendataAPI()
+        op = opendataAPI()
         #op.get_events(url="https://www2.comune.rovereto.tn.it/servizionline/extra/json_sito/event/", city = "rovereto")
         #op.save_file()
 
         # Opendata Trento
         #op.get_events(url="https://www.comune.trento.it/api/opendata/v2/content/search?classes=event", city = "trento")
-        #op.save_file()
+        op.save_file()
+        op.last_year_events()
 
         # Accessibility
         # acc = accessibilityAPI()
