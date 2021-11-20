@@ -1,12 +1,1 @@
-{
-    "indirizzo": "venerdì 20 agosto, sabato 21 agosto e domenica 22 agosto 2021   dalle 21 alle 22 Cortesela Bontadi – Centro storico ",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale87/1716145-1-ita-IT/spettacolo-teatrale.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/132655",
-    "abstract_text": "Un sassofonista si sveglia accanto a una donna sconosciuta. Non ricorda il suo nome né dove siano adesso...",
-    "abstract": "<p>Un sassofonista si sveglia accanto a una donna sconosciuta. Non ricorda il suo nome né dove siano adesso...</p>",
-    "nome": "Teatro Ovunque - Storia degli orsi panda Raccontata da un sassofonista che ha un'amichetta a Francoforte di Matei Visniec",
-    "lon": "11.04414",
-    "modifica": "2021-08-10",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132655",
-    "lat": "45.890176"
-}
+{"immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale87/1716145-1-ita-IT/spettacolo-teatrale.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/132655", "abstract_text": "Un sassofonista si sveglia accanto a una donna sconosciuta. Non ricorda il suo nome n\u00e9 dove siano adesso...", "abstract": "<p>Un sassofonista si sveglia accanto a una donna sconosciuta. Non ricorda il suo nome n\u00e9 dove siano adesso...</p>", "title": "Teatro Ovunque - Storia degli orsi panda Raccontata da un sassofonista che ha un'amichetta a Francoforte di Matei Visniec", "lon": "11.04414", "modifica": "2021-08-10", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/132655", "lat": "45.890176", "duration_days": "[datetime.date(2021, 8, 20), datetime.date(2021, 8, 20)]", "duration_hours": "()", "weekday": "['venerd\u00ec', 'sabato', 'domenica']", "indirizzo": "['e', 'dalle', 'alle', 'Cortesela', 'Bontadi', '\u2013', 'Centro', 'storico']", "repeated": "False", "is_online": false, "is_offline": true, "is_blended": false, "ticket": []}

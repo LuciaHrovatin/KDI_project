@@ -1,12 +1,1 @@
-{
-    "indirizzo": "Sabato 28 novembre  2020 dalle 16.30 alle 17.30 online",
-    "immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale-online5/1634135-1-ita-IT/spettacolo-teatrale-online.jpg",
-    "url": "https://www.comune.rovereto.tn.it/openpa/object/128408",
-    "abstract_text": "Che fare se un uccellino non riesce più a cantare? .....",
-    "abstract": "<p>Che fare se un uccellino non riesce più a cantare? .....</p>",
-    "nome": "La bottega dell'aria di e con Camilla da Vico",
-    "lon": "11.043819",
-    "modifica": "2020-11-17",
-    "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128408",
-    "lat": "45.893622"
-}
+{"immagine": "https://www.comune.rovereto.tn.it/var/rovereto/storage/images/applicazioni2/openagenda/eventi/spettacolo-teatrale-online5/1634135-1-ita-IT/spettacolo-teatrale-online.jpg", "url": "https://www.comune.rovereto.tn.it/openpa/object/128408", "abstract_text": "Che fare se un uccellino non riesce pi\u00f9 a cantare? .....", "abstract": "<p>Che fare se un uccellino non riesce pi\u00f9 a cantare? .....</p>", "title": "La bottega dell'aria di e con Camilla da Vico", "lon": "11.043819", "modifica": "2020-11-17", "link": "http://www.comune.rovereto.tn.it/api/opendata/v2/content/read/128408", "lat": "45.893622", "duration_days": "[datetime.date(2020, 11, 28), datetime.date(2020, 11, 28)]", "duration_hours": "('16:30', '17:30')", "weekday": "['sabato']", "indirizzo": "['dalle', 'alle', 'online']", "repeated": "False", "is_online": false, "is_offline": true, "is_blended": false, "ticket": []}
