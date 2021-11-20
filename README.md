@@ -150,6 +150,7 @@ taggedBy: [organizationID or personID],
 scheduled: {coveredPeriod: timestampFine-timestampInizio, 
 	    pace: string 
 	    }
+link: (in teoria il link del sito)
 ranking: ??? -> noi del futuro :) 
 transport: ??? -> noi del futuro :) 
 }
