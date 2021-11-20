@@ -108,3 +108,57 @@ POSSIBILI cose interessanti:
 -> indirizzi vari 
 -> wheelchair: yes, no, maybe 
 -> identificazione di posti turistici sotto Tourism 
+
+
+
+
+"event": {
+mode: {
+	"online": {"link", "hostingWebservice"}
+	"offline":{lat, lon, alt, venueGLN: {}}
+	"blended": {lat, lon, alt, GLN, "link"} 
+    },
+category: { classID: {id:, 
+		      further info}
+    }, 
+cost: {
+	"isfree": "bool", 
+	"ticket": { onlineBooking, 
+		extraBenefits, 
+		total,
+		price,
+		currency,
+		seller,
+		purchaser: {IDperson, reservedSeat: {}, status}
+		}
+organizer: {organizationID:
+		personID:}
+edition:, 
+festival:, 
+isSubEvent: {macroEvent: eventID} 
+targetAge: string,
+totalParticipants: int, 
+language: [], 
+date: (giorno di inizio), 
+duration: timestampFine-timestampInizio 
+sponsoredBy: {organizationID:
+		personID:
+}
+description: string
+memory: [eventID]
+taggedBy: [organizationID or personID], 
+scheduled: {coveredPeriod: timestampFine-timestampInizio, 
+	    pace: string 
+	    }
+ranking: ??? -> noi del futuro :) 
+transport: ??? -> noi del futuro :) 
+}
+
+
+
+category: {
+ID 
+info
+subcategory: {
+creative work:{}}
+

@@ -11,6 +11,9 @@ class osmData():
         self.download_pbf_url = "https://osmit-estratti.wmcloud.org/dati/poly/comuni/pbf/022205_Trento_poly.osm.pbf"
 
     def download_and_save(self):
+        """
+        Download and save the data from OpenStreetMap via Protocol Buffer
+        """
         # download the data
         r = requests.get(self.download_pbf_url, allow_redirects=True)
         #save the file in a PROTOCOL BUFFER
