@@ -45,9 +45,10 @@ accessibility = pd.read_csv("acc_trento_parsed.csv", encoding = "utf-8")
 with open("trento_osm.json", "r", encoding = "utf-8") as f:
     my_reader = json.load(f)
     osm = pd.DataFrame([x["properties"] for x in my_reader["features"]])
-
+    del osm["building:levels"]
+    del osm["operator"]
     osm = osm.set_index("amenity")
-    osm.drop(["hunting_stand", "courthouse", "bench"], axis=0, inplace=True)
+    osm.drop(["hunting_stand", "courthouse", "bench", "stripclub", "gambling"], axis=0, inplace=True)
     osm.reset_index(drop=False, inplace=True)
     type_amenity = []
 
@@ -64,13 +65,57 @@ with open("trento_osm.json", "r", encoding = "utf-8") as f:
     type_amenity = []
 
     print(osm.shape)
-    type_tags = []
+    new_columns = {}
+    lst = ['club', 'wheelchair:description', 'check_date:opening_hours', 'contact:tripadvisor',
+           'direction', 'park_ride',
+           "wheelchair", 'contact:phone', 'diet:vegetarian', 'parking:condition:time_interval', 'official_name', 'contact:email',
+           'addr:suburb', 'diet:gluten_free', 'covered', 'payment:bancomat', 'reservation',
+           'supervised', 'fee', 'contact:facebook', 'sport',
+           'short_name', 'smoking', 'contact:mobile', 'contact:website', 'capacity', 'description', 'hiking', 'name:en',
+           'social_facility:for', 'cuisine', 'access', 'destination', 'diet:vegan', 'note', 'maxstay', 'name:it', 'toilets:wheelchair',
+           'contact:instagram', 'parking:condition', 'bicycle']
+
     for ind, x in enumerate(osm["tags"]):
         if x is not None:
-            type_tags.extend(list(x.keys()))
-    print(set(type_tags))
-    #for ind, x in enumerate(osm["building"]):
-    #    if x is not None:
-    #        type_amenity.append(x)
-    #print(set(type_amenity))
+            keys = list(x.keys())
+            for k in keys:
+                if k not in osm.columns and k not in new_columns.keys() and k in ['parking:condition', 'bicycle', 'wikidata', 'entrance']:
+                    new_columns[k] = [(ind, x[k])]
+                elif k in new_columns.keys():
+                    new_columns[k].append((ind, x[k]))
+
+
+    from pprint import pprint
+    pprint(osm.columns)
+    #contact{
+    # --> website: url
+    # --> email: string
+    # --> mobile or phone: string
+    # --> social: [] of url}
+    # payment{
+    # --> cash: string
+    # --> card: string}
+
+    # name{
+    # name_it: string,
+    # name_en: string,
+    # short_name: string,
+    # official_name: string}
+
+    # wheelchair{
+    # level_of_accessibility: "YES"/"NO"/"LIMITED",
+    # description: string
+    # toilettes: "yes"/"no"
+    # }
+
+    # parking{
+    # condition: string}
+
+    # cuisine {
+    # type: cuisine(str)
+    # isVegan:
+    # isVegetarian:
+    # isGlutenFree:
+    # }
+
 
