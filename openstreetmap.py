@@ -1,9 +1,10 @@
-#import pygeos
-#import geopandas as gpd
-#import pyrosm
+# import pygeos
+# import geopandas as gpd
+# import pyrosm
 import matplotlib.pyplot as plt
 import os
 import requests
+
 """
 class osmData():
     def __init__(self, city):
@@ -38,84 +39,110 @@ class osmData():
 
 import pandas as pd
 import json
-#def merge_datasets(file1, file2):
-accessibility = pd.read_csv("acc_trento_parsed.csv", encoding = "utf-8")
 
 
-with open("trento_osm.json", "r", encoding = "utf-8") as f:
+
+with open("rovereto_osm.json", "r", encoding="utf-8") as s:
+    my_read = json.load(s)
+    osm_1 = pd.DataFrame([x["properties"] for x in my_read["features"]])
+    osm_1.drop(["building:levels", "building:use", "addr:housename", "addr:place", 'social_facility', 'landuse',
+                "building:material", "ice_cream", "operator", "outdoor_seating", "shop", "wikipedia", "craft", "height",
+                "internet_access"], axis=1, inplace=True)
+    print(osm_1.columns)
+
+with open("trento_osm.json", "r", encoding="utf-8") as f:
     my_reader = json.load(f)
-    osm = pd.DataFrame([x["properties"] for x in my_reader["features"]])
-    del osm["building:levels"]
-    del osm["operator"]
-    osm = osm.set_index("amenity")
-    osm.drop(["hunting_stand", "courthouse", "bench", "stripclub", "gambling"], axis=0, inplace=True)
-    osm.reset_index(drop=False, inplace=True)
-    type_amenity = []
+    osm_2 = pd.DataFrame([x["properties"] for x in my_reader["features"]])
+    osm_2.drop(["building:levels", "operator", "outdoor_seating", "shop", "wikipedia", "addr:housename", "internet_access"], axis=1, inplace=True)
+
+    osm = pd.concat([osm_1, osm_2], axis=0, join="outer")
+
 
     # to delete -> slipway, tanning_salon in leisure
     # to delete -> yes, kindergarten, detached, hospital, bunker per building
-    osm = osm.set_index("leisure")
-    osm.drop(["slipway", "tanning_salon"], axis=0, inplace=True)
-    osm.reset_index(drop=False, inplace=True)
-    type_amenity = []
+    del_dict={"amenity" : ["hunting_stand", "courthouse", "bench", "stripclub", "gambling"],
+              "leisure" : ["slipway", "tanning_salon"],
+              "building" : ["yes", "kindergarten", "detached", "hospital", "bunker"]}
 
-    osm = osm.set_index("building")
-    osm.drop(["yes", "kindergarten", "detached", "hospital", "bunker"], axis=0, inplace=True)
-    osm.reset_index(drop=False, inplace=True)
-    type_amenity = []
+    for key in del_dict:
+        osm = osm.set_index(key)
+        osm.drop(del_dict[key], axis=0, inplace=True)
+        osm.reset_index(drop=False, inplace=True)
 
-    print(osm.shape)
-    new_columns = {}
-    lst = ['club', 'wheelchair:description', 'check_date:opening_hours', 'contact:tripadvisor',
-           'direction', 'park_ride',
-           "wheelchair", 'contact:phone', 'diet:vegetarian', 'parking:condition:time_interval', 'official_name', 'contact:email',
-           'addr:suburb', 'diet:gluten_free', 'covered', 'payment:bancomat', 'reservation',
-           'supervised', 'fee', 'contact:facebook', 'sport',
-           'short_name', 'smoking', 'contact:mobile', 'contact:website', 'capacity', 'description', 'hiking', 'name:en',
-           'social_facility:for', 'cuisine', 'access', 'destination', 'diet:vegan', 'note', 'maxstay', 'name:it', 'toilets:wheelchair',
-           'contact:instagram', 'parking:condition', 'bicycle']
+    tags_lst = ['wheelchair:description',
+           'contact:tripadvisor',
+           "wheelchair",
+           'contact:phone',
+           'diet:vegetarian',
+           'official_name',
+           'contact:email',
+           'addr:suburb',
+           'diet:gluten_free',
+           'contact:facebook',
+           'sport',
+                'short_name',
+                'smoking',
+                'contact:mobile',
+                'contact:website',
+                'capacity', 'description', 'hiking', 'name:en',
+                'cuisine', 'diet:vegan', 'name:it',
+                'toilets:wheelchair',
+                'contact:instagram']
 
-    for ind, x in enumerate(osm["tags"]):
-        if x is not None:
-            keys = list(x.keys())
-            for k in keys:
-                if k not in osm.columns and k not in new_columns.keys() and k in ['parking:condition', 'bicycle', 'wikidata', 'entrance']:
-                    new_columns[k] = [(ind, x[k])]
-                elif k in new_columns.keys():
-                    new_columns[k].append((ind, x[k]))
+    def find_tag(osm, name, ind):
+        try:
+            found = osm.iloc[ind]['tags'][name]
+            return found
+        except:
+            return None
 
+    osm.dropna(subset=['lat', 'lon'], inplace=True)
+    new_osm = {}
+    for ind, case in enumerate(list(osm.iterrows())):
+        new_dict = {"has_latitude": osm.iloc[ind]["lat"],
+                    "has_longitude": osm.iloc[ind]["lon"],
+                    "address": {"city": osm.iloc[ind]["addr:city"] or find_tag(osm, 'addr:suburb', ind),
+                                "country": osm.iloc[ind]["addr:country"] or "Italy",
+                                "housenumber": osm.iloc[ind]['addr:housenumber'],
+                                "postcode": osm.iloc[ind]["addr:postcode"],
+                                "street": osm.iloc[ind]["addr:street"],
+                                "region": "Trentino-Alto Adige"
+                                },
+                    "contact": {"has_email": osm.iloc[ind]['email'] or find_tag(osm, "contact:email", ind),
+                                "has_phone": osm.iloc[ind]["phone"] or find_tag(osm, "contact:phone", ind) or
+                                             find_tag(osm, "contact:mobile", ind),
+                                "has_website": osm.iloc[ind]["website"] or find_tag(osm, "contact:website", ind),
+                                "has_socialNetwork": [x for x in [find_tag(osm, "contact:tripadvisor", ind)] + [
+                                    find_tag(osm, "contact:facebook", ind)] + [
+                                                         find_tag(osm, "contact:instagram", ind)] if x is not None]
+                                },
+                    "information": osm.iloc[ind]["information"] or find_tag(osm, "description", ind) or "no information specified",
+                    "opening_hours": osm.iloc[ind]["opening_hours"] or None,
+                    "facility_type": osm.iloc[ind]["amenity"] or osm.iloc[ind]["building"] or osm.iloc[ind]["tourism"] or osm.iloc[ind]["leisure"] or osm.iloc[ind]["parking"],
+                    "smoking": find_tag(osm, "smoking", ind) and False,
+                    "architecturalBarriers": {
+                        "levelAccessibility" : find_tag(osm, "wheelchair", ind) or "no",
+                        "has_accessibleToilets": find_tag(osm, 'toilets:wheelchair', ind),
+                        "accessibilityDescription": find_tag(osm, "wheelchair:description", ind)
+                    },
+                    "name":{
+                        "has_officialName": osm.iloc[ind]["name"] or find_tag(osm, 'official_name', ind) or find_tag(osm, "name:it", ind),
+                        "has_shortName": find_tag(osm, 'short_name', ind),
+                        "has_name_en": find_tag(osm, "name:en", ind)
+                    },
+                    "sport": find_tag(osm, "sport", ind),
+                    "has_capacity": find_tag(osm, "capacity", ind),
+                    "menu": {
+                        "cuisine": find_tag(osm, "cuisine", ind),
+                        "isVegetarian": find_tag(osm, 'diet:vegetarian', ind),
+                        "isVegan": find_tag(osm, 'diet:vegan', ind),
+                        "isGlutenFree": find_tag(osm, 'diet:gluten_free', ind),
+                    },
+                    "hiking": find_tag(osm, "hiking", ind)
+                    }
+        new_osm[str(osm.iloc[ind]["id"])] = new_dict
 
-    from pprint import pprint
-    pprint(osm.columns)
-    #contact{
-    # --> website: url
-    # --> email: string
-    # --> mobile or phone: string
-    # --> social: [] of url}
-    # payment{
-    # --> cash: string
-    # --> card: string}
+    with open('osm_data.json', 'w') as fp:
+        json.dump(new_osm, fp)
 
-    # name{
-    # name_it: string,
-    # name_en: string,
-    # short_name: string,
-    # official_name: string}
-
-    # wheelchair{
-    # level_of_accessibility: "YES"/"NO"/"LIMITED",
-    # description: string
-    # toilettes: "yes"/"no"
-    # }
-
-    # parking{
-    # condition: string}
-
-    # cuisine {
-    # type: cuisine(str)
-    # isVegan:
-    # isVegetarian:
-    # isGlutenFree:
-    # }
-
-
+# TODO # la parte del geolocator può essere aggiunta ma non è essenziale visto che non agginge tante altre info

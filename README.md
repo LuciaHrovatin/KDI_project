@@ -114,9 +114,9 @@ POSSIBILI cose interessanti:
 
 "event": {
 mode: {
-	"online": {"link", "hostingWebservice"}
-	"offline":{lat, lon, alt, venueGLN: {}}
-	"blended": {lat, lon, alt, GLN, "link"} 
+	"online": 
+	"offline":
+	"blended": 
     },
 category: { classID: {id:, 
 		      further info}
@@ -132,7 +132,7 @@ cost: {
 		purchaser: {IDperson, reservedSeat: {}, status}
 		}
 organizer: {organizationID:
-		personID:}
+		    personID:}
 edition:, 
 festival:, 
 isSubEvent: {macroEvent: eventID} 
