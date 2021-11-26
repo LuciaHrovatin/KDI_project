@@ -4,6 +4,8 @@
     "duration_hours": [
         "07:30",
         "pm",
+        "to",
+        "08:30",
         "08:30",
         "pm",
         "UTC+02:00</h2>"
@@ -12,8 +14,7 @@
         "h6\">Thu",
         "Oct",
         "28",
-        "2021",
-        "to"
+        "2021"
     ],
     "location": "Società Filarmonica di Trento , Trento"
 }

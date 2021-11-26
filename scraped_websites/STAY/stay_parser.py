@@ -80,9 +80,17 @@ def create_parsed_dictionary_and_write() :
                                             hours.append(clean[ind])
                                     if ('am' in clean[ind]) or ('pm' in clean[ind]) :
                                         hours.append(clean[ind])
+                                    if ('to' == clean[ind]) : 
+                                        hours.append(clean[ind])
+                                        hours.append(clean[ind+1])
+
                                     else :
                                         if (clean[ind] != 'at') and (clean[ind] != 'pm') and (clean[ind] != 'am') and (':' not in clean[ind]) :
-                                            dy.append(clean[ind])
+                                            if ('to' in clean[ind+1]) :
+                                                dy.append(clean[ind]+clean[ind+1])
+                                            else :
+                                                dy.append(clean[ind])
+
                                     ind += 1
                                 hours.append(clean[ind])
                                 d['duration_hours'] = hours 

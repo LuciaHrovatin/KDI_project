@@ -412,5 +412,5 @@ class EventParser() :
 landingr = r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\scraped_websites\CRUSH\PARSED_CRUSHSITE'        
 event = EventParser(dir, all_categories, {}, landingr )
 event.fill_events_dict()
-event.parse_for_tickets_CRUSHSITE()
+#event.parse_for_tickets_CRUSHSITE()
 #print(event.dict.keys())
