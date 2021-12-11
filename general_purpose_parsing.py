@@ -1457,31 +1457,46 @@ class EventParser() :
                         
     def parse_for_tickets_MIXED(self) :
         key =r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING'
-
+        
         for element in self.dict[key] :
             writer = self.return_writer()
-            if ('json' in element) and ('trento' not in element) and ('rovereto' not in element) and ('jetn' not in element.lower()) :
+            if ('json' in element) and ('jetn' not in element.lower()) :
                 
                 try :
                     with open(element, encoding = 'utf-8') as f : ## MEETUP ##
                         loads = json.load(f)
                         parsed = loads
+                        
+                        
+                       
                         writer['has_recurrency'] = parsed['date_in_series_pattern']
                         writer['has_description'] = parsed['description']
-                        d = writer['has_description'] 
+                        d = writer['has_description'].split()
+                       
                         for el in d :
                             if ('covid' in el) or ('green' in el) or ('pass' in el) or ('greenpass' in el) or ('assembramento' in el)\
                                 or ('capienza' in el) or ('normativa' in el) :
-                                idx_ = d.index(el)
-                                writer['has_specialAnnouncements'] = d[idx_-3:idx_+2]
+                                if (el != 'passione') :
+                                    
+                                    idx_ = d.index(el)
+                                    writer['has_specialAnnouncements'] = ' '.join(d[idx_-3:idx_+2])
                             writer['has_cost']['has_price'] = parsed['fee']['amount']
                             writer['has_venue'] = parsed['venue']['address_1'] + ' '+ parsed['venue']['city'] +' '+str(parsed['venue']['lat']) +' '+str(parsed['venue']['lon'])
                             writer['has_title'] = parsed['name']
                             writer['has_start'] = parsed['local_date'] +' '+parsed['local_time']
                             writer['has_mode'] = 'offline' if parsed['is_online_event'] == False else 'online'
                             
-
-
+                        writer['has_end'] = writer['has_start']
+                        if (self.has_terminated(writer['has_end'])) :
+                            writer['has_terminated'] = True 
+                        
+                        for el in d :
+                           
+                            if ('href' in el) :
+                               
+                                writer['has_link'] = el.replace('href="','').replace('"','')
+                                break 
+                        
                 except:
                     pass
             else :
@@ -1495,7 +1510,7 @@ class EventParser() :
                 '<div <span class="mm-medium mm-weight-700">','<br>','</br>','<div class="mm-medium" style="text-transform: uppercase; font-weight:400;">',
                 'style="padding-top:3px; float:left; font-weight:600;">','class="schedine-separa">','\n','style="vertical-align:middle;"','class="mm-line-height-130','<a'
                 ]
-                
+               
                 if ('movies' in element.lower()) :
                     writer['has_originalLanguage'] = False
                 
@@ -1523,11 +1538,9 @@ class EventParser() :
                                         counter += 1
                                         if (counter == 2) : 
                                             try :
-                                                
-                                                if ('.json' not in writer['name']) :
-                                                    self.write_to_json(os.path.join(self.writedir, writer['name']+'.json'), writer)  
-                                                else :  
-                                                    self.write_to_json(os.path.join(self.writedir, writer['name']), writer)  
+                                                writer['name'] = writer['name'].replace('.json','')
+                                                print('Writing {} to file')
+                                                self.write_to_json(os.path.join(self.writedir, writer['name']), writer)  
                                             except:
                                                 print(writer)
                                             writer = self.return_writer()
@@ -1556,11 +1569,13 @@ class EventParser() :
                                     if ('Consigli' in split[j]) :
                                         writer['has_targetAge'] = ' '.join(split[j:]) 
                                     if ('Trento">' in split[j]) : 
-                                        writer['has_location'] = ' '.join(split[j+1:]).replace('</i','').replace('\ue409','') 
+                                        writer['has_venue'] = ' '.join(split[j+1:]).replace('</i','').replace('\ue409','') 
                                         writer['has_cost']['has_price'] = split[1].replace('href=','')
                                     if (':' in split[j]) and (split[j][:split[j].index(':')].isnumeric()):
                                         writer['has_start'] = split[j]
                                 writer['has_mode'] = 'offline'
+                                writer['has_langugae'] = ['it-IT','en-GB','fr-FR']
+
                 if ('jetn' in element.lower()) :
                     with open(element, encoding='utf-8') as f:
                         loaded = json.load(f)
@@ -1573,19 +1588,23 @@ class EventParser() :
                                 writer['has_cost']['has_freeEntrance'] = True 
                                 writer['has_cost']['has_price'] = object['Totale pagato']
                             n_part += int(object['Quantità'])
-                            writer['has_location'] = object['Nome della sede'] + ' ' + object['N. sede']
+                            writer['has_venue'] = object['Nome della sede'] + ' ' + object['N. sede']
                             writer['has_title'] = object['Nome evento']
                             writer['has_cost']['has_onlineBooking'] = True if (object['Metodo di consegna'] == 'Biglietto elettronico') else False
                             writer['has_cost']['has_seller'] = object['Nome organizzatore']
-                            writer['has_cost']['has_purchaser'] = 'Participant n. : %s Order n. : %s' %(object['Partecipante n.'], object['Ordine n.'])
+                            writer['has_cost']['has_purchaser'] = 'Participant n. %s Order n. %s' %(object['Partecipante n.'], object['Ordine n.'])
                             writer['has_description'] = "L'11 novembre, alle ore 18:30, JETN - Junior Enterprise Trento presenta l'evento 'Quick commerce: le consegne del domani'.Ordinare un prodotto online e riceverlo a casa non in giornata ma in meno di un’ora o, addirittura, in una manciata di minuti. È questo quello che il consumatore di domani, sempre più impaziente nei confronti dell’attesa, si aspetterà quando effettuerà un ordine online.L’emergenza pandemica ha impresso una notevole spinta sul settore del delivery, facendo provare a molti la comodità e semplicità di poter far arrivare la spesa a casa o ordinare uno sfizioso gyros greco che dista 20 minuti a piedi scaricando una semplice app e senza varcare la porta della propria abitazione. Tuttavia, riuscire a garantire simili performance necessita di un’attenta riflessione su come garantire tali standard, dovendo puntare necessariamente ad un business model sostenibile che non rispecchia le attuali caratteristiche dei colossi del delivery. Approfondiremo l'argomento in compagnia di Michele Bassetto, expansion and innovation manager di Getir, azienda turca del delivery che sta ridefinendo gli standard del settore. A moderare l'evento sarà presente il professore Francesco Pilati, docente del Dipartimento di Ingegneria Industriale."
                             writer['has_start'] = "11/11/2021 18:30"
                             writer['has_specialAnnouncements'] = "Per partecipare sarà necessario essere muniti di Green Pass valido."
-                            writer['has_cost']['ticket']['has_total'] = n_part
+                            writer['has_cost']['has_total'] = n_part
                             writer['has_mode'] = 'offline'
                             writer['has_link'] = 'https://www.eventbrite.it/e/biglietti-quick-commerce-le-consegne-del-domani-201494765267'
-                            
+                            writer['has_end'] = writer['has_start'][:-5] +'00:00:00'
+                            time = datetime.strptime(writer['has_end'].replace('/','-'), '%d-%m-%Y %H:%M:%S').strftime('%Y-%m-%d %H:%M:%S')
+                            if (self.has_terminated(time)) :
+                                writer['has_terminated'] = True 
                             lst.append(writer)
+                       
                 writer = lst
                         
 
@@ -1597,7 +1616,7 @@ class EventParser() :
                     
                 else :
                     name = writer['has_title'].replace('.json','')
-                
+                print('Writing {} to file'.format(name))
                 self.write_to_json(os.path.join(self.writedir, name), writer)  
                                 
             except :
@@ -1617,7 +1636,7 @@ landing = [r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PAR
     r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\scraped_websites\ESN\PARSED_ESN',
     r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\scraped_websites\STAY\PARSED_STAY',
     r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\OpenDATA\PARSED_OPEN',
-    r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING']
+    r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\Jetn-Mymovies-Trip']
 
 class Writer() : 
     def __init__(self, directories) :
