@@ -1,6 +1,5 @@
 import os, csv, json
 
-
 class jetnData():
 
     def __init__(self, file_name='JETN_report_climbing_gap.csv'):
