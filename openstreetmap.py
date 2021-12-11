@@ -1,6 +1,6 @@
-# import pygeos
-# import geopandas as gpd
-# import pyrosm
+import pygeos
+import geopandas as gpd
+import pyrosm
 import matplotlib.pyplot as plt
 import os
 import requests
@@ -44,7 +44,7 @@ import json
 
 with open("rovereto_osm.json", "r", encoding="utf-8") as s:
     my_read = json.load(s)
-    osm_1 = pd.DataFrame([x["properties"] for x in my_read["features"]])
+    osm_1 = pd.DataFrame(my_read)
     osm_1.drop(["building:levels", "building:use", "addr:housename", "addr:place", 'social_facility', 'landuse',
                 "building:material", "ice_cream", "operator", "outdoor_seating", "shop", "wikipedia", "craft", "height",
                 "internet_access"], axis=1, inplace=True)
@@ -52,7 +52,7 @@ with open("rovereto_osm.json", "r", encoding="utf-8") as s:
 
 with open("trento_osm.json", "r", encoding="utf-8") as f:
     my_reader = json.load(f)
-    osm_2 = pd.DataFrame([x["properties"] for x in my_reader["features"]])
+    osm_2 = pd.DataFrame(my_reader)
     osm_2.drop(["building:levels", "operator", "outdoor_seating", "shop", "wikipedia", "addr:housename", "internet_access"], axis=1, inplace=True)
 
     osm = pd.concat([osm_1, osm_2], axis=0, join="outer")
@@ -121,7 +121,7 @@ with open("trento_osm.json", "r", encoding="utf-8") as f:
                     "facility_type": osm.iloc[ind]["amenity"] or osm.iloc[ind]["building"] or osm.iloc[ind]["tourism"] or osm.iloc[ind]["leisure"] or osm.iloc[ind]["parking"],
                     "smoking": find_tag(osm, "smoking", ind) and False,
                     "architecturalBarriers": {
-                        "levelAccessibility" : find_tag(osm, "wheelchair", ind) or "no",
+                        "levelAccessibility": find_tag(osm, "wheelchair", ind) or "no",
                         "has_accessibleToilets": find_tag(osm, 'toilets:wheelchair', ind),
                         "accessibilityDescription": find_tag(osm, "wheelchair:description", ind)
                     },
@@ -145,4 +145,3 @@ with open("trento_osm.json", "r", encoding="utf-8") as f:
     with open('osm_data.json', 'w') as fp:
         json.dump(new_osm, fp)
 
-# TODO # la parte del geolocator può essere aggiunta ma non è essenziale visto che non agginge tante altre info

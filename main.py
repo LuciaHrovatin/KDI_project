@@ -1,8 +1,9 @@
 from Collectors import CrushCollector, EsnCollector, StayHappeningCollector, meetupAPI
+from organization import opendataORG
 from accessibility_places import accessibilityAPI
 from jetn import jetnData
 #from twitter import twitterAPI
-from OpenData.open_data import opendataAPI
+#from OpenData.open_data import opendataAPI
 #cc = CrushCollector()
 #esn = EsnCollector()
 #sh = StayHappeningCollector()
@@ -34,15 +35,18 @@ if __name__ == "__main__":
         #meetup.parsing_events()
 
         # Opendata Rovereto
-        op = opendataAPI()
+        #op = opendataAPI()
         #op.get_events(url="https://www2.comune.rovereto.tn.it/servizionline/extra/json_sito/event/", city = "rovereto")
         #op.save_file()
 
         # Opendata Trento
         #op.get_events(url="https://www.comune.trento.it/api/opendata/v2/content/search?classes=event", city = "trento")
-        op.save_file()
-        op.last_year_events()
+        #op.save_file()
+        #op.last_year_events()
 
+        org = opendataORG()
+        org.get_organization(url= "https://www.comune.trento.it/api/opendata/v2/content/search?classes=associazione")
+        
         # Accessibility
         # acc = accessibilityAPI()
         # acc.save_acc_file(path="Trento_2021-10-26_09-56-54.csv", city = "trento")
