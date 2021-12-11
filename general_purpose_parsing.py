@@ -1,7 +1,7 @@
 import os, json, csv 
 import pprint
 from langdetect import detect_langs
-from datetime import datetime
+from datetime import datetime, date
 dir = r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING'
 all_categories = os.listdir(dir)
 
@@ -705,7 +705,7 @@ class EventParser() :
                             if ('Roncegno Terme' not in writer['has_venue']) and ('Riva' not in writer['has_venue']) and ('Levico Terme' not in writer['has_venue']) \
                                 and ('Folgaria' not in writer['has_venue']) and ('Pinzolo' not in writer['has_venue']) and ('Nomi' not in writer['has_venue']):
                                
-                                date = datetime.now()
+                                
                                 writer['has_end'] = writer['has_end'].replace('.',':')
                                 new = []
                                 for el in writer['has_end'].split() :
@@ -717,9 +717,8 @@ class EventParser() :
                                             v = el + ':00'
                                         new.append(v)
                                 writer['has_end'] = ' '.join(new)
-                                date = datetime.isoformat(date)
-                                end = datetime.isoformat(datetime.fromisoformat(writer['has_end']))
-                                if (date > end) :
+                         
+                                if self.has_terminated(writer['has_end']) :
                                     writer['has_terminated'] = True
                                
                           
@@ -795,6 +794,7 @@ class EventParser() :
                                             if (el.lower() in set(['ingresso','pagamento','euro','biglietto','ticket','fee','iscrizione','subscription'])) :
                                                 idx_ = desc.index(el)
                                                 writer['has_cost']['has_price'] = desc[idx_-1:idx_+10]
+                                                
                                 if ('NB:' in desc) :
                                     idx_ = desc.index('NB:') 
                                     writer['has_specialAnnouncements'] = ' '.join(desc[idx_:])
@@ -805,7 +805,7 @@ class EventParser() :
                                         idx_ = desc.index(el)
                                         writer['has_specialAnnouncements'] += ' ' + ' '.join(desc[idx_:])
                                     if ('free'in el.lower()) or ('gratuito' in el.lower()) or ('gratis' in el.lower()) :
-                                        writer['cost']['is_free'] = True 
+                                        writer['has_cost']['has_freeEntrance'] = True 
                                     if ('included' in el.lower()) or ('inclus' in el.lower()) :
                                         idx_ = desc.index(el)
                                         writer['has_cost']['has_extraBenefits'] = ' '.join(desc[idx_-10:idx_+10]).replace('/li','').replace('/ul','')
@@ -817,13 +817,13 @@ class EventParser() :
                                         writer['has_cost']['has_price'] = parsed['link'][0]
                                 if ('postponed' in ' '.join(parsed['description'])) or ('posticipato' in ' '.join(parsed['description'])) :
                                     idx_ = parsed['description'].index('postponed') 
-                                    writer['has_specialAnnouncements']  += ' ' + ' '.join(parsed['description'][idx_-10:idx_+10])   
-                                if (writer['has_cost']['ticket']['has_price'] != '') :
+                                    writer['has_specialAnnouncements']  += ' ' + ' '.join(parsed['description'][idx_-10:])   
+                                if (writer['has_cost']['has_price'] != '') :
                                     writer['has_cost']['has_freeEntrance'] = False
-                                writer['has_description'] = ' '.join(desc).replace(writer['has_specialAnnouncements'],'').replace(' '.join(writer['cost']['ticket']['has_price']),'').replace(' '.join(writer['cost']['ticket']['has_extraBenefits']),'')
+                                writer['has_description'] = ' '.join(desc).replace(writer['has_specialAnnouncements'],'').replace(' '.join(writer['has_cost']['has_price']),'').replace(' '.join(writer['has_cost']['has_extraBenefits']),'')
                                 # SET LANGUAGE #
                                 
-                                writer['has_language'] += ['it-IT', 'en-GB']
+                                writer['has_language'] = ['it-IT', 'en-GB']
                                 writer['has_title'] = parsed['name']
                                 consider = []
                                 n = writer['has_title'].replace('trento','').replace('bolzano','').replace('verona','').split('-')
@@ -839,12 +839,112 @@ class EventParser() :
                                 else :
                                     writer['has_type'] = n[:2]
                                 writer['has_venue'] = ' '.join(parsed['location'])
-                               
-                        try :
+                        
+                        
+
+                            ## FURTHER CLEANING 
+                            new_desc = []
+                            if ('class' in writer['has_description']) :
+                                desc = writer['has_description'].split()
+                                for i in range(len(desc)) :
+                                    if ('-' not in desc[i]) and ('class' != desc[i]) and ('title' != desc[i]) and ('_' not in desc[i]) :
+                                        if ('img' != desc[i]) and ('alt' != desc[i]) and ('src' != desc[i]) and ('country' not in desc[i]):
+                                            if (desc[i].rstrip('/') != 'li') and (desc[i] != 'ul'):
+                                                new_desc.append(desc[i].strip('/').replace('[/url]','').replace('\x92',"'").replace('strong',''))
+                            to_replace = set(['X8jYzjkN', 'dblnMbuw&amp;c', '92d4a68efec566a4d792774e86f94cb7', '9yaRdkWn', 't4Hrk5u5', 'HIDqw01z','rg4CCXQ4',
+                            'vaQFMnMJ', '2922d5a89fad89732c791c080a366b93', 'KtRHVBHP', 'f268b2ba8ebab55992b31a9b95a110cc','m16kMcg2', 'M0M1I6jy', 'qo1bbcxm', '0QUhk9cK',
+                            'PueO5saP&amp;c', '9c773c95174a64a105e7063766b6029f','tiq1BNiv&amp;c', 'd5c762b61c41d41483f1c3d7e4a23004','pZXEIpN5', 'ZJtEBKY6','BklrsnR1', 'VaNhpuw5',
+                            'pufXmM6s','oTe4WuKx', '7MJbcPO4', '', 'o9v6fnle', 'cxmmr5t8', 'oygrvhab', 'hcukyx3x', 'c1et5uql','slr8FqY', '7f8oVRF','j5onWS5H','vewj36iq','M8soQvT',  '.../aspan)',
+                            'HOUlLqWY','SQjZyuWL','...)','ltr','h4','h3','/li','emoji sunny:sunny:','yUiAND6m', 'emoji', 'mushroom:mushroom:',
+                            ']www.trentodoc.com/en/http://www.trentodoc.com/en/]www.trentodoc.com/en/ ','ehvca-0-0','3f4u6-0-0','3f4u6-0-0','duj81-0-0',
+                            'f8ak7-0-0','f8ak7-0-0','9qfek-0-0','697nq-0-0','697nq-0-0','7t761-0-0 4hc0g-0-0','4hc0g-0-0***','698ps-0-0','bi8et-0-0','bi8et-0-0',
+                            'e96pc-0-0',' f8ak7-0-0','f8ak7-0-0','9qfek-0-0','697nq-0-0','697nq-0-0','7t761-0-0 4hc0g-0-0 class ','4hc0g-0-0***','li font-size:16pxsome font-size:16pxsome',
+                            'li font-size:16px','/strong ul dir'])
+
+    
+                        
+                            new_desc = ' '.join(new_desc)
                             
-                            self.write_to_json(os.path.join(self.writedir, parsed['name']), writer) 
-                        except :
-                            self.scarti.append(writer)   
+                            for el in to_replace :
+                                new_desc = new_desc.replace(el, '')
+                                writer['has_specialAnnouncements'] = writer['has_specialAnnouncements'].replace(el,'')
+                            writer['has_description'] = new_desc.replace(writer['has_end'],'').replace(writer['has_start'],'').lstrip(' ul')
+                            
+                            writer['has_end'] = writer['has_end'].replace('class','').rstrip(' ')
+                            writer['has_start'] = writer['has_start'].rstrip(' ')
+
+                            if (writer['has_end'] == '') :
+                                writer['has_end'] = writer['has_start'][:10] + ' 00:00:00'
+                            else :
+                                writer['has_end'] +=':00'
+                                writer['has_end'] = writer['has_end'].replace('-', '')
+                            if (len(writer['has_start']) < 18) :
+                                writer['has_start'] +=':00'
+                            if ('/' in writer['has_end']) :
+                                writer['has_end'] = datetime.strptime(writer['has_end'], "%d/%m/%Y %H:%M:%S").strftime("%Y-%m-%d %H:%M:%S")
+                                writer['has_start'] = datetime.strptime(writer['has_start'], "%d/%m/%Y %H:%M:%S").strftime("%Y-%m-%d %H:%M:%S")
+                            if ('-' in writer['has_end']) : 
+                                writer['has_end'] = datetime.strptime(writer['has_end'], "%Y-%m-%d %H:%M:%S").strftime("%Y-%m-%d %H:%M:%S")
+                                writer['has_start'] = datetime.strptime(writer['has_start'], "%Y-%m-%d %H:%M:%S").strftime("%Y-%m-%d %H:%M:%S")
+
+                            if (self.has_terminated(writer['has_end'])) :
+                                writer['has_terminated'] = True 
+                            # CHECK RECURRENCY 
+                            if ('2018' in writer['has_title']) or ('2019' in writer['has_title']) or ('2020' in writer['has_title']) :
+                                writer['has_recurrency'] = True 
+                                writer['has_schedule'] = 'yearly'
+                            if ('edition' in writer['has_title']) :
+                                title = writer['has_title'].split('-')
+                                idx_ = title.index('edition') 
+                                n = title[idx_-1]
+                                writer['has_edition'] = n
+                            
+                    
+                            
+                            if (' '.join(writer['has_cost']['has_price']) == '') :
+                                writer['has_description'] = writer['has_description'].replace('lastE','last E').replace('lastB', 'last B').replace('ul', '').replace('lastA','last A')
+                                writer['has_cost']['has_freeEntrance'] = True 
+                            
+                            writer['has_link'] = 'https://trento.esn.it/?q=events'+'/'+writer['has_title']
+                                        
+                        
+                
+                            writer['has_type'] = ' '.join(writer['has_type']) if (type(writer['has_type']) == list) else writer['has_type']
+                            writer['has_cost']['has_price'] = ' '.join(writer['has_cost']['has_price']) if (type(writer['has_cost']['has_price']) == list) else writer['has_cost']['has_price']
+                            writer['has_hashtag'] = parsed['links'] if ('link' in parsed) else []
+                            writer['has_organizer'] = 'ESN'
+                            #MODE
+                            if ('zoom' in writer['has_venue'].lower() or 'teams' in writer['has_venue'].lower()) :
+                                writer['has_venue'] = 'Trento, Italy'
+                                writer['has_virtualLocation'] = writer['has_link']
+                                writer['has_mode'] = 'online'
+                            elif ('zoom' not in writer['has_venue'] and 'teams' not in writer['has_venue']):
+                                new_loc = []
+                                for el in writer['has_venue'].split() :
+                                    if (el != 'will' and el != 'in' and el != 'before' and el != 'to' and el != 'at' and el!= 'on') :
+                                        if (el.lower() not in new_loc) :
+                                            new_loc.append(el.replace('?',''))
+                                writer['has_mode'] = 'offline'
+                            writer['has_venue'] = ' '.join(new_loc)
+                        
+                            if ('Trento' not in writer['has_venue'].lower()) :
+                                writer['has_venue'] = writer['has_venue'] +' (Trento)'
+
+                            for v1,v2,v3,v4 in zip(writer['has_cost']['has_price'].split(), writer['has_specialAnnouncements'].split(), writer['has_cost']['has_extraBenefits'].split(), writer['has_description'].split()) :
+                                if (v1.lower() == 'train') or (v2.lower() == 'train') or (v3.lower() == 'train') or (v4.lower() == 'train')  :
+                                    writer['has_transportMode'].append('Train')
+                                if (v1.lower() == 'bus') or (v2.lower() == 'bus') or (v3.lower() == 'bus') or (v4.lower() == 'bus') :
+                                    writer['has_transportMode'].append('Bus')
+                                if (v1.lower() == 'car') or (v2.lower() == 'car') or (v3.lower() == 'car') or (v4.lower() == 'car') :
+                                    writer['has_transportMode'].append('Car')
+                            writer['has_transportMode'] = list(set(writer['has_transportMode']))
+                        
+                        ## DEVI SISTEMARE TICKET  !!!
+                            try :
+                                print('Writing {} to .json file'.format(writer['has_title']))
+                                self.write_to_json(os.path.join(self.writedir, writer['has_title']), writer) 
+                            except :
+                                self.scarti.append(writer)   
 
     def parse_for_tickets_STAY(self) : 
         
@@ -891,7 +991,7 @@ class EventParser() :
                             writer['has_start'] += parsed['duration_hours']
                             writer['has_end'] += parsed['duration_hours'] if (writer['has_end'] != '') else str(parsed['duration_hours'])
                             writer['has_start'] = ' '.join(writer['has_start'])
-                            writer['has_end'] = ' '.join(writer['has_end'])
+                            writer['has_end'] = ' '.join(''.join(writer['has_end']).replace('[','').replace(']','').split()) if type(writer['has_end'] == list) else ' '.join(writer['has_end'])
                             ## FIX DESCRIPTION AND FURTHER ANNOUNCEMENTS 
                             clean = set(['<article style="word-break: break-all;word-break: break-word;">','<img alt=',
                             'class="img-fluid rounded hover-translate-y-n3 hover-shadow-lg mb-4" height="274" src="https://cdn.stayhappening.com/events2/banners/f0ac06d52e123cb5d05d106344879bf5cba092f062d89b134e30d839d42dc3fb-rimg-w720-h274-gmir.png?v=1634999771" style="width: 100%;min-height: 150px;" width="720"/> ',
@@ -942,23 +1042,156 @@ class EventParser() :
                                     if (writer['has_cost']['has_price'] == '') :
                                         writer['has_cost']['has_price'] = parsed['links'][-1].replace('data-url=','').replace('></div>','')
                                 writer['has_description'] = parsed['description']
-                            writer['has_location'] = parsed['location']
-                            if (len(writer['description']) > 0) :
+                            writer['has_venue'] = parsed['location']
+                            if (len(writer['has_description']) > 0) :
                                 
                                 writer["has_language"] = detect_langs(writer['has_description'])
                                 writer['has_language'] = str(writer['has_language']).replace('[','').replace(']','').split(',')
                                 writer['has_language'] = [el.split(':')[0] +'-'+ el.split(':')[0].upper() for el in writer['has_language']]
                                 
                             
+                            ### FURTHER DETAILS FOR DISCOUNTS OR SUPEREVENTS
+                            # LINK 
+                            writer['has_link'] = parsed['links'][-1].replace('data-url=','').replace('></div>','') if len(parsed['links']) > 0 else ''
+                            if (writer['has_link'] == '') and (len(writer['has_title']) > 0) :
+                                writer['has_link'] = writer['has_title'][-1]
+                            
                             ## check whether there are info :
                             if ('name' in parsed) : 
                                 writer['has_title'] = parsed['name'].replace('csv','')
-                            try :
-                            
-                                self.write_to_json(os.path.join(self.writedir, writer['name']), writer)  
+                            # DISCOUNTS 
+                            clean = writer['has_description'].split()
+                            to_replace = ['<br/>', '<article style=":',';:', 'break-word;">']
+                            for el in to_replace :
+                                writer['has_description'] = writer['has_description'].replace(el,'')
+                            new = []
+
+                            for word in clean:
+                                if ('class=' not in word) and ('src=' not in word) and ('-' not in word) and ('&' not in word) and ('style' not in word) and (';:' != word):
+                                    if ('rounded height' not in word) :
+                                        new.append(word.replace('<br/>','').replace('\x92',"'").replace('00r','00 r').replace('00b','00 b').replace('\x80',' euro').replace('OBBLIGATORIOINGRESSO', 'OBBLIGATORIO INGRESSO').replace('LIBERA','LIBERA '))
+                            writer['has_description'] = ' '.join(new).replace('ee', 'e e').replace('euro',' euro')
+                            new = writer['has_description'].lower().split()
+                            if ('entrata gratuita' in writer['has_description']) or ('ingresso libero' in writer['has_description']) or ('ingresso gratuito' in writer['has_description']) \
+                                or ('entrata libera' in writer['has_description']) or ('gratis' in writer['has_description']) or ('ingresso gratuito' in writer['has_description'] or ('partecipazione' in writer['has_description'])) :
+                                for i in range(len(new)) :
+                                    if ('liber' in new[i] or 'gratuit' in new[i] ) :
+                                        if ('ingress' in new[i-1] or 'entrat' in new[i-1] or 'access' in new[i-1] or 'workshop' in new[i-1].lower() or ('partecipazion') in new[i-1].lower()) :
+                                            writer['has_cost']['has_freeEntrance'] = True
+                                    if ('informazioni' in new[i].lower()) :
+                                        if ('maggiori' in new[i-1] or 'per' in new[i-1]) :
+                                            if (writer['has_cost']['has_price'] == '') :
+                                                writer['has_cost']['has_price'] = parsed['links'][-1]
+                                
+                                # DISCOUNTS
+                            if ('gravidanza' not in new) : #Filtriamo per evento
+                                   
+                                idx = None
+                                save = None
+                                if ('anni' in new):
+                                    idx = new.index('anni') 
+                                    if (new[idx-1]).isnumeric() : 
+                                        for i in range(len(new)) : 
+                                            if ('gratis' in new[i]) or ('gratuit' in new[i]) :
+                                            
+                                                save = i 
+                                        if (save != None) and (idx != None) : 
+                                                if (save > idx) :
+                                                    writer['has_cost']['has_extraBenefits'] = ' '.join(new[idx-1:save+1])
+                                                else :
+                                                    writer['has_cost']['has_extraBenefits'] = ' '.join(new[save-1:idx+1])
+                                ## TICKET PRICE
+                                for i in range(len(new)) :
+                                    if ('euro'in new[i]) :
+                                        if (writer['has_cost']['has_price'] == '') or ('https' in writer['has_cost']['has_price']) : 
+                                           
+                                            if (new[i-1][-1].isnumeric()) :
+                                                writer['has_cost']['has_price'] = new[i-1]
+                                               
+                                            else :
+                                                writer['has_cost']['has_price'] = new[i+1][:2]
+                                    if ('scont' in new[i].lower()) :
+                                        
+                                        select = new[i-2:i+3]
+                                        writer['has_specialAnnouncements'] += ' ' + ' '.join(select)
+                                writer['has_description'] = writer['has_description'].replace(writer['has_specialAnnouncements'],'')
+                                writer['has_hashtag'] = parsed['links'][:-1]
+                              
+                                
+                                
+                                #FIX START AND END
+                                if ('to' in writer['has_start']) :
+                                    spl = writer['has_start'].split('to')
+                                    end = spl[-1].split()
+                                    if (end[0] == end[1]) :
+                                        write = end[1:]
+                                    else :
+                                        write = end
+                                    writer['has_end'] = ' '.join(write) 
+                                    date = '/'.join(writer['has_start'].split()[:3])
+                                    writer['has_start'] = date +' '+ ' '.join(writer['has_start'].split()[3:]).replace('</h2>','')
+                                    writer['has_end'] = date +' '+writer['has_end'].replace('</h2>','')
+                                    writer['has_start'] = ''.join(writer['has_start'].split('to')[0])
+                                   
+                                #VIRTUAL LOCATION -NO VIRTUAL EL
+                                #MODE
+                                writer['has_mode'] = 'offline'
+                                desc = writer['has_description'].split()
+                                # CHECK RECURRENCY 
+                                if ('edizione' in writer['has_title']) : 
+                                    writer['has_recurrency'] = True
+                                    writer['has_schedule'] = 'yearly'
+                                    
+                                    for i in range(len(desc)) :
+                                        if ('edizione' == desc[i].lower()) :
+                                            if (desc[i-1][0].isnumeric()) or ('V' in desc[i-1] or ('I' in desc[i-1])) : 
+                                                writer['has_edition'] = desc[i-1]
+                                    
+                                if ('Mondo Donna' in writer['has_description'] and writer['has_edition'] == 0) :
+                                    writer['has_superEvent'] = 'Mondo Donna Fiera'
+
+
+
+                                # FIX DATE AND HAS ENDED
+                                
+                                date = writer['has_start'].split()
+                                if (not '/' in date[0]) :
+                                    date = '/'.join(date[:3])
+                                    writer['has_start'] = date + writer['has_start'][9:]
+                                    if (date not in writer['has_end']) :
+                                        writer['has_end'] = date +' '+writer['has_end'].replace('</h2>','').replace("'",'').replace(',','')
+                                writer['has_start'] = writer['has_start'].replace('</h2>','')
+
+                               
+                                end = writer['has_end'].split()[0]
+                                
+                                end = datetime.strptime(end, "%d/%m/%Y").strftime("%Y-%m-%d")
+                                
+                                if (self.has_terminated(end)) :
+                                    writer['has_terminated'] = True 
+                                if (writer['has_language'] == []) :
+                                    writer['has_language'] = ['it-IT']
+                                name = ' '.join(writer['has_title'].split('-')[:-1])
+                                if ('stream' in name) :
+                                    writer['has_mode'] = 'online'
+                                    writer['has_virtualLocation'] = parsed['links'][-1]
+                                writer['has_title'] = name
+                                writer['has_cost']['has_price'] = writer['has_cost']['has_price'].replace('massimo','')
+                                # CLEANSE :
+                                writer['has_description'] = writer['has_description'].replace('rounded height="275" <div <small sh_eventpage_desc_top <ins <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script> </div> ','').replace('<div <small sh_eventpage_desc_top <ins <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script> </div>','').replace('\u00e0','à').replace('<article','')
+                                
+                                if ('https' in writer['has_cost']['has_price']) :
+                                    writer['has_cost']['has_onlineBooking'] = True 
+                                
+                                
+                                try :
+                                    print('Writing {} to file'.format(writer['has_title']))
+                                    self.write_to_json(os.path.join(self.writedir, writer['has_title'].replace(' ','-')), writer)  
                                       
-                            except :
-                                self.scarti.append(writer)
+                                except :
+                                    self.scarti.append(writer)
+
+                        
     def parse_for_tickets_OPEN(self) : 
         """Parsing open data Events for Trento and Rovereto"""
         key = 'C:\\Users\\Anna Fetz\\Desktop\\Data_Science\\third_semester\\KDI_2021\\PARSING\\OpenData'
@@ -970,82 +1203,257 @@ class EventParser() :
                 for file in d :
                     writer = self.return_writer()
                     
-                    try :
-                        with open(os.path.join(os.path.join(key,item),file), encoding ='utf-8') as f : 
+                    with open(os.path.join(os.path.join(key,item),file), encoding ='utf-8') as f : 
+                        try:
                             loaded = json.load(f)
                             parsed = loaded 
+                           
                             if ('metadata' in parsed) : #QUESTI SONO I DATI DI TN
-                                
-                                writer['has_title'] = parsed['metadata']['name']
-                                writer['has_targetAge'] = parsed['metadata']['sectionIdentifier']
-                                ## VAI CON DESCRIZIONE ##
-
-                                writer['has_description'] += ' ' + parsed['data']['ita-IsT']['abstract'] 
-                                
-                                writer['has_description'] += ' ' + parsed['data']['ita-IT']['informazioni']
-                               
-                                writer['has_description'] += ' ' + parsed['data']['ita-IT']['text']
-                                writer['has_description'] += ' ' + parsed['data']['ita-IT']['email']
-                                
-                                #writer['location'] =' '+ parsed['data']['ita-IT']['gps']['address'] + ' '+ parsed['data']['ita-IT']['gps']['latitude'] + ' ' +parsed['data']['ita-IT']['gps']['longitude']
-                                
-                                writer['has_type'] += ' ' + parsed['data']['ita-IT']['materia'][0]['name']['ita-IT']
-                                
-                                writer['has_recurrency'] = True if parsed['data']['ita-IT']['progressivo'] != None else False
-                                
-                                writer['has_link'] = parsed['data']['ita-IT']['url']
-                                writer['has_language'] = list(parsed['data']['ita-IT']['tipo_evento'][0]['name'].keys())
-                                writer['has_start'] =  parsed['data']['ita-IT']['to_time'] + ' '+  parsed['data']['ita-IT']['orario_svolgimento']
-                                
-                                writer['has_end'] =  ' '.join(parsed['data']['ita-IT']['periodo_svolgimento'].split()[parsed['data']['ita-IT']['periodo_svolgimento'].split().index('al'):]) if 'al' in parsed['data']['ita-IT']['periodo_svolgimento'] else writer['has_start']
-                                writer['has_cost']['has_price'] = parsed['data']['ita-IT']['costi'] if parsed['data']['ita-IT']['costi'] != None else  writer['has_link']
-                                if (writer['has_cost']['has_price'] == 'gratuito') or (writer['has_cost']['has_price'] == 'gratuita'):
-                                    writer['cost']['has_freeEntrance'] = True
-                                    writer['has_cost']['has_price'] = ''
-                            else :
-                                writer['has_start'] = ' '.join(parsed['duration_days'][0]) + parsed['duration_hours']
-                                writer['has_end'] = ' '.join(parsed['duration_days'][-1]) 
-                                writer['location'] = ''.join(parsed['indirizzo']) + parsed['lat'] + parsed['lon']
-                                if ('online' in writer['has_location'] or 'zoom' in writer['has_location'].lower()) :
-                                    writer['has_mode'] = 'online'
-                                if ('in diretta' in writer['has_location']) or ('streaming' in writer['has_location']) :
-                                    writer['has_mode'] = 'blended'
-                                writer['has_link'] = parsed['link'] 
-                                if ('ore' in writer['has_location'].split()) and (len(parsed['duration_hours'])==0):
-                                    d = writer['has_location'].split()
-                                    idx_ = d.index('ore')
-                                    writer['has_start'] += d[idx_:idx_+1]
-                                    writer['has_location'] = writer['has_location'].replace(writer['has_start'],'')
-                                writer['has_title'] = parsed['title']
-                                if ('schedule' not in parsed):
-                                    if (len(parsed['repeated'])> 1) or ('ciclo' in parsed['abstract'].lower()) or ('tutte le settimane' in parsed['abstrct'].lower()):
-                                        writer['has_recurrency'] = True 
-                                    giorni = set(['lunedì','maredì','mercoledì','giovedì','venerdì','sabato','domenica'])    
-                                    d = parsed['indirizzo']
-                                    counter = 0
-                                    for word in d :
-                                        if word in giorni :
-                                            counter += 1
-                                            if (counter > 1) :
-                                                writer['has_recurrency'] = True
+                              
+                                writer['has_start'] = parsed['data']['ita-IT']['from_time'] 
+                                writer['has_end'] = parsed['data']['ita-IT']['to_time']
+                                writer['has_description'] = parsed['data']['ita-IT']['text']
+                                writer['has_language'] = parsed['data']['ita-IT']['tipo_evento'][0]['languages'] if (len(parsed['data']['ita-IT']['tipo_evento'])>0) else ['it-IT','en-GB']
+                                writer['has_title'] = parsed['data']['ita-IT']['titolo']
+                                if (parsed['data']['ita-IT']['url'] != None) :
+                                    writer['has_link'] = parsed['data']['ita-IT']['url']  
+                                else:
+                                    if (parsed['data']['ita-IT']['image'] != None) :
+                                        writer['has_link'] = parsed['data']['ita-IT']['image']['url']
+                                    else :
+                                        writer['has_link'] = parsed['data']['ita-IT']['email']
+                                if (parsed['data']['ita-IT']['luogo_svolgimento'] != None) :
+                                    writer['has_mode'] = 'online' if ('online' in parsed['data']['ita-IT']['luogo_svolgimento'] or 'streaming' in parsed['data']['ita-IT']['luogo_svolgimento']) else 'offline'
+                                    writer['has_venue'] = parsed['data']['ita-IT']['luogo_svolgimento'] +', Trento' if ('Trento' not in parsed['data']['ita-IT']['luogo_svolgimento']) else parsed['data']['ita-IT']['luogo_svolgimento']
                                 else :
-                                    writer['has_schedule'] = parsed['schedule']
-                                writer['has_description'] = parsed['abstract_text']
-                                cat = parsed['immagine'].split('/')[-1] 
-                                writer['has_type'] = cat
-                                writer['has_cost']['has_price'] = parsed['link']
-                                if ('°' in writer['has_title']) or ('edizione' in writer['has_title'].lower()) :
-                                    writer['has_edition'] = writer['has_title'][:writer['has_title'].index('°')+1] if ('°' in writer['name']) else writer['name'][:writer['name'].lower().index('edizione')]
+                                  
+                                    writer['has_venue'] = parsed['data']['ita-IT']['periodo_svolgimento'] 
+                                if (parsed['data']['ita-IT']['costi'] != None) :
+                                    if ('gratuit' in parsed['data']['ita-IT']['costi']) :
+                                        writer['has_cost']['has_freeEntrance'] = True
+                                        if ('covid' in parsed['data']['ita-IT']['costi'].lower()) :
+                                            writer['has_specialAnnouncements'] = parsed['data']['ita-IT']['costi']
+                                        if ('intero' in parsed['data']['ita-IT']['costi']) and ('ridotto' in  parsed['data']['ita-IT']['costi']) :
+                                            intero =  parsed['data']['ita-IT']['costi'].split()[parsed['data']['ita-IT']['costi'].index('intero')+1]
+                                            writer['has_cost']['has_price'] = intero
+                                            ridotto = parsed['data']['ita-IT']['costi'].split()[parsed['data']['ita-IT']['costi'].index('ridotto'):parsed['data']['ita-IT']['costi'].index('ridotto') +2]
+                                            writer['has_cost']['has_extraBenefits'] = ' '.join(ridotto)
+                                            if (writer['has_cost']['has_price'] != '') and (writer['has_cost']['has_freeEntrance'] == True) :
+                                                writer['has_cost']['has_freeEntrance'] = False
+                                if (parsed['data']['ita-IT']['informazioni'] != None) :
+                                    strip = parsed['data']['ita-IT']['informazioni'].strip('\t').replace('<ul>','').replace('</ul>','').replace('</a>','').replace('<li>','').replace('<a href=','').replace('</li>','').replace('  ','').lstrip()
+                                    writer['has_specialAnnouncements'] = strip
+                                if (writer['has_mode'] == 'online') and (writer['has_cost']['has_price'] == '') and (writer['has_cost']['has_freeEntrance'] == False):
+                                    writer['has_cost']['has_freeEntrance'] = True
+                                if (writer['has_mode'] == 'offline') and (writer['has_venue'] !='') and (writer['has_cost']['has_price'] == '') and (writer['has_cost']['has_freeEntrance'] == False) :
+                                    writer['has_cost']['has_freeEntrance'] = True
+                                desc = parsed['data']['ita-IT']['text'].lower().split()
+                                if (writer['has_cost']['has_price'] == '') and (writer['has_cost']['has_freeEntrance'] == False) :
+                                    
+                                    if (parsed['data']['ita-IT']['informazioni'] != '') :
+                                        flag = False
+                                        info = parsed['data']['ita-IT']['informazioni'].split('\t')
+                                        clean = []
+                                        for i in range(len(info)) :
+                                            el = info[i].replace('\n','').replace('<ul>','').replace('<li>','').replace('</li','').replace('</ul>','')
+                                            if (el != '') : 
+                                                clean.append(el)
+                                        for el in clean :
+                                            if ('href' in el) and (flag == False) and (not 'gmail' in el):
+                                                spl = el.split('=')
+                                                writer['has_cost']['has_price']  = spl[-1].replace('"Collegamento a sito esterno" >','').replace('</a>    >','')
+                                                flag = True
+                                    
+                                        
+                                flag = False 
+                                for i in range(len(desc)) : 
+                                    if ('prenotazione' in desc[i]) and ('obbligatoria' in desc[i+1]) :
+                                        flag = True
+                                        writer['has_specialAnnouncements'] = (desc[i] + desc[i+1])
+                                        writer['has_cost']['has_freeEntrance'] = True 
+                                
+                                    if ('obbligatoria' in desc[i]) and ('prenotazione' in desc[i+1]) :
+                                        flag = True
+                                        writer['has_specialAnnouncements'] = (desc[i] + desc[i+1])
+                                        writer['has_cost']['has_freeEntrance'] = True 
+                                
+                                    if ('gradita' in desc[i]) and ('prenotazione' in desc[i+1]) :
+                                        flag = True
+                                        writer['has_specialAnnouncements'] = (desc[i] + desc[i+1])
+                                        writer['has_cost']['has_freeEntrance'] = True 
+                                
+                                    if ('prenotazione' in desc[i]) and ('gradita' in desc[i+1]) :
+                                        flag = True
+                                        writer['has_specialAnnouncements'] = (desc[i] + desc[i+1])
+                                        writer['has_cost']['has_freeEntrance'] = True 
+                                
+                                    if ('prenotazione' in desc[i]) and (flag == False) :
+                                        writer['has_specialAnnouncements'] = ' '.join(desc[i-1:i+2] + desc[i+1])
+                                        writer['has_cost']['has_freeEntrance'] = True 
+                                
+                                writer['has_specialAnnouncements'] = writer['has_specialAnnouncements'].replace('</p>','').replace('<p>','') 
+                                writer['has_description'] = writer['has_description'].replace(writer['has_specialAnnouncements'],'')
+
+                                ## CANCELLAZIONI
+
+                                for i in range(len(desc)) : 
+                                    if ('annullato' in desc[i]) or ('cancellato' in desc[i]) or ('rinviato' in desc[i]) or ('rimandato' in desc[i]) :
+                                        
+                                       
+                                        el = ' '.join(desc[i-6:]).replace('<div>','').replace('</div>','').replace('<p>','').replace('</p>','')
+                                        writer['has_specialAnnouncements'] += ' '+ el 
+                                
+                                #pprint.pprint(writer)
+                                # HAS TERMINATED
+                                if (writer['has_end'] == None) :
+                                    writer['has_end'] = writer['has_start']
+                                
+                                el = datetime.fromisoformat(writer['has_end']).strftime("%Y-%m-%d %H:%M:%S")
+                               
+                                
+                                if (self.has_terminated(el)):
+                                    writer['has_terminated'] = True 
+                                if ('fiera' in writer['has_title']) or ('edizione' in writer['has_title']) : 
+                                    writer['has_recurrency'] = True 
+                                    writer['has_schedule'] = 'yearly'
+                                
+                            else :
+                               
+                                writer['has_description'] = parsed['abstract'].replace('<p>','').replace('</p>','') if ('abstract' in parsed) else parsed['description']
+                                
+                                if ('is_recurrent' in parsed) or ('repeated' in parsed) : 
+                                    writer['has_recurrency'] = parsed['repeated'] if ('repeated' in parsed) else parsed['is_recurrent']
+                                
+                                writer['has_title'] = parsed['title'] if ('title' in parsed) else parsed['name']
+                                ## START AND END
+                                if ('duration_days' in parsed):
+                                    date = parsed['duration_days'].replace('datetime.date(','').replace(')','').replace(']','').replace('[','')
+
+                                    date = date.replace(' ','').split(',')
+                                    start = '/'.join(date[:3])
+                                    end = '/'.join(date[3:])
+                                    time = parsed['duration_hours'].replace("'",'').replace('(','').replace(')','').split(',')
+                                    t = []
+                                    for el in time :
+                                        val = el.strip()
+                                        val = val[:2]
+                                        mins = el.strip()[2:]
+                                        
+                                        if (val != '') :
+                                           
+                                            if (int(val) > 12) :
+                                                num = int(val) - 12
+                                               
+
+                                                num = str(num)
+                                                t.append(num+mins+':00 pm')
+                                            else :
+                                                t.append(el + ':00 am')
+                                        else :
+                                            t.append('')
+                                    
+
+                                    try : 
+                                        if (time[0] != '') and (time[0] != '2021:') : 
+                                            writer['has_start'] = datetime.strptime(start + ' ' + t[0] , "%Y/%m/%d %H:%M:%S %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                        else :
+                                            writer['has_start'] = datetime.strptime(start + ' ' + '12:00:00 am' , "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                        if (time[-1] != '') and (time[0] != '2021:') : 
+                                            writer['has_end'] = datetime.strptime(end + ' ' + t[-1] , "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                        else :
+                                            writer['has_end'] = datetime.strptime(end + ' ' + '12:00:00 pm' , "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                    except : 
+                                        try : 
+                                            if (time[0] != '') and (time[0] != '2021:') : 
+                                                writer['has_start'] = datetime.strptime(end + ' ' +t[0], "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                            else :
+                                                writer['has_start'] = datetime.strptime(end + ' ' + '12:00:00 am' , "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                            if (time[-1] != '') and (time[0] != '2021:') : 
+                                                
+                                                writer['has_end'] = datetime.strptime(end + ' ' +t[-1] , "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                            else :
+                                                writer['has_end'] = datetime.strptime(end + ' ' + '12:00:00 pm' , "%Y/%m/%d %HH:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                        except :
+                                            if (t[0][0] == 0) :
+                                                new = t[0][1:]
+                                                if (time[0] != '') and (time[0] != '2021:') : 
+                                                    writer['has_start'] = datetime.strptime(new + ' ' +t[0], "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                                else :
+                                                    writer['has_start'] = datetime.strptime(t[-1] + ' ' + '12:00:00 am' , "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                                if (time[-1] != '') and (time[0] != '2021:') : 
+                                                    writer['has_end'] = datetime.strptime(end + ' ' +t[-1] , "%Y/%m/%d %H:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                                else :
+                                                    writer['has_end'] = datetime.strptime(end + ' ' + '12:00:00 pm' , "%Y/%m/%d %HH:%M:%S  %p").strftime("%Y/%m/%d %H:%M:%S  %p")
+                                    if (writer['has_end'] != '') : 
+                                        end = datetime.strptime(writer['has_end'], "%Y/%m/%d %H:%M:%S  %p").strftime("%Y-%m-%d %H:%M:%S")
+                                    
+                                        writer['has_terminated'] = True if (self.has_terminated(end)) == True else False
+                                    else : 
+                                        writer['has_terminated'] = True 
+                                    ## LOCATION
+                                    
+                                    ven = parsed['indirizzo'].replace('dalle','').replace('alle','').replace('[','').replace(']','').replace("'",'').split(',') if 'indirizzo' in parsed else parsed['location'].replace('dalle','').replace('alle','').replace('[','').replace(']','').replace("'",'').split(',')
+                                    for i in range(len(ven)) :
+                                        el = ven[i].strip().lower()
+                                        if  ('zoom' in el) or ('online' in el)  or ('stream' in el) or ('youtube' in el):
+                                            writer['has_mode'] = 'online'
+                                            if ('https' in el) :
+                                                writer['has_virtualLocation'] = el
+                                            else :
+                                                writer['has_virtualLocation'] = 'Zoom' if ('zoom' in el) else parsed['url']
+                                                writer['has_virtualLocation'] = 'Youtube' if ('youtube' in el) else parsed['url']
+                                            if ('via' in ' '.join(ven).lower()) :
+                                                writer['has_mode'] ='blended'
+                                    if (writer['has_mode'] == None) or (writer['has_mode'] =='') :
+                                            writer['has_venue'] = ' '.join(ven)
+                                            writer['has_mode'] = 'offline'
+                                    ## LANGUAGE
+                                    writer['has_language'] = detect_langs(writer['has_description'])
+                                    writer['has_language'] = str(writer['has_language']).replace('[','').replace(']','').split(',')
+                                    writer['has_language'] = [el.split(':')[0] +'-'+ el.split(':')[0].upper() for el in writer['has_language']]
+
+                                    writer['has_link'] = parsed['url'] if ('url' in parsed) else (parsed['has_link'])
+
+                                    if (len(parsed['weekday']) > 0) :
+                                        writer['has_schedule'] = 'weekly'
+                                    ## TICKET
+                                    writer['has_cost']['has_price'] = writer['has_link']
+
+                                    #EDIZIONE/SUPEREVENT
+                                    desc = writer['has_description'].lower().split()
+                                    edizioni = ['prima','seconda','terza','quarta','quinta','sesta','settima','ottava','nona','decima']
+                                    if ('edizione' in desc):
+                                        for i in range(len(desc)-1) : 
+                                            if ('edizione' in desc[i+1]) :
+                                                el = desc[i].replace('<sup>','').replace('</sup>','').replace('^','').replace('&quot;','')
+                                                if (el in edizioni) :
+                                                    idx = edizioni.index(el)+1
+                                                    writer['has_edition'] = str(idx)
+                                                else :
+                                                    writer['has_edition'] = el
+                                    if ('festival' in desc) :
+                                        writer['has_festivalStatus'] = True 
+                                        writer['has_superEvent'] = 'Osvaldo 2021, Ricordi?' if ('osvaldo' in desc) else ''
+                                    
+
+
+
+                                
+                                
+                           
+                               
+                            
                             try :
-                                title = writer['has_title'].replace('.json','')
+                                print('Writing {} to file'.format(writer['has_title']))
+                                title = writer['has_title'].replace('.json','').replace(' ','-')
                                 self.write_to_json(os.path.join(self.writedir,title), writer)  
                                 
                             except :
                                 self.scarti.append(writer)
 
  
-                    except: 
-                        pass
+                        except: 
+                            pass
                         
     def parse_for_tickets_MIXED(self) :
         key =r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING'
@@ -1067,11 +1475,12 @@ class EventParser() :
                                 idx_ = d.index(el)
                                 writer['has_specialAnnouncements'] = d[idx_-3:idx_+2]
                             writer['has_cost']['has_price'] = parsed['fee']['amount']
-                            writer['has_location'] = parsed['venue']['address_1'] + ' '+ parsed['venue']['city'] +' '+str(parsed['venue']['lat']) +' '+str(parsed['venue']['lon'])
+                            writer['has_venue'] = parsed['venue']['address_1'] + ' '+ parsed['venue']['city'] +' '+str(parsed['venue']['lat']) +' '+str(parsed['venue']['lon'])
                             writer['has_title'] = parsed['name']
                             writer['has_start'] = parsed['local_date'] +' '+parsed['local_time']
                             writer['has_mode'] = 'offline' if parsed['is_online_event'] == False else 'online'
                             
+
 
                 except:
                     pass
@@ -1198,6 +1607,12 @@ class EventParser() :
         with open(name +'.json', 'w') as f : 
             json.dump(what, f) 
 
+    def has_terminated(self, writerval) :
+        date = datetime.isoformat(datetime.now())
+        end = datetime.isoformat(datetime.fromisoformat(writerval))
+        return date > end 
+        
+
 landing = [r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\scraped_websites\CRUSH\PARSED_CRUSHSITE',
     r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\scraped_websites\ESN\PARSED_ESN',
     r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\scraped_websites\STAY\PARSED_STAY',
@@ -1209,11 +1624,11 @@ class Writer() :
         self.directories = directories 
 
     def consider_files(self) : 
-        """Writes all files to the respective directories"""
+        """Writes all files to the respective directories, DON'T RUN"""
 
         for i in range(len(self.directories)) :
-            #event = EventParser(dir, all_categories, {}, self.directories[i] )
-            #event.fill_events_dict()
+            event = EventParser(dir, all_categories, {}, self.directories[i] )
+            event.fill_events_dict()
             #if (i == 0) : 
             #    event.parse_for_tickets_CRUSHSITE()
             #if (i == 1) :
