@@ -33,8 +33,23 @@ addr_location = pd.DataFrame([x for x in pdf_osm_ID["address"]],
 
 addr_location["has_latitude"] = pdf_osm_ID["has_latitude"]
 addr_location["has_longitude"] = pdf_osm_ID["has_longitude"]
+
+
+print(pdf.columns)
+print((addr_location.columns))
+
+addr = pd.DataFrame({"city" : pdf['has_municipality'], 
+                    "housenumber": pdf['has_addr:housenumber'], 
+                    "postcode": pdf['has_addr:postcode'], 
+                    "street" :  pdf['has_addr:street'],
+                    "has_latitude": pdf["has_latitude"],
+                    "has_longitude": pdf['has_longitude']})
+
+addr_location = pd.concat([addr_location, addr])
 addr_location["has_province"] = "TN"
 addr_location["country"] = "IT"
+addr_location["region"] = "Trentino-Alto Adige"
+
 
 res = pd.concat([pdf_contact, contact_location], axis=0, join="outer") 
 
@@ -52,7 +67,8 @@ pdf["has_contactPoint"] = ids[:pdf_contact.shape[0]]
 pdf_osm_ID["has_contactPoint"] = ids[pdf_contact.shape[0]:]
  
 
-for x in ["Unnamed: 0", 'has_fax', 'has_phone', 'has_email', 'has_website', 'has_socialNetwork']:
+for x in ["Unnamed: 0", 'has_fax', 'has_phone', 'has_email', 'has_website', 'has_socialNetwork', 'has_municipality', 
+         'has_addr:housenumber', 'has_addr:postcode','has_addr:street']:
     pdf.drop(x,  inplace= True, axis = 1)
 
 pdf_osm_ID.drop(["contact", "address"], inplace= True, axis = 1)
