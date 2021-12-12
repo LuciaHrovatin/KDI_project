@@ -42,7 +42,9 @@ pdf = pd.DataFrame(columns=["has_organizationID",
                                 "has_foundationYear", 
                                 "has_administratorPhone", 
                                 "has_administratorAddress",
-                                 "has_fiscalCode"])
+                                 "has_fiscalCode", 
+                                "has_latitude", 
+                                "has_longitude"])
 
 for int, case in pd_open.iterrows():
     lst = []
@@ -104,6 +106,20 @@ for int, case in pd_open.iterrows():
             cf = None 
         lst.append(cf or case["Partita IVA"])
 
+        if case["lat"] == 0 or case["lon"] == 0: 
+            if case["Località"] != "Trento":
+                lat = "46.734096"
+                lon = "11.288801"
+            else: 
+                lat = "46.074779"
+                lon = "11.121749"
+        else: 
+            lat = case["lat"]
+            lon = case["lat"]
+        lst.append(str(lat))
+        lst.append(str(lon))
+
+
         pdf.loc[pdf.shape[0]]  = lst 
 
 
@@ -129,7 +145,9 @@ student_org = {
     'has_foundationYear':["2016", "1948", "1992", "2015", "2016", "2012", "2012", "1921"], 
     'has_administratorPhone':["+393407716783", "", "", "", "", "", "", ""],
     'has_administratorAddress': ["", "","laura.cat@gmail.com", "", "", "", "", ""],
-    'has_fiscalCode':["96105250227", "97080730159", "92105850348", "02426890220", "00340520220","00340520220","00340520220", "80003990225"]}
+    'has_fiscalCode':["96105250227", "97080730159", "92105850348", "02426890220", "00340520220","00340520220","00340520220", "80003990225"], 
+    "has_latitude": ["46.067029999600265", "46.06627001243936", "46.06627001243936", "46.070750013958076", "46.06893000941207", "46.06627001243936", "46.06627001243936", "46.158291887394135"],
+    "has_longitude": ["11.139080017404211", "11.117710019982297", "11.117710019982297", "11.122500026189954", "11.124619977141094", "11.117710019982297", "11.117710019982297", "10.762213319978384"]}
 
 
 student_org = pd.DataFrame(student_org)
