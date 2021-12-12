@@ -41,7 +41,7 @@ class universitario() :
                         item['has_review']['has_content'] += ' '+ ' '.join(row)
                     i += 1
                     
-            with open(os.path.join(self.dir, 'universitario.json'), 'w') as writer :
+            with open(os.path.join(self.dir, 'universitario.json'), 'a') as writer :
                 print('Writing {} to file'.format(f)) 
                 json.dump(item, writer)
 
