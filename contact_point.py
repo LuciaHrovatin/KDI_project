@@ -16,10 +16,10 @@ np.random.seed(1)
 
 pdf_osm = pd.read_json("osm_data.json")
 pdf_osm_ID = pd.DataFrame(columns = list(pdf_osm.index)) 
-pdf_osm_ID["osm_ID"] = list(pdf_osm.columns) 
+pdf_osm_ID["has_location"] = list(pdf_osm.columns) 
 
-for ind, x in enumerate(list(pdf_osm_ID["osm_ID"])):
-    pdf_osm_ID.loc[ind, pdf_osm_ID.columns != "osm_ID"] = pdf_osm[x]
+for ind, x in enumerate(list(pdf_osm.columns)):
+    pdf_osm_ID.loc[ind, pdf_osm_ID.columns != "has_location"] = pdf_osm[x]
 
 
 contact_location = pd.DataFrame([x for x in pdf_osm_ID["contact"]], 
@@ -30,13 +30,9 @@ contact_location = pd.DataFrame([x for x in pdf_osm_ID["contact"]],
 
 addr_location = pd.DataFrame([x for x in pdf_osm_ID["address"]], 
                             columns = list(pdf_osm_ID["address"][0].keys()))
-
+addr_location["osm_ID"] = list(pdf_osm.columns)
 addr_location["has_latitude"] = pdf_osm_ID["has_latitude"]
 addr_location["has_longitude"] = pdf_osm_ID["has_longitude"]
-
-
-print(pdf.columns)
-print((addr_location.columns))
 
 addr = pd.DataFrame({"city" : pdf['has_municipality'], 
                     "housenumber": pdf['has_addr:housenumber'], 
@@ -75,8 +71,10 @@ pdf_osm_ID.drop(["contact", "address"], inplace= True, axis = 1)
 
 pdf["has_foundationYear"] = pd.to_datetime(pdf["has_foundationYear"], format='%Y', errors='coerce')
 
-
 pdf_osm_ID.to_csv("facility_data.csv", encoding = "utf-8")
 pdf.to_csv("organization.csv", encoding = "utf-8")
 res.to_csv("contactPoint.csv", encoding = "utf-8")
+
+addr_location.drop_duplicates(keep=False, inplace= True)
+
 addr_location.to_csv("location.csv", encoding = "utf-8")
