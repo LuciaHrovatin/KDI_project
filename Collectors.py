@@ -254,8 +254,7 @@ class Reviewer() :
             print("Scraping {} and writing it to file".format(lk))
             body = scrape.get_n_body(self.classe, n)
             
-            if (l[i] == 'Bookique.csv') : 
-                with open(l[i], 'w', encoding = 'utf-8') as f :
+            with open(l[i], 'w', encoding = 'utf-8') as f :
                         writer = csv.writer(f)
                         writer.writerow(body)
                         f.close()
