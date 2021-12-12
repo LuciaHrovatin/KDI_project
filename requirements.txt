@@ -37,3 +37,4 @@ urllib3==1.26.7
 wincertstore==0.2
 wsproto==1.0.0
 geopandas==0.10.1
+geopy==2.2.0

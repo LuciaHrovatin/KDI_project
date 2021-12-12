@@ -3,7 +3,8 @@ import os, json, csv
 class universitario() :
     def __init__(self) :
         self.dir = r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\Universitario'
-    def itemizer(self) :
+    
+    def itemizer(self):
         d = {
         'has_interactionCounter':0,
         'has_itemEvaluated':'',
@@ -16,8 +17,11 @@ class universitario() :
         'has_publishedOn': 'TripAdvisor',
         'has_ratingValue':0}
         return d
-    def create(self) :
-        """Inserts comments within content""" 
+
+    def create(self):
+        """
+        The function inserts comments within a content. 
+        """ 
 
         for f in os.listdir(self.dir) :
             item = self.itemizer()

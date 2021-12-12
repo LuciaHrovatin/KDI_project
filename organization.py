@@ -14,6 +14,10 @@ from html import unescape
 pd_open = pd.read_csv("org_trento.csv", encoding="utf-8", )
 
 def foundationYear(str_year):
+    """
+    Takes the description of an organization and 
+    extracts the year of fondation, if reported
+    """
     if type(str_year) is str:
         year = re.search(r'\d+', str_year)
         if year is not None:
@@ -122,7 +126,7 @@ for int, case in pd_open.iterrows():
 
         pdf.loc[pdf.shape[0]]  = lst 
 
-
+# additional information regarding students' associations 
 student_org = {
     'has_organizationID': ["org_172635", "org_29384746", "org_64927461", "org_283650", "org_5284351", "org_1723549", "org_227366", "org_1827364"],
     'has_name': ["ACROPOLI - Associazione di promozione sociale","AIESEC","ESN - Associazione Erasmus Student Network", "JETN - Junior Enterprise Trento", "L'Universitario", "UDU Trento - Unione Degli Universitari di Trento", "UNITN - Rete degli studenti dell'Università di Trento", "SAT Trento - Società degli Alpinisti Tridentini Sezione di Trento"],

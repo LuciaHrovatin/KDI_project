@@ -5,8 +5,6 @@ import math
 
 pdf = pd.read_csv("organization_trentino.csv")
 
-# Extract has_fax', 'has_phone', 'has_email', 'has_website', 'has_socialNetwork'
-
 pdf_contact = pd.DataFrame({"has_fax" : pdf.has_fax, 
                             "has_email": pdf.has_email, 
                             "has_website": pdf.has_website, 
@@ -89,7 +87,6 @@ osm_lst =[]
 
 for ind, x in addr_location.iterrows():
     if math.isnan(x["osm_ID"]):
-        print("here")
         osm_lst.append(reverse_geocoding(x["has_latitude"], x["has_longitude"]))
     else: 
         osm_lst.append(x["osm_ID"])

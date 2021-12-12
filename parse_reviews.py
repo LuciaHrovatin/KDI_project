@@ -33,15 +33,15 @@ class ReviewParser() :
         return d
     
     def read_parse(self) : 
-        "Reads the review and parses it into a json"
+        """
+        Reads the review and parses it into a json file
+        """
         lst = []
         for v in os.listdir(self.dir) : 
             item = self.itemizer()
            
 
             with open(os.path.join(self.dir, v), encoding ='utf-8') as f :
-                
-               
                 read = csv.reader(f, delimiter=',') 
                
                 for row in read:
