@@ -1,6 +1,7 @@
 import pandas as pd 
 import numpy as np
-from pandas.core.indexing import convert_to_index_sliceable
+from geopy.geocoders import Nominatim
+import math 
 
 pdf = pd.read_csv("organization_trentino.csv")
 
@@ -43,7 +44,7 @@ addr = pd.DataFrame({"city" : pdf['has_municipality'],
 
 addr_location = pd.concat([addr_location, addr])
 addr_location["has_province"] = "TN"
-addr_location["country"] = "IT"
+addr_location["country"] = "it"
 addr_location["region"] = "Trentino-Alto Adige"
 
 
@@ -76,5 +77,23 @@ pdf.to_csv("organization.csv", encoding = "utf-8")
 res.to_csv("contactPoint.csv", encoding = "utf-8")
 
 addr_location.drop_duplicates(keep=False, inplace= True)
+
+geolocator = Nominatim(user_agent="Chrome/86.0.4240.75")
+
+def reverse_geocoding(lat, lon):
+  latlon = str(lat) + "," + str(lon)
+  location = geolocator.reverse(latlon)
+  return location.raw["osm_id"]
+
+osm_lst =[]
+
+for ind, x in addr_location.iterrows():
+    if math.isnan(x["osm_ID"]):
+        print("here")
+        osm_lst.append(reverse_geocoding(x["has_latitude"], x["has_longitude"]))
+    else: 
+        osm_lst.append(x["osm_ID"])
+
+addr_location["osm_ID"] = osm_lst
 
 addr_location.to_csv("location.csv", encoding = "utf-8")
