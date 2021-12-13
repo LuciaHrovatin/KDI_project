@@ -148,10 +148,10 @@ rovereto = str(round(com.loc[com["Solo denominazione in italiano"] == "Rovereto"
 
 adm_area =[]
 for ind, x in locats.iterrows():
-    if x.city == "Trento":
-        adm_area.append(trento)
-    else:
+    if x.city == "Rovereto":
         adm_area.append(rovereto)
+    else:
+        adm_area.append(trento)
 
 locats["has_administrativeArea"] = adm_area
 
