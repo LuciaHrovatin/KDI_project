@@ -4,7 +4,8 @@ from typing import Counter
 from numpy import add
 import pandas as pd
 from pandas.core.reshape.merge import merge
-
+import geopandas as gpd
+import math 
 class accessibilityAPI():
     """
      Class getting the information from Convext Aware about the accessibility of facilities
@@ -162,5 +163,36 @@ f2 = ap.cleansing_file("Variables_acc_rovereto.csv", "acc_rovereto_parsed.csv")
 
 pdf = pd.concat([f1, f2])
 pdf["has_ID"] = ["ab_" + str(x) + str(i) for i,x in enumerate(pdf["has_ID"])]
+
+
+def address_to_latlon(address):
+  """
+  From an address retrieve the relative 
+  coordinates reported in WSG84 reference system (=degree).
+  The API provider is ArcGIS.   
+  @ return: lat, lon 
+  """
+  p = gpd.tools.geocode(address, provider="arcgis") 
+  return p.geometry.y[0], p.geometry.x[0]
+
+lat_lst =[]
+lon_lst = []
+
+for ind, x in pdf.iterrows():
+    #has_municipality,has_province,has_country has_addr:street,has_addr:housenumber
+    if (len(x["has_addr:street"]) != 0) or not math.isnan(x["has_addr:street"]):
+      if type(x["has_addr:housenumber"]) is str:
+        loc = x["has_addr:street"] + "," + x["has_addr:housenumber"] + "," + x["has_municipality"] + ", Italia"
+      else: 
+        loc = x["has_addr:street"] + ", Trento, Italia"
+    else: 
+      loc = "Trento, Italia"
+    lat, lon = address_to_latlon(loc)
+    lat_lst.append(lat)
+    lon_lst.append(lon)
+
+pdf["has_latitude"] = lat_lst 
+pdf["has_longitude"] = lon_lst
+
 pdf.to_csv("accessibility.csv", sep = ",", encoding="utf-8")
         
