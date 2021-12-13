@@ -62,7 +62,7 @@ class accessibilityAPI():
 
         pdf = pd.DataFrame(pd_fin[["ID", "DENOMINAZIONE", "COMUNE", "PROVINCIA", "NAZIONE" , "SITO INTERNET", "LATITUDINE", "LONGITUDINE", 
         "ALTITUDINE", "CATEGORIA 1", "DATA RILEVAZIONE"]].copy())
-        pdf.rename(columns = {"ID" : "has_ID", 
+        pdf.rename(columns = {"ID" : "ArchitecturalBarriers_ID", 
                             "DENOMINAZIONE": "has_officialName", 
                             "COMUNE" : "has_municipality", 
                             "PROVINCIA": "has_province", 
