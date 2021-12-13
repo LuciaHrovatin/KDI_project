@@ -138,4 +138,23 @@ locats["postcode"] = [str(x) for x in locats["postcode"]]
 
 pl.to_csv("facility_final.csv")
 acc_new.to_csv("accessibility_final.csv")
+
+# administrativeArea 
+com = pd.read_excel("comuni_italiani.xlsx")
+
+trento = str(round(com.loc[com["Solo denominazione in italiano"] == "Trento", "Codice Istat del Comune \n(formato alfanumerico)"].values[0]))
+rovereto = str(round(com.loc[com["Solo denominazione in italiano"] == "Rovereto","Codice Istat del Comune \n(formato alfanumerico)"].values[0]))
+
+
+adm_area =[]
+for ind, x in locats.iterrows():
+    if x.city == "Trento":
+        adm_area.append(trento)
+    else:
+        adm_area.append(rovereto)
+
+locats["has_administrativeArea"] = adm_area
+
 locats.to_csv("location_final.csv")
+
+
