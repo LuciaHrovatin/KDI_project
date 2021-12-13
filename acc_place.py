@@ -80,7 +80,6 @@ for ind, case in pl.iterrows():
         else: 
             parking.append(False)
         guidanceS.append(False)
-        #{'levelAccessibility': 'no', 'has_accessibleToilets': None, 'accessibilityDescription': None}
         arc = case["architecturalBarriers"].lstrip("{").rstrip("}").split(",")
         if arc[1].split(":")[1].strip() == 'None': 
             toil = False 
@@ -131,4 +130,12 @@ for x in pl["name"]:
 
 pl["name"] = names
 
-pl.to_csv("facility.csv")
+acc_new = pd.concat([acc, new])
+acc_new.drop(["Unnamed: 0","Unnamed: 0.1"], inplace=True, axis = 1)
+pl["has_location"] = [str(x) for x in pl["has_location"]]
+locats.drop("Unnamed: 0", inplace=True, axis =1)
+locats["postcode"] = [str(x) for x in locats["postcode"]]
+
+pl.to_csv("facility_final.csv")
+acc_new.to_csv("accessibility_final.csv")
+locats.to_csv("location_final.csv")
