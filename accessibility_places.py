@@ -159,6 +159,8 @@ class accessibilityAPI():
 ap = accessibilityAPI()
 f1 = ap.cleansing_file("Variables_acc_trento.csv", "acc_trento_parsed.csv")
 f2 = ap.cleansing_file("Variables_acc_rovereto.csv", "acc_rovereto_parsed.csv")
+
 pdf = pd.concat([f1, f2])
+pdf["has_ID"] = ["ab_" + str(x) + str(i) for i,x in enumerate(pdf["has_ID"])]
 pdf.to_csv("accessibility.csv", sep = ",", encoding="utf-8")
         
