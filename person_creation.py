@@ -53,7 +53,7 @@ people.drop("has_name", inplace=True, axis = 1)
 for ind, role in people.iterrows():
     org.at[ind, 'has_administrator'] = role.has_identifier 
 
-org.drop(["has_administratorRole", "has_administratorPhone", "has_administratorAddress"], axis = 1, inplace=True)
+org.drop(["has_administratorRole", "has_administratorPhone", "has_administratorAddress", "Unnamed: 0"], axis = 1, inplace=True)
 
 org.to_csv("organization_final.csv", encoding = "utf-8")
 
