@@ -1,6 +1,8 @@
 import os, json, csv
 import pprint as pp
 dir = r'C:\Users\Anna Fetz\Desktop\Data_Science\third_semester\KDI_2021\PARSING\TripAdvisor'
+
+## ------ER ----- 
 # Review :
 # Content
 # GlobalEvaluation

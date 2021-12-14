@@ -1,5 +1,7 @@
 import pandas as pd 
 import random
+
+## -----ELEMENTS IN THE ER -----
 # organizes: Event 
 # participatesin: Event  
 # medicalCondition: string
