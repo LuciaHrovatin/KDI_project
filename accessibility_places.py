@@ -337,8 +337,8 @@ acc_new.to_csv("accessibility_final.csv")
 # administrativeArea 
 com = pd.read_excel("comuni_italiani.xlsx")
 
-trento = str(round(com.loc[com["Denominazione in italiano"] == "Trento", "Codice Comune formato alfanumerico"].values[0]))
-rovereto = str(round(com.loc[com["Denominazione in italiano"] == "Rovereto","CCodice Comune formato alfanumerico"].values[0]))
+trento = str(round(com.loc[com["Denominazione in italiano"] == "Trento", "Codice Istat del Comune (alfanumerico)"].values[0]))
+rovereto = str(round(com.loc[com["Denominazione in italiano"] == "Rovereto","Codice Istat del Comune (alfanumerico)"].values[0]))
 
 
 adm_area =[]
