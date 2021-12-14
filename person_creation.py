@@ -56,4 +56,4 @@ for ind, role in people.iterrows():
 org.drop(["has_administratorRole", "has_administratorPhone", "has_administratorAddress", "Unnamed: 0"], axis = 1, inplace=True)
 
 org.to_csv("organization_final.csv", encoding = "utf-8")
-
+people.to_csv("person.csv")

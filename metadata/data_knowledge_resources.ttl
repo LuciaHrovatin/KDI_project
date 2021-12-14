@@ -52,7 +52,7 @@
         rdf:type           dcat:Dataset ;
         dct:accessRights   "CC" ;
         dct:conformsTo     "W3C" ;
-        dct:description    "Listing of all Health and wellness events withi Trento's Municipality/AdministrativeArea" ;
+        dct:description    "Listing of all Health and wellness events within Trento's Municipality/AdministrativeArea" ;
         dct:identifier     "EV_STAYH" ;
         dct:issued         "2021-11-20T18:03:19Z"^^xsd:dateTime ;
         dct:language       "it-IT" , "en-GB" ;
