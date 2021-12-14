@@ -6,6 +6,8 @@ import pandas as pd
 from pandas.core.reshape.merge import merge
 import geopandas as gpd
 import math 
+import random 
+from datetime import date
 class accessibilityAPI():
     """
      Class getting the information from Convext Aware about the accessibility of facilities
@@ -161,8 +163,8 @@ ap = accessibilityAPI()
 f1 = ap.cleansing_file("Variables_acc_trento.csv", "acc_trento_parsed.csv")
 f2 = ap.cleansing_file("Variables_acc_rovereto.csv", "acc_rovereto_parsed.csv")
 
-pdf = pd.concat([f1, f2])
-pdf["has_ID"] = ["ab_" + str(x) + str(i) for i,x in enumerate(pdf["has_ID"])]
+acc = pd.concat([f1, f2])
+acc["has_ID"] = ["ab_" + str(x) + str(i) for i,x in enumerate(acc["has_ID"])]
 
 
 def address_to_latlon(address):
@@ -178,7 +180,7 @@ def address_to_latlon(address):
 lat_lst =[]
 lon_lst = []
 
-for ind, x in pdf.iterrows():
+for ind, x in acc.iterrows():
     #has_municipality,has_province,has_country has_addr:street,has_addr:housenumber
     if (len(x["has_addr:street"]) != 0) or not math.isnan(x["has_addr:street"]):
       if type(x["has_addr:housenumber"]) is str:
@@ -191,8 +193,163 @@ for ind, x in pdf.iterrows():
     lat_lst.append(lat)
     lon_lst.append(lon)
 
-pdf["has_latitude"] = lat_lst 
-pdf["has_longitude"] = lon_lst
+acc["has_latitude"] = lat_lst 
+acc["has_longitude"] = lon_lst
 
-pdf.to_csv("accessibility.csv", sep = ",", encoding="utf-8")
+
+pl = pd.read_csv("facility_data.csv")
+
+
+pdf = pd.merge(acc, pl, how = "inner", on = ["has_latitude", "has_longitude"])
+
+arch_bar = []
+
+id = []
+name = []
+city = []
+pr = []
+country = []
+web = []
+lat = []
+lon = []
+el = []
+facType = []
+upDate = []
+street = []
+house = []
+elevator = []
+parking = []
+guidanceS = []
+toilet = []
+steps = []
+ramp = []
+stairSlpe = []
+levAccess = []
+
+locats = pd.read_csv("location.csv")
+locats["osm_ID"] = [str(round(x)) for x in locats["osm_ID"]]
+
+
+for ind, case in pl.iterrows():
+    if str(round(case.has_location)) in str(round(pdf.has_location)): 
+        arch_bar.append(pdf.loc[pdf["has_location"] == case["has_location"]]["has_ID"])
+    else:
+        index = "ab_" + str(random.randint(1000, 100000))
+        id.append(index)
+        arch_bar.append(index)
+        n = case["name"].split(":")[1].split(",")[0].strip()
+        if n == "None": 
+            n = None 
+        name.append(n)
+        
+        pr.append("TN")
+        country.append("it")
+        web.append(" ")
+        lat.append(case["has_latitude"])
+        lon.append(case["has_longitude"])
+        el.append(0.0)
+        facType.append(case["facility_type"])
+        today = date.today()
+        d1 = today.strftime("%Y-%m-%d")
+        upDate.append(d1)
+
+        condition = locats.loc[locats.osm_ID == str(round(case["has_location"])), :] 
+        try: 
+            street.append(condition.street[0])
+            house.append(condition.housenumber[0])
+            
+        except:
+            street.append(" ") 
+            house.append(" ")
+        try: 
+            city.append(condition.city[0])
+        except: 
+            city.append("Trento")
+
+        elevator.append(False)
+        if case["facility_type"] == "parking": 
+            parking.append(True)
+        else: 
+            parking.append(False)
+        guidanceS.append(False)
+        arc = case["architecturalBarriers"].lstrip("{").rstrip("}").split(",")
+        if arc[1].split(":")[1].strip() == 'None': 
+            toil = False 
+        else: 
+            toil = True 
+        toilet.append(toil)
+        steps.append(False)
+        ramp.append(False)
+        if arc[2].split(":")[1].strip() == "None": 
+            ins = None 
+        else: 
+            ins = arc[2].split(":")[1].strip()
+        stairSlpe.append(ins)
+        levAccess.append(arc[0].split(":")[1].strip())
+
+new = pd.DataFrame({
+    "has_ID" : id, 
+    "has_officialName": name,
+    "has_municipality": city,
+    "has_province": pr,
+    "has_country": country,
+    "has_website": web,
+    "has_latitude": lat,
+    "has_longitude": lon,
+    "has_elevation": el,
+    "has_facilityType": facType,
+    "has_uploadDate": upDate,
+    "has_addr:street": street,
+    "has_addr:housenumber": house,
+    "has_accessibleElevator": elevator,
+    "has_reservedParkinglots": parking,
+    "has_guidanceSystem": guidanceS,
+    "has_accessibleToilette": toilet,
+    "has_steps": steps,
+    "has_ramp": ramp,
+    "has_staircaseSlope": stairSlpe,
+    "has_levelOfAccessibility": levAccess 
+})
+
+pl["architecturalBarriers"] = arch_bar 
+
+names = []
+for x in pl["name"]: 
+    n = x.split(":")[1].split(",")[0].strip()
+    if n == "None": 
+        n = None 
+    names.append(n)
+
+pl["name"] = names
+
+acc_new = pd.concat([acc, new])
+acc_new.drop(["Unnamed: 0","Unnamed: 0.1"], inplace=True, axis = 1)
+pl["has_location"] = [str(x) for x in pl["has_location"]]
+locats.drop("Unnamed: 0", inplace=True, axis =1)
+locats["postcode"] = [str(x) for x in locats["postcode"]]
+
+pl.to_csv("facility_final.csv")
+acc_new.to_csv("accessibility_final.csv")
+
+# administrativeArea 
+com = pd.read_excel("comuni_italiani.xlsx")
+
+trento = str(round(com.loc[com["Solo denominazione in italiano"] == "Trento", "Codice Istat del Comune \n(formato alfanumerico)"].values[0]))
+rovereto = str(round(com.loc[com["Solo denominazione in italiano"] == "Rovereto","Codice Istat del Comune \n(formato alfanumerico)"].values[0]))
+
+
+adm_area =[]
+for ind, x in locats.iterrows():
+    if x.city == "Rovereto":
+        adm_area.append(rovereto)
+    else:
+        adm_area.append(trento)
+
+locats["has_administrativeArea"] = adm_area
+
+locats.to_csv("location_final.csv")
+
+
+
+
         
