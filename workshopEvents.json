@@ -36,7 +36,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W__corso_andquotil_colloquio_di_selezioneandquot",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
     "has_title": " corso space clearing trasforma la tua vita iniziando dalla casa a trento il 31 ottobre 2021",
@@ -75,7 +76,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W__wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde",
     "has_title": " wellness corso massaggio hot stone con pietre laviche calde",
@@ -112,7 +114,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W__wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W__wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
     "has_title": " wellness corso space clearing trasforma la tua vita iniziando dalla casa a trento il 31 ottobre 2021",
@@ -151,7 +154,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W__wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W__workshop_andquotin_nome_di_chiandquot",
     "has_title": " workshop andquotin nome di chiandquot",
@@ -188,7 +192,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W__workshop_andquotin_nome_di_chiandquot",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
     "has_title": " workshop gratuito fotografia notturna andquotthose of the unlightandquotii",
@@ -225,7 +230,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Animart._Le_collezioni_del_museo_in_stop-motion",
     "has_title": "Animart. Le collezioni del museo in stop-motion",
@@ -257,9 +263,10 @@
     "has_superEvent": "",
     "has_finalProduct": "",
     "has_materialRequirement": false,
-    "has_tutor": "PR_99185",
+    "has_tutor": "PR_60704",
     "has_ticket": "TI_W_Animart._Le_collezioni_del_museo_in_stop-motion",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Corso_campane_tibetane_a_Trento",
     "has_title": "Corso campane tibetane a Trento",
@@ -291,7 +298,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Corso_campane_tibetane_a_Trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Costruiamo_insieme_una_mangiatoia_per_uccellini!",
     "has_title": "Costruiamo insieme una mangiatoia per uccellini!",
@@ -325,7 +333,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Costruiamo_insieme_una_mangiatoia_per_uccellini!",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Educa_Immagine_2021",
     "has_title": "Educa Immagine 2021",
@@ -359,7 +368,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Educa_Immagine_2021",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Estate_ai_blocchi_di_partenza!",
     "has_title": "Estate ai blocchi di partenza!",
@@ -393,7 +403,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Estate_ai_blocchi_di_partenza!",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Identit\u00e0_sonore",
     "has_title": "Identit\u00e0 sonore",
@@ -425,9 +436,10 @@
     "has_superEvent": "",
     "has_finalProduct": "CW_Identit\u00e0_sonore",
     "has_materialRequirement": false,
-    "has_tutor": "PR_38734",
+    "has_tutor": "PR_83648",
     "has_ticket": "TI_W_Identit\u00e0_sonore",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Il_canto_degli_insetti",
     "has_title": "Il canto degli insetti",
@@ -461,7 +473,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Il_canto_degli_insetti",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Impara_a_giocare_al_gioco_di_carte_collezionabili_Magic_The_Gathering",
     "has_title": "Impara a giocare al gioco di carte collezionabili Magic The Gathering",
@@ -495,7 +508,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Impara_a_giocare_al_gioco_di_carte_collezionabili_Magic_The_Gathering",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_La_bussola_della_finanza",
     "has_title": "La bussola della finanza",
@@ -529,7 +543,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_La_bussola_della_finanza",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_La_citt\u00e0_scoperta_",
     "has_title": "La citt\u00e0 scoperta ",
@@ -563,7 +578,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_La_citt\u00e0_scoperta_",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_La_citt\u00e0_scoperta_2021",
     "has_title": "La citt\u00e0 scoperta 2021",
@@ -597,7 +613,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_La_citt\u00e0_scoperta_2021",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Leggere_il_clima_negli_anelli_degli_alberi",
     "has_title": "Leggere il clima negli anelli degli alberi",
@@ -631,7 +648,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Leggere_il_clima_negli_anelli_degli_alberi",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_ManifestAzioni_-_Fa_la_cosa_giusta",
     "has_title": "ManifestAzioni - Fa la cosa giusta",
@@ -665,7 +683,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_ManifestAzioni_-_Fa_la_cosa_giusta",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
     "has_title": "Morbidezze. Creare con la tecnica del feltro ad ago",
@@ -699,7 +718,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Nuvolette_2_Invasione_di_dinosauri_disegnati",
     "has_title": "Nuvolette 2 Invasione di dinosauri disegnati",
@@ -733,7 +753,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Nuvolette_2_Invasione_di_dinosauri_disegnati",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
     "has_title": "Prevenire le epidemie grazie ai dati. L\u2019esempio di Survethi - Il Festival",
@@ -767,7 +788,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Robotic_Lab",
     "has_title": "Robotic Lab",
@@ -801,7 +823,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Robotic_Lab",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Rodari_incontra\u2026_Fortunato_Depero_e_Geoff_McFetridge",
     "has_title": "Rodari incontra\u2026 Fortunato Depero e Geoff McFetridge",
@@ -835,7 +858,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Rodari_incontra\u2026_Fortunato_Depero_e_Geoff_McFetridge",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Rural_Commons_Festival_-_Da_Ovest_a_Est",
     "has_title": "Rural Commons Festival - Da Ovest a Est",
@@ -869,7 +893,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Rural_Commons_Festival_-_Da_Ovest_a_Est",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Finale_over_25",
     "has_title": "Teatro dei sogni 2021 - Finale over 25",
@@ -903,7 +928,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Teatro_dei_sogni_2021_-_Finale_over_25",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Finale_under_25",
     "has_title": "Teatro dei sogni 2021 - Finale under 25",
@@ -937,7 +963,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Teatro_dei_sogni_2021_-_Finale_under_25",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Semifinale_under_25",
     "has_title": "Teatro dei sogni 2021 - Semifinale under 25",
@@ -971,7 +998,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Teatro_dei_sogni_2021_-_Semifinale_under_25",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Un_altro_giro_di_Thomas_Vinterberg",
     "has_title": "Un altro giro  di Thomas Vinterberg",
@@ -1003,7 +1031,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Un_altro_giro__di_Thomas_Vinterberg",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Un_sabato_con_il_Sole_sul_Monte_Zugna",
     "has_title": "Un sabato con il Sole sul Monte Zugna",
@@ -1037,7 +1066,8 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Un_sabato_con_il_Sole_sul_Monte_Zugna",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_W_Venerd\u00ec_a_lume_di_stella",
     "has_title": "Venerd\u00ec a lume di stella",
@@ -1071,5 +1101,6 @@
     "has_materialRequirement": false,
     "has_tutor": "",
     "has_ticket": "TI_W_Venerd\u00ec_a_lume_di_stella",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }

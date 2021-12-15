@@ -38,7 +38,6 @@
     "has_happyHour": true,
     "has_djSet": true,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_tags": [
         "#afrofunky",
         "#carrozzone"
@@ -46,7 +45,8 @@
     "has_MusicWork": "CW_EV_afro_funky_halloween_S",
     "has_ticket": "TI_ afro funky halloween_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_ art pandemike poetry slam_S",
     "has_title": " art pandemike poetry slam",
@@ -87,11 +87,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_ art pandemike poetry slam_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_ live unplugged_S",
     "has_title": " live unplugged",
@@ -129,11 +129,11 @@
     "has_happyHour": false,
     "has_djSet": true,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "CW_EV_live_unplugged_S",
     "has_ticket": "TI_ live unplugged_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_ mondo donna il ritorno di una fiera imperdibile_S",
     "has_title": " mondo donna il ritorno di una fiera imperdibile",
@@ -170,11 +170,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_ mondo donna il ritorno di una fiera imperdibile_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_ mondo donna ottobre 2021_S",
     "has_title": " mondo donna ottobre 2021",
@@ -214,11 +214,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_ mondo donna ottobre 2021_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_ pandemike poetry slam_S",
     "has_title": " pandemike poetry slam",
@@ -259,11 +259,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_ pandemike poetry slam_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_ pfaff a mondo donna trento con sara poiese_S",
     "has_title": " pfaff a mondo donna trento con sara poiese",
@@ -309,7 +309,7 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": true,
+    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_ pfaff a mondo donna trento con sara poiese_S",
     "has_VirtualLocation": "",
@@ -351,11 +351,11 @@
     "has_happyHour": true,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_ sunset vibes_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_ wellness i mercatini del trentino andamp spa_S",
     "has_title": " wellness i mercatini del trentino andamp spa",
@@ -397,11 +397,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_ wellness i mercatini del trentino andamp spa_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_...c'era una volta Rovereto_S",
     "has_title": "...c'era una volta Rovereto",
@@ -435,11 +435,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_...c'era una volta Rovereto_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_carnival-party-esn-padova_S",
     "has_title": "carnival-party-esn-padova",
@@ -478,11 +478,11 @@
     "has_happyHour": true,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_carnival-party-esn-padova_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_citytour-speed-friending-w-esn_S",
     "has_title": "citytour-speed-friending-w-esn",
@@ -517,11 +517,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": true,
     "has_MusicWork": "",
     "has_ticket": "TI_citytour-speed-friending-w-esn_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": true
 }{
     "has_eventID": "EV_cooking-time-w-esn_S",
     "has_title": "cooking-time-w-esn",
@@ -556,11 +556,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": true,
     "has_MusicWork": "",
     "has_ticket": "TI_cooking-time-w-esn_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": true
 }{
     "has_eventID": "EV_Distretto della cultura \u2013 2 giorni di arte musica e giocoleria_S",
     "has_title": "Distretto della cultura \u2013 2 giorni di arte musica e giocoleria",
@@ -594,11 +594,11 @@
     "has_happyHour": false,
     "has_djSet": true,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Distretto della cultura \u2013 2 giorni di arte musica e giocoleria_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_esn-farewell-party_S",
     "has_title": "esn-farewell-party",
@@ -633,11 +633,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": true,
     "has_MusicWork": "",
     "has_ticket": "TI_esn-farewell-party_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": true
 }{
     "has_eventID": "EV_game-night-w-esn-bologna-esn-trento_S",
     "has_title": "game-night-w-esn-bologna-esn-trento",
@@ -672,11 +672,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_game-night-w-esn-bologna-esn-trento_S",
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_goodbye-summer-days_S",
     "has_title": "goodbye-summer-days",
@@ -711,11 +711,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_goodbye-summer-days_S",
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_halloween-party-w-esn-trento_S",
     "has_title": "halloween-party-w-esn-trento",
@@ -750,11 +750,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_halloween-party-w-esn-trento_S",
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Il sogno. Shakespeare al Parco alla Pozza di Noriglio_S",
     "has_title": "Il sogno. Shakespeare al Parco alla Pozza di Noriglio",
@@ -788,11 +788,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Il sogno. Shakespeare al Parco alla Pozza di Noriglio_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Il sogno. Shakespeare al Parco Fedrigotti_S",
     "has_title": "Il sogno. Shakespeare al Parco Fedrigotti",
@@ -826,11 +826,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Il sogno. Shakespeare al Parco Fedrigotti_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Mercatino d'altri tempi_S",
     "has_title": "Mercatino d'altri tempi",
@@ -864,11 +864,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Mercatino d'altri tempi_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Mercatino dei Gaudenti_S",
     "has_title": "Mercatino dei Gaudenti",
@@ -903,11 +903,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": true,
     "has_MusicWork": "",
     "has_ticket": "TI_Mercatino dei Gaudenti_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": true
 }{
     "has_eventID": "EV_Mercatino delle pulci a Piedicastello 2021_S",
     "has_title": "Mercatino delle pulci a Piedicastello 2021",
@@ -942,11 +942,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": true,
     "has_MusicWork": "",
     "has_ticket": "TI_Mercatino delle pulci a Piedicastello 2021_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": true
 }{
     "has_eventID": "EV_Mercato prodotti agricoli e biologici_S",
     "has_title": "Mercato prodotti agricoli e biologici",
@@ -980,11 +980,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Mercato prodotti agricoli e biologici_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato_S",
     "has_title": "Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato",
@@ -1018,11 +1018,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Moltiplichiamo Azioni. Sfilata di moda etica.  - Il Festival delle idee per uno sviluppo sostenibile_S",
     "has_title": "Moltiplichiamo Azioni. Sfilata di moda etica.  - Il Festival delle idee per uno sviluppo sostenibile",
@@ -1056,11 +1056,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Moltiplichiamo Azioni. Sfilata di moda etica.  - Il Festival delle idee per uno sviluppo sostenibile_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Moltiplichiamo Parole - Il Festival delle idee per uno sviluppo sostenibile_S",
     "has_title": "Moltiplichiamo Parole - Il Festival delle idee per uno sviluppo sostenibile",
@@ -1094,11 +1094,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Moltiplichiamo Parole - Il Festival delle idee per uno sviluppo sostenibile_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Na Festa per tuti_S",
     "has_title": "Na Festa per tuti",
@@ -1132,11 +1132,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Na Festa per tuti_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Noriglio in Festa_S",
     "has_title": "Noriglio in Festa",
@@ -1170,11 +1170,11 @@
     "has_happyHour": false,
     "has_djSet": true,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Noriglio in Festa_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_ottobre-2020-al-#kairos-giovani_S",
     "has_title": "ottobre-2020-al-#kairos-giovani",
@@ -1250,11 +1250,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_poolparty-verona-esn-trento_S",
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Processione annuale Madonna del Monte Carmelo_S",
     "has_title": "Processione annuale Madonna del Monte Carmelo",
@@ -1286,11 +1286,11 @@
     "has_happyHour": false,
     "has_djSet": true,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Processione annuale Madonna del Monte Carmelo_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_recruiting-esn-trento-20212022_S",
     "has_title": "recruiting-esn-trento-20212022",
@@ -1325,11 +1325,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_recruiting-esn-trento-20212022_S",
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_recruitment-day-entra-esn-trento_S",
     "has_title": "recruitment-day-entra-esn-trento",
@@ -1364,11 +1364,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_recruitment-day-entra-esn-trento_S",
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Romance del Diablo - SetteNovecento_S",
     "has_title": "Romance del Diablo - SetteNovecento",
@@ -1402,11 +1402,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Romance del Diablo - SetteNovecento_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Rovereto INtrecci di Farfalle_S",
     "has_title": "Rovereto INtrecci di Farfalle",
@@ -1441,11 +1441,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Rovereto INtrecci di Farfalle_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_Rovereto Vintage Festival_S",
     "has_title": "Rovereto Vintage Festival",
@@ -1479,11 +1479,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_Rovereto Vintage Festival_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_speed-friending-w-esn_S",
     "has_title": "speed-friending-w-esn",
@@ -1518,11 +1518,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_speed-friending-w-esn_S",
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_UTILE IMPRESA - Rovereto e la sua Cassa di Risparmio 180 anni dopo_S",
     "has_title": "UTILE IMPRESA - Rovereto e la sua Cassa di Risparmio 180 anni dopo",
@@ -1556,11 +1556,11 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_UTILE IMPRESA - Rovereto e la sua Cassa di Risparmio 180 anni dopo_S",
     "has_VirtualLocation": "",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }{
     "has_eventID": "EV_welcome-week-0_S",
     "has_title": "welcome-week-0",
@@ -1597,9 +1597,9 @@
     "has_happyHour": false,
     "has_djSet": false,
     "has_season": "",
-    "has_freeEntrance": false,
     "has_MusicWork": "",
     "has_ticket": "TI_welcome-week-0_S",
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-    "has_Archive": ""
+    "has_Archive": "",
+    "has_freeEntrance": false
 }
