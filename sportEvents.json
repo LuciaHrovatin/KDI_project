@@ -1,4 +1,4 @@
-{
+[{
     "has_eventID": "EV_P__adventures_open_day_arrampicata_corso_base",
     "has_title": " adventures open day arrampicata corso base",
     "has_mode": "offline",
@@ -45,7 +45,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P__adventures_open_day_arrampicata_corso_intermedio",
     "has_title": " adventures open day arrampicata corso intermedio",
     "has_mode": "offline",
@@ -92,7 +92,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P__breathrough_respira_al_parco_delle_albere",
     "has_title": " breathrough respira al parco delle albere",
     "has_mode": "offline",
@@ -141,7 +141,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI",
     "has_title": " Lagaris Volley VS Nazionale Volley Sorde FSSI",
     "has_mode": "offline",
@@ -189,7 +189,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_18\u00b0_Tappa_Giro_d'Italia",
     "has_title": "18\u00b0 Tappa Giro d'Italia",
     "has_mode": "offline",
@@ -233,7 +233,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_21\u00b0_edizione_Calciosplash_Lizzana",
     "has_title": "21\u00b0 edizione Calciosplash Lizzana",
     "has_mode": "offline",
@@ -278,7 +278,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_30^_Edizione_Torneo_Internazionale_\u201cCitt\u00e0_della_Pace\u201d",
     "has_title": "30^ Edizione Torneo Internazionale \u201cCitt\u00e0 della Pace\u201d",
     "has_mode": "offline",
@@ -323,7 +323,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_73\u00b0_Giro_podistico_internazionale",
     "has_title": "73\u00b0 Giro podistico internazionale",
     "has_mode": "offline",
@@ -368,7 +368,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Benessere_e_Natura_-_Giardini_Perlasca",
     "has_title": "Benessere e Natura - Giardini Perlasca",
     "has_mode": "offline",
@@ -412,7 +412,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Benessere_e_Natura_-_Parco_Colorio",
     "has_title": "Benessere e Natura - Parco Colorio",
     "has_mode": "offline",
@@ -456,7 +456,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Benessere_e_Natura_-_Parco_Dionisi",
     "has_title": "Benessere e Natura - Parco Dionisi",
     "has_mode": "offline",
@@ -500,7 +500,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Benessere_e_Natura_-_Parco_Istria",
     "has_title": "Benessere e Natura - Parco Istria",
     "has_mode": "offline",
@@ -544,7 +544,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Campionati_italiani_assoluti_di_atletica_leggera_7^_edizione",
     "has_title": "Campionati italiani assoluti di atletica leggera 7^ edizione",
     "has_mode": "offline",
@@ -588,7 +588,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Campionato_Italiano_di_Societ\u00e0_2021",
     "has_title": "Campionato Italiano di Societ\u00e0 2021",
     "has_mode": "offline",
@@ -632,7 +632,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Carosini_Collection_-_Iconic_Bicycle_Design",
     "has_title": "Carosini Collection - Iconic Bicycle Design",
     "has_mode": "offline",
@@ -676,7 +676,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Carrousel_\u2013_Le_storie_sospese",
     "has_title": "Carrousel \u2013 Le storie sospese",
     "has_mode": "offline",
@@ -720,7 +720,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Conosci_la_Bici,_ama_la_Bici",
     "has_title": "Conosci la Bici, ama la Bici",
     "has_mode": "offline",
@@ -765,7 +765,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": true
-}{
+},{
     "has_eventID": "EV_P_L'equilibrio_della_terra",
     "has_title": "L'equilibrio della terra",
     "has_mode": null,
@@ -810,7 +810,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": true
-}{
+},{
     "has_eventID": "EV_P_Palio_Citt\u00e0_della_Quercia",
     "has_title": "Palio Citt\u00e0 della Quercia",
     "has_mode": "offline",
@@ -857,7 +857,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_rafting-val-di-sole",
     "has_title": "rafting-val-di-sole",
     "has_mode": "offline",
@@ -902,7 +902,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_P_Vallagarina_Experience_Festival",
     "has_title": "Vallagarina Experience Festival",
     "has_mode": "offline",
@@ -946,4 +946,4 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}
+}]

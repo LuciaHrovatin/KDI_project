@@ -1,4 +1,4 @@
-{
+[{
     "has_eventID": "EV_T__adventures_i_bordolesi_del_trentino",
     "has_title": " adventures i bordolesi del trentino",
     "has_mode": "offline",
@@ -45,7 +45,7 @@
     "has_ticket": "TI_T_adventures_i_bordolesi_del_trentino",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T__adventures_open_day_arrampicata_corso_base",
     "has_title": " adventures open day arrampicata corso base",
     "has_mode": "offline",
@@ -94,7 +94,7 @@
     "has_ticket": "TI_T_adventures_open_day_arrampicata_corso_base",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T__adventures_open_day_arrampicata_corso_intermedio",
     "has_title": " adventures open day arrampicata corso intermedio",
     "has_mode": "offline",
@@ -143,7 +143,7 @@
     "has_ticket": "TI_T_adventures_open_day_arrampicata_corso_intermedio",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T__adventures_sunset_vibes",
     "has_title": " adventures sunset vibes",
     "has_mode": "offline",
@@ -192,7 +192,7 @@
     "has_ticket": "TI_T_adventures_sunset_vibes",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T__adventures_trekking_alla_scoperta_del_monte_celva",
     "has_title": " adventures trekking alla scoperta del monte celva",
     "has_mode": "offline",
@@ -238,7 +238,7 @@
     "has_ticket": "TI_T_adventures_trekking_alla_scoperta_del_monte_celva",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T__adventures_treno_storico_elettrico_per_i_mercatini_di_natale_a_trento",
     "has_title": " adventures treno storico elettrico per i mercatini di natale a trento",
     "has_mode": "offline",
@@ -291,7 +291,7 @@
     "has_ticket": "TI_T_adventures_treno_storico_elettrico_per_i_mercatini_di_natale_a_trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T__trekking_alla_scoperta_del_monte_celva",
     "has_title": " trekking alla scoperta del monte celva",
     "has_mode": "offline",
@@ -337,7 +337,7 @@
     "has_ticket": "TI_T_trekking_alla_scoperta_del_monte_celva",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Alla_scoperta_della_biodiversit\u00e0_dei_prati_falciati",
     "has_title": "Alla scoperta della biodiversit\u00e0 dei prati falciati",
     "has_mode": "online",
@@ -382,7 +382,7 @@
     "has_ticket": "TI_T_Alla_scoperta_della_biodiversit\u00e0_dei_prati_falciati",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Borgo_Sacco_e_la_Manifattura_Dai_sigari_alla_sostenibilit\u00e0",
     "has_title": "Borgo Sacco e la Manifattura Dai sigari alla sostenibilit\u00e0",
     "has_mode": "offline",
@@ -426,7 +426,7 @@
     "has_ticket": "TI_T_Borgo_Sacco_e_la_Manifattura_Dai_sigari_alla_sostenibilit\u00e0",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_discovery-trentino-w-esn",
     "has_title": "discovery-trentino-w-esn",
     "has_mode": "offline",
@@ -471,7 +471,7 @@
     "has_ticket": "TI_T_discovery-trentino-w-esn",
     "has_Archive": "",
     "has_freeEntrance": true
-}{
+},{
     "has_eventID": "EV_T_esnow-2019-20th-edition",
     "has_title": "esnow-2019-20th-edition",
     "has_mode": "offline",
@@ -516,7 +516,7 @@
     "has_ticket": "TI_T_esnow-2019-20th-edition",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_esperienze--rovereto-e-vallagarina",
     "has_title": "esperienze--rovereto-e-vallagarina",
     "has_mode": "offline",
@@ -560,7 +560,7 @@
     "has_ticket": "TI_T_esperienze--rovereto-e-vallagarina",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Il_chilometro_delle_meraviglie_-__Sette_secoli_di_storia_dal_quartiere_di_Santa_Maria_al_Mart",
     "has_title": "Il chilometro delle meraviglie -  Sette secoli di storia dal quartiere di Santa Maria al Mart",
     "has_mode": "offline",
@@ -604,7 +604,7 @@
     "has_ticket": "TI_T_Il_chilometro_delle_meraviglie_-_Sette_secoli_di_storia_dal_quartiere_di_Santa_Maria_al_Mart",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_ManifestAzioni_-_Trekking_solidale_",
     "has_title": "ManifestAzioni - Trekking solidale ",
     "has_mode": "offline",
@@ -648,7 +648,7 @@
     "has_ticket": "TI_T_ManifestAzioni_-_Trekking_solidale_",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_mushroom-picking-w-esn",
     "has_title": "mushroom-picking-w-esn",
     "has_mode": "offline",
@@ -693,7 +693,7 @@
     "has_ticket": "TI_T_mushroom-picking-w-esn",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Naturali_amicizie_sul_Monte_Baldo._Tra_geologia_e_botanica",
     "has_title": "Naturali amicizie sul Monte Baldo. Tra geologia e botanica",
     "has_mode": "online",
@@ -738,7 +738,7 @@
     "has_ticket": "TI_T_Naturali_amicizie_sul_Monte_Baldo._Tra_geologia_e_botanica",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Passeggiata_naturalistica_al_Fungo_di_Albaredo",
     "has_title": "Passeggiata naturalistica al Fungo di Albaredo",
     "has_mode": "offline",
@@ -782,7 +782,7 @@
     "has_ticket": "TI_T_Passeggiata_naturalistica_al_Fungo_di_Albaredo",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Passeggiata_sul_Monte_Zugna_a_caccia_di_insetti",
     "has_title": "Passeggiata sul Monte Zugna a caccia di insetti",
     "has_mode": "offline",
@@ -826,7 +826,7 @@
     "has_ticket": "TI_T_Passeggiata_sul_Monte_Zugna_a_caccia_di_insetti",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Pedalando_verso_l'isola_dei_tesori",
     "has_title": "Pedalando verso l'isola dei tesori",
     "has_mode": "offline",
@@ -870,7 +870,7 @@
     "has_ticket": "TI_T_Pedalando_verso_l'isola_dei_tesori",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Rovereto,_citt\u00e0_della_seta_-_Rogge_e_filatoi_raccontano_lo_sviluppo_economico_della_citt\u00e0_tra_Tardo_Medioevo_e_Rinascimento",
     "has_title": "Rovereto, citt\u00e0 della seta - Rogge e filatoi raccontano lo sviluppo economico della citt\u00e0 tra Tardo Medioevo e Rinascimento",
     "has_mode": "offline",
@@ -914,7 +914,7 @@
     "has_ticket": "TI_T_Rovereto,_citt\u00e0_della_seta_-_Rogge_e_filatoi_raccontano_lo_sviluppo_economico_della_citt\u00e0_tra_Tardo_Medioevo_e_Rinascimento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino_-_Dalla_Rovereto_nel_secolo_dei_lumi_alle_architetture_del_Mart",
     "has_title": "Rovereto, la citt\u00e0 pi\u00f9 all\u2019avanguardia del Trentino - Dalla Rovereto nel secolo dei lumi alle architetture del Mart",
     "has_mode": "offline",
@@ -958,7 +958,7 @@
     "has_ticket": "TI_T_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino_-_Dalla_Rovereto_nel_secolo_dei_lumi_alle_architetture_del_Mart",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Trekking_botanico_lungo_il_torrente_Leno_fino_al_Ponte_delle_Zigherane",
     "has_title": "Trekking botanico lungo il torrente Leno fino al Ponte delle Zigherane",
     "has_mode": "offline",
@@ -1002,7 +1002,7 @@
     "has_ticket": "TI_T_Trekking_botanico_lungo_il_torrente_Leno_fino_al_Ponte_delle_Zigherane",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Trekking_Urbani_a_Rovereto",
     "has_title": "Trekking Urbani a Rovereto",
     "has_mode": "offline",
@@ -1046,7 +1046,7 @@
     "has_ticket": "TI_T_Trekking_Urbani_a_Rovereto",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_trekking-urbani",
     "has_title": "trekking-urbani",
     "has_mode": "offline",
@@ -1090,7 +1090,7 @@
     "has_ticket": "TI_T_trekking-urbani",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_trip-bolzano-esn-trento",
     "has_title": "trip-bolzano-esn-trento",
     "has_mode": "offline",
@@ -1137,7 +1137,7 @@
     "has_ticket": "TI_T_trip-bolzano-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_trip-verona-w-esn",
     "has_title": "trip-verona-w-esn",
     "has_mode": "offline",
@@ -1184,7 +1184,7 @@
     "has_ticket": "TI_T_trip-verona-w-esn",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_Viaggio_nella_Salisburgo_del_Trentino",
     "has_title": "Viaggio nella Salisburgo del Trentino",
     "has_mode": "offline",
@@ -1228,7 +1228,7 @@
     "has_ticket": "TI_T_Viaggio_nella_Salisburgo_del_Trentino",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_virtual-citytour-w-esn",
     "has_title": "virtual-citytour-w-esn",
     "has_mode": "offline",
@@ -1275,7 +1275,7 @@
     "has_ticket": "TI_T_virtual-citytour-w-esn",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_walk-doss-trento",
     "has_title": "walk-doss-trento",
     "has_mode": "offline",
@@ -1322,7 +1322,7 @@
     "has_ticket": "TI_T_walk-doss-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_walk-doss",
     "has_title": "walk-doss",
     "has_mode": "offline",
@@ -1369,7 +1369,7 @@
     "has_ticket": "TI_T_walk-doss",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_T_winery-tour-w-esn",
     "has_title": "winery-tour-w-esn",
     "has_mode": "offline",
@@ -1416,4 +1416,4 @@
     "has_ticket": "TI_T_winery-tour-w-esn",
     "has_Archive": "",
     "has_freeEntrance": false
-}
+}]

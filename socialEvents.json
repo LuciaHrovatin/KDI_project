@@ -1,4 +1,4 @@
-{
+[{
     "has_eventID": "EV_S__afro_funky_halloween",
     "has_title": " afro funky halloween",
     "has_mode": "offline",
@@ -47,7 +47,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S__art_pandemike_poetry_slam",
     "has_title": " art pandemike poetry slam",
     "has_mode": "offline",
@@ -92,7 +92,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S__live_unplugged",
     "has_title": " live unplugged",
     "has_mode": "offline",
@@ -134,7 +134,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibile",
     "has_title": " mondo donna il ritorno di una fiera imperdibile",
     "has_mode": "offline",
@@ -175,7 +175,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S__mondo_donna_ottobre_2021",
     "has_title": " mondo donna ottobre 2021",
     "has_mode": "offline",
@@ -219,7 +219,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S__pandemike_poetry_slam",
     "has_title": " pandemike poetry slam",
     "has_mode": "offline",
@@ -264,7 +264,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S__pfaff_a_mondo_donna_trento_con_sara_poiese",
     "has_title": " pfaff a mondo donna trento con sara poiese",
     "has_mode": "offline",
@@ -314,7 +314,7 @@
     "has_ticket": "TI_ pfaff a mondo donna trento con sara poiese_S",
     "has_VirtualLocation": "",
     "has_Archive": ""
-}{
+},{
     "has_eventID": "EV_S__sunset_vibes",
     "has_title": " sunset vibes",
     "has_mode": "offline",
@@ -356,7 +356,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S__wellness_i_mercatini_del_trentino_andamp_spa",
     "has_title": " wellness i mercatini del trentino andamp spa",
     "has_mode": "offline",
@@ -402,7 +402,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_...c'era_una_volta_Rovereto",
     "has_title": "...c'era una volta Rovereto",
     "has_mode": "offline",
@@ -440,7 +440,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_carnival-party-esn-padova",
     "has_title": "carnival-party-esn-padova",
     "has_mode": "offline",
@@ -483,7 +483,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_citytour-speed-friending-w-esn",
     "has_title": "citytour-speed-friending-w-esn",
     "has_mode": "offline",
@@ -522,7 +522,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": true
-}{
+},{
     "has_eventID": "EV_S_cooking-time-w-esn",
     "has_title": "cooking-time-w-esn",
     "has_mode": "offline",
@@ -561,7 +561,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": true
-}{
+},{
     "has_eventID": "EV_S_Distretto_della_cultura_\u2013_2_giorni_di_arte_musica_e_giocoleria",
     "has_title": "Distretto della cultura \u2013 2 giorni di arte musica e giocoleria",
     "has_mode": "offline",
@@ -599,7 +599,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_esn-farewell-party",
     "has_title": "esn-farewell-party",
     "has_mode": "offline",
@@ -638,7 +638,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": true
-}{
+},{
     "has_eventID": "EV_S_game-night-w-esn-bologna-esn-trento",
     "has_title": "game-night-w-esn-bologna-esn-trento",
     "has_mode": "online",
@@ -677,7 +677,7 @@
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_goodbye-summer-days",
     "has_title": "goodbye-summer-days",
     "has_mode": "offline",
@@ -716,7 +716,7 @@
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_halloween-party-w-esn-trento",
     "has_title": "halloween-party-w-esn-trento",
     "has_mode": "offline",
@@ -755,7 +755,7 @@
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Il_sogno._Shakespeare_al_Parco_alla_Pozza_di_Noriglio",
     "has_title": "Il sogno. Shakespeare al Parco alla Pozza di Noriglio",
     "has_mode": "offline",
@@ -793,7 +793,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Il_sogno._Shakespeare_al_Parco_Fedrigotti",
     "has_title": "Il sogno. Shakespeare al Parco Fedrigotti",
     "has_mode": "offline",
@@ -831,7 +831,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Mercatino_d'altri_tempi",
     "has_title": "Mercatino d'altri tempi",
     "has_mode": "offline",
@@ -869,7 +869,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Mercatino_dei_Gaudenti",
     "has_title": "Mercatino dei Gaudenti",
     "has_mode": "offline",
@@ -908,7 +908,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": true
-}{
+},{
     "has_eventID": "EV_S_Mercatino_delle_pulci_a_Piedicastello_2021",
     "has_title": "Mercatino delle pulci a Piedicastello 2021",
     "has_mode": "offline",
@@ -947,7 +947,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": true
-}{
+},{
     "has_eventID": "EV_S_Mercato_prodotti_agricoli_e_biologici",
     "has_title": "Mercato prodotti agricoli e biologici",
     "has_mode": "offline",
@@ -985,7 +985,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Milonga_d\u2019estate_-_Il_tempo_di_un_abbraccio_ritrovato",
     "has_title": "Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato",
     "has_mode": "offline",
@@ -1023,7 +1023,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Moltiplichiamo_Azioni._Sfilata_di_moda_etica._-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
     "has_title": "Moltiplichiamo Azioni. Sfilata di moda etica.  - Il Festival delle idee per uno sviluppo sostenibile",
     "has_mode": "offline",
@@ -1061,7 +1061,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Moltiplichiamo_Parole_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
     "has_title": "Moltiplichiamo Parole - Il Festival delle idee per uno sviluppo sostenibile",
     "has_mode": "offline",
@@ -1099,7 +1099,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Na_Festa_per_tuti",
     "has_title": "Na Festa per tuti",
     "has_mode": "offline",
@@ -1137,7 +1137,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Noriglio_in_Festa",
     "has_title": "Noriglio in Festa",
     "has_mode": "offline",
@@ -1175,7 +1175,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_ottobre-2020-al-#kairos-giovani",
     "has_title": "ottobre-2020-al-#kairos-giovani",
     "has_mode": "offline",
@@ -1216,7 +1216,7 @@
     "has_ticket": "TI_ottobre-2020-al-#kairos-giovani_S",
     "has_VirtualLocation": "",
     "has_Archive": ""
-}{
+},{
     "has_eventID": "EV_S_poolparty-verona-esn-trento",
     "has_title": "poolparty-verona-esn-trento",
     "has_mode": "offline",
@@ -1255,7 +1255,7 @@
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Processione_annuale_Madonna_del_Monte_Carmelo",
     "has_title": "Processione annuale Madonna del Monte Carmelo",
     "has_mode": "offline",
@@ -1291,7 +1291,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_recruiting-esn-trento-20212022",
     "has_title": "recruiting-esn-trento-20212022",
     "has_mode": "offline",
@@ -1330,7 +1330,7 @@
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_recruitment-day-entra-esn-trento",
     "has_title": "recruitment-day-entra-esn-trento",
     "has_mode": "offline",
@@ -1369,7 +1369,7 @@
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Romance_del_Diablo_-_SetteNovecento",
     "has_title": "Romance del Diablo - SetteNovecento",
     "has_mode": "offline",
@@ -1407,7 +1407,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Rovereto_INtrecci_di_Farfalle",
     "has_title": "Rovereto INtrecci di Farfalle",
     "has_mode": "offline",
@@ -1446,7 +1446,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_Rovereto_Vintage_Festival",
     "has_title": "Rovereto Vintage Festival",
     "has_mode": "offline",
@@ -1484,7 +1484,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_speed-friending-w-esn",
     "has_title": "speed-friending-w-esn",
     "has_mode": "offline",
@@ -1523,7 +1523,7 @@
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_UTILE_IMPRESA_-_Rovereto_e_la_sua_Cassa_di_Risparmio_180_anni_dopo",
     "has_title": "UTILE IMPRESA - Rovereto e la sua Cassa di Risparmio 180 anni dopo",
     "has_mode": "offline",
@@ -1561,7 +1561,7 @@
     "has_VirtualLocation": "",
     "has_Archive": "",
     "has_freeEntrance": false
-}{
+},{
     "has_eventID": "EV_S_welcome-week-0",
     "has_title": "welcome-week-0",
     "has_mode": "offline",
@@ -1602,4 +1602,4 @@
     "has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
     "has_Archive": "",
     "has_freeEntrance": false
-}
+}]
