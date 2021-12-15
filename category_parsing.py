@@ -226,7 +226,7 @@ class EventType() :
                 parse = reader 
                 parse = parse | d  #MERGING DICTIONARIES 
                 ## ID ##
-                parse['has_eventID'] = 'EV_'+parse['has_title']+'_S'
+                parse['has_eventID'] = 'EV_S_'+parse['has_title'].replace(' ','_').replace('__','_')
                 parse['has_cost']['has_ticketID'] = 'TI_'+parse['has_title']+'_S'
                 
 
@@ -234,9 +234,7 @@ class EventType() :
                 ## RIPOSIZIONO LA CHIAVE ## 
                 
                 desc = parse['has_description'].lower().split()
-                parse['has_freeEntrance'] = parse['has_cost']['has_freeEntrance'] 
-                el = parse['has_cost']
-                del el['has_freeEntrance']
+              
                 ## INIZIO ## 
 
                 ## LOOKING FOR HAPPYHOUR AND DJSET
@@ -287,7 +285,7 @@ class EventType() :
                             parse['has_challenge'] = True 
                 if ('game' in parse['has_description']) or ('prize' in parse['has_description']): 
                     i = 0 
-                    save = None
+                    
                     for el in desc :
                         if ('game' == el) :
                                 parse['has_challenge'] = True 
@@ -438,7 +436,7 @@ class EventType() :
                 reader = json.load(f)
                 parse = reader
                 parse = parse | d
-                parse['has_eventID'] = 'EV_C_'+parse['has_title']
+                parse['has_eventID'] = 'EV_C_'+parse['has_title'].replace(' ','_').replace('__','_')
                 parse['has_cost']['has_ticketID'] = 'TI_C_'+parse['has_title']
             
                 desc = parse['has_description'].lower().split()
@@ -1246,6 +1244,7 @@ class EventType() :
         return new
 
     def create_venue(self,address) :
+        """ RETURNS VENUE DICT """
         d = {'lat':'','lon':'','address':address}
         return d 
 
@@ -1254,13 +1253,15 @@ class EventType() :
 
         dic['has_freeEntrance']  = ticket['has_freeEntrance'] 
         del ticket['has_freeEntrance']
+      
+        
 
         return dic, ticket
 
 
 
-ev = EventType() 
-ev.define_paths()
+#ev = EventType() 
+#ev.define_paths()
 #ev.is_cultural()
 #ev.is_social()
 #ev.is_education()
