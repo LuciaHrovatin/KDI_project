@@ -1,6 +1,5 @@
 [{
     "has_ticketID": "TI_C_#8marzo 2021 - #giornatamondialedelledonne",
-    "has_event": "",
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -10,7 +9,6 @@
     "has_eventID": "EV_C_#8marzo_2021_-_#giornatamondialedelledonne"
 },{
     "has_ticketID": "TI_C_  Choros. Il luogo dove si danza  Alessio Maria Romano",
-    "has_event": "",
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -20,7 +18,7 @@
     "has_eventID": "EV_C__Choros._Il_luogo_dove_si_danza_Alessio_Maria_Romano"
 },{
     "has_ticketID": "TI_C_  Gli Archiatri  quartetto d\u2019archi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -30,7 +28,7 @@
     "has_eventID": "EV_C__Gli_Archiatri_quartetto_d\u2019archi"
 },{
     "has_ticketID": "TI_C_  Il mondo altrove Nicola Galli",
-    "has_event": "",
+    
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -40,7 +38,7 @@
     "has_eventID": "EV_C__Il_mondo_altrove_Nicola_Galli"
 },{
     "has_ticketID": "TI_C_ art david wilkinson memorial",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -50,7 +48,7 @@
     "has_eventID": "EV_C__art_david_wilkinson_memorial"
 },{
     "has_ticketID": "TI_C_ banda storta circus",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -60,7 +58,7 @@
     "has_eventID": "EV_C__banda_storta_circus"
 },{
     "has_ticketID": "TI_C_ Cinema Solare Itinerante",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -70,7 +68,7 @@
     "has_eventID": "EV_C__Cinema_Solare_Itinerante"
 },{
     "has_ticketID": "TI_C_ Comedians  di Giuseppe Salvatores",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -80,7 +78,7 @@
     "has_eventID": "EV_C__Comedians_di_Giuseppe_Salvatores"
 },{
     "has_ticketID": "TI_C_ david wilkinson memorial",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -90,7 +88,7 @@
     "has_eventID": "EV_C__david_wilkinson_memorial"
 },{
     "has_ticketID": "TI_C_ Francesca e Paolo - Canto V dell'Inferno",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -100,7 +98,7 @@
     "has_eventID": "EV_C__Francesca_e_Paolo_-_Canto_V_dell'Inferno"
 },{
     "has_ticketID": "TI_C_ giovanni allevi piano solo tour trento",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -110,7 +108,7 @@
     "has_eventID": "EV_C__giovanni_allevi_piano_solo_tour_trento"
 },{
     "has_ticketID": "TI_C_ human habitat visita mostra fotografica gratuita",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -120,7 +118,7 @@
     "has_eventID": "EV_C__human_habitat_visita_mostra_fotografica_gratuita"
 },{
     "has_ticketID": "TI_C_ katharsis 2021 maurizio moretta pianoforte",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -130,7 +128,7 @@
     "has_eventID": "EV_C__katharsis_2021_maurizio_moretta_pianoforte"
 },{
     "has_ticketID": "TI_C_ katharsis 2021 third stream",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -140,7 +138,7 @@
     "has_eventID": "EV_C__katharsis_2021_third_stream"
 },{
     "has_ticketID": "TI_C_ katharsis 2021 vertigine",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -150,7 +148,7 @@
     "has_eventID": "EV_C__katharsis_2021_vertigine"
 },{
     "has_ticketID": "TI_C_ Maguy Marin",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -160,7 +158,7 @@
     "has_eventID": "EV_C__Maguy_Marin"
 },{
     "has_ticketID": "TI_C_ Michela Lucenti Balletto Civile - Italia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -170,7 +168,7 @@
     "has_eventID": "EV_C__Michela_Lucenti_Balletto_Civile_-_Italia"
 },{
     "has_ticketID": "TI_C_ opening brian belott solomostry",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -180,7 +178,7 @@
     "has_eventID": "EV_C__opening_brian_belott_solomostry"
 },{
     "has_ticketID": "TI_C_ Rovereto in Rosa 2021 ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -190,7 +188,7 @@
     "has_eventID": "EV_C__Rovereto_in_Rosa_2021_"
 },{
     "has_ticketID": "TI_C_ stagione sinfonica konzertsaison 21 22 nil venditti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -200,7 +198,7 @@
     "has_eventID": "EV_C__stagione_sinfonica_konzertsaison_21_22_nil_venditti"
 },{
     "has_ticketID": "TI_C_ thats amore",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -210,7 +208,7 @@
     "has_eventID": "EV_C__thats_amore"
 },{
     "has_ticketID": "TI_C_ wellness stefano santomauro in happy days a trento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -220,7 +218,7 @@
     "has_eventID": "EV_C__wellness_stefano_santomauro_in_happy_days_a_trento"
 },{
     "has_ticketID": "TI_C_25 aprile - L'eterna lotta per la libert\u00e0",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -230,7 +228,7 @@
     "has_eventID": "EV_C_25_aprile_-_L'eterna_lotta_per_la_libert\u00e0"
 },{
     "has_ticketID": "TI_C_8mm di storia. Pellicole e balocchi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -240,7 +238,7 @@
     "has_eventID": "EV_C_8mm_di_storia._Pellicole_e_balocchi"
 },{
     "has_ticketID": "TI_C_8mm di storia. Quelli della montagna",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -250,7 +248,7 @@
     "has_eventID": "EV_C_8mm_di_storia._Quelli_della_montagna"
 },{
     "has_ticketID": "TI_C_8mm di storia. Rovereto dagli anni Venti agli anni Ottanta nei film d\u2019autore e amatoriali",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -260,7 +258,7 @@
     "has_eventID": "EV_C_8mm_di_storia._Rovereto_dagli_anni_Venti_agli_anni_Ottanta_nei_film_d\u2019autore_e_amatoriali"
 },{
     "has_ticketID": "TI_C_8mm di storia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -270,7 +268,7 @@
     "has_eventID": "EV_C_8mm_di_storia"
 },{
     "has_ticketID": "TI_C_96\u00b0 Anniversario del primo suono di Maria Dolens",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -280,7 +278,7 @@
     "has_eventID": "EV_C_96\u00b0_Anniversario_del_primo_suono_di_Maria_Dolens"
 },{
     "has_ticketID": "TI_C_A ognuno il suo Natale",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -290,7 +288,7 @@
     "has_eventID": "EV_C_A_ognuno_il_suo_Natale"
 },{
     "has_ticketID": "TI_C_Alla ricerca del senso perduto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -300,7 +298,7 @@
     "has_eventID": "EV_C_Alla_ricerca_del_senso_perduto"
 },{
     "has_ticketID": "TI_C_Alla scoperta del Museo della Guerra e del Castello di Rovereto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -310,7 +308,7 @@
     "has_eventID": "EV_C_Alla_scoperta_del_Museo_della_Guerra_e_del_Castello_di_Rovereto"
 },{
     "has_ticketID": "TI_C_Alla scoperta di Rovereto - Rovereto, la citt\u00e0 pi\u00f9 all\u2019avanguardia del Trentino",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -320,7 +318,7 @@
     "has_eventID": "EV_C_Alla_scoperta_di_Rovereto_-_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino"
 },{
     "has_ticketID": "TI_C_Alla scoperta di Rovereto ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -330,7 +328,7 @@
     "has_eventID": "EV_C_Alla_scoperta_di_Rovereto_"
 },{
     "has_ticketID": "TI_C_Alla scoperta di Tridentum, citt\u00e0 sotterranea",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "Pass",
     "has_totalPurchase": 0,
@@ -340,7 +338,7 @@
     "has_eventID": "EV_C_Alla_scoperta_di_Tridentum,_citt\u00e0_sotterranea"
 },{
     "has_ticketID": "TI_C_Angelo Bettini Un ritratto processuale",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -350,7 +348,7 @@
     "has_eventID": "EV_C_Angelo_Bettini_Un_ritratto_processuale"
 },{
     "has_ticketID": "TI_C_Anima russa -  Zolt\u00e1n Fej\u00e9rvari pianoforte",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -360,7 +358,7 @@
     "has_eventID": "EV_C_Anima_russa_-_Zolt\u00e1n_Fej\u00e9rvari_pianoforte"
 },{
     "has_ticketID": "TI_C_anna,--visite-guidate-alla-mostra-culto--di--e--iconografia-",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -370,7 +368,7 @@
     "has_eventID": "EV_C_anna,--visite-guidate-alla-mostra-culto--di--e--iconografia-"
 },{
     "has_ticketID": "TI_C_arte-autunno-in-piazza",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -380,7 +378,7 @@
     "has_eventID": "EV_C_arte-autunno-in-piazza"
 },{
     "has_ticketID": "TI_C_Attivamente Cittadinanza!  Fermati! scrivi e vai!",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -390,7 +388,7 @@
     "has_eventID": "EV_C_Attivamente_Cittadinanza!_Fermati!_scrivi_e_vai!"
 },{
     "has_ticketID": "TI_C_Banda di Mori-Brentonico",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -400,7 +398,7 @@
     "has_eventID": "EV_C_Banda_di_Mori-Brentonico"
 },{
     "has_ticketID": "TI_C_Black Music  Orchestra Haydn di Bolzano e Trento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -410,7 +408,7 @@
     "has_eventID": "EV_C_Black_Music_Orchestra_Haydn_di_Bolzano_e_Trento"
 },{
     "has_ticketID": "TI_C_Blu come il Blu dell'Oceano",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -420,7 +418,7 @@
     "has_eventID": "EV_C_Blu_come_il_Blu_dell'Oceano"
 },{
     "has_ticketID": "TI_C_Bohemian Rhapsody Live Tribute ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -430,7 +428,7 @@
     "has_eventID": "EV_C_Bohemian_Rhapsody_Live_Tribute_"
 },{
     "has_ticketID": "TI_C_Botteghe scoperte",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -440,7 +438,7 @@
     "has_eventID": "EV_C_Botteghe_scoperte"
 },{
     "has_ticketID": "TI_C_Botticelli, il suo tempo, e il nostro tempo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -450,7 +448,7 @@
     "has_eventID": "EV_C_Botticelli,_il_suo_tempo,_e_il_nostro_tempo"
 },{
     "has_ticketID": "TI_C_Canova tra innocenza e peccato",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -460,7 +458,7 @@
     "has_eventID": "EV_C_Canova_tra_innocenza_e_peccato"
 },{
     "has_ticketID": "TI_C_Canto... pi\u00f9 piano - Rovereto in Rosa 2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -470,7 +468,7 @@
     "has_eventID": "EV_C_Canto..._pi\u00f9_piano_-_Rovereto_in_Rosa_2021"
 },{
     "has_ticketID": "TI_C_Car meet up",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -480,7 +478,7 @@
     "has_eventID": "EV_C_Car_meet_up"
 },{
     "has_ticketID": "TI_C_Caravaggio. Il contemporaneo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -490,7 +488,7 @@
     "has_eventID": "EV_C_Caravaggio._Il_contemporaneo"
 },{
     "has_ticketID": "TI_C_Cello Girls & Mery Vetsera",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -500,7 +498,7 @@
     "has_eventID": "EV_C_Cello_Girls_&_Mery_Vetsera"
 },{
     "has_ticketID": "TI_C_Chiesa S. Osvaldo - Storie di un re inglese a Rovereto e dintorni",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -510,7 +508,7 @@
     "has_eventID": "EV_C_Chiesa_S._Osvaldo_-_Storie_di_un_re_inglese_a_Rovereto_e_dintorni"
 },{
     "has_ticketID": "TI_C_Ci vuole un fiore",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -520,7 +518,7 @@
     "has_eventID": "EV_C_Ci_vuole_un_fiore"
 },{
     "has_ticketID": "TI_C_claudio--presentazione-del-libro-costruttore--dematt\u00e8,--di-",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -530,7 +528,7 @@
     "has_eventID": "EV_C_claudio--presentazione-del-libro-costruttore--dematt\u00e8,--di-"
 },{
     "has_ticketID": "TI_C_Clown spaventa panettieri",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -540,7 +538,7 @@
     "has_eventID": "EV_C_Clown_spaventa_panettieri"
 },{
     "has_ticketID": "TI_C_Colokolo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -550,7 +548,7 @@
     "has_eventID": "EV_C_Colokolo"
 },{
     "has_ticketID": "TI_C_Concerto a ricordo del M\u00b0 R.Dionisi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -560,7 +558,7 @@
     "has_eventID": "EV_C_Concerto_a_ricordo_del_M\u00b0_R.Dionisi"
 },{
     "has_ticketID": "TI_C_Concerto con Emilio Pavanello  pianoforte",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -570,7 +568,7 @@
     "has_eventID": "EV_C_Concerto_con_Emilio_Pavanello_pianoforte"
 },{
     "has_ticketID": "TI_C_Concerto con l' Orchestra Haydn",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -580,7 +578,7 @@
     "has_eventID": "EV_C_Concerto_con_l'_Orchestra_Haydn"
 },{
     "has_ticketID": "TI_C_Concerto con Marco Mandolini violino e Alberto Nos\u00e8 pianoforte",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -590,7 +588,7 @@
     "has_eventID": "EV_C_Concerto_con_Marco_Mandolini_violino_e_Alberto_Nos\u00e8_pianoforte"
 },{
     "has_ticketID": "TI_C_Concerto di fine stagione",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -600,7 +598,7 @@
     "has_eventID": "EV_C_Concerto_di_fine_stagione"
 },{
     "has_ticketID": "TI_C_Concerto di Inizio Anno con il Corpo Bandistico di Lizzana con Majorettes",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -610,7 +608,7 @@
     "has_eventID": "EV_C_Concerto_di_Inizio_Anno_con_il_Corpo_Bandistico_di_Lizzana_con_Majorettes"
 },{
     "has_ticketID": "TI_C_Contiamo su di te! - \u00e8 ora di scegliere - S.O.S. - teniamoci!",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -620,7 +618,7 @@
     "has_eventID": "EV_C_Contiamo_su_di_te!_-_\u00e8_ora_di_scegliere_-_S.O.S._-_teniamoci!"
 },{
     "has_ticketID": "TI_C_Contrappunto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -630,7 +628,7 @@
     "has_eventID": "EV_C_Contrappunto"
 },{
     "has_ticketID": "TI_C_Corpo Bandistico don G. Pederzini di Lizzana con majorettes",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -640,7 +638,7 @@
     "has_eventID": "EV_C_Corpo_Bandistico_don_G._Pederzini_di_Lizzana_con_majorettes"
 },{
     "has_ticketID": "TI_C_Corpo Bandistico S.Cecilia di Volano",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -650,7 +648,7 @@
     "has_eventID": "EV_C_Corpo_Bandistico_S.Cecilia_di_Volano"
 },{
     "has_ticketID": "TI_C_Da Est  a Ovest - Settenovecento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -660,7 +658,7 @@
     "has_eventID": "EV_C_Da_Est_a_Ovest_-_Settenovecento"
 },{
     "has_ticketID": "TI_C_DanteD\u00ec - Giornata nazionale dedicata a Dante Alighieri",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -670,7 +668,7 @@
     "has_eventID": "EV_C_DanteD\u00ec_-_Giornata_nazionale_dedicata_a_Dante_Alighieri"
 },{
     "has_ticketID": "TI_C_Depero film vissuto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -680,7 +678,7 @@
     "has_eventID": "EV_C_Depero_film_vissuto"
 },{
     "has_ticketID": "TI_C_Depero new Depero ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -690,7 +688,7 @@
     "has_eventID": "EV_C_Depero_new_Depero_"
 },{
     "has_ticketID": "TI_C_Dinosauri in carne e ossa",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -700,7 +698,7 @@
     "has_eventID": "EV_C_Dinosauri_in_carne_e_ossa"
 },{
     "has_ticketID": "TI_C_Distant voices, still lives",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -710,7 +708,7 @@
     "has_eventID": "EV_C_Distant_voices,_still_lives"
 },{
     "has_ticketID": "TI_C_Doppio Taglio con Marina Senesi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -730,7 +728,7 @@
     "has_eventID": "EV_C_EFFETTO_NOTTE"
 },{
     "has_ticketID": "TI_C_Eleg\u00eca delle cose perdute  Stefano Mazzotta  ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -740,7 +738,7 @@
     "has_eventID": "EV_C_Eleg\u00eca_delle_cose_perdute_Stefano_Mazzotta_"
 },{
     "has_ticketID": "TI_C_Ensemble bella Musica",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -750,7 +748,7 @@
     "has_eventID": "EV_C_Ensemble_bella_Musica"
 },{
     "has_ticketID": "TI_C_Fermata 25 Aprile  Storie di donne e uomini resistenti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -760,7 +758,7 @@
     "has_eventID": "EV_C_Fermata_25_Aprile_Storie_di_donne_e_uomini_resistenti"
 },{
     "has_ticketID": "TI_C_Festa di Maria Ausiliatrice ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -770,7 +768,7 @@
     "has_eventID": "EV_C_Festa_di_Maria_Ausiliatrice_"
 },{
     "has_ticketID": "TI_C_Festa Patronale",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -780,7 +778,7 @@
     "has_eventID": "EV_C_Festa_Patronale"
 },{
     "has_ticketID": "TI_C_Fiabe e leggende delle Dolomiti di Luciano Gottardi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -790,7 +788,7 @@
     "has_eventID": "EV_C_Fiabe_e_leggende_delle_Dolomiti_di_Luciano_Gottardi"
 },{
     "has_ticketID": "TI_C_Figli  di Giuseppe Bonito",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -800,7 +798,7 @@
     "has_eventID": "EV_C_Figli_di_Giuseppe_Bonito"
 },{
     "has_ticketID": "TI_C_Forest Frame. La foresta tra sogno e realt\u00e0",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -810,7 +808,7 @@
     "has_eventID": "EV_C_Forest_Frame._La_foresta_tra_sogno_e_realt\u00e0"
 },{
     "has_ticketID": "TI_C_Giornata del Contemporaneo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -820,7 +818,7 @@
     "has_eventID": "EV_C_Giornata_del_Contemporaneo"
 },{
     "has_ticketID": "TI_C_Giornata della Memoria",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -830,7 +828,7 @@
     "has_eventID": "EV_C_Giornata_della_Memoria"
 },{
     "has_ticketID": "TI_C_Giornata mondiale del donatore di sangue",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -840,7 +838,7 @@
     "has_eventID": "EV_C_Giornata_mondiale_del_donatore_di_sangue"
 },{
     "has_ticketID": "TI_C_Hofesh Shechter - Company, Shechter II - Regno Unito",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -850,7 +848,7 @@
     "has_eventID": "EV_C_Hofesh_Shechter_-_Company,_Shechter_II_-_Regno_Unito"
 },{
     "has_ticketID": "TI_C_Honji Wang S\u00e9bastien Ramirez",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -860,7 +858,7 @@
     "has_eventID": "EV_C_Honji_Wang_S\u00e9bastien_Ramirez"
 },{
     "has_ticketID": "TI_C_H\u00e4nsel e Gretel - Festival dei Piccoli 2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -870,7 +868,7 @@
     "has_eventID": "EV_C_H\u00e4nsel_e_Gretel_-_Festival_dei_Piccoli_2021"
 },{
     "has_ticketID": "TI_C_I Campi Magnetici - Teatro - Musica - Parola  ANNULLATO",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -880,7 +878,7 @@
     "has_eventID": "EV_C_I_Campi_Magnetici_-_Teatro_-_Musica_-_Parola_ANNULLATO"
 },{
     "has_ticketID": "TI_C_I libri di Adriano",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -890,7 +888,7 @@
     "has_eventID": "EV_C_I_libri_di_Adriano"
 },{
     "has_ticketID": "TI_C_Il Castello in scena - Una guerra da niente",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -900,7 +898,7 @@
     "has_eventID": "EV_C_Il_Castello_in_scena_-_Una_guerra_da_niente"
 },{
     "has_ticketID": "TI_C_Il cattivo poeta  di Gianluca Jodice",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -910,7 +908,7 @@
     "has_eventID": "EV_C_Il_cattivo_poeta_di_Gianluca_Jodice"
 },{
     "has_ticketID": "TI_C_Il conte Ugolino - Canto XXXIII dell'Inferno",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -920,7 +918,7 @@
     "has_eventID": "EV_C_Il_conte_Ugolino_-_Canto_XXXIII_dell'Inferno"
 },{
     "has_ticketID": "TI_C_Il giardino celato di Palazzo Betta Grillo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -930,7 +928,7 @@
     "has_eventID": "EV_C_Il_giardino_celato_di_Palazzo_Betta_Grillo"
 },{
     "has_ticketID": "TI_C_Il giovane Mozart - Settenovecento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -940,7 +938,7 @@
     "has_eventID": "EV_C_Il_giovane_Mozart_-_Settenovecento"
 },{
     "has_ticketID": "TI_C_Il medico per forza  di Moli\u00e8re",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -950,7 +948,7 @@
     "has_eventID": "EV_C_Il_medico_per_forza_di_Moli\u00e8re"
 },{
     "has_ticketID": "TI_C_il-museo-della-guerra-e-la-memoria-della-prima-guerra-mondiale-a-rovereto",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -960,7 +958,7 @@
     "has_eventID": "EV_C_il-museo-della-guerra-e-la-memoria-della-prima-guerra-mondiale-a-rovereto"
 },{
     "has_ticketID": "TI_C_Il raccolto di Giorgia Brusco",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -970,7 +968,7 @@
     "has_eventID": "EV_C_Il_raccolto_di_Giorgia_Brusco"
 },{
     "has_ticketID": "TI_C_Il silenzio della citt\u00e0. ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -980,7 +978,7 @@
     "has_eventID": "EV_C_Il_silenzio_della_citt\u00e0._"
 },{
     "has_ticketID": "TI_C_Il silenzio della citt\u00e0",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -990,7 +988,7 @@
     "has_eventID": "EV_C_Il_silenzio_della_citt\u00e0"
 },{
     "has_ticketID": "TI_C_Il sogno di Isidoro.  25 ottobre 1927. Il naufragio del \u201cPrincipessa Mafalda\u201d di Maurizio Panizza",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1000,7 +998,7 @@
     "has_eventID": "EV_C_Il_sogno_di_Isidoro._25_ottobre_1927._Il_naufragio_del_\u201cPrincipessa_Mafalda\u201d_di_Maurizio_Panizza"
 },{
     "has_ticketID": "TI_C_Il suono delle storie Silvia -  Careddu flauto  Andrea Dindo pianoforte",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1010,7 +1008,7 @@
     "has_eventID": "EV_C_Il_suono_delle_storie_Silvia_-_Careddu_flauto_Andrea_Dindo_pianoforte"
 },{
     "has_ticketID": "TI_C_Imagine -  da John Lennon alla disco-music",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1020,7 +1018,7 @@
     "has_eventID": "EV_C_Imagine_-_da_John_Lennon_alla_disco-music"
 },{
     "has_ticketID": "TI_C_Indagine Viva",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1030,7 +1028,7 @@
     "has_eventID": "EV_C_Indagine_Viva"
 },{
     "has_ticketID": "TI_C_io-vado-al-museo",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1040,7 +1038,7 @@
     "has_eventID": "EV_C_io-vado-al-museo"
 },{
     "has_ticketID": "TI_C_Istantanee da una citt\u00e0. Rovereto tra Storia e storie",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1050,7 +1048,7 @@
     "has_eventID": "EV_C_Istantanee_da_una_citt\u00e0._Rovereto_tra_Storia_e_storie"
 },{
     "has_ticketID": "TI_C_itaca-per-sempre--il-teatro-che-non-c\u00e8",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1060,7 +1058,7 @@
     "has_eventID": "EV_C_itaca-per-sempre--il-teatro-che-non-c\u00e8"
 },{
     "has_ticketID": "TI_C_Italiana - Settenovecento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1070,7 +1068,7 @@
     "has_eventID": "EV_C_Italiana_-_Settenovecento"
 },{
     "has_ticketID": "TI_C_L'acqua e la seta",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1080,7 +1078,7 @@
     "has_eventID": "EV_C_L'acqua_e_la_seta"
 },{
     "has_ticketID": "TI_C_L'ultimo viaggio di Ulisse - Canto XXVI dell'Inferno",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1090,7 +1088,7 @@
     "has_eventID": "EV_C_L'ultimo_viaggio_di_Ulisse_-_Canto_XXVI_dell'Inferno"
 },{
     "has_ticketID": "TI_C_La Divina Comediota - Dante Alighieri a Lizzana  di Loredana Cont",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1100,7 +1098,7 @@
     "has_eventID": "EV_C_La_Divina_Comediota_-_Dante_Alighieri_a_Lizzana_di_Loredana_Cont"
 },{
     "has_ticketID": "TI_C_La fattoria dei nostri sogni",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1110,7 +1108,7 @@
     "has_eventID": "EV_C_La_fattoria_dei_nostri_sogni"
 },{
     "has_ticketID": "TI_C_La felicit\u00e0 degli altri  di Daniel Cohen",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1120,7 +1118,7 @@
     "has_eventID": "EV_C_La_felicit\u00e0_degli_altri_di_Daniel_Cohen"
 },{
     "has_ticketID": "TI_C_La meglio giovent\u00f9 \u2013 parte I con il Trio Chagall",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1130,7 +1128,7 @@
     "has_eventID": "EV_C_La_meglio_giovent\u00f9_\u2013_parte_I_con_il_Trio_Chagall"
 },{
     "has_ticketID": "TI_C_La meglio giovent\u00f9 \u2013 parte II",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1140,7 +1138,7 @@
     "has_eventID": "EV_C_La_meglio_giovent\u00f9_\u2013_parte_II"
 },{
     "has_ticketID": "TI_C_La Musica dei Cieli. Dante 2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1150,7 +1148,7 @@
     "has_eventID": "EV_C_La_Musica_dei_Cieli._Dante_2021"
 },{
     "has_ticketID": "TI_C_La Natura \u00e8 il mio tempio",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1160,7 +1158,7 @@
     "has_eventID": "EV_C_La_Natura_\u00e8_il_mio_tempio"
 },{
     "has_ticketID": "TI_C_La Rovereto di Fortunato Depero - Da Casa d\u2019Arte Futurista Depero a Piazza Rosmini",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1170,7 +1168,7 @@
     "has_eventID": "EV_C_La_Rovereto_di_Fortunato_Depero_-_Da_Casa_d\u2019Arte_Futurista_Depero_a_Piazza_Rosmini"
 },{
     "has_ticketID": "TI_C_La valigia di un gran bugiardo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1180,7 +1178,7 @@
     "has_eventID": "EV_C_La_valigia_di_un_gran_bugiardo"
 },{
     "has_ticketID": "TI_C_La vita che verr\u00e0 - Her  di Phyllida Lloyd",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1190,7 +1188,7 @@
     "has_eventID": "EV_C_La_vita_che_verr\u00e0_-_Her_di_Phyllida_Lloyd"
 },{
     "has_ticketID": "TI_C_Le nuove avventure dei Musicanti di Brema - Festival dei Piccoli 2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1200,7 +1198,7 @@
     "has_eventID": "EV_C_Le_nuove_avventure_dei_Musicanti_di_Brema_-_Festival_dei_Piccoli_2021"
 },{
     "has_ticketID": "TI_C_Le pi\u00f9 belle leggende del  Trentino",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1210,7 +1208,7 @@
     "has_eventID": "EV_C_Le_pi\u00f9_belle_leggende_del_Trentino"
 },{
     "has_ticketID": "TI_C_Le sonate per organo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1220,7 +1218,7 @@
     "has_eventID": "EV_C_Le_sonate_per_organo"
 },{
     "has_ticketID": "TI_C_Left(L)over di Martina Testa",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1230,7 +1228,7 @@
     "has_eventID": "EV_C_Left(L)over_di_Martina_Testa"
 },{
     "has_ticketID": "TI_C_Leonardo contro il progetto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1240,7 +1238,7 @@
     "has_eventID": "EV_C_Leonardo_contro_il_progetto"
 },{
     "has_ticketID": "TI_C_Les d\u00e8s des ordres II ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1250,7 +1248,7 @@
     "has_eventID": "EV_C_Les_d\u00e8s_des_ordres_II_"
 },{
     "has_ticketID": "TI_C_Letture dimenticate",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1260,7 +1258,7 @@
     "has_eventID": "EV_C_Letture_dimenticate"
 },{
     "has_ticketID": "TI_C_Lontano lontano  di Gianni Di Gregorio",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1270,7 +1268,7 @@
     "has_eventID": "EV_C_Lontano_lontano_di_Gianni_Di_Gregorio"
 },{
     "has_ticketID": "TI_C_Mart -Museo di arte moderna e contemporanea di Trento e Rovereto - Alla scoperta dell\u2019Archivio del \u2018900",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1280,7 +1278,7 @@
     "has_eventID": "EV_C_Mart_-Museo_di_arte_moderna_e_contemporanea_di_Trento_e_Rovereto_-_Alla_scoperta_dell\u2019Archivio_del_\u2018900"
 },{
     "has_ticketID": "TI_C_Mart -Museo di arte moderna e contemporanea di Trento e Rovereto - L\u2019architettura del MART",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1290,7 +1288,7 @@
     "has_eventID": "EV_C_Mart_-Museo_di_arte_moderna_e_contemporanea_di_Trento_e_Rovereto_-_L\u2019architettura_del_MART"
 },{
     "has_ticketID": "TI_C_Matin\u00e9e in Casa Mozart Erminia Di Meo  violoncello  Michelangelo Carbonara  pianoforte",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1300,7 +1298,7 @@
     "has_eventID": "EV_C_Matin\u00e9e_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte"
 },{
     "has_ticketID": "TI_C_Medioevo al castello",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1310,7 +1308,7 @@
     "has_eventID": "EV_C_Medioevo_al_castello"
 },{
     "has_ticketID": "TI_C_Minari di Lee Isaac Chung",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1320,7 +1318,7 @@
     "has_eventID": "EV_C_Minari_di_Lee_Isaac_Chung"
 },{
     "has_ticketID": "TI_C_Mostra dinosauri in carne e ossa - edizione 2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1330,7 +1328,7 @@
     "has_eventID": "EV_C_Mostra_dinosauri_in_carne_e_ossa_-_edizione_2021"
 },{
     "has_ticketID": "TI_C_Mostra Sensoltre",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1350,7 +1348,7 @@
     "has_eventID": "EV_C_NO_TIME_TO_DIE"
 },{
     "has_ticketID": "TI_C_Nomadland  di Chlo\u00e9 Zhao",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1360,7 +1358,7 @@
     "has_eventID": "EV_C_Nomadland_di_Chlo\u00e9_Zhao"
 },{
     "has_ticketID": "TI_C_Non \u00e8 il destino",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1370,7 +1368,7 @@
     "has_eventID": "EV_C_Non_\u00e8_il_destino"
 },{
     "has_ticketID": "TI_C_Note Alpine con la Fanfara Alpina Monte Zugna",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1380,7 +1378,7 @@
     "has_eventID": "EV_C_Note_Alpine_con_la_Fanfara_Alpina_Monte_Zugna"
 },{
     "has_ticketID": "TI_C_Notte blu a Rovereto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1390,7 +1388,7 @@
     "has_eventID": "EV_C_Notte_blu_a_Rovereto"
 },{
     "has_ticketID": "TI_C_O di uno o di nessuno di Luigi Pirandello",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1400,7 +1398,7 @@
     "has_eventID": "EV_C_O_di_uno_o_di_nessuno_di_Luigi_Pirandello"
 },{
     "has_ticketID": "TI_C_Obiettivo sostenibile",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1410,7 +1408,7 @@
     "has_eventID": "EV_C_Obiettivo_sostenibile"
 },{
     "has_ticketID": "TI_C_obiettivo-su-dante",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1420,7 +1418,7 @@
     "has_eventID": "EV_C_obiettivo-su-dante"
 },{
     "has_ticketID": "TI_C_Oblivion Rhapsody  - RINVIATO, NUOVA DATA A BREVE",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1430,7 +1428,7 @@
     "has_eventID": "EV_C_Oblivion_Rhapsody_-_RINVIATO,_NUOVA_DATA_A_BREVE"
 },{
     "has_ticketID": "TI_C_Oblivion Rhapsody - RINVIATO, NUOVA DATA A BREVE",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1440,7 +1438,7 @@
     "has_eventID": "EV_C_Oblivion_Rhapsody_-_RINVIATO,_NUOVA_DATA_A_BREVE"
 },{
     "has_ticketID": "TI_C_Oblivion Rhapsody - Stagione Teatrale 2019-2020 - RINVIATO AL 27 APRILE 2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1450,7 +1448,7 @@
     "has_eventID": "EV_C_Oblivion_Rhapsody_-_Stagione_Teatrale_2019-2020_-_RINVIATO_AL_27_APRILE_2021"
 },{
     "has_ticketID": "TI_C_Oblivion Rhapsody  ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1460,7 +1458,7 @@
     "has_eventID": "EV_C_Oblivion_Rhapsody_"
 },{
     "has_ticketID": "TI_C_Oceania",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1470,7 +1468,7 @@
     "has_eventID": "EV_C_Oceania"
 },{
     "has_ticketID": "TI_C_Omaggio alla bella stagione con la banda di Lizzana",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1480,7 +1478,7 @@
     "has_eventID": "EV_C_Omaggio_alla_bella_stagione_con_la_banda_di_Lizzana"
 },{
     "has_ticketID": "TI_C_Opera XXX - I semi della follia  di Benoit Roland e Roberto Zamengo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1490,7 +1488,7 @@
     "has_eventID": "EV_C_Opera_XXX_-_I_semi_della_follia_di_Benoit_Roland_e_Roberto_Zamengo"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Breviario intimo di Santa Maria",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1500,7 +1498,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Breviario_intimo_di_Santa_Maria"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Giocare con la memoria",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1510,7 +1508,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Giocare_con_la_memoria"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Krakatoa Archive Works",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1520,7 +1518,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Krakatoa_Archive_Works"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Luce dei miei occhi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1530,7 +1528,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Luce_dei_miei_occhi"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Manar\u00f2t",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1540,7 +1538,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Manar\u00f2t"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Nel blu - creare fotografie blu con elementi naturali",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1550,7 +1548,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Nel_blu_-_creare_fotografie_blu_con_elementi_naturali"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Oltre l'archivio. La memoria rivisitata",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1560,7 +1558,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Oltre_l'archivio._La_memoria_rivisitata"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Quegli anni Ottanta. Archivio Magazine",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1570,7 +1568,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Quegli_anni_Ottanta._Archivio_Magazine"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Riprendere la vita. Le imprevedibili resurrezioni dei film di famiglia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1580,7 +1578,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Riprendere_la_vita._Le_imprevedibili_resurrezioni_dei_film_di_famiglia"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Serendip - Selezione analitica",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1590,7 +1588,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Serendip_-_Selezione_analitica"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Uscire dai binari",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1600,7 +1598,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Uscire_dai_binari"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Valerio Millefoglie. La comunione dell\u2019aria",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1610,7 +1608,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Valerio_Millefoglie._La_comunione_dell\u2019aria"
 },{
     "has_ticketID": "TI_C_Osvaldo 2021 - Viva Zinevra!",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1620,7 +1618,7 @@
     "has_eventID": "EV_C_Osvaldo_2021_-_Viva_Zinevra!"
 },{
     "has_ticketID": "TI_C_Pablo Girolami - Manbuhsona ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1630,7 +1628,7 @@
     "has_eventID": "EV_C_Pablo_Girolami_-_Manbuhsona_"
 },{
     "has_ticketID": "TI_C_Palazzi Aperti - Casa Natale A. Rosmini",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1640,7 +1638,7 @@
     "has_eventID": "EV_C_Palazzi_Aperti_-_Casa_Natale_A._Rosmini"
 },{
     "has_ticketID": "TI_C_Palazzi Aperti - La chiesa del Redentore e il giardino di Villa Todeschi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1650,7 +1648,7 @@
     "has_eventID": "EV_C_Palazzi_Aperti_-_La_chiesa_del_Redentore_e_il_giardino_di_Villa_Todeschi"
 },{
     "has_ticketID": "TI_C_Palazzi Aperti - Palazzo del Bene",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1660,7 +1658,7 @@
     "has_eventID": "EV_C_Palazzi_Aperti_-_Palazzo_del_Bene"
 },{
     "has_ticketID": "TI_C_Palazzi Aperti - Palazzo Sbardellati e il giardino di Villa Todeschi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1670,7 +1668,7 @@
     "has_eventID": "EV_C_Palazzi_Aperti_-_Palazzo_Sbardellati_e_il_giardino_di_Villa_Todeschi"
 },{
     "has_ticketID": "TI_C_Palazzi aperti 2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1680,7 +1678,7 @@
     "has_eventID": "EV_C_Palazzi_aperti_2021"
 },{
     "has_ticketID": "TI_C_Passeggiata nei siti scoperti da Paolo Orsi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1690,7 +1688,7 @@
     "has_eventID": "EV_C_Passeggiata_nei_siti_scoperti_da_Paolo_Orsi"
 },{
     "has_ticketID": "TI_C_Passione pianoforte con Virginia Benini pianoforte",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1700,7 +1698,7 @@
     "has_eventID": "EV_C_Passione_pianoforte_con_Virginia_Benini_pianoforte"
 },{
     "has_ticketID": "TI_C_Pell\u00e8as e M\u00e9lisande   ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1710,7 +1708,7 @@
     "has_eventID": "EV_C_Pell\u00e8as_e_M\u00e9lisande__"
 },{
     "has_ticketID": "TI_C_Pesce Khete - Dialoghi alla trementina",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1720,7 +1718,7 @@
     "has_eventID": "EV_C_Pesce_Khete_-_Dialoghi_alla_trementina"
 },{
     "has_ticketID": "TI_C_Picasso, de Chirico e Dal\u00ec. Dialogo con Raffaello",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1730,7 +1728,7 @@
     "has_eventID": "EV_C_Picasso,_de_Chirico_e_Dal\u00ec._Dialogo_con_Raffaello"
 },{
     "has_ticketID": "TI_C_Picture a Scientist - Informatici Senza Frontiere - Il Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1740,7 +1738,7 @@
     "has_eventID": "EV_C_Picture_a_Scientist_-_Informatici_Senza_Frontiere_-_Il_Festival"
 },{
     "has_ticketID": "TI_C_Pierrot e dintorni",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1750,7 +1748,7 @@
     "has_eventID": "EV_C_Pierrot_e_dintorni"
 },{
     "has_ticketID": "TI_C_Presentazione della trilogia del Codice Brandis",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1760,7 +1758,7 @@
     "has_eventID": "EV_C_Presentazione_della_trilogia_del_Codice_Brandis"
 },{
     "has_ticketID": "TI_C_Proiezioni  -  RAM film festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1770,7 +1768,7 @@
     "has_eventID": "EV_C_Proiezioni_-_RAM_film_festival"
 },{
     "has_ticketID": "TI_C_Proiezioni - RAM film festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1780,7 +1778,7 @@
     "has_eventID": "EV_C_Proiezioni_-_RAM_film_festival"
 },{
     "has_ticketID": "TI_C_Questi fantasmi di Eduardo De Filippo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1790,7 +1788,7 @@
     "has_eventID": "EV_C_Questi_fantasmi_di_Eduardo_De_Filippo"
 },{
     "has_ticketID": "TI_C_Racconto d'estate  ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1800,7 +1798,7 @@
     "has_eventID": "EV_C_Racconto_d'estate_"
 },{
     "has_ticketID": "TI_C_RAM film festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1810,7 +1808,7 @@
     "has_eventID": "EV_C_RAM_film_festival"
 },{
     "has_ticketID": "TI_C_Reopening Colosseum - Il Colosseo in Quarantena",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1820,7 +1818,7 @@
     "has_eventID": "EV_C_Reopening_Colosseum_-_Il_Colosseo_in_Quarantena"
 },{
     "has_ticketID": "TI_C_Rifkin's Festival  di Woody Allen",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1830,7 +1828,7 @@
     "has_eventID": "EV_C_Rifkin's_Festival_di_Woody_Allen"
 },{
     "has_ticketID": "TI_C_Rita e Paola Levi Montalcini. Storia di una donazione e di un restauro",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1840,7 +1838,7 @@
     "has_eventID": "EV_C_Rita_e_Paola_Levi_Montalcini._Storia_di_una_donazione_e_di_un_restauro"
 },{
     "has_ticketID": "TI_C_Romantico",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1850,7 +1848,7 @@
     "has_eventID": "EV_C_Romantico"
 },{
     "has_ticketID": "TI_C_Rosmini Days - Antonio Rosmini pensatore e profeta",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1860,7 +1858,7 @@
     "has_eventID": "EV_C_Rosmini_Days_-_Antonio_Rosmini_pensatore_e_profeta"
 },{
     "has_ticketID": "TI_C_Rosmini Days - La scuola italiana di spiritualit\u00e0 da Rosmini a Montini di Fulvio De Giorgi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1870,7 +1868,7 @@
     "has_eventID": "EV_C_Rosmini_Days_-_La_scuola_italiana_di_spiritualit\u00e0_da_Rosmini_a_Montini_di_Fulvio_De_Giorgi"
 },{
     "has_ticketID": "TI_C_Rosmini Days - Lectio rosminiana",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1880,7 +1878,7 @@
     "has_eventID": "EV_C_Rosmini_Days_-_Lectio_rosminiana"
 },{
     "has_ticketID": "TI_C_Rosmini Days - Visita guidata a Casa Rosmini e itinerario e concerto in Chiesa di Loreto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1890,7 +1888,7 @@
     "has_eventID": "EV_C_Rosmini_Days_-_Visita_guidata_a_Casa_Rosmini_e_itinerario_e_concerto_in_Chiesa_di_Loreto"
 },{
     "has_ticketID": "TI_C_Rosmini Days - Visita guidata a Casa Rosmini e itinerario",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1900,7 +1898,7 @@
     "has_eventID": "EV_C_Rosmini_Days_-_Visita_guidata_a_Casa_Rosmini_e_itinerario"
 },{
     "has_ticketID": "TI_C_Rosmini Days",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1910,7 +1908,7 @@
     "has_eventID": "EV_C_Rosmini_Days"
 },{
     "has_ticketID": "TI_C_Rovereto prima della storia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1920,7 +1918,7 @@
     "has_eventID": "EV_C_Rovereto_prima_della_storia"
 },{
     "has_ticketID": "TI_C_Rovereto si racconta",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1930,7 +1928,7 @@
     "has_eventID": "EV_C_Rovereto_si_racconta"
 },{
     "has_ticketID": "TI_C_RumBach",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1940,7 +1938,7 @@
     "has_eventID": "EV_C_RumBach"
 },{
     "has_ticketID": "TI_C_Scotland",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1950,7 +1948,7 @@
     "has_eventID": "EV_C_Scotland"
 },{
     "has_ticketID": "TI_C_Serendip - selezione analitica",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1960,7 +1958,7 @@
     "has_eventID": "EV_C_Serendip_-_selezione_analitica"
 },{
     "has_ticketID": "TI_C_SerenOte a Lizzana",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1970,7 +1968,7 @@
     "has_eventID": "EV_C_SerenOte_a_Lizzana"
 },{
     "has_ticketID": "TI_C_Sovversamba in concerto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1980,7 +1978,7 @@
     "has_eventID": "EV_C_Sovversamba_in_concerto"
 },{
     "has_ticketID": "TI_C_Spettacolo conclusivo La citt\u00e0 scoperta 2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -1990,7 +1988,7 @@
     "has_eventID": "EV_C_Spettacolo_conclusivo_La_citt\u00e0_scoperta_2021"
 },{
     "has_ticketID": "TI_C_Storie della Resistenza",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2000,7 +1998,7 @@
     "has_eventID": "EV_C_Storie_della_Resistenza"
 },{
     "has_ticketID": "TI_C_Summer Session 2021  Alan Farrington Quintet",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2010,7 +2008,7 @@
     "has_eventID": "EV_C_Summer_Session_2021_Alan_Farrington_Quintet"
 },{
     "has_ticketID": "TI_C_Summer Session 2021  Raffa&Thetonics Feat.",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2020,7 +2018,7 @@
     "has_eventID": "EV_C_Summer_Session_2021_Raffa&Thetonics_Feat."
 },{
     "has_ticketID": "TI_C_S\u00e9verine Bennevault Caton",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2030,7 +2028,7 @@
     "has_eventID": "EV_C_S\u00e9verine_Bennevault_Caton"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque -  90 Giorni  di  Giuliano Comin",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2040,7 +2038,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_90_Giorni_di_Giuliano_Comin"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque -  Clitennestra di Marguerite Yourcenar",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2050,7 +2048,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Clitennestra_di_Marguerite_Yourcenar"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque -  E un mondo difficile  di Alessandro Dalla Mora",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2060,7 +2058,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque -  Pandemente di Andrea Visibelli",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2070,7 +2068,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Pandemente_di_Andrea_Visibelli"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque -  Saga noir di Giulia Gallo e Giovanni Guerrieri",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2080,7 +2078,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Saga_noir_di_Giulia_Gallo_e_Giovanni_Guerrieri"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque -  Saga Salsa di Aldo Cassano",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2090,7 +2088,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Saga_Salsa_di_Aldo_Cassano"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque - Balera Rovereto ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2100,7 +2098,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Balera_Rovereto_"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque - Bartelby di Herman Melville",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2110,7 +2108,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Bartelby_di_Herman_Melville"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque - Fame mia Quasi una biografia di Serena Sinigaglia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2120,7 +2118,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Fame_mia_Quasi_una_biografia_di_Serena_Sinigaglia"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque - L'alieno di Caldonazzo di Maura Pettorruso",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2130,7 +2128,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_L'alieno_di_Caldonazzo_di_Maura_Pettorruso"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque - La valigia di un gran bugiardo di Andrea Bernard",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2140,7 +2138,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_La_valigia_di_un_gran_bugiardo_di_Andrea_Bernard"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque - Stand up comedy",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2150,7 +2148,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Stand_up_comedy"
 },{
     "has_ticketID": "TI_C_Teatro Ovunque - Storia degli orsi panda Raccontata da un sassofonista che ha un'amichetta a Francoforte di Matei Visniec",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2160,7 +2158,7 @@
     "has_eventID": "EV_C_Teatro_Ovunque_-_Storia_degli_orsi_panda_Raccontata_da_un_sassofonista_che_ha_un'amichetta_a_Francoforte_di_Matei_Visniec"
 },{
     "has_ticketID": "TI_C_Teatro Riccardo Zandonai",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2170,7 +2168,7 @@
     "has_eventID": "EV_C_Teatro_Riccardo_Zandonai"
 },{
     "has_ticketID": "TI_C_The father - Nulla \u00e8 come sembra di Florian Zeller",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2180,7 +2178,7 @@
     "has_eventID": "EV_C_The_father_-_Nulla_\u00e8_come_sembra_di_Florian_Zeller"
 },{
     "has_ticketID": "TI_C_The specials - Fuori dal comune di Oliver Nakache, Eric Toledano",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2190,7 +2188,7 @@
     "has_eventID": "EV_C_The_specials_-_Fuori_dal_comune_di_Oliver_Nakache,_Eric_Toledano"
 },{
     "has_ticketID": "TI_C_Trash - La leggenda della piramide magica",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2200,7 +2198,7 @@
     "has_eventID": "EV_C_Trash_-_La_leggenda_della_piramide_magica"
 },{
     "has_ticketID": "TI_C_Trento e il 25 aprile",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2210,7 +2208,7 @@
     "has_eventID": "EV_C_Trento_e_il_25_aprile"
 },{
     "has_ticketID": "TI_C_Un altro giro  di Thomas Vinterberg",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2220,7 +2218,7 @@
     "has_eventID": "EV_C_Un_altro_giro_di_Thomas_Vinterberg"
 },{
     "has_ticketID": "TI_C_Un divano a Tunisi di Manele Labidi Labb\u00e9",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2230,7 +2228,7 @@
     "has_eventID": "EV_C_Un_divano_a_Tunisi_di_Manele_Labidi_Labb\u00e9"
 },{
     "has_ticketID": "TI_C_Un giro cosmico",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2240,7 +2238,7 @@
     "has_eventID": "EV_C_Un_giro_cosmico"
 },{
     "has_ticketID": "TI_C_un-salto-nel-passato.-visita-animata-al-museo-della-guerra",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2250,7 +2248,7 @@
     "has_eventID": "EV_C_un-salto-nel-passato.-visita-animata-al-museo-della-guerra"
 },{
     "has_ticketID": "TI_C_una-visita-da-brivido---halloween-al-castello",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2260,7 +2258,7 @@
     "has_eventID": "EV_C_una-visita-da-brivido---halloween-al-castello"
 },{
     "has_ticketID": "TI_C_variazioni-enigmatiche",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2270,7 +2268,7 @@
     "has_eventID": "EV_C_variazioni-enigmatiche"
 },{
     "has_ticketID": "TI_C_Vento Forte Storie di resistenze femminili",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2280,7 +2278,7 @@
     "has_eventID": "EV_C_Vento_Forte_Storie_di_resistenze_femminili"
 },{
     "has_ticketID": "TI_C_visita-al-museo-del-legno-e-museo-darte-moderna-di-scultura-lignea",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2290,7 +2288,7 @@
     "has_eventID": "EV_C_visita-al-museo-del-legno-e-museo-darte-moderna-di-scultura-lignea"
 },{
     "has_ticketID": "TI_C_Visita alla Biblioteca G. TARTAROTTI  storica e laboratorio di stampa e carta a mano ",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2300,7 +2298,7 @@
     "has_eventID": "EV_C_Visita_alla_Biblioteca_G._TARTAROTTI_storica_e_laboratorio_di_stampa_e_carta_a_mano_"
 },{
     "has_ticketID": "TI_C_Visita gratuita al Museo della Guerra e alla Sezione Artiglierie",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2310,7 +2308,7 @@
     "has_eventID": "EV_C_Visita_gratuita_al_Museo_della_Guerra_e_alla_Sezione_Artiglierie"
 },{
     "has_ticketID": "TI_C_Visita guidata al Castello di Rovereto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2320,7 +2318,7 @@
     "has_eventID": "EV_C_Visita_guidata_al_Castello_di_Rovereto"
 },{
     "has_ticketID": "TI_C_visita-guidata-al-muse",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2330,7 +2328,7 @@
     "has_eventID": "EV_C_visita-guidata-al-muse"
 },{
     "has_ticketID": "TI_C_Visita guidata al Museo della Guerra",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2340,7 +2338,7 @@
     "has_eventID": "EV_C_Visita_guidata_al_Museo_della_Guerra"
 },{
     "has_ticketID": "TI_C_Volevo nascondermi  di Giorgio Diritti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2350,7 +2348,7 @@
     "has_eventID": "EV_C_Volevo_nascondermi_di_Giorgio_Diritti"
 },{
     "has_ticketID": "TI_C_Wall-e",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2360,7 +2358,7 @@
     "has_eventID": "EV_C_Wall-e"
 },{
     "has_ticketID": "TI_C_We Love The World",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2370,7 +2368,7 @@
     "has_eventID": "EV_C_We_Love_The_World"
 },{
     "has_ticketID": "TI_C_XXVI Mostra di Filatelia, Numismatica e Cartofilia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2380,7 +2378,7 @@
     "has_eventID": "EV_C_XXVI_Mostra_di_Filatelia,_Numismatica_e_Cartofilia"
 },{
     "has_ticketID": "TI_ afro funky halloween_S",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2390,7 +2388,7 @@
     "has_eventID": "EV_S__afro_funky_halloween"
 },{
     "has_ticketID": "TI_ art pandemike poetry slam_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2400,7 +2398,7 @@
     "has_eventID": "EV_S__art_pandemike_poetry_slam"
 },{
     "has_ticketID": "TI_ live unplugged_S",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2410,7 +2408,7 @@
     "has_eventID": "EV_S__live_unplugged"
 },{
     "has_ticketID": "TI_ mondo donna il ritorno di una fiera imperdibile_S",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2420,7 +2418,7 @@
     "has_eventID": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibile"
 },{
     "has_ticketID": "TI_ mondo donna ottobre 2021_S",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2439,7 +2437,7 @@
     "has_eventID": "EV_S__mondo_donna_ottobre_2021"
 },{
     "has_ticketID": "TI_ pandemike poetry slam_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2449,7 +2447,7 @@
     "has_eventID": "EV_S__pandemike_poetry_slam"
 },{
     "has_ticketID": "TI_ pfaff a mondo donna trento con sara poiese_S",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2459,7 +2457,7 @@
     "has_eventID": "EV_S__pfaff_a_mondo_donna_trento_con_sara_poiese"
 },{
     "has_ticketID": "TI_ sunset vibes_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2469,7 +2467,7 @@
     "has_eventID": "EV_S__sunset_vibes"
 },{
     "has_ticketID": "TI_ wellness i mercatini del trentino andamp spa_S",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2479,7 +2477,7 @@
     "has_eventID": "EV_S__wellness_i_mercatini_del_trentino_andamp_spa"
 },{
     "has_ticketID": "TI_...c'era una volta Rovereto_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2489,7 +2487,7 @@
     "has_eventID": "EV_S_...c'era_una_volta_Rovereto"
 },{
     "has_ticketID": "TI_carnival-party-esn-padova_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2499,7 +2497,7 @@
     "has_eventID": "EV_S_carnival-party-esn-padova"
 },{
     "has_ticketID": "TI_citytour-speed-friending-w-esn_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2509,7 +2507,7 @@
     "has_eventID": "EV_S_citytour-speed-friending-w-esn"
 },{
     "has_ticketID": "TI_cooking-time-w-esn_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2519,7 +2517,7 @@
     "has_eventID": "EV_S_cooking-time-w-esn"
 },{
     "has_ticketID": "TI_Distretto della cultura \u2013 2 giorni di arte musica e giocoleria_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2529,7 +2527,7 @@
     "has_eventID": "EV_S_Distretto_della_cultura_\u2013_2_giorni_di_arte_musica_e_giocoleria"
 },{
     "has_ticketID": "TI_esn-farewell-party_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2539,7 +2537,7 @@
     "has_eventID": "EV_S_esn-farewell-party"
 },{
     "has_ticketID": "TI_game-night-w-esn-bologna-esn-trento_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2549,7 +2547,7 @@
     "has_eventID": "EV_S_game-night-w-esn-bologna-esn-trento"
 },{
     "has_ticketID": "TI_goodbye-summer-days_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2559,7 +2557,7 @@
     "has_eventID": "EV_S_goodbye-summer-days"
 },{
     "has_ticketID": "TI_halloween-party-w-esn-trento_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2569,7 +2567,7 @@
     "has_eventID": "EV_S_halloween-party-w-esn-trento"
 },{
     "has_ticketID": "TI_Il sogno. Shakespeare al Parco alla Pozza di Noriglio_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2579,7 +2577,7 @@
     "has_eventID": "EV_S_Il_sogno._Shakespeare_al_Parco_alla_Pozza_di_Noriglio"
 },{
     "has_ticketID": "TI_Il sogno. Shakespeare al Parco Fedrigotti_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2589,7 +2587,7 @@
     "has_eventID": "EV_S_Il_sogno._Shakespeare_al_Parco_Fedrigotti"
 },{
     "has_ticketID": "TI_Mercatino d'altri tempi_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2599,7 +2597,7 @@
     "has_eventID": "EV_S_Mercatino_d'altri_tempi"
 },{
     "has_ticketID": "TI_Mercatino dei Gaudenti_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2609,7 +2607,7 @@
     "has_eventID": "EV_S_Mercatino_dei_Gaudenti"
 },{
     "has_ticketID": "TI_Mercatino delle pulci a Piedicastello 2021_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2619,7 +2617,7 @@
     "has_eventID": "EV_S_Mercatino_delle_pulci_a_Piedicastello_2021"
 },{
     "has_ticketID": "TI_Mercato prodotti agricoli e biologici_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2629,7 +2627,7 @@
     "has_eventID": "EV_S_Mercato_prodotti_agricoli_e_biologici"
 },{
     "has_ticketID": "TI_Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2639,7 +2637,7 @@
     "has_eventID": "EV_S_Milonga_d\u2019estate_-_Il_tempo_di_un_abbraccio_ritrovato"
 },{
     "has_ticketID": "TI_Moltiplichiamo Azioni. Sfilata di moda etica.  - Il Festival delle idee per uno sviluppo sostenibile_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2649,7 +2647,7 @@
     "has_eventID": "EV_S_Moltiplichiamo_Azioni._Sfilata_di_moda_etica._-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile"
 },{
     "has_ticketID": "TI_Moltiplichiamo Parole - Il Festival delle idee per uno sviluppo sostenibile_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2659,7 +2657,7 @@
     "has_eventID": "EV_S_Moltiplichiamo_Parole_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile"
 },{
     "has_ticketID": "TI_Na Festa per tuti_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2669,7 +2667,7 @@
     "has_eventID": "EV_S_Na_Festa_per_tuti"
 },{
     "has_ticketID": "TI_Noriglio in Festa_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2679,7 +2677,7 @@
     "has_eventID": "EV_S_Noriglio_in_Festa"
 },{
     "has_ticketID": "TI_ottobre-2020-al-#kairos-giovani_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2689,7 +2687,7 @@
     "has_eventID": "EV_S_ottobre-2020-al-#kairos-giovani"
 },{
     "has_ticketID": "TI_poolparty-verona-esn-trento_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2699,7 +2697,7 @@
     "has_eventID": "EV_S_poolparty-verona-esn-trento"
 },{
     "has_ticketID": "TI_Processione annuale Madonna del Monte Carmelo_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2709,7 +2707,7 @@
     "has_eventID": "EV_S_Processione_annuale_Madonna_del_Monte_Carmelo"
 },{
     "has_ticketID": "TI_recruiting-esn-trento-20212022_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -2719,7 +2717,7 @@
     "has_eventID": "EV_S_recruiting-esn-trento-20212022"
 },{
     "has_ticketID": "TI_recruitment-day-entra-esn-trento_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -2729,7 +2727,7 @@
     "has_eventID": "EV_S_recruitment-day-entra-esn-trento"
 },{
     "has_ticketID": "TI_Romance del Diablo - SetteNovecento_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2739,7 +2737,7 @@
     "has_eventID": "EV_S_Romance_del_Diablo_-_SetteNovecento"
 },{
     "has_ticketID": "TI_Rovereto INtrecci di Farfalle_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2749,7 +2747,7 @@
     "has_eventID": "EV_S_Rovereto_INtrecci_di_Farfalle"
 },{
     "has_ticketID": "TI_Rovereto Vintage Festival_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2759,7 +2757,7 @@
     "has_eventID": "EV_S_Rovereto_Vintage_Festival"
 },{
     "has_ticketID": "TI_speed-friending-w-esn_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -2769,7 +2767,7 @@
     "has_eventID": "EV_S_speed-friending-w-esn"
 },{
     "has_ticketID": "TI_UTILE IMPRESA - Rovereto e la sua Cassa di Risparmio 180 anni dopo_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2779,7 +2777,7 @@
     "has_eventID": "EV_S_UTILE_IMPRESA_-_Rovereto_e_la_sua_Cassa_di_Risparmio_180_anni_dopo"
 },{
     "has_ticketID": "TI_welcome-week-0_S",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -2789,7 +2787,7 @@
     "has_eventID": "EV_S_welcome-week-0"
 },{
     "has_ticketID": "TI_E_autunno_fuxia_presentazione_del_libro_andquotdonne_delinquentiandquot_m_zucca",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2799,7 +2797,7 @@
     "has_eventID": "EV_E_autunno_fuxia_presentazione_del_libro_andquotdonne_delinquentiandquot_m_zucca"
 },{
     "has_ticketID": "TI_E_il_corpo_della_voce_seminario",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2809,7 +2807,7 @@
     "has_eventID": "EV_E_il_corpo_della_voce_seminario"
 },{
     "has_ticketID": "TI_E_il_teatro_antico_sulla_scena_contemporanea_gli_spettacoli_classici_nella_storia_del_piccolo_teatro",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2819,7 +2817,7 @@
     "has_eventID": "EV_E_il_teatro_antico_sulla_scena_contemporanea_gli_spettacoli_classici_nella_storia_del_piccolo_teatro"
 },{
     "has_ticketID": "TI_E_Ivona_Pablo_Girolami_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2829,7 +2827,7 @@
     "has_eventID": "EV_E_Ivona_Pablo_Girolami_"
 },{
     "has_ticketID": "TI_E_Abbasso_la_guerra._Persone_e_Movimenti_per_la_Pace_dall'800_a_oggi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2839,7 +2837,7 @@
     "has_eventID": "EV_E_Abbasso_la_guerra._Persone_e_Movimenti_per_la_Pace_dall'800_a_oggi"
 },{
     "has_ticketID": "TI_E_Abitare_la_speranza",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2849,7 +2847,7 @@
     "has_eventID": "EV_E_Abitare_la_speranza"
 },{
     "has_ticketID": "TI_E_antropologia-dellallattamento",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2859,7 +2857,7 @@
     "has_eventID": "EV_E_antropologia-dellallattamento"
 },{
     "has_ticketID": "TI_E_Arcipelago_Lavoro_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2869,7 +2867,7 @@
     "has_eventID": "EV_E_Arcipelago_Lavoro_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile"
 },{
     "has_ticketID": "TI_E_Astronomia_Urbana",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2879,7 +2877,7 @@
     "has_eventID": "EV_E_Astronomia_Urbana"
 },{
     "has_ticketID": "TI_E_Avr\u00f2_cura_di_te",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2889,7 +2887,7 @@
     "has_eventID": "EV_E_Avr\u00f2_cura_di_te"
 },{
     "has_ticketID": "TI_E_BiblioLudoteca_viaggiante_e_Uomini_libro",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2899,7 +2897,7 @@
     "has_eventID": "EV_E_BiblioLudoteca_viaggiante_e_Uomini_libro"
 },{
     "has_ticketID": "TI_E_Biblioteca_Vivente",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2909,7 +2907,7 @@
     "has_eventID": "EV_E_Biblioteca_Vivente"
 },{
     "has_ticketID": "TI_E_Casteldante._Lutto,_commemorazione,_celebrazione",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2919,7 +2917,7 @@
     "has_eventID": "EV_E_Casteldante._Lutto,_commemorazione,_celebrazione"
 },{
     "has_ticketID": "TI_E_Cibo_nutrimento_per_il_corpo_ma_anche_per_l'anima_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2929,7 +2927,7 @@
     "has_eventID": "EV_E_Cibo_nutrimento_per_il_corpo_ma_anche_per_l'anima_"
 },{
     "has_ticketID": "TI_E_Come_Wikidata_e_le_query_SPARQL_possono_aiutare_nell\u2019affrontare_il_gender_gap_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2939,7 +2937,7 @@
     "has_eventID": "EV_E_Come_Wikidata_e_le_query_SPARQL_possono_aiutare_nell\u2019affrontare_il_gender_gap_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_corsi-di-lingua",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2949,7 +2947,7 @@
     "has_eventID": "EV_E_corsi-di-lingua"
 },{
     "has_ticketID": "TI_E_Crescere_oggi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2959,7 +2957,7 @@
     "has_eventID": "EV_E_Crescere_oggi"
 },{
     "has_ticketID": "TI_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2969,7 +2967,7 @@
     "has_eventID": "EV_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Dedicato_a_Francesco_Ferrari",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2979,7 +2977,7 @@
     "has_eventID": "EV_E_Dedicato_a_Francesco_Ferrari"
 },{
     "has_ticketID": "TI_E_Dialoghi_intorno_all'arte_di_Leonardo_Cremonini_e_Karl_Plattner",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2989,7 +2987,7 @@
     "has_eventID": "EV_E_Dialoghi_intorno_all'arte_di_Leonardo_Cremonini_e_Karl_Plattner"
 },{
     "has_ticketID": "TI_E_Dire_s\u00ec_\u00e8_il_regalo_pi\u00f9_bello",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -2999,7 +2997,7 @@
     "has_eventID": "EV_E_Dire_s\u00ec_\u00e8_il_regalo_pi\u00f9_bello"
 },{
     "has_ticketID": "TI_E_Don_Giovanni,_storia_di_un_mito",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3009,7 +3007,7 @@
     "has_eventID": "EV_E_Don_Giovanni,_storia_di_un_mito"
 },{
     "has_ticketID": "TI_E_Dormire_il_sonno_del_giusto_anche_in_tempi_che_sembrano_ingiusti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3019,7 +3017,7 @@
     "has_eventID": "EV_E_Dormire_il_sonno_del_giusto_anche_in_tempi_che_sembrano_ingiusti"
 },{
     "has_ticketID": "TI_E_Educare_nei_musei._Esperienze_e_visioni",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3029,7 +3027,7 @@
     "has_eventID": "EV_E_Educare_nei_musei._Esperienze_e_visioni"
 },{
     "has_ticketID": "TI_E_Eppure_il_vento_soffia_ancora",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3039,7 +3037,7 @@
     "has_eventID": "EV_E_Eppure_il_vento_soffia_ancora"
 },{
     "has_ticketID": "TI_E_Etica_e_tecnologia_in_un_mondo_di_crisi_-_Informatici_Senza_Frontiere_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3049,7 +3047,7 @@
     "has_eventID": "EV_E_Etica_e_tecnologia_in_un_mondo_di_crisi_-_Informatici_Senza_Frontiere_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Ettore_Romagnoli_e_la_rinascita_del_teatro_greco_nei_primi_decenni_del_Novecento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3059,7 +3057,7 @@
     "has_eventID": "EV_E_Ettore_Romagnoli_e_la_rinascita_del_teatro_greco_nei_primi_decenni_del_Novecento"
 },{
     "has_ticketID": "TI_E_EVENTO_ANNULLATO_-_Insalata_mista_di_pranzi_e_ricordi_di_Luciana_Grillo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3069,7 +3067,7 @@
     "has_eventID": "EV_E_EVENTO_ANNULLATO_-_Insalata_mista_di_pranzi_e_ricordi_di_Luciana_Grillo"
 },{
     "has_ticketID": "TI_E_Fermata_25_Aprile_Storie_di_donne_e_uomini_resistenti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3079,7 +3077,7 @@
     "has_eventID": "EV_E_Fermata_25_Aprile_Storie_di_donne_e_uomini_resistenti"
 },{
     "has_ticketID": "TI_E_festival-informatici-senza-frontiere",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3089,7 +3087,7 @@
     "has_eventID": "EV_E_festival-informatici-senza-frontiere"
 },{
     "has_ticketID": "TI_E_Festival_Meteorologia_6\u00aa_edizione",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3099,7 +3097,7 @@
     "has_eventID": "EV_E_Festival_Meteorologia_6\u00aa_edizione"
 },{
     "has_ticketID": "TI_E_Finzione_e_verit\u00e0._Foucault",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3109,7 +3107,7 @@
     "has_eventID": "EV_E_Finzione_e_verit\u00e0._Foucault"
 },{
     "has_ticketID": "TI_E_Flipbook_#8marzo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3119,7 +3117,7 @@
     "has_eventID": "EV_E_Flipbook_#8marzo"
 },{
     "has_ticketID": "TI_E_Gaspare_Antonio_Baroni_Cavalcab\u00f2_e_la_pittura_in_Trentino_tra_Sei_e_Settecento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3129,7 +3127,7 @@
     "has_eventID": "EV_E_Gaspare_Antonio_Baroni_Cavalcab\u00f2_e_la_pittura_in_Trentino_tra_Sei_e_Settecento"
 },{
     "has_ticketID": "TI_E_Giornata_conclusiva_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3139,7 +3137,7 @@
     "has_eventID": "EV_E_Giornata_conclusiva_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile"
 },{
     "has_ticketID": "TI_E_Giovani_&_Comune",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3149,7 +3147,7 @@
     "has_eventID": "EV_E_Giovani_&_Comune"
 },{
     "has_ticketID": "TI_E_Gli_informatici,_i_volontari_che_hanno_aiutato_il_mondo_a_superare_il_covid_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3159,7 +3157,7 @@
     "has_eventID": "EV_E_Gli_informatici,_i_volontari_che_hanno_aiutato_il_mondo_a_superare_il_covid_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_I_disarmati._Profughi,_prigionieri_e_donne_del_fronte_italo-austriaco_The_Disarmed._Refugees,_Prisoners_and_Women_of_the_Austro-Italian_Front_a_cura_di_\u00c9tienne_Boisserie,_Marco_Mondini",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3169,7 +3167,7 @@
     "has_eventID": "EV_E_I_disarmati._Profughi,_prigionieri_e_donne_del_fronte_italo-austriaco_The_Disarmed._Refugees,_Prisoners_and_Women_of_the_Austro-Italian_Front_a_cura_di_\u00c9tienne_Boisserie,_Marco_Mondini"
 },{
     "has_ticketID": "TI_E_I_Giovedi'_dell'Astronomia_-_Il_futuro_dell'esplorazione_geologica_e_umana,_dalla_Luna_a_Marte._",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3179,7 +3177,7 @@
     "has_eventID": "EV_E_I_Giovedi'_dell'Astronomia_-_Il_futuro_dell'esplorazione_geologica_e_umana,_dalla_Luna_a_Marte._"
 },{
     "has_ticketID": "TI_E_I_Gioved\u00ec_dell'Astronomia_-_Asteroidi_vicini_alla_Terra._Minaccia,_ricerca,_contromisure",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3189,7 +3187,7 @@
     "has_eventID": "EV_E_I_Gioved\u00ec_dell'Astronomia_-_Asteroidi_vicini_alla_Terra._Minaccia,_ricerca,_contromisure"
 },{
     "has_ticketID": "TI_E_I_gioved\u00ec_della_zoologia-biologia_2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3199,7 +3197,7 @@
     "has_eventID": "EV_E_I_gioved\u00ec_della_zoologia-biologia_2021"
 },{
     "has_ticketID": "TI_E_I_Venerd\u00ec_dell'Archeologia_2020_-_Scavare_nel_passato._La_grande_avventura_dell'archeologia._",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3209,7 +3207,7 @@
     "has_eventID": "EV_E_I_Venerd\u00ec_dell'Archeologia_2020_-_Scavare_nel_passato._La_grande_avventura_dell'archeologia._"
 },{
     "has_ticketID": "TI_E_Il_cambiamento_che_vogliamo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3219,7 +3217,7 @@
     "has_eventID": "EV_E_Il_cambiamento_che_vogliamo"
 },{
     "has_ticketID": "TI_E_Il_duello._Dalle_parole_ai_fatti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3229,7 +3227,7 @@
     "has_eventID": "EV_E_Il_duello._Dalle_parole_ai_fatti"
 },{
     "has_ticketID": "TI_E_Il_falso_nell'arte._Alceo_Dossena_e_la_scultura_italiana_nel_Rinascimento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3239,7 +3237,7 @@
     "has_eventID": "EV_E_Il_falso_nell'arte._Alceo_Dossena_e_la_scultura_italiana_nel_Rinascimento"
 },{
     "has_ticketID": "TI_E_Il_famoso_canto_di_Natale_di_e_con_Giacomo_Anderle_e_Alessio_Kogoj_-_Teatro_in_Valle_Edizione_Kids_2020",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3249,7 +3247,7 @@
     "has_eventID": "EV_E_Il_famoso_canto_di_Natale_di_e_con_Giacomo_Anderle_e_Alessio_Kogoj_-_Teatro_in_Valle_Edizione_Kids_2020"
 },{
     "has_ticketID": "TI_E_Il_Governo_senza_orgoglio_di_Michele_Nicoletti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3259,7 +3257,7 @@
     "has_eventID": "EV_E_Il_Governo_senza_orgoglio_di_Michele_Nicoletti"
 },{
     "has_ticketID": "TI_E_Il_grande_viaggio._Lungo_le_carovaniere_della_Via_della_Seta",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3269,7 +3267,7 @@
     "has_eventID": "EV_E_Il_grande_viaggio._Lungo_le_carovaniere_della_Via_della_Seta"
 },{
     "has_ticketID": "TI_E_Il_Museo_Storico_Italiano_della_Guerra._Storia_e_prospettive",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3279,7 +3277,7 @@
     "has_eventID": "EV_E_Il_Museo_Storico_Italiano_della_Guerra._Storia_e_prospettive"
 },{
     "has_ticketID": "TI_E_IL_PANE_di_Klaudio_Findiku_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3289,7 +3287,7 @@
     "has_eventID": "EV_E_IL_PANE_di_Klaudio_Findiku_"
 },{
     "has_ticketID": "TI_E_Il_Professor_Scatoloni_di_e_con_Nicola_Sordo_-_Teatro_in_Valle_Edizione_Kids_2020",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3299,7 +3297,7 @@
     "has_eventID": "EV_E_Il_Professor_Scatoloni_di_e_con_Nicola_Sordo_-_Teatro_in_Valle_Edizione_Kids_2020"
 },{
     "has_ticketID": "TI_E_Il_rakugo_-_Shugo_Echizenya_-_3",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3309,7 +3307,7 @@
     "has_eventID": "EV_E_Il_rakugo_-_Shugo_Echizenya_-_3"
 },{
     "has_ticketID": "TI_E_Il_Sal8_del_musiceesta_-_live",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3319,7 +3317,7 @@
     "has_eventID": "EV_E_Il_Sal8_del_musiceesta_-_live"
 },{
     "has_ticketID": "TI_E_Incontro_letterario",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3329,7 +3327,7 @@
     "has_eventID": "EV_E_Incontro_letterario"
 },{
     "has_ticketID": "TI_E_Istruzioni_per_diventare_invincibili_con_la_dott.ssa_Silvana_De_Mari",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3339,7 +3337,7 @@
     "has_eventID": "EV_E_Istruzioni_per_diventare_invincibili_con_la_dott.ssa_Silvana_De_Mari"
 },{
     "has_ticketID": "TI_E_Juliette_on_the_Road_Loredana_Parrella_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3349,7 +3347,7 @@
     "has_eventID": "EV_E_Juliette_on_the_Road_Loredana_Parrella_"
 },{
     "has_ticketID": "TI_E_L'uomo_che_raccoglieva_la_plastica_di_e_con_Enrico_Tavernini_e_Carlo_Cenini",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3359,7 +3357,7 @@
     "has_eventID": "EV_E_L'uomo_che_raccoglieva_la_plastica_di_e_con_Enrico_Tavernini_e_Carlo_Cenini"
 },{
     "has_ticketID": "TI_E_La_bottega_dell'aria_di_e_con_Camilla_da_Vico",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3369,7 +3367,7 @@
     "has_eventID": "EV_E_La_bottega_dell'aria_di_e_con_Camilla_da_Vico"
 },{
     "has_ticketID": "TI_E_La_Campana_dei_Caduti_dalle_origini_agli_anni_\u201980",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3379,7 +3377,7 @@
     "has_eventID": "EV_E_La_Campana_dei_Caduti_dalle_origini_agli_anni_\u201980"
 },{
     "has_ticketID": "TI_E_La_Campana_dei_Caduti_e_la_fotografia._Documentazione_e_informazione",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3389,7 +3387,7 @@
     "has_eventID": "EV_E_La_Campana_dei_Caduti_e_la_fotografia._Documentazione_e_informazione"
 },{
     "has_ticketID": "TI_E_La_Campana_dei_Caduti._Un_monumento_tra_storia,_simbologie_e_miti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3399,7 +3397,7 @@
     "has_eventID": "EV_E_La_Campana_dei_Caduti._Un_monumento_tra_storia,_simbologie_e_miti"
 },{
     "has_ticketID": "TI_E_La_casa_come_complesso_in_Otto_Brunner._Concetti_e_profili_critici",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3409,7 +3407,7 @@
     "has_eventID": "EV_E_La_casa_come_complesso_in_Otto_Brunner._Concetti_e_profili_critici"
 },{
     "has_ticketID": "TI_E_La_didattica_digitale_non_\u00e8_sinonimo_di_didattica_a_distanza_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3419,7 +3417,7 @@
     "has_eventID": "EV_E_La_didattica_digitale_non_\u00e8_sinonimo_di_didattica_a_distanza_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_La_discesa_infinita_di_Enrico_Camanni",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3429,7 +3427,7 @@
     "has_eventID": "EV_E_La_discesa_infinita_di_Enrico_Camanni"
 },{
     "has_ticketID": "TI_E_La_Panchina_rossa_-_Giornata_contro_la_violenza_sulle_Donne",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3439,7 +3437,7 @@
     "has_eventID": "EV_E_La_Panchina_rossa_-_Giornata_contro_la_violenza_sulle_Donne"
 },{
     "has_ticketID": "TI_E_La_spiritualit\u00e0_che_alimenta_e_sostiene_il_corpo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3449,7 +3447,7 @@
     "has_eventID": "EV_E_La_spiritualit\u00e0_che_alimenta_e_sostiene_il_corpo"
 },{
     "has_ticketID": "TI_E_La_tecnologia_ci_cambia_la_vita_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3459,7 +3457,7 @@
     "has_eventID": "EV_E_La_tecnologia_ci_cambia_la_vita_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Lass\u00f9._Cieli_nell\u2019arte",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3469,7 +3467,7 @@
     "has_eventID": "EV_E_Lass\u00f9._Cieli_nell\u2019arte"
 },{
     "has_ticketID": "TI_E_Lavori_invisibili._Rendiamoli_visibili_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3479,7 +3477,7 @@
     "has_eventID": "EV_E_Lavori_invisibili._Rendiamoli_visibili_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile"
 },{
     "has_ticketID": "TI_E_Libert\u00e0_per_Patrick_Zaki",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3489,7 +3487,7 @@
     "has_eventID": "EV_E_Libert\u00e0_per_Patrick_Zaki"
 },{
     "has_ticketID": "TI_E_L\u2019et\u00e0_del_digitale_-_Informatici_Senza_Frontiere_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3499,7 +3497,7 @@
     "has_eventID": "EV_E_L\u2019et\u00e0_del_digitale_-_Informatici_Senza_Frontiere_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_L\u2019imprenditoria_tra_il_sociale_e_il_digitale._Nuove_forme_di_istruzione,_azione_e_partecipazione_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3509,7 +3507,7 @@
     "has_eventID": "EV_E_L\u2019imprenditoria_tra_il_sociale_e_il_digitale._Nuove_forme_di_istruzione,_azione_e_partecipazione_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_L\u2019inchiesta_spezzata._Perch\u00e9_hanno_ucciso_Pier_Paolo_Pasolini",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3519,7 +3517,7 @@
     "has_eventID": "EV_E_L\u2019inchiesta_spezzata._Perch\u00e9_hanno_ucciso_Pier_Paolo_Pasolini"
 },{
     "has_ticketID": "TI_E_L\u2019internet_africana_tra_DAD,_censura,_gap_su_accesso_e_contenuti,_decolonizzazione_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3529,7 +3527,7 @@
     "has_eventID": "EV_E_L\u2019internet_africana_tra_DAD,_censura,_gap_su_accesso_e_contenuti,_decolonizzazione_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_L\u2019inverno_dei_Leoni",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3539,7 +3537,7 @@
     "has_eventID": "EV_E_L\u2019inverno_dei_Leoni"
 },{
     "has_ticketID": "TI_E_match-di-improvvisazione-teatrale",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3549,7 +3547,7 @@
     "has_eventID": "EV_E_match-di-improvvisazione-teatrale"
 },{
     "has_ticketID": "TI_E_Migracode_\u2013_promoting_open_tech_education_for_refugees_and_migrants_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3559,7 +3557,7 @@
     "has_eventID": "EV_E_Migracode_\u2013_promoting_open_tech_education_for_refugees_and_migrants_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Moltiplichiamo_Azioni.Voci._Parole_ai_lavoratori_e_alle_lavoratrici_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3569,7 +3567,7 @@
     "has_eventID": "EV_E_Moltiplichiamo_Azioni.Voci._Parole_ai_lavoratori_e_alle_lavoratrici_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile"
 },{
     "has_ticketID": "TI_E_Mostri,_spiriti_e_creature_del_Giappone_-_Elisa_Tovazzi_-_2",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3579,7 +3577,7 @@
     "has_eventID": "EV_E_Mostri,_spiriti_e_creature_del_Giappone_-_Elisa_Tovazzi_-_2"
 },{
     "has_ticketID": "TI_E_Musica_Cittadina_R.Zandonai_Rovereto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3589,7 +3587,7 @@
     "has_eventID": "EV_E_Musica_Cittadina_R.Zandonai_Rovereto"
 },{
     "has_ticketID": "TI_E_Nati_con_la_camicia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3599,7 +3597,7 @@
     "has_eventID": "EV_E_Nati_con_la_camicia"
 },{
     "has_ticketID": "TI_E_Non_sar\u00f2_mai_un_influencer_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3609,7 +3607,7 @@
     "has_eventID": "EV_E_Non_sar\u00f2_mai_un_influencer_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Oltre_Penelope",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3619,7 +3617,7 @@
     "has_eventID": "EV_E_Oltre_Penelope"
 },{
     "has_ticketID": "TI_E_Palazzo_Noriller_a_Rovereto._Nuovi_studi_interdisciplinari",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3629,7 +3627,7 @@
     "has_eventID": "EV_E_Palazzo_Noriller_a_Rovereto._Nuovi_studi_interdisciplinari"
 },{
     "has_ticketID": "TI_E_Palazzo_Sichardt,_una_storia_Roveretana",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3639,7 +3637,7 @@
     "has_eventID": "EV_E_Palazzo_Sichardt,_una_storia_Roveretana"
 },{
     "has_ticketID": "TI_E_Passi_di_pace",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3649,7 +3647,7 @@
     "has_eventID": "EV_E_Passi_di_pace"
 },{
     "has_ticketID": "TI_E_Privacy_nella_societ\u00e0_digitale_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3659,7 +3657,7 @@
     "has_eventID": "EV_E_Privacy_nella_societ\u00e0_digitale_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Climbing_Gap:_l'extracurriculare_che_il_mondo_del_lavoro_apprezza",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3671,7 +3669,7 @@
     "has_eventID": "EV_E_Climbing_Gap:_l'extracurriculare_che_il_mondo_del_lavoro_apprezza"
 },{
     "has_ticketID": "TI_E_Recuperare_elasticit\u00e0_ed_equilibrio_con_gli_auto-trattamenti_a_cura_di_Leopoldo_Zampi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3681,7 +3679,7 @@
     "has_eventID": "EV_E_Recuperare_elasticit\u00e0_ed_equilibrio_con_gli_auto-trattamenti_a_cura_di_Leopoldo_Zampi"
 },{
     "has_ticketID": "TI_E_Respirare_per_aprirsi_al_mondo._Respirazione_e_Yoga_con_Riccardo_Rea_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3691,7 +3689,7 @@
     "has_eventID": "EV_E_Respirare_per_aprirsi_al_mondo._Respirazione_e_Yoga_con_Riccardo_Rea_"
 },{
     "has_ticketID": "TI_E_Rigeneriamoci_con_il_colore_per_sorridere_alla_vita_Webinar_esperienziale_con_Francesca_Miceli_Lilith_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3701,7 +3699,7 @@
     "has_eventID": "EV_E_Rigeneriamoci_con_il_colore_per_sorridere_alla_vita_Webinar_esperienziale_con_Francesca_Miceli_Lilith_"
 },{
     "has_ticketID": "TI_E_Sensoltre_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3711,7 +3709,7 @@
     "has_eventID": "EV_E_Sensoltre_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Simonetta_Vespucci._La_Venere_di_Botticelli,_la_sua_storia_e_la_sua_possibile_patologia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3721,7 +3719,7 @@
     "has_eventID": "EV_E_Simonetta_Vespucci._La_Venere_di_Botticelli,_la_sua_storia_e_la_sua_possibile_patologia"
 },{
     "has_ticketID": "TI_E_Sistemi_autonomi_ed_etica_delle_decisioni_nelle_interazioni_con_gli_esseri_umani_-_Informatici_Senza_Frontiere_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3731,7 +3729,7 @@
     "has_eventID": "EV_E_Sistemi_autonomi_ed_etica_delle_decisioni_nelle_interazioni_con_gli_esseri_umani_-_Informatici_Senza_Frontiere_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Sotto_la_stessa_Croce",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3741,7 +3739,7 @@
     "has_eventID": "EV_E_Sotto_la_stessa_Croce"
 },{
     "has_ticketID": "TI_E_Sotto_lo_stesso_Cielo._La_Campana_dei_Caduti_e_il_dialogo_tra_le_religioni",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3751,7 +3749,7 @@
     "has_eventID": "EV_E_Sotto_lo_stesso_Cielo._La_Campana_dei_Caduti_e_il_dialogo_tra_le_religioni"
 },{
     "has_ticketID": "TI_E_Storie_e_storia_2020_-_Weimar._La_Germania_dal_1918_al_1933_di_Gustavo_Corni",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3761,7 +3759,7 @@
     "has_eventID": "EV_E_Storie_e_storia_2020_-_Weimar._La_Germania_dal_1918_al_1933_di_Gustavo_Corni"
 },{
     "has_ticketID": "TI_E_Tartarugando_a_Sperimentarea",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3771,7 +3769,7 @@
     "has_eventID": "EV_E_Tartarugando_a_Sperimentarea"
 },{
     "has_ticketID": "TI_E_Tra_teologia_e_neuroscienze_Da_Rosmini_a_Prini",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3781,7 +3779,7 @@
     "has_eventID": "EV_E_Tra_teologia_e_neuroscienze_Da_Rosmini_a_Prini"
 },{
     "has_ticketID": "TI_E_Tradizione_e_conservazione._Archivi_roveretani_tra_antico_e_moderno",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3791,7 +3789,7 @@
     "has_eventID": "EV_E_Tradizione_e_conservazione._Archivi_roveretani_tra_antico_e_moderno"
 },{
     "has_ticketID": "TI_E_Un'identit\u00e0_errante._La_Via_Francigena_e_l\u2019eredit\u00e0_europea.",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3801,7 +3799,7 @@
     "has_eventID": "EV_E_Un'identit\u00e0_errante._La_Via_Francigena_e_l\u2019eredit\u00e0_europea."
 },{
     "has_ticketID": "TI_E_Un_Robot_al_Paese_Ritrovato_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3811,7 +3809,7 @@
     "has_eventID": "EV_E_Un_Robot_al_Paese_Ritrovato_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Un_viaggio_nella_psicologia_animale",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3821,7 +3819,7 @@
     "has_eventID": "EV_E_Un_viaggio_nella_psicologia_animale"
 },{
     "has_ticketID": "TI_E_Un\u2019estate_in_alpeggio",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3831,7 +3829,7 @@
     "has_eventID": "EV_E_Un\u2019estate_in_alpeggio"
 },{
     "has_ticketID": "TI_E_Verso_lo_sviluppo_di_una_Intelligenza_Artificiale_che_sia_rispettosa_di_tutti_-_ISF_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3841,7 +3839,7 @@
     "has_eventID": "EV_E_Verso_lo_sviluppo_di_una_Intelligenza_Artificiale_che_sia_rispettosa_di_tutti_-_ISF_-_Il_Festival"
 },{
     "has_ticketID": "TI_E_Vittorio_Sgarbi_presenta_Caravaggio_e_Burri",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3851,7 +3849,7 @@
     "has_eventID": "EV_E_Vittorio_Sgarbi_presenta_Caravaggio_e_Burri"
 },{
     "has_ticketID": "TI_E_Zehra_D\u014dgan,_l'arte_e_la_situazione_curda._",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3861,7 +3859,7 @@
     "has_eventID": "EV_E_Zehra_D\u014dgan,_l'arte_e_la_situazione_curda._"
 },{
     "has_ticketID": "TI_E_\u201cAdesso_viene_il_bello\u201d_di_Gigi_De_Palo_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3871,7 +3869,7 @@
     "has_eventID": "EV_E_\u201cAdesso_viene_il_bello\u201d_di_Gigi_De_Palo_"
 },{
     "has_ticketID": "TI_E_\u201cCome_osate\u201d_incontro_con_l'autore",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3881,7 +3879,7 @@
     "has_eventID": "EV_E_\u201cCome_osate\u201d_incontro_con_l'autore"
 },{
     "has_ticketID": "TI_P__adventures_open_day_arrampicata_corso_base",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3891,7 +3889,7 @@
     "has_eventID": "EV_P__adventures_open_day_arrampicata_corso_base"
 },{
     "has_ticketID": "TI_P__adventures_open_day_arrampicata_corso_intermedio",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3901,7 +3899,7 @@
     "has_eventID": "EV_P__adventures_open_day_arrampicata_corso_intermedio"
 },{
     "has_ticketID": "TI_P__breathrough_respira_al_parco_delle_albere",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3911,7 +3909,7 @@
     "has_eventID": "EV_P__breathrough_respira_al_parco_delle_albere"
 },{
     "has_ticketID": "TI_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3921,7 +3919,7 @@
     "has_eventID": "EV_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI"
 },{
     "has_ticketID": "TI_P_18\u00b0_Tappa_Giro_d'Italia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3931,7 +3929,7 @@
     "has_eventID": "EV_P_18\u00b0_Tappa_Giro_d'Italia"
 },{
     "has_ticketID": "TI_P_21\u00b0_edizione_Calciosplash_Lizzana",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3941,7 +3939,7 @@
     "has_eventID": "EV_P_21\u00b0_edizione_Calciosplash_Lizzana"
 },{
     "has_ticketID": "TI_P_30^_Edizione_Torneo_Internazionale_\u201cCitt\u00e0_della_Pace\u201d",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3951,7 +3949,7 @@
     "has_eventID": "EV_P_30^_Edizione_Torneo_Internazionale_\u201cCitt\u00e0_della_Pace\u201d"
 },{
     "has_ticketID": "TI_P_73\u00b0_Giro_podistico_internazionale",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3961,7 +3959,7 @@
     "has_eventID": "EV_P_73\u00b0_Giro_podistico_internazionale"
 },{
     "has_ticketID": "TI_P_Benessere_e_Natura_-_Giardini_Perlasca",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3971,7 +3969,7 @@
     "has_eventID": "EV_P_Benessere_e_Natura_-_Giardini_Perlasca"
 },{
     "has_ticketID": "TI_P_Benessere_e_Natura_-_Parco_Colorio",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3981,7 +3979,7 @@
     "has_eventID": "EV_P_Benessere_e_Natura_-_Parco_Colorio"
 },{
     "has_ticketID": "TI_P_Benessere_e_Natura_-_Parco_Dionisi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -3991,7 +3989,7 @@
     "has_eventID": "EV_P_Benessere_e_Natura_-_Parco_Dionisi"
 },{
     "has_ticketID": "TI_P_Benessere_e_Natura_-_Parco_Istria",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4001,7 +3999,7 @@
     "has_eventID": "EV_P_Benessere_e_Natura_-_Parco_Istria"
 },{
     "has_ticketID": "TI_P_Campionati_italiani_assoluti_di_atletica_leggera_7^_edizione",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4011,7 +4009,7 @@
     "has_eventID": "EV_P_Campionati_italiani_assoluti_di_atletica_leggera_7^_edizione"
 },{
     "has_ticketID": "TI_P_Campionato_Italiano_di_Societ\u00e0_2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4021,7 +4019,7 @@
     "has_eventID": "EV_P_Campionato_Italiano_di_Societ\u00e0_2021"
 },{
     "has_ticketID": "TI_P_Carosini_Collection_-_Iconic_Bicycle_Design",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4031,7 +4029,7 @@
     "has_eventID": "EV_P_Carosini_Collection_-_Iconic_Bicycle_Design"
 },{
     "has_ticketID": "TI_P_Carrousel_\u2013_Le_storie_sospese",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4041,7 +4039,7 @@
     "has_eventID": "EV_P_Carrousel_\u2013_Le_storie_sospese"
 },{
     "has_ticketID": "TI_P_Conosci_la_Bici,_ama_la_Bici",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4051,7 +4049,7 @@
     "has_eventID": "EV_P_Conosci_la_Bici,_ama_la_Bici"
 },{
     "has_ticketID": "TI_P_L'equilibrio_della_terra",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4061,7 +4059,7 @@
     "has_eventID": "EV_P_L'equilibrio_della_terra"
 },{
     "has_ticketID": "TI_P_Palio_Citt\u00e0_della_Quercia",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4071,7 +4069,7 @@
     "has_eventID": "EV_P_Palio_Citt\u00e0_della_Quercia"
 },{
     "has_ticketID": "TI_P_rafting-val-di-sole",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -4081,7 +4079,7 @@
     "has_eventID": "EV_P_rafting-val-di-sole"
 },{
     "has_ticketID": "TI_P_Vallagarina_Experience_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4091,7 +4089,7 @@
     "has_eventID": "EV_P_Vallagarina_Experience_Festival"
 },{
     "has_ticketID": "TI_T__adventures_i_bordolesi_del_trentino",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4101,7 +4099,7 @@
     "has_eventID": "EV_T__adventures_i_bordolesi_del_trentino"
 },{
     "has_ticketID": "TI_T__adventures_open_day_arrampicata_corso_base",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4111,7 +4109,7 @@
     "has_eventID": "EV_T__adventures_open_day_arrampicata_corso_base"
 },{
     "has_ticketID": "TI_T__adventures_open_day_arrampicata_corso_intermedio",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4121,7 +4119,7 @@
     "has_eventID": "EV_T__adventures_open_day_arrampicata_corso_intermedio"
 },{
     "has_ticketID": "TI_T__adventures_sunset_vibes",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4131,7 +4129,7 @@
     "has_eventID": "EV_T__adventures_sunset_vibes"
 },{
     "has_ticketID": "TI_T__adventures_trekking_alla_scoperta_del_monte_celva",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "</p><p>partecipazione gratuita per i bambini/ragazzi fino a 12 anni",
     "has_totalPurchase": 0,
@@ -4141,7 +4139,7 @@
     "has_eventID": "EV_T__adventures_trekking_alla_scoperta_del_monte_celva"
 },{
     "has_ticketID": "TI_T__adventures_treno_storico_elettrico_per_i_mercatini_di_natale_a_trento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4151,7 +4149,7 @@
     "has_eventID": "EV_T__adventures_treno_storico_elettrico_per_i_mercatini_di_natale_a_trento"
 },{
     "has_ticketID": "TI_T__trekking_alla_scoperta_del_monte_celva",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "</p><p>partecipazione gratuita per i bambini/ragazzi fino a 12 anni",
     "has_totalPurchase": 0,
@@ -4161,7 +4159,7 @@
     "has_eventID": "EV_T__trekking_alla_scoperta_del_monte_celva"
 },{
     "has_ticketID": "TI_T_Alla_scoperta_della_biodiversit\u00e0_dei_prati_falciati",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4171,7 +4169,7 @@
     "has_eventID": "EV_T_Alla_scoperta_della_biodiversit\u00e0_dei_prati_falciati"
 },{
     "has_ticketID": "TI_T_Borgo_Sacco_e_la_Manifattura_Dai_sigari_alla_sostenibilit\u00e0",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4181,7 +4179,7 @@
     "has_eventID": "EV_T_Borgo_Sacco_e_la_Manifattura_Dai_sigari_alla_sostenibilit\u00e0"
 },{
     "has_ticketID": "TI_T_discovery-trentino-w-esn",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4191,7 +4189,7 @@
     "has_eventID": "EV_T_discovery-trentino-w-esn"
 },{
     "has_ticketID": "TI_T_esnow-2019-20th-edition",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4201,7 +4199,7 @@
     "has_eventID": "EV_T_esnow-2019-20th-edition"
 },{
     "has_ticketID": "TI_T_esperienze--rovereto-e-vallagarina",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4211,7 +4209,7 @@
     "has_eventID": "EV_T_esperienze--rovereto-e-vallagarina"
 },{
     "has_ticketID": "TI_T_Il_chilometro_delle_meraviglie_-__Sette_secoli_di_storia_dal_quartiere_di_Santa_Maria_al_Mart",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4221,7 +4219,7 @@
     "has_eventID": "EV_T_Il_chilometro_delle_meraviglie_-__Sette_secoli_di_storia_dal_quartiere_di_Santa_Maria_al_Mart"
 },{
     "has_ticketID": "TI_T_ManifestAzioni_-_Trekking_solidale_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4231,7 +4229,7 @@
     "has_eventID": "EV_T_ManifestAzioni_-_Trekking_solidale_"
 },{
     "has_ticketID": "TI_T_mushroom-picking-w-esn",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4241,7 +4239,7 @@
     "has_eventID": "EV_T_mushroom-picking-w-esn"
 },{
     "has_ticketID": "TI_T_Naturali_amicizie_sul_Monte_Baldo._Tra_geologia_e_botanica",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4251,7 +4249,7 @@
     "has_eventID": "EV_T_Naturali_amicizie_sul_Monte_Baldo._Tra_geologia_e_botanica"
 },{
     "has_ticketID": "TI_T_Passeggiata_naturalistica_al_Fungo_di_Albaredo",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4261,7 +4259,7 @@
     "has_eventID": "EV_T_Passeggiata_naturalistica_al_Fungo_di_Albaredo"
 },{
     "has_ticketID": "TI_T_Passeggiata_sul_Monte_Zugna_a_caccia_di_insetti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4271,7 +4269,7 @@
     "has_eventID": "EV_T_Passeggiata_sul_Monte_Zugna_a_caccia_di_insetti"
 },{
     "has_ticketID": "TI_T_Pedalando_verso_l'isola_dei_tesori",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4281,7 +4279,7 @@
     "has_eventID": "EV_T_Pedalando_verso_l'isola_dei_tesori"
 },{
     "has_ticketID": "TI_T_Rovereto,_citt\u00e0_della_seta_-_Rogge_e_filatoi_raccontano_lo_sviluppo_economico_della_citt\u00e0_tra_Tardo_Medioevo_e_Rinascimento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4291,7 +4289,7 @@
     "has_eventID": "EV_T_Rovereto,_citt\u00e0_della_seta_-_Rogge_e_filatoi_raccontano_lo_sviluppo_economico_della_citt\u00e0_tra_Tardo_Medioevo_e_Rinascimento"
 },{
     "has_ticketID": "TI_T_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino_-_Dalla_Rovereto_nel_secolo_dei_lumi_alle_architetture_del_Mart",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4301,7 +4299,7 @@
     "has_eventID": "EV_T_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino_-_Dalla_Rovereto_nel_secolo_dei_lumi_alle_architetture_del_Mart"
 },{
     "has_ticketID": "TI_T_Trekking_botanico_lungo_il_torrente_Leno_fino_al_Ponte_delle_Zigherane",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4311,7 +4309,7 @@
     "has_eventID": "EV_T_Trekking_botanico_lungo_il_torrente_Leno_fino_al_Ponte_delle_Zigherane"
 },{
     "has_ticketID": "TI_T_Trekking_Urbani_a_Rovereto",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4321,7 +4319,7 @@
     "has_eventID": "EV_T_Trekking_Urbani_a_Rovereto"
 },{
     "has_ticketID": "TI_T_trekking-urbani",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4331,7 +4329,7 @@
     "has_eventID": "EV_T_trekking-urbani"
 },{
     "has_ticketID": "TI_T_trip-bolzano-esn-trento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -4341,7 +4339,7 @@
     "has_eventID": "EV_T_trip-bolzano-esn-trento"
 },{
     "has_ticketID": "TI_T_trip-verona-w-esn",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -4351,7 +4349,7 @@
     "has_eventID": "EV_T_trip-verona-w-esn"
 },{
     "has_ticketID": "TI_T_Viaggio_nella_Salisburgo_del_Trentino",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4361,7 +4359,7 @@
     "has_eventID": "EV_T_Viaggio_nella_Salisburgo_del_Trentino"
 },{
     "has_ticketID": "TI_T_virtual-citytour-w-esn",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -4371,7 +4369,7 @@
     "has_eventID": "EV_T_virtual-citytour-w-esn"
 },{
     "has_ticketID": "TI_T_walk-doss-trento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -4381,7 +4379,7 @@
     "has_eventID": "EV_T_walk-doss-trento"
 },{
     "has_ticketID": "TI_T_walk-doss",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -4391,7 +4389,7 @@
     "has_eventID": "EV_T_walk-doss"
 },{
     "has_ticketID": "TI_T_winery-tour-w-esn",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "bring your own one if you want); liBBQ dinner (drinks included); libreakfast (only cold drinks)  pAll the details to",
     "has_totalPurchase": 0,
@@ -4401,7 +4399,7 @@
     "has_eventID": "EV_T_winery-tour-w-esn"
 },{
     "has_ticketID": "TI_W__corso_andquotil_colloquio_di_selezioneandquot",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4411,7 +4409,7 @@
     "has_eventID": "EV_W__corso_andquotil_colloquio_di_selezioneandquot"
 },{
     "has_ticketID": "TI_W__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4421,7 +4419,7 @@
     "has_eventID": "EV_W__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021"
 },{
     "has_ticketID": "TI_W__wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4431,7 +4429,7 @@
     "has_eventID": "EV_W__wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde"
 },{
     "has_ticketID": "TI_W__wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4441,7 +4439,7 @@
     "has_eventID": "EV_W__wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021"
 },{
     "has_ticketID": "TI_W__workshop_andquotin_nome_di_chiandquot",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4451,7 +4449,7 @@
     "has_eventID": "EV_W__workshop_andquotin_nome_di_chiandquot"
 },{
     "has_ticketID": "TI_W__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
-    "has_event": "",
+     
     "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4461,7 +4459,7 @@
     "has_eventID": "EV_W__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii"
 },{
     "has_ticketID": "TI_W_Animart._Le_collezioni_del_museo_in_stop-motion",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4471,7 +4469,7 @@
     "has_eventID": "EV_W_Animart._Le_collezioni_del_museo_in_stop-motion"
 },{
     "has_ticketID": "TI_W_Corso_campane_tibetane_a_Trento",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4481,7 +4479,7 @@
     "has_eventID": "EV_W_Corso_campane_tibetane_a_Trento"
 },{
     "has_ticketID": "TI_W_Costruiamo_insieme_una_mangiatoia_per_uccellini!",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4491,7 +4489,7 @@
     "has_eventID": "EV_W_Costruiamo_insieme_una_mangiatoia_per_uccellini!"
 },{
     "has_ticketID": "TI_W_Educa_Immagine_2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4501,7 +4499,7 @@
     "has_eventID": "EV_W_Educa_Immagine_2021"
 },{
     "has_ticketID": "TI_W_Estate_ai_blocchi_di_partenza!",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4511,7 +4509,7 @@
     "has_eventID": "EV_W_Estate_ai_blocchi_di_partenza!"
 },{
     "has_ticketID": "TI_W_Identit\u00e0_sonore",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4521,7 +4519,7 @@
     "has_eventID": "EV_W_Identit\u00e0_sonore"
 },{
     "has_ticketID": "TI_W_Il_canto_degli_insetti",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4531,7 +4529,7 @@
     "has_eventID": "EV_W_Il_canto_degli_insetti"
 },{
     "has_ticketID": "TI_W_Impara_a_giocare_al_gioco_di_carte_collezionabili_Magic_The_Gathering",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4541,7 +4539,7 @@
     "has_eventID": "EV_W_Impara_a_giocare_al_gioco_di_carte_collezionabili_Magic_The_Gathering"
 },{
     "has_ticketID": "TI_W_La_bussola_della_finanza",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4551,7 +4549,7 @@
     "has_eventID": "EV_W_La_bussola_della_finanza"
 },{
     "has_ticketID": "TI_W_La_citt\u00e0_scoperta_",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4561,7 +4559,7 @@
     "has_eventID": "EV_W_La_citt\u00e0_scoperta_"
 },{
     "has_ticketID": "TI_W_La_citt\u00e0_scoperta_2021",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4571,7 +4569,7 @@
     "has_eventID": "EV_W_La_citt\u00e0_scoperta_2021"
 },{
     "has_ticketID": "TI_W_Leggere_il_clima_negli_anelli_degli_alberi",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4581,7 +4579,7 @@
     "has_eventID": "EV_W_Leggere_il_clima_negli_anelli_degli_alberi"
 },{
     "has_ticketID": "TI_W_ManifestAzioni_-_Fa_la_cosa_giusta",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4591,7 +4589,7 @@
     "has_eventID": "EV_W_ManifestAzioni_-_Fa_la_cosa_giusta"
 },{
     "has_ticketID": "TI_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4601,7 +4599,7 @@
     "has_eventID": "EV_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago"
 },{
     "has_ticketID": "TI_W_Nuvolette_2_Invasione_di_dinosauri_disegnati",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4611,7 +4609,7 @@
     "has_eventID": "EV_W_Nuvolette_2_Invasione_di_dinosauri_disegnati"
 },{
     "has_ticketID": "TI_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4621,7 +4619,7 @@
     "has_eventID": "EV_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival"
 },{
     "has_ticketID": "TI_W_Robotic_Lab",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4631,7 +4629,7 @@
     "has_eventID": "EV_W_Robotic_Lab"
 },{
     "has_ticketID": "TI_W_Rodari_incontra\u2026_Fortunato_Depero_e_Geoff_McFetridge",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4641,7 +4639,7 @@
     "has_eventID": "EV_W_Rodari_incontra\u2026_Fortunato_Depero_e_Geoff_McFetridge"
 },{
     "has_ticketID": "TI_W_Rural_Commons_Festival_-_Da_Ovest_a_Est",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4651,7 +4649,7 @@
     "has_eventID": "EV_W_Rural_Commons_Festival_-_Da_Ovest_a_Est"
 },{
     "has_ticketID": "TI_W_Teatro_dei_sogni_2021_-_Finale_over_25",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4661,7 +4659,7 @@
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Finale_over_25"
 },{
     "has_ticketID": "TI_W_Teatro_dei_sogni_2021_-_Finale_under_25",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4671,7 +4669,7 @@
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Finale_under_25"
 },{
     "has_ticketID": "TI_W_Teatro_dei_sogni_2021_-_Semifinale_under_25",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4681,7 +4679,7 @@
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Semifinale_under_25"
 },{
     "has_ticketID": "TI_W_Un_altro_giro__di_Thomas_Vinterberg",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4691,7 +4689,7 @@
     "has_eventID": "EV_W_Un_altro_giro_di_Thomas_Vinterberg"
 },{
     "has_ticketID": "TI_W_Un_sabato_con_il_Sole_sul_Monte_Zugna",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4701,7 +4699,7 @@
     "has_eventID": "EV_W_Un_sabato_con_il_Sole_sul_Monte_Zugna"
 },{
     "has_ticketID": "TI_W_Venerd\u00ec_a_lume_di_stella",
-    "has_event": "",
+     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
