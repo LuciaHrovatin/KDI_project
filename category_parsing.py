@@ -420,6 +420,7 @@ class EventType() :
             parse['has_language'] = self.check_language(parse) 
             parse['has_venue'] = self.create_venue(parse['has_venue'])
             del parse['has_type']
+            parse, ticket = self.free_entrance(parse, ticket)
             ## RICORDATI DI SCRIVERE A FILE 
             print('Writing {} to file'.format(parse['has_title'])) 
             self.writer([(ticket, 'ticket'), (parse,'socialEvents'),(virtual,'virtualLocation'),(creative_work,'CreativeWork'), (persona,'Person'),(organization,'Organization')])
@@ -725,6 +726,7 @@ class EventType() :
             parse['has_Archive'] = ''
             parse['has_language'] = self.check_language(parse) 
             parse['has_venue'] = self.create_venue(parse['has_venue'])
+            parse, ticket = self.free_entrance(parse, ticket)
             print('Writing {} to file'.format(parse['has_title'])) 
             del parse['has_type']
             self.writer([(ticket, 'ticket'), (parse,'culturalEvents'),(virtual,'virtualLocation'),(creative_music,'CreativeWork'),(creative_show,'CreativeWork'),(person_music, 'Person'),(person_show,'Person'),(organization,'Organization')])
@@ -881,6 +883,7 @@ class EventType() :
             parse['has_language'] = self.check_language(parse) 
             parse['has_venue'] = self.create_venue(parse['has_venue'])
             del parse['has_type']
+            parse, ticket = self.free_entrance(parse, ticket)
             print('Writing {} to file'.format(parse['has_title'])) 
             self.writer([(ticket, 'ticket'), (parse,'educationEvents'),(virtual,'virtualLocation'),(person,'Person'),(organizer,'Organization')])
            
@@ -1001,6 +1004,7 @@ class EventType() :
             parse['has_Archive'] = ''
             parse['has_language'] = self.check_language(parse)
             parse['has_venue'] = self.create_venue(parse['has_venue'])
+            parse, ticket = self.free_entrance(parse, ticket)
             print('Writing {} to file'.format(parse['has_title'])) 
             self.writer([(ticket, 'ticket'), (parse,'sportEvents'),(virtual,'virtualLocation'), (organization, 'Organization')])
                    
@@ -1081,6 +1085,7 @@ class EventType() :
                 parse['has_language'] = self.check_language(parse) 
                 parse['has_venue'] = self.create_venue(parse['has_venue'])
                 del parse['has_type']
+                parse, ticket = self.free_entrance(parse, ticket)
             print('Writing {} to file'.format(parse['has_title'])) 
             self.writer([(ticket, 'ticket'), (parse,'tourEvents'),(virtual,'virtualLocation'),(organizer,'Organization')])
                 
@@ -1193,6 +1198,7 @@ class EventType() :
             parse['has_venue'] = self.create_venue(parse['has_venue'])
             del parse['has_type']
             
+            parse, ticket = self.free_entrance(parse, ticket)
             print('Writing {} to file'.format(parse['has_title'])) 
             self.writer([(ticket, 'ticket'), (parse,'workshopEvents'),(virtual,'virtualLocation'), (creative,'CreativeWork'), (person, 'Person'), (organizer,'Organization')])
                              
@@ -1242,6 +1248,15 @@ class EventType() :
     def create_venue(self,address) :
         d = {'lat':'','lon':'','address':address}
         return d 
+
+    def free_entrance(self, dic, ticket) :
+        """RETURNS MODIFIED DICTS"""
+
+        dic['has_freeEntrance']  = ticket['has_freeEntrance'] 
+        del ticket['has_freeEntrance']
+
+        return dic, ticket
+
 
 
 ev = EventType() 
