@@ -382,7 +382,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -418,7 +418,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -454,7 +454,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -526,7 +526,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "(trento) trento"
+		"address": "trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -562,7 +562,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento esn event (trento) trento"
+		"address": "italy trento esn event trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -598,7 +598,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -634,7 +634,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -1103,7 +1103,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "(trento) trento"
+		"address": "trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -1175,7 +1175,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -1211,7 +1211,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -1355,7 +1355,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -1427,7 +1427,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",

@@ -402,7 +402,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -444,7 +444,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento esn event (trento) trento"
+		"address": "italy trento esn event trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -612,7 +612,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento (trento) trento"
+		"address": "italy trento trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1033,7 +1033,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy bolzano esn and trento (trento) trento"
+		"address": "italy bolzano esn and trento trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1075,7 +1075,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy verona (trento) trento"
+		"address": "italy verona trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1159,7 +1159,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1201,7 +1201,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy doss , piazza duomo (trento) trento"
+		"address": "italy doss , piazza duomo trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1243,7 +1243,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy doss , piazza duomo (trento) trento"
+		"address": "italy doss , piazza duomo trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1285,7 +1285,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy (trento) trento"
+		"address": "italy trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
