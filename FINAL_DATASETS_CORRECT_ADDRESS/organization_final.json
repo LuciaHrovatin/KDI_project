@@ -9,8 +9,8 @@
 	},
 	"has_firstName": "compagnia samovar"
 }, {
-	"has_name": "lagaris volley nazionale volley sorde fssi",
-	"has_id": "ORG_volley_nazionale_lagaris",
+	"has_name": "lagaris volley",
+	"has_id": "ORG_volley_lagaris",
 	"has_event": ["EV_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI"],
 	"has_venue": {
 		"lat": "",
@@ -18,8 +18,8 @@
 		"address": ""
 	}
 }, {
-	"has_name": "gruppo atletico &quot;palio",
-	"has_id": "ORG_Stadio_Quercia__via_Palestrina_",
+	"has_name": "Unione Sportiva Quercia",
+	"has_id": "ORG_Unione_sportiva_quercia",
 	"has_event": ["EV_P_Palio_Città_della_Quercia"],
 	"has_venue": {
 		"lat": "",
@@ -52,4 +52,45 @@
 		"lat": "",
 		"lon": "",
 		"address": "sede centrale JETN Trento"
-	}]
+	}}, 
+{
+	"has_name": "Guide Alpine del Trentino", 
+	"has_id" : "ORG_Guide_Alpine_del_Trentino" , 
+	"has_event": ["EV_P__adventures_open_day_arrampicata_corso_base", "EV_P__adventures_open_day_arrampicata_corso_intermedio"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "Via del Brennero, 159/A, 38121 Trento TN"
+	}
+}, 
+{ "has_name": "Aquila Basket Trento 2013 S.d.r.l.", 
+	"has_id": "org_233", 
+	"has_event": ["EV_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": ""
+	}}, 
+{
+"has_name" : "Club Ciclistico Gardolo", 
+"has_id": "ORG_Club_Ciclistico_Gardolo", 
+"has_event": ["EV_P_Conosci_la_Bici,_ama_la_Bici"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "Via Marco Pola, 7, 38121 Trento TN"
+	}
+
+}, 
+{
+	"has_name" : "La Via del Fuoco", 
+	"has_id": "ORG_La_Via_del_Fuoco", 
+	"has_event": ["EV_P_L'equilibrio_della_terra"],
+		"has_venue": {
+			"lat": "",
+			"lon": "",
+			"address": ""
+		}
+	
+	}
+]
