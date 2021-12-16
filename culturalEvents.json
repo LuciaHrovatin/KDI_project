@@ -36,6 +36,36 @@
     "has_Archive": "",
     "has_freeEntrance": false
 },{
+	"has_eventID": "EV_P_Carrousel_\u2013_Le_storie_sospese",
+	"has_title": "Carrousel \u2013 Le storie sospese",
+	"has_mode": "offline",
+	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/132794",
+	"has_targetAge": "",
+	"has_edition": 0,
+	"has_festivalStatus": false,
+	"has_language": ["it-IT"],
+	"has_start": "2021/08/26 03:30:00  AM",
+	"has_end": "2021/08/27 07:30:00  AM",
+	"has_recurrency": "False",
+	"has_organizer": "",
+	"has_specialAnnouncements": "",
+	"has_description": "Carrousel \u00e8 un\u2019installazione di storie itinerante, formata da un carosello di amache, un cantuccio delle storie e una ludoteca viaggiante.",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "weekly",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "15.30 19.30 giardini perlasca corso bettini trento"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "",
+	"has_ticket": "TI_C_Carrousel_\u2013_Le_storie_sospese",
+	"has_Archive": "",
+	"has_freeEntrance": false
+},{
     "has_eventID": "EV_C__Choros._Il_luogo_dove_si_danza_Alessio_Maria_Romano",
     "has_title": "  Choros. Il luogo dove si danza  Alessio Maria Romano",
     "has_mode": "offline",
