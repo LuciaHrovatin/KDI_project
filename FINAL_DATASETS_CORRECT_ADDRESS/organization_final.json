@@ -1,0 +1,55 @@
+[{
+	"has_name": "compagnia samovar e ass. cult. new project",
+	"has_id": "ORG_Teatro_di_Meano_,_Trento",
+	"has_event": ["EV_C__banda_storta_circus"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "teatro meano , trento trento"
+	},
+	"has_firstName": "compagnia samovar"
+}, {
+	"has_name": "lagaris volley nazionale volley sorde fssi",
+	"has_id": "ORG_volley_nazionale_lagaris",
+	"has_event": ["EV_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": ""
+	}
+}, {
+	"has_name": "gruppo atletico &quot;palio",
+	"has_id": "ORG_Stadio_Quercia__via_Palestrina_",
+	"has_event": ["EV_P_Palio_Città_della_Quercia"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "stadio quercia via palestrina trento"
+	}
+}, {
+	"has_name": "ESN Trento",
+	"has_id": "ORG_Trento_ESN",
+	"has_event": ["EV_T_discovery-trentino-w-esn","EV_T_esnow-2019-20th-edition", "EV_T_mushroom-picking-w-esn","EV_T_trip-bolzano-esn-trento","EV_T_winery-tour-w-esn","EV_T_trip-verona-w-esn","EV_T_virtual-citytour-w-esn"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "esn trento sede central trento"
+	}
+},{
+	"has_name": "studio di design Marameo",
+	"has_id": "ORG_Mart_Corso_Bettini_43",
+	"has_event": ["EV_W_Animart._Le_collezioni_del_museo_in_stop-motion"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "mart corso bettini 43 rovereto trento"
+	}
+}, {
+	"has_name": "JETN Trento",
+	"has_id": "ORG_JETN_Trento",
+	"has_event": ["EV_E_Climbing_Gap:_l'extracurriculare_che_il_mondo_del_lavoro_apprezza"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "sede centrale JETN Trento"
+	}]
