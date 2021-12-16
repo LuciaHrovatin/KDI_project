@@ -33,6 +33,36 @@
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
+	"has_eventID": "EV_C_Carosini_Collection_-_Iconic_Bicycle_Design",
+	"has_title": "Carosini Collection - Iconic Bicycle Design",
+	"has_mode": "offline",
+	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/131447",
+	"has_targetAge": "",
+	"has_edition": 0,
+	"has_festivalStatus": false,
+	"has_language": ["it-IT"],
+	"has_start": "2021/05/10 12:00:00  PM",
+	"has_end": "2021/05/28 12:00:00  PM",
+	"has_recurrency": "False",
+	"has_organizer": "",
+	"has_specialAnnouncements": "",
+	"has_description": "Apertura al pubblico il 27 maggio 2021 dalle ore 10.00 alle ore 17.00 in occasione della partenza della tappa del Giro d'Italia alla presenza dell'ing. Paolo Carosini",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "weekly",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "urban center corso antonio rosmini trento"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "",
+	"has_ticket": "TI_C_Carosini_Collection_-_Iconic_Bicycle_Design",
+	"has_Archive": "",
+	"has_freeEntrance": false
+},{
 	"has_eventID": "EV_C__Choros._Il_luogo_dove_si_danza_Alessio_Maria_Romano",
 	"has_title": "  Choros. Il luogo dove si danza  Alessio Maria Romano",
 	"has_mode": "offline",
