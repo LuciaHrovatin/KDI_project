@@ -2795,36 +2795,6 @@
     "has_purchaser": null,
     "has_eventID": "EV_E_autunno_fuxia_presentazione_del_libro_andquotdonne_delinquentiandquot_m_zucca"
 },{
-    "has_ticketID": "TI_E_il_corpo_della_voce_seminario",
-     
-    "has_onlineBooking": true,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "\"https://stayhappening.com/e/il-corpo-della-voce-seminario-E2ISTYIPY1J?ref=ep_sharer\"",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_E_il_corpo_della_voce_seminario"
-},{
-    "has_ticketID": "TI_E_il_teatro_antico_sulla_scena_contemporanea_gli_spettacoli_classici_nella_storia_del_piccolo_teatro",
-     
-    "has_onlineBooking": true,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "\"https://stayhappening.com/e/il-teatro-antico-sulla-scena-contemporanea-gli-spettacoli-classici-nella-storia-del-piccolo-teatro-E2ISU0O3YNC?ref=ep_sharer\"",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_E_il_teatro_antico_sulla_scena_contemporanea_gli_spettacoli_classici_nella_storia_del_piccolo_teatro"
-},{
-    "has_ticketID": "TI_E_Ivona_Pablo_Girolami_",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/132790",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_E_Ivona_Pablo_Girolami_"
-},{
     "has_ticketID": "TI_E_Abbasso_la_guerra._Persone_e_Movimenti_per_la_Pace_dall'800_a_oggi",
      
     "has_onlineBooking": false,
@@ -4495,6 +4465,16 @@
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Identit\u00e0_sonore"
+},{
+"has_ticketID": "TI_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora", 
+"has_onlineBooking": false,
+"has_extraBenefits": "",
+"has_totalPurchase": 0,
+"has_price": "1",
+    "has_currency": "EUR",
+    "has_purchaser": null,
+    "has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
+
 },{
     "has_ticketID": "TI_W_La_bussola_della_finanza",
      
