@@ -69,8 +69,8 @@
 	"has_id" : "ORG_Guide_Alpine_del_Trentino" , 
 	"has_event": ["EV_P__adventures_open_day_arrampicata_corso_base", "EV_P__adventures_open_day_arrampicata_corso_intermedio"],
 	"has_venue": {
-		"lat": "",
-		"lon": "",
+		"lat": 46.10799001348576,
+		"lon": 11.112780035991591,
 		"address": "Via del Brennero, 159/A, 38121 Trento TN"
 	}
 }, 
@@ -78,18 +78,18 @@
 	"has_id": "org_233", 
 	"has_event": ["EV_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona"],
 	"has_venue": {
-		"lat": "",
-		"lon": "",
-		"address": ""
+		"lat": 46.0500400075922,
+		"lon": 11.133119981332271,
+		"address": "Via Zambra, 11 - 38121 TRENTO ITALY"
 	}}, 
 {
 "has_name" : "Club Ciclistico Gardolo", 
 "has_id": "ORG_Club_Ciclistico_Gardolo", 
 "has_event": ["EV_P_Conosci_la_Bici,_ama_la_Bici"],
 	"has_venue": {
-		"lat": "",
-		"lon": "",
-		"address": "Via Marco Pola, 7, 38121 Trento TN"
+		"lat": 46.10799001348576,
+		"lon": 11.112780035991591,
+		"address": "Via Marco Polo, 7, 38121 Trento TN"
 	}
 
 }, 
@@ -98,9 +98,9 @@
 	"has_id": "ORG_La_Via_del_Fuoco", 
 	"has_event": ["EV_P_L'equilibrio_della_terra"],
 		"has_venue": {
-			"lat": "",
-			"lon": "",
-			"address": ""
+			"lat": 46.0500400075922,
+			"lon": 11.133119981332271,
+			"address": "via degli olmi 26 , Trento"
 		}
 	
 	}, 
@@ -108,8 +108,8 @@
 		"has_id": "ORG_Accademia_Impresa", 
 		"has_event": ["EV_W__corso_andquotil_colloquio_di_selezioneandquot"],
 			"has_venue": {
-				"lat": "",
-				"lon": "",
+				"lat": 46.046247327524235,
+				"lon": 11.138632662822983,
 				"address": "Via Asiago, 2, 38123 Trento TN"
 			}
 
@@ -118,8 +118,8 @@
 		"has_id": "ORG_Informatici_Senza_Frontiere", 
 		"has_event": ["EV_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival"],
 			"has_venue": {
-				"lat": "",
-				"lon": "",
+				"lat": 45.66080000000005,
+				"lon": 12.236012826000035,
 				"address": "Viale IV Novembre, 70/E, 31100,  Treviso (TV)"
 			}
 
@@ -129,8 +129,8 @@
 		"has_id": "ORG_Fondazione_Museo_Civico_di_Rovereto", 
 		"has_event": ["EV_W_Il_canto_degli_insetti", "EV_W_Estate_ai_blocchi_di_partenza!", "EV_W_Robotic_Lab", "EV_W_Un_sabato_con_il_Sole_sul_Monte_Zugna", "EV_W_Venerd\u00ec_a_lume_di_stella"],
 			"has_venue": {
-				"lat": "",
-				"lon": "",
+				"lat": 45.88987404709415,
+				"lon": 11.039051440252026,
 				"address": "Borgo Santa Caterina, 41, 38068 Rovereto TN"
 			}
 
@@ -140,8 +140,8 @@
 		"has_id": "ORG_Associazione_Culturale_Artisti", 
 		"has_event": ["EV_W_Teatro_dei_sogni_2021_-_Finale_under_25", "EV_W_Teatro_dei_sogni_2021_-_Semifinale_under_25"],
 			"has_venue": {
-				"lat": "",
-				"lon": "",
+				"lat": 45.88854001177873,
+				"lon": 11.045470000731513,
 				"address": "Vicolo San Giuseppe 1, 38068, Rovereto"
 			}
 	}
