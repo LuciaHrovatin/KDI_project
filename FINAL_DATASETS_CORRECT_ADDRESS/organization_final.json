@@ -44,7 +44,18 @@
 		"lon": "",
 		"address": "mart corso bettini 43 rovereto trento"
 	}
-}, {
+}, 
+{
+	"has_name": "Non una di meno",
+	"has_id": "ORG_Non_una_di_meno_Trento",
+	"has_event": ["EV_E_autunno_fuxia_presentazione_del_libro_andquotdonne_delinquentiandquot_m_zucca"],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": ""
+	}
+}, 
+{
 	"has_name": "JETN Trento",
 	"has_id": "ORG_JETN_Trento",
 	"has_event": ["EV_E_Climbing_Gap:_l'extracurriculare_che_il_mondo_del_lavoro_apprezza"],
