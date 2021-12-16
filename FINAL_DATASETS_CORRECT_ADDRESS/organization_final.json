@@ -142,6 +142,25 @@
 				"lon": "",
 				"address": "Via Campagnole, 10, Rovereto"
 			}
+	},
+	{"has_name" : "MART", 
+		"has_id": "ORG_MART", 
+		"has_event": ["EV_C__Comedians_di_Giuseppe_Salvatores","EV_C_8mm_di_storia._Pellicole_e_balocchi","8 mm di storia","EV_C_8mm_di_storia._Rovereto_dagli_anni_Venti_agli_anni_Ottanta_nei_film_d\u2019autore_e_amatoriali",
+		"EV_C_8mm_di_storia","EV_C_Botticelli,_il_suo_tempo,_e_il_nostro_tempo","EV_C_Canova_tra_innocenza_e_peccato","EV_C_Caravaggio._Il_contemporaneo",
+	"EV_C_Distant_voices,_still_lives","EV_C_Eleg\u00eca_delle_cose_perdute_Stefano_Mazzotta_","EV_C_Figli_di_Giuseppe_Bonito",
+"EV_C_Giornata_del_Contemporaneo","EV_C_Il_cattivo_poeta_di_Gianluca_Jodice","EV_C_Il_silenzio_della_citt\u00e0","EV_C_Il_sogno_di_Isidoro._25_ottobre_1927._Il_naufragio_del_\u201cPrincipessa_Mafalda\u201d_di_Maurizio_Panizza",
+"EV_C_io-vado-al-museo","EV_C_La_felicit\u00e0_degli_altri_di_Daniel_Cohen","EV_C_La_vita_che_verr\u00e0_-_Her_di_Phyllida_Lloyd","EV_C_La_vita_che_verr\u00e0_-_Her_di_Phyllida_Lloyd",
+"EV_C_Leonardo_contro_il_progetto","EV_C_Lontano_lontano_di_Gianni_Di_Gregorio","EV_C_Mart_-Museo_di_arte_moderna_e_contemporanea_di_Trento_e_Rovereto_-_Alla_scoperta_dell\u2019Archivio_del_\u2018900",
+"EV_C_Mart_-Museo_di_arte_moderna_e_contemporanea_di_Trento_e_Rovereto_-_L\u2019architettura_del_MART","EV_C_Minari_di_Lee_Isaac_Chung","EV_C_Nomadland_di_Chlo\u00e9_Zhao",
+"EV_C_Picasso,_de_Chirico_e_Dal\u00ec._Dialogo_con_Raffaello","EV_C_Reopening_Colosseum_-_Il_Colosseo_in_Quarantena","EV_C_Rifkin's_Festival_di_Woody_Allen",
+"EV_C_The_father_-_Nulla_\u00e8_come_sembra_di_Florian_Zeller","EV_C_The_specials_-_Fuori_dal_comune_di_Oliver_Nakache,_Eric_Toledano",
+"EV_C_Un_altro_giro_di_Thomas_Vinterberg","EV_C_Un_divano_a_Tunisi_di_Manele_Labidi_Labb\u00e9","EV_C_Volevo_nascondermi_di_Giorgio_Diritti",
+""],
+			"has_venue": {
+				"lat": 45.89407001430823,
+				"lon": 11.043679961489374,
+				"address": "Corso Bettini 43, 38068, Rovereto"
+			}
 	}
 	
 ]
