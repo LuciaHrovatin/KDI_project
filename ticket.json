@@ -4707,4 +4707,14 @@
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Venerd\u00ec_a_lume_di_stella"
+}, 
+{
+"has_ticketID": "TI_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona",
+"has_onlineBooking": true,
+"has_extraBenefits": "Il biglietto per la curva riservato agli universitari ha un costo di soli 10€.",
+"has_totalPurchase": 0,
+"has_price": "https://tickets.aquilabasket.it",
+"has_currency": "EUR",
+"has_purchaser": null,
+"has_eventID": "EV_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona"
 }]
