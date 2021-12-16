@@ -6,7 +6,15 @@
     "has_id": "",
     "has_artistStatus": false,
     "has_event": []
-},{
+},{ "has_firstName": "Nadia",
+    "has_middleName": "",
+    "has_lastName": "",
+    "has_preferredName": "",
+    "has_id": "pr_287450",
+    "has_artistStatus": false,
+    "has_event": ["EV_W__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021"]
+}, 
+{
     "has_firstName": "",
     "has_middleName": "",
     "has_lastName": "",

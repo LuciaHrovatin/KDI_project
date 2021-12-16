@@ -35,7 +35,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P__adventures_open_day_arrampicata_corso_base",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -76,7 +76,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P__adventures_open_day_arrampicata_corso_intermedio",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -117,7 +117,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": true,
+	"has_needOfMaterials": "tappetino per sedersi a terra",
 	"has_ticket": "TI_P__breathrough_respira_al_parco_delle_albere",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -159,7 +159,7 @@
 		"has_event": ["EV_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI"],
 		"has_venue": ""
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_match": true,
 	"has_ticket": "TI_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI",
 	"has_Archive": "",
@@ -201,7 +201,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_18\u00b0_Tappa_Giro_d'Italia",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -243,7 +243,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_18\u00b0_Tappa_Giro_d'Italia",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -284,7 +284,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_match": true,
 	"has_ticket": "TI_P_21\u00b0_edizione_Calciosplash_Lizzana",
 	"has_Archive": "",
@@ -326,7 +326,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_match": true,
 	"has_ticket": "TI_P_30^_Edizione_Torneo_Internazionale_\u201cCitt\u00e0_della_Pace\u201d",
 	"has_Archive": "",
@@ -368,7 +368,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_match": true,
 	"has_ticket": "TI_P_73\u00b0_Giro_podistico_internazionale",
 	"has_Archive": "",
@@ -410,7 +410,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Benessere_e_Natura_-_Giardini_Perlasca",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -451,7 +451,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Benessere_e_Natura_-_Parco_Colorio",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -492,7 +492,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Benessere_e_Natura_-_Parco_Dionisi",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -533,7 +533,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Benessere_e_Natura_-_Parco_Istria",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -574,7 +574,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Campionati_italiani_assoluti_di_atletica_leggera_7^_edizione",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -615,7 +615,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Campionato_Italiano_di_Societ\u00e0_2021",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -656,7 +656,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": true,
+	"has_needOfMaterials": "bicicletta e casco",
 	"has_ticket": "TI_P_Conosci_la_Bici,_ama_la_Bici",
 	"has_Archive": "",
 	"has_freeEntrance": true
@@ -697,7 +697,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_L'equilibrio_della_terra",
 	"has_Archive": "",
 	"has_freeEntrance": true
@@ -739,7 +739,7 @@
 		"has_event": ["EV_P_Palio_Citt\u00e0_della_Quercia"],
 		"has_venue": "Stadio  Quercia   via  Palestrina "
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Palio_Citt\u00e0_della_Quercia",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -780,7 +780,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": true,
+	"has_needOfMaterials": "food and drink",
 	"has_ticket": "TI_P_rafting-val-di-sole",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -821,7 +821,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Vallagarina_Experience_Festival",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -863,7 +863,7 @@
 		"has_id": "org_233",
 		"has_event": ["EV_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona"]
 	},
-	"has_needOfMaterials": false,
+	"has_needOfMaterials": "",
 	"has_ticket": "TI_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona",
 	"has_Archive": "",
 	"has_freeEntrance": false

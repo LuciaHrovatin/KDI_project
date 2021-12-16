@@ -2208,7 +2208,6 @@
     "has_eventID": "EV_C_Trento_e_il_25_aprile"
 },{
     "has_ticketID": "TI_C_Un altro giro  di Thomas Vinterberg",
-     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4469,11 +4468,10 @@
     "has_eventID": "EV_W_Animart._Le_collezioni_del_museo_in_stop-motion"
 },{
     "has_ticketID": "TI_W_Corso_campane_tibetane_a_Trento",
-     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
-    "has_price": 50.0,
+    "has_price": "160.0",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Corso_campane_tibetane_a_Trento"
@@ -4488,55 +4486,15 @@
     "has_purchaser": null,
     "has_eventID": "EV_W_Costruiamo_insieme_una_mangiatoia_per_uccellini!"
 },{
-    "has_ticketID": "TI_W_Educa_Immagine_2021",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/133878",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_W_Educa_Immagine_2021"
-},{
-    "has_ticketID": "TI_W_Estate_ai_blocchi_di_partenza!",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/132138",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_W_Estate_ai_blocchi_di_partenza!"
-},{
     "has_ticketID": "TI_W_Identit\u00e0_sonore",
      
     "has_onlineBooking": false,
-    "has_extraBenefits": "",
+    "has_extraBenefits": "Ore 20.00: Buffet di restituzione per i partecipanti",
     "has_totalPurchase": 0,
     "has_price": "https://www.comune.rovereto.tn.it/openpa/object/133548",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Identit\u00e0_sonore"
-},{
-    "has_ticketID": "TI_W_Il_canto_degli_insetti",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/132567",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_W_Il_canto_degli_insetti"
-},{
-    "has_ticketID": "TI_W_Impara_a_giocare_al_gioco_di_carte_collezionabili_Magic_The_Gathering",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/132563",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_W_Impara_a_giocare_al_gioco_di_carte_collezionabili_Magic_The_Gathering"
 },{
     "has_ticketID": "TI_W_La_bussola_della_finanza",
      
@@ -4589,31 +4547,19 @@
     "has_eventID": "EV_W_ManifestAzioni_-_Fa_la_cosa_giusta"
 },{
     "has_ticketID": "TI_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
-     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/128925",
+    "has_price": "25",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago"
 },{
-    "has_ticketID": "TI_W_Nuvolette_2_Invasione_di_dinosauri_disegnati",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/131549",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_W_Nuvolette_2_Invasione_di_dinosauri_disegnati"
-},{
     "has_ticketID": "TI_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
-     
-    "has_onlineBooking": false,
+    "has_onlineBooking": true,
     "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/134237",
+    "has_totalPurchase": 151,
+    "has_price": "https://www.eventbrite.it/e/biglietti-survethi-prevenire-le-epidemie-grazie-ai-dati-isf-festival-2021-176276847797",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival"
@@ -4623,20 +4569,10 @@
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/132577",
+    "has_price": "6 euro",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Robotic_Lab"
-},{
-    "has_ticketID": "TI_W_Rodari_incontra\u2026_Fortunato_Depero_e_Geoff_McFetridge",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/128908",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_W_Rodari_incontra\u2026_Fortunato_Depero_e_Geoff_McFetridge"
 },{
     "has_ticketID": "TI_W_Rural_Commons_Festival_-_Da_Ovest_a_Est",
      
@@ -4659,11 +4595,10 @@
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Finale_over_25"
 },{
     "has_ticketID": "TI_W_Teatro_dei_sogni_2021_-_Finale_under_25",
-     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/133701",
+    "has_price": "10 euro",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Finale_under_25"
@@ -4673,23 +4608,12 @@
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/133696",
+    "has_price": "10 euro",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Semifinale_under_25"
 },{
-    "has_ticketID": "TI_W_Un_altro_giro__di_Thomas_Vinterberg",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/132714",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_W_Un_altro_giro_di_Thomas_Vinterberg"
-},{
     "has_ticketID": "TI_W_Un_sabato_con_il_Sole_sul_Monte_Zugna",
-     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -4703,7 +4627,7 @@
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/132561",
+    "has_price": "6",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_W_Venerd\u00ec_a_lume_di_stella"
