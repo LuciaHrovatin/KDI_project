@@ -93,7 +93,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "facoltà lettere trento, aula 111 , trento"
+		"address": "Via Tommaso Gar, 14, 38122 Trento"
 	},
 	"has_virtualLocation": "VI_https://stayhappening.com/e/il-teatro-antico-sulla-scena-contemporanea-gli-spettacoli-classici-nella-storia-del-piccolo-teatro-E2ISU0O3YNC?ref=ep_sharer",
 	"has_superEvent": "",
@@ -147,37 +147,37 @@
 	"has_title": "Abbasso la guerra. Persone e Movimenti per la Pace dall'800 a oggi",
 	"has_mode": "offline",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/128119",
-	"has_targetAge": "",
+	"has_targetAge": "per giovani e adulti",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2020/11/06 12:00:00  PM",
 	"has_end": "2020/11/06 12:00:00  PM",
-	"has_recurrency":  false,
+	"has_recurrency":  true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "Per ricordare il 100^ anniversario della fine del primo conflitto Mondiale (1914 -1918)",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "daily",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "13 biblioteca civica g. tartarotti corso bettini 43 trento"
+		"address": "Corso Bettini, 43, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Storia",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
 	"has_ECTS": false,
 	"has_interaction": false,
-	"has_ticket": "TI_E_Abbasso_la_guerra._Persone_e_Movimenti_per_la_Pace_dall'800_a_oggi",
+	"has_ticket": "",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": true
 }, {
 	"has_eventID": "EV_E_Abitare_la_speranza",
 	"has_title": "Abitare la speranza",
