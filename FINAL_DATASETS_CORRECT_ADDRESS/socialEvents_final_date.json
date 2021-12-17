@@ -33,7 +33,8 @@
 	"has_MusicWork": "CW_EV_S_afro_funky_halloween",
 	"has_ticket": "TI_ afro funky halloween_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": "RA_EV_S__afro_funky_halloween"
 }, {
 	"has_eventID": "EV_S__art_pandemike_poetry_slam",
 	"has_title": " art pandemike poetry slam",
@@ -68,7 +69,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_S_art pandemike poetry slam_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S__live_unplugged",
 	"has_title": " live unplugged",
@@ -103,7 +105,8 @@
 	"has_MusicWork": "CW_EV_S_live_unplugged",
 	"has_ticket": "TI_ live unplugged_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibile",
 	"has_title": " mondo donna il ritorno di una fiera imperdibile",
@@ -138,7 +141,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_ mondo donna il ritorno di una fiera imperdibile_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S__mondo_donna_ottobre_2021",
 	"has_title": " mondo donna ottobre 2021",
@@ -173,7 +177,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_ mondo donna ottobre 2021_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S__pandemike_poetry_slam",
 	"has_title": " pandemike poetry slam",
@@ -208,7 +213,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_ pandemike poetry slam_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S__pfaff_a_mondo_donna_trento_con_sara_poiese",
 	"has_title": " pfaff a mondo donna trento con sara poiese",
@@ -243,7 +249,8 @@
 	"has_freeEntrance": false,
 	"has_MusicWork": "",
 	"has_ticket": "TI_ pfaff a mondo donna trento con sara poiese_S",
-	"has_Archive": ""
+	"has_Archive": "",
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S__sunset_vibes",
 	"has_title": " sunset vibes",
@@ -277,7 +284,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_ sunset vibes_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S__wellness_i_mercatini_del_trentino_andamp_spa",
 	"has_title": " wellness i mercatini del trentino andamp spa",
@@ -312,7 +320,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_ wellness i mercatini del trentino andamp spa_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_...c'era_una_volta_Rovereto",
 	"has_title": "...c'era una volta Rovereto",
@@ -347,7 +356,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_...c'era una volta Rovereto_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_carnival-party-esn-padova",
 	"has_title": "carnival-party-esn-padova",
@@ -382,7 +392,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_carnival-party-esn-padova_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_citytour-speed-friending-w-esn",
 	"has_title": "citytour-speed-friending-w-esn",
@@ -417,7 +428,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_citytour-speed-friending-w-esn_S",
 	"has_Archive": "",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_cooking-time-w-esn",
 	"has_title": "cooking-time-w-esn",
@@ -452,7 +464,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_cooking-time-w-esn_S",
 	"has_Archive": "",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Distretto_della_cultura_\u2013_2_giorni_di_arte_musica_e_giocoleria",
 	"has_title": "Distretto della cultura \u2013 2 giorni di arte musica e giocoleria",
@@ -487,7 +500,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Distretto della cultura \u2013 2 giorni di arte musica e giocoleria_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_esn-farewell-party",
 	"has_title": "esn-farewell-party",
@@ -522,7 +536,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_esn-farewell-party_S",
 	"has_Archive": "",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_game-night-w-esn-bologna-esn-trento",
 	"has_title": "game-night-w-esn-bologna-esn-trento",
@@ -557,7 +572,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_game-night-w-esn-bologna-esn-trento_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_goodbye-summer-days",
 	"has_title": "goodbye-summer-days",
@@ -592,7 +608,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_goodbye-summer-days_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_halloween-party-w-esn-trento",
 	"has_title": "halloween-party-w-esn-trento",
@@ -628,7 +645,8 @@
 	"has_ticket": "TI_halloween-party-w-esn-trento_S",
 	"has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Il_sogno._Shakespeare_al_Parco_alla_Pozza_di_Noriglio",
 	"has_title": "Il sogno. Shakespeare al Parco alla Pozza di Noriglio",
@@ -663,7 +681,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Il sogno. Shakespeare al Parco alla Pozza di Noriglio_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Il_sogno._Shakespeare_al_Parco_Fedrigotti",
 	"has_title": "Il sogno. Shakespeare al Parco Fedrigotti",
@@ -698,7 +717,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Il sogno. Shakespeare al Parco Fedrigotti_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Mercatino_d'altri_tempi",
 	"has_title": "Mercatino d'altri tempi",
@@ -733,7 +753,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Mercatino d'altri tempi_S",
 	"has_Archive": "",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Mercatino_dei_Gaudenti",
 	"has_title": "Mercatino dei Gaudenti",
@@ -768,7 +789,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Mercatino dei Gaudenti_S",
 	"has_Archive": "",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Mercatino_delle_pulci_a_Piedicastello_2021",
 	"has_title": "Mercatino delle pulci a Piedicastello 2021",
@@ -803,7 +825,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Mercatino delle pulci a Piedicastello 2021_S",
 	"has_Archive": "",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Mercato_prodotti_agricoli_e_biologici",
 	"has_title": "Mercato prodotti agricoli e biologici",
@@ -838,7 +861,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Mercato prodotti agricoli e biologici_S",
 	"has_Archive": "",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Milonga_d\u2019estate_-_Il_tempo_di_un_abbraccio_ritrovato",
 	"has_title": "Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato",
@@ -873,7 +897,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Moltiplichiamo_Azioni._Sfilata_di_moda_etica._-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
 	"has_title": "Moltiplichiamo Azioni. Sfilata di moda etica.  - Il Festival delle idee per uno sviluppo sostenibile",
@@ -908,7 +933,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Moltiplichiamo Azioni. Sfilata di moda etica.  - Il Festival delle idee per uno sviluppo sostenibile_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Moltiplichiamo_Parole_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
 	"has_title": "Moltiplichiamo Parole - Il Festival delle idee per uno sviluppo sostenibile",
@@ -943,7 +969,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Moltiplichiamo Parole - Il Festival delle idee per uno sviluppo sostenibile_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Na_Festa_per_tuti",
 	"has_title": "Na Festa per tuti",
@@ -978,7 +1005,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Na Festa per tuti_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Noriglio_in_Festa",
 	"has_title": "Noriglio in Festa",
@@ -1013,7 +1041,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Noriglio in Festa_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_ottobre-2020-al-#kairos-giovani",
 	"has_title": "ottobre-2020-al-#kairos-giovani",
@@ -1048,7 +1077,8 @@
 	"has_freeEntrance": true,
 	"has_MusicWork": "",
 	"has_ticket": "TI_ottobre-2020-al-#kairos-giovani_S",
-	"has_Archive": ""
+	"has_Archive": "",
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_poolparty-verona-esn-trento",
 	"has_title": "poolparty-verona-esn-trento",
@@ -1083,7 +1113,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_poolparty-verona-esn-trento_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Processione_annuale_Madonna_del_Monte_Carmelo",
 	"has_title": "Processione annuale Madonna del Monte Carmelo",
@@ -1118,7 +1149,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Processione annuale Madonna del Monte Carmelo_S",
 	"has_Archive": "AR_EV_S_Processione_annuale_Madonna_del_Monte_Carmelo",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_recruiting-esn-trento-20212022",
 	"has_title": "recruiting-esn-trento-20212022",
@@ -1153,7 +1185,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_recruiting-esn-trento-20212022_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Romance_del_Diablo_-_SetteNovecento",
 	"has_title": "Romance del Diablo - SetteNovecento",
@@ -1188,7 +1221,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Romance del Diablo - SetteNovecento_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Rovereto_INtrecci_di_Farfalle",
 	"has_title": "Rovereto INtrecci di Farfalle",
@@ -1223,7 +1257,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Rovereto INtrecci di Farfalle_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_Rovereto_Vintage_Festival",
 	"has_title": "Rovereto Vintage Festival",
@@ -1258,7 +1293,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Rovereto Vintage Festival_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_speed-friending-w-esn",
 	"has_title": "speed-friending-w-esn",
@@ -1293,7 +1329,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_speed-friending-w-esn_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_UTILE_IMPRESA_-_Rovereto_e_la_sua_Cassa_di_Risparmio_180_anni_dopo",
 	"has_title": "UTILE IMPRESA - Rovereto e la sua Cassa di Risparmio 180 anni dopo",
@@ -1328,7 +1365,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_UTILE IMPRESA - Rovereto e la sua Cassa di Risparmio 180 anni dopo_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 }, {
 	"has_eventID": "EV_S_welcome-week-0",
 	"has_title": "welcome-week-0",
@@ -1363,7 +1401,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_welcome-week-0_S",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": false,
+	"has_ranking": ""
 },{
 	"has_eventID": "EV_S_Processione_annuale_Madonna_del_Monte_Carmelo_2019",
 	"has_title": "Processione annuale Madonna del Monte Carmelo",
@@ -1398,7 +1437,8 @@
 	"has_MusicWork": "",
 	"has_ticket": "TI_Processione annuale Madonna del Monte Carmelo_2019_S",
 	"has_Archive": "AR_EV_S_Processione_annuale_Madonna_del_Monte_Carmelo",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 },{
 	"has_eventID": "EV_S_MercoleGIN",
 	"has_title": "Mercolegin",
@@ -1432,6 +1472,7 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_MercoleGIN_S",
-	"has_freeEntrance": true
+	"has_freeEntrance": true,
+	"has_ranking": ""
 }
 ]
