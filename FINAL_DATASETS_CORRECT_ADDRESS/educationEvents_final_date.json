@@ -163,7 +163,7 @@
 		"lon": "",
 		"address": "Via Tommaso Gar, 14, 38122 Trento"
 	},
-	"has_virtualLocation": "VI_https://stayhappening.com/e/il-teatro-antico-sulla-scena-contemporanea-gli-spettacoli-classici-nella-storia-del-piccolo-teatro-E2ISU0O3YNC?ref=ep_sharer",
+	"has_virtualLocation": "VL_https://stayhappening.com/e/il-teatro-antico-sulla-scena-contemporanea-gli-spettacoli-classici-nella-storia-del-piccolo-teatro-E2ISU0O3YNC?ref=ep_sharer",
 	"has_superEvent": "",
 	"has_topic": "Arts & History",
 	"has_finalCertificate": false,
@@ -3079,7 +3079,7 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "VI_https://www.comune.rovereto.tn.it/openpa/object/131099",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/131099",
 	"has_superEvent": "",
 	"has_topic": "Arts",
 	"has_finalCertificate": false,

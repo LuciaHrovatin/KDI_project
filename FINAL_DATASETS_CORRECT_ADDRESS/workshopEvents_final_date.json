@@ -54,7 +54,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via travai, 66, 38122 trento tn, italia ,"
+		"address": "via travai, 66, 38122 trento, italia ,"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -87,7 +87,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "centro olistico olos trento , trento"
+		"address": "centro olistico olos, Via Brescia, 1, 38079"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -120,7 +120,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via travai, 66, 38122 trento tn, italia ,"
+		"address": "via travai, 66, 38122 trento, italia ,"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -153,7 +153,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "villa sant'ignazio , trento"
+		"address": "Via delle Laste,38121, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -191,9 +191,9 @@
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_finalProduct": "CW__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
-	"has_materialRequirement": false,
+	"has_materialRequirement": true,
 	"has_tutor": "",
-	"has_ticket": null,
+	"has_ticket": "EV_W__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
 	"has_Archive": "",
 	"has_freeEntrance": true
 }, {
@@ -201,7 +201,7 @@
 	"has_title": "Animart. Le collezioni del museo in stop-motion",
 	"has_mode": "offline",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/128924",
-	"has_targetAge": "",
+	"has_targetAge": "15-20",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
@@ -219,7 +219,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini 43 trento"
+		"address": "MART, corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -234,7 +234,7 @@
 	"has_title": "Corso campane tibetane a Trento",
 	"has_mode": "offline",
 	"has_link": "https://tinyurl.com/phtxd9p6",
-	"has_targetAge": "",
+	"has_targetAge": "over 18",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": [],
@@ -252,7 +252,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "viale degli olmi, 24 trento"
+		"address": "viale degli olmi, 24, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -267,7 +267,7 @@
 	"has_title": "Costruiamo insieme una mangiatoia per uccellini!",
 	"has_mode": "online",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/129034",
-	"has_targetAge": "",
+	"has_targetAge": "<18",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
@@ -278,7 +278,7 @@
 	"has_specialAnnouncements": "",
 	"has_description": "Video tutorial creativo per i pi\u00f9 piccoli",
 	"has_terminated": true,
-	"has_hashtag": [],
+	"has_hashtag": ["CostruiamoInsieme"],
 	"has_distance": false,
 	"has_schedule": "",
 	"has_transportMode": [],
@@ -287,7 +287,7 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/129034",
 	"has_superEvent": "",
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
@@ -318,9 +318,9 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Corso Bettini, 84"
+		"address": "Corso Bettini, 84, Rovereto"
 	},
-	"has_virtualLocation": "VI_https://www.comune.rovereto.tn.it/openpa/object/133878",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/133878",
 	"has_superEvent": "",
 	"has_finalProduct": "CW_Educa_Immagine_2021",
 	"has_materialRequirement": false,
@@ -483,7 +483,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": " Corso a. a. rosmini 58 trento"
+		"address": " Corso A.Rosmini 58, 38122, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -509,14 +509,14 @@
 	"has_specialAnnouncements": "",
 	"has_description": "Laboratori di danza, meditazione, colore, bioenergetica e ascolto della natura.",
 	"has_terminated": true,
-	"has_hashtag": [],
+	"has_hashtag": ["Danza"],
 	"has_distance": false,
 	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Dante 38068 Rovereto TN"
+		"address": "Via Dante, 38068 Rovereto TN"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -584,7 +584,7 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "VI_https://www.comune.rovereto.tn.it/openpa/object/128640",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/128640",
 	"has_superEvent": "",
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
@@ -608,7 +608,7 @@
 	"has_specialAnnouncements": "",
 	"has_description": "ManifestAzioni - Fa la cosa giusta - laboratori, swap party, dialoghi aperti",
 	"has_terminated": true,
-	"has_hashtag": [],
+	"has_hashtag": ["swap-part"],
 	"has_distance": false,
 	"has_schedule": "",
 	"has_transportMode": [],
@@ -618,7 +618,7 @@
 		"address": "Piazza della Manifattura,1 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "ManifestAzioni",
+	"has_superEvent": "EV_W_ManifestAzioni_-_Fa_la_cosa_giusta",
 	"has_finalProduct": "CW_ManifestAzioni_-_Fa_la_cosa_giusta",
 	"has_materialRequirement": false,
 	"has_tutor": "",
@@ -650,7 +650,7 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "VI_https://www.comune.rovereto.tn.it/openpa/object/128925",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/128925",
 	"has_superEvent": "",
 	"has_finalProduct": "CW_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
 	"has_materialRequirement": true,
@@ -716,8 +716,8 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "VI_https://www.comune.rovereto.tn.it/openpa/object/134237",
-	"has_superEvent": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/134237",
+	"has_superEvent": " EV_E_festival-informatici-senza-frontiere",
 	"has_finalProduct": "CW_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
 	"has_materialRequirement": false,
 	"has_tutor": "",
@@ -813,7 +813,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "9.30 ex cava manica via cittadella sede foresta accademia comunit\u00e0 piazzale orsi (stazione fs) trento"
+		"address": "La Foresta - Accademia di Comunità, P.le Paolo Orsi, 15-17, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Rural Commons Festival",
@@ -837,7 +837,7 @@
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
-	"has_description": "4<sup>^</sup> edizione del talent show &quot;Teatro dei Sogni&quot;",
+	"has_description": "4^ edizione del talent show Teatro dei Sogni",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -846,7 +846,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro cartiera via 38068 rovereto"
+		"address": "Via Cartiera, 15, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro dei sogni 2021",
@@ -879,7 +879,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via cartiera 15, 38068 rovereto"
+		"address": "Via Cartiera, 15, 38068 Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro dei sogni 2021",
@@ -912,7 +912,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via cartiera 15 38068 rovereto"
+		"address": "Via Cartiera, 15, 38068 Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro dei sogni 2021",
