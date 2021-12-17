@@ -21,7 +21,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "posto giusto trento via ss. cosma damiano 66 , trento"
+		"address": "posto giusto, trento via s.cosma damiano 66, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -32,7 +32,6 @@
 	"has_tags": ["#afrofunky", "#carrozzone"],
 	"has_MusicWork": "CW_EV_S_afro_funky_halloween",
 	"has_ticket": "TI_ afro funky halloween_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -68,7 +67,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_S_art pandemike poetry slam_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -104,7 +102,6 @@
 	"has_season": "",
 	"has_MusicWork": "CW_EV_S_live_unplugged",
 	"has_ticket": "TI_ live unplugged_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -114,7 +111,7 @@
 	"has_link": "\"https://stayhappening.com/e/mondo-donna-il-ritorno-di-una-fiera-imperdibile-E2ISU1927P3?ref=ep_sharer\"",
 	"has_targetAge": "",
 	"has_edition": "",
-	"has_festivalStatus": false,
+	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-10-29 10:00:00",
 	"has_end": "2021-11-11 18:30:00",
@@ -125,22 +122,21 @@
 	"has_terminated": true,
 	"has_hashtag": ["src=\"https://cdn.stayhappening.com/events6/banners/d94430cb346a5ec1487bb512db7e057bef9e3f2f59936796b16dd3a1be165733-rimg-w526-h276-gmir.jpg?v=1634986763\"", "href=\"https://stayhappening.com/trento--art\""],
 	"has_distance": false,
-	"has_schedule": "daily",
+	"has_schedule": "yearly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "trento, italy"
+		"address": "Via di Briamasco 2, Centro Fiera, Trento"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Mondo Donna Fiera",
+	"has_superEvent": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibile",
 	"has_challenge": false,
 	"has_happyHour": false,
 	"has_djSet": false,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_ mondo donna il ritorno di una fiera imperdibile_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -166,17 +162,16 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "trento expo , trento"
+		"address": "Via di Briamasco 2, Centro Fiera, trento"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Mondo Donna",
+	"has_superEvent": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibile",
 	"has_challenge": false,
 	"has_happyHour": false,
 	"has_djSet": false,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_ mondo donna ottobre 2021_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -202,7 +197,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "caf\u00e8 de paix circolo arci , trento"
+		"address": "caf\u00e8 de paix circolo arci, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -212,7 +207,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_ pandemike poetry slam_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -238,10 +232,10 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "trento expo , trento"
+		"address": "Via di Briamasco 2, Centro Fiera, trento"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Mondo Donna",
+	"has_superEvent": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibiles",
 	"has_challenge": false,
 	"has_happyHour": false,
 	"has_djSet": false,
@@ -249,42 +243,39 @@
 	"has_freeEntrance": false,
 	"has_MusicWork": "",
 	"has_ticket": "TI_ pfaff a mondo donna trento con sara poiese_S",
-	"has_VirtualLocation": "",
 	"has_Archive": ""
 }, {
 	"has_eventID": "EV_S__sunset_vibes",
 	"has_title": " sunset vibes",
 	"has_mode": "offline",
 	"has_link": "\"https://stayhappening.com/e/sunset-vibes-E3LUSSLN6Q2H?ref=ep_sharer\"",
-	"has_targetAge": "",
+	"has_targetAge": "19-30",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-10-24 15:00:00",
 	"has_end": "2021-11-11 18:30:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
-	"has_specialAnnouncements": "altro: il costo della cena \u00e8 escluso dal prezzo del biglietto. <strong><em>note </em></strong>per partecipare all'evento \u00e8 obbligatorio essere muniti di green pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. presso il rifugio maranza (costo escluso). <strong><em>dettagli </em></strong>data e luogo: 24 ottobre 21 - cima marzolaorario: dalle ore 15.00 alle ore 19.30 (durata attivit\u00f2: 4,5 ore circa)ritrovo: alle ore 15.00 presso il parcheggio del rifugio maranza (strada per maranza, 23 - trento) minimo partecipanti: 4 \u0096 massimo",
-	"has_description": "\"Sunset Vibes\" rounded height=\"600\" 150px;\" width=\"1200\"/> Trekking al tramonto alla scoperta della Cima Marzola e cena presso il Rifugio Maranza (costo escluso).<b>About this Event</b><p>Sunset Vibes. Escursione al tramonto in compagnia dell'accompagnatore di Media Montagna Marta Cavallari adatta a tutti con partenza dal Rifugio Maranza e arrivo su Cima Marzola. A seguire cena presso il Rifugio Maranza (costo escluso). </p><p><strong><em>Dettagli </em></strong></p><p>Data e luogo: 24 ottobre 2021 Cima Marzola</p><p>Orario: dalle ore 15.00 alle ore 19.30 (durata attivit\u00f2: 4,5 ore circa)</p><p>Ritrovo: alle ore 15.00 presso il parcheggio del Rifugio Maranza (Strada per Maranza, 23 Trento) </p><p>Minimo partecipanti: 4 \u0096 massimo: 20</p><p>Altro: il costo della cena \u00e8 escluso dal prezzo del biglietto. </p><p><strong><em>Note </em></strong></p><p>Per partecipare all'evento \u00e8 obbligatorio essere muniti di Gre en Pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da </p><p>L'organizzatore dell'evento provvede al rimborso del biglietto SOLO in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. </p>",
-	"has_terminated": true,
+	"has_specialAnnouncements": "altro: il costo della cena \u00e8 escluso dal prezzo del biglietto. note: per partecipare all'evento \u00e8 obbligatorio essere muniti di green pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. presso il rifugio maranza (costo escluso). dettagli data e luogo: 24 ottobre 21 - cima marzolaorario: dalle ore 15.00 alle ore 19.30 (durata attivit\u00f2: 4,5 ore circa)ritrovo: alle ore 15.00 presso il parcheggio del rifugio maranza (strada per maranza, 23 - trento) minimo partecipanti: 4 \u0096 massimo, L'organizzatore dell'evento provvede al rimborso del biglietto SOLO in caso di comunicazione ufficiale di annullamento dell'evento ",
+	"has_description": "\"Sunset Vibes\" Trekking al tramonto alla scoperta della Cima Marzola e cena presso il Rifugio Maranza (costo escluso).About this Event Sunset Vibes. Escursione al tramonto in compagnia dell'accompagnatore di Media Montagna Marta Cavallari adatta a tutti con partenza dal Rifugio Maranza e arrivo su Cima Marzola. A seguire cena presso il Rifugio Maranza (costo escluso). DettagliData e luogo: 24 ottobre 2021 Cima Marzola, Orario: dalle ore 15.00 alle ore 19.30 (durata attivit\u00f2: 4,5 ore circa)</p><p>Ritrovo: alle ore 15.00 presso il parcheggio del Rifugio Maranza (Strada per Maranza, 23 Trento) </p><p>Minimo partecipanti: 4 \u0096 massimo: 20 Altro: il costo della cena \u00e8 escluso dal prezzo del biglietto.",
 	"has_hashtag": ["src=\"https://cdn.stayhappening.com/events5/banners/900309287d3233f8a1066e2ae0f91441ce50e3f1cabef31c52a8e7bbe46c40f4-rimg-w1200-h600-gmir.jpg?v=1634650389\"", "href=\"https://stayhappening.com/trento--trips-adventures\"", "href=\"https://stayhappening.com/trento--trekking\""],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "monthly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "cima marzola , trento"
+		"address": "cima marzola, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_challenge": false,
 	"has_happyHour": true,
-	"has_djSet": false,
+	"has_djSet": true,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_ sunset vibes_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -310,7 +301,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "regione autonoma trentino alto adige/s\u00fcdtirol , trento"
+		"address": "Piazza Fiera, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -320,7 +311,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_ wellness i mercatini del trentino andamp spa_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -346,7 +336,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "circa via roma cortile urbano trento"
+		"address": "via roma, cortile urbano, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -356,7 +346,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_...c'era una volta Rovereto_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -370,19 +359,19 @@
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2019-02-23 00:00:00",
 	"has_end": "2019-02-23 00:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "23/02/2019 00:00 Costo: 20\u20ac, che comprende: navetta da Padova fino alla discoteca ingresso in discoteca 2 drink. Tema della festa: LIGHTS, CAMERA....ACTION!!!!! Programma del viaggio: orari di partenza e rientro sono a discrezione degli studenti. Opzione 1: Arrivare a Padova in tarda mattinata, fare un city tour della citt\u00f2, apertitivo per scaldarci e poi dritti a ballare. Opzione 2: Arrivare in serata, fare un aperitivo per scaldarci e poi dritti a ballare Come raggiungere Padova? In macchina, con il Flixbus (20 euro andata e ritorno) o in treno (25 euro andata e ritorno). La durata \u00e8 di circa 2/2.30 a tratta. Si tratta di un EVENTO NAZIONALE, quindi ci saranno studenti erasmus provenienti da tutta Italia!",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "yearly",
 	"has_transportMode": ["car", "flixbus", "train"],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "Padova, Italy"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -392,7 +381,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_carnival-party-esn-padova_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -400,13 +388,13 @@
 	"has_title": "citytour-speed-friending-w-esn",
 	"has_mode": "offline",
 	"has_link": "https://trento.esn.it/?q=events/citytour-speed-friending-w-esn",
-	"has_targetAge": "",
+	"has_targetAge": "18-30",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2020-09-14 15:00:00",
 	"has_end": "2020-09-14 15:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "14/09/2020 15:00 first last Everyone is invited. ",
@@ -418,17 +406,16 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "Via Vigilio Inama, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_challenge": false,
 	"has_happyHour": false,
-	"has_djSet": false,
+	"has_djSet": true,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_citytour-speed-friending-w-esn_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": true
 }, {
@@ -436,13 +423,13 @@
 	"has_title": "cooking-time-w-esn",
 	"has_mode": "offline",
 	"has_link": "https://trento.esn.it/?q=events/cooking-time-w-esn",
-	"has_targetAge": "",
+	"has_targetAge": "19-25",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2020-09-18 19:30:00",
 	"has_end": "2020-09-18 19:30:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "18/09/2020 19:30 first last Everyone is invited. ",
@@ -454,7 +441,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "Via vigilio Inama, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -464,7 +451,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_cooking-time-w-esn_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": true
 }, {
@@ -490,7 +476,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini via paganini 38068 rovereto"
+		"address": "corso bettini, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -500,7 +486,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Distretto della cultura \u2013 2 giorni di arte musica e giocoleria_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -508,13 +493,13 @@
 	"has_title": "esn-farewell-party",
 	"has_mode": "offline",
 	"has_link": "https://trento.esn.it/?q=events/esn-farewell-party",
-	"has_targetAge": "",
+	"has_targetAge": "18-25",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2015-01-28 21:30:00",
 	"has_end": "2015-01-28 21:30:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "28/01/2015 21:30",
@@ -526,17 +511,16 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "trento"
+		"address": "via vigilio inama, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_challenge": false,
-	"has_happyHour": false,
-	"has_djSet": false,
+	"has_happyHour": true,
+	"has_djSet": true,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_esn-farewell-party_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": true
 }, {
@@ -544,7 +528,7 @@
 	"has_title": "game-night-w-esn-bologna-esn-trento",
 	"has_mode": "online",
 	"has_link": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-	"has_targetAge": "",
+	"has_targetAge": "19-25",
 	"has_edition": "20",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
@@ -564,7 +548,7 @@
 		"lon": "",
 		"address": "italy trento esn event trento"
 	},
-	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
+	"has_virtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
 	"has_challenge": true,
 	"has_happyHour": false,
@@ -572,7 +556,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_game-night-w-esn-bologna-esn-trento_S",
-	"has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -580,13 +563,13 @@
 	"has_title": "goodbye-summer-days",
 	"has_mode": "offline",
 	"has_link": "https://trento.esn.it/?q=events/goodbye-summer-days",
-	"has_targetAge": "",
+	"has_targetAge": "19-25",
 	"has_edition": "20",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2020-09-27 14:45:00",
 	"has_end": "2020-09-27 14:45:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": " giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser ESN)  class Noleggio attrezzatura:  class \u0095 Completo: 30euro 18 febbraio.  class Potete venire  pagare in ufficio ESN, aperto ogni luned\u00ec e gioved\u00ec dalle 18.00 alle 20.00. class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser pm. class Fill in the form for the pre-registration: class SOLD OUT   class We are waiting for you!!! class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class ",
 	"has_description": "27/09/2020 14:45 first lastEveryone is invited. ul",
@@ -598,17 +581,16 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "Via Vigilio Inama, 38122, trento"
 	},
-	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
+	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_challenge": false,
-	"has_happyHour": false,
-	"has_djSet": false,
+	"has_happyHour": true,
+	"has_djSet": true,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_goodbye-summer-days_S",
-	"has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -622,7 +604,7 @@
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2019-10-31 21:00:00",
 	"has_end": "2019-10-31 21:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": " giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser ESN)  class Noleggio attrezzatura:  class \u0095 Completo: 30euro 18 febbraio.  class Potete venire  pagare in ufficio ESN, aperto ogni luned\u00ec e gioved\u00ec dalle 18.00 alle 20.00. class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser pm. class Fill in the form for the pre-registration: class SOLD OUT   class We are waiting for you!!! class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class ",
 	"has_description": "31/10/2019 21:00 first lastbeer and shot ul",
@@ -634,13 +616,13 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "via Vigilio Inama, trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
 	"has_challenge": false,
-	"has_happyHour": false,
-	"has_djSet": false,
+	"has_happyHour": true,
+	"has_djSet": true,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_halloween-party-w-esn-trento_S",
@@ -670,7 +652,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco alla pozza noriglio trento"
+		"address": "parco alla pozza,  38068 Noriglio"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -680,7 +662,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Il sogno. Shakespeare al Parco alla Pozza di Noriglio_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -706,7 +687,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco fedrigotti borgo sacco trento"
+		"address": "parco fedrigotti, borgo sacco, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -716,7 +697,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Il sogno. Shakespeare al Parco Fedrigotti_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -752,9 +732,8 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Mercatino d'altri tempi_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": true
 }, {
 	"has_eventID": "EV_S_Mercatino_dei_Gaudenti",
 	"has_title": "Mercatino dei Gaudenti",
@@ -766,14 +745,14 @@
 	"has_language": ["en-GB", "it-IT"],
 	"has_start": "2021-01-01 09:00:00",
 	"has_end": "2019-10-31 21:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "Il Mercatino \u00e8 riservato a privati cittadini, collezionisti, associazioni di volontariato, ad artisti e artigiani hobbisti che vogliono vendere o scambiare la loro merce personale. Sono esclusi coloro che effettuano vendita di oggetti, precedentemente acquistati a tale scopo. In particolare i partecipanti DAL 2016 DEVONO ESSERE IN POSSESSO DELL'APPOSITO TESSERINO RILASCIATO, PER I RESIDENTI IN PROVINCIA DI TRENTO DAL COMUNE DI RESIDENZA, PER I RESIDENTI FUORI PROVINCIA DAL COMUNE DI TRENTO.IL TESSERINO PREVEDE LA POSSIBILITA' DI PARTECIPARE AD UN MASSIMO 14 MERCATINI L'ANNO DI CUI MASSIMO 8 NEI COMUNI CON PIU' DI 10.000 ABITANTI.",
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "monthly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -788,7 +767,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Mercatino dei Gaudenti_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": true
 }, {
@@ -814,7 +792,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Piazza piedicastello trento"
+		"address": "Piazza piedicastello, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -824,7 +802,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Mercatino delle pulci a Piedicastello 2021_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": true
 }, {
@@ -860,9 +837,8 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Mercato prodotti agricoli e biologici_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": true
 }, {
 	"has_eventID": "EV_S_Milonga_d\u2019estate_-_Il_tempo_di_un_abbraccio_ritrovato",
 	"has_title": "Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato",
@@ -886,7 +862,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "piazza erb trento"
+		"address": "piazza erbe, Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -896,7 +872,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Milonga d\u2019estate -  Il tempo di un abbraccio ritrovato_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -925,14 +900,13 @@
 		"address": "corte piazza damiano chiesa 38068 rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Moltiplichiamo Azioni",
+	"has_superEvent": "EV_E_Lavori_invisibili._Rendiamoli_visibili_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
 	"has_challenge": false,
 	"has_happyHour": false,
 	"has_djSet": false,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Moltiplichiamo Azioni. Sfilata di moda etica.  - Il Festival delle idee per uno sviluppo sostenibile_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -953,22 +927,21 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "libreria arcadia via felice gregorio fontana 38068 rovereto"
+		"address": "libreria arcadia, via felice gregorio fontana, 38068, rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Moltiplichiamo Parole",
+	"has_superEvent": "EV_S_Moltiplichiamo_Parole_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
 	"has_challenge": false,
 	"has_happyHour": false,
 	"has_djSet": false,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Moltiplichiamo Parole - Il Festival delle idee per uno sviluppo sostenibile_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -989,22 +962,21 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "9.00 parrocchia sacra famiglia pzz.le pzz.le de francesco 1 trento"
+		"address": "parrocchia sacra famiglia,piazzale de francesco 1, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_challenge": false,
 	"has_happyHour": false,
-	"has_djSet": false,
+	"has_djSet": true,
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Na Festa per tuti_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -1018,14 +990,14 @@
 	"has_language": ["it-IT"],
 	"has_start": "2021-09-10 05:00:00",
 	"has_end": "2019-10-31 21:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "La Pro Loco di Noriglio, in collaborazione con la circoscrizione Noriglio, organizza due giorni di festa della comunit\u00f2",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "daily",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1040,7 +1012,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Noriglio in Festa_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -1059,7 +1030,7 @@
 	"has_specialAnnouncements": "                                                                                 ",
 	"has_description": "pL' autunno \u00e8 arrivato e con lui ripartono anche le nostre attivit\u00f2 settimanali! Lab creativi, attivit\u00f2 in lingua, spazio dedicato allo studio, uscite sul territorio e molto altro! Attivit\u00f2 libere e gratuite per giovani 11-30 anni Obbligo Green Pass Il Centro di Aggregazione Territoriale #Kairos Giovani \u00e8 aperto tutti i giorni dal luned\u00ec al sabato dalle 14.30 alle 19.00 e il venerd\u00ec sera dalle 20.00 alle 22.00 Il programma settimanale in PDF:  https://www.perginegiovani.it/kairos-giovani/2021/programma-ottobre-2021/",
 	"has_terminated": true,
-	"has_hashtag": [],
+	"has_hashtag": ["#kairos"],
 	"has_distance": false,
 	"has_schedule": "weekly",
 	"has_transportMode": [],
@@ -1075,7 +1046,6 @@
 	"has_djSet": false,
 	"has_season": "",
 	"has_freeEntrance": true,
-	"has_tags": ["#kairos"],
 	"has_MusicWork": "",
 	"has_ticket": "TI_ottobre-2020-al-#kairos-giovani_S",
 	"has_VirtualLocation": "",
