@@ -7545,9 +7545,9 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "online, trento"
+		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_/var/comunetn/storage/images/media/newsletter/newsletter-system/trento-comunica/trento-comunica159/trento-e-il-25-aprile2/12765199-1-ita-IT/Trento-e-il-25-aprile.png",
 	"has_superEvent": "",
 	"has_originalLanguage": false,
 	"has_performer": "",
@@ -7579,7 +7579,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardino delle sculture mart corso bettini 43 trento"
+		"address": "Giardino delle sculture, MART, corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7613,7 +7613,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardino delle sculture mart corso bettini 43 trento"
+		"address": "Giardino delle sculture, MART, corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7647,7 +7647,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "museo scienze archeologia borgo s.caterina s.caterina trento"
+		"address": "Museo scienze e archeologia, Borgo S.Caterina, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7681,7 +7681,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "museo storico italiano della guerra, via castelbarco 7, rovereto"
+		"address": "Museo storico italiano della guerra, Via Castelbarco, 7, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7715,7 +7715,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "castello avio, via castello, sabbionara, avio (tn)"
+		"address": "Castello di avio, Via castello, Avio (Trento)"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7749,7 +7749,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro s. s. marco, via bernardino, trento"
+		"address": "Teatro S.Marco, via bernardino, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7817,7 +7817,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "castello tesino (tn)"
+		"address": "Castello Tesino, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7851,7 +7851,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": ""
+		"address": "Via Angelo Bettini, 43, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7885,7 +7885,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "museo storico italiano della guerra via catelbarco trento"
+		"address": "Museo storico della guerra, Via Guglielmo Castelbarco, 7, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7919,7 +7919,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "museo storico italiano della guerra via vicenza trento"
+		"address": "Museo storico della guerra, Via Guglielmo Castelbarco, 7, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7953,7 +7953,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "muse, corso lavoro della scienza, trento"
+		"address": "Muse, corso del lavoro e della scienza, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7987,7 +7987,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "museo storico italiano della guerra via delle foss trento"
+		"address": "Museo storico della guerra, Via Guglielmo Castelbarco, 7, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8021,7 +8021,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardino delle sculture mart corso bettini 43 rovereto"
+		"address": "Mart, corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8055,7 +8055,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "oratorio parrocchiale borgo s. s. caterina 36 trento"
+		"address": "Oratorio parrocchiale borgo s.caterina 36, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8089,7 +8089,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "cortile urbano via roma 38068 rovereto"
+		"address": "Cortile urbano, via roma, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8123,7 +8123,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Circolo Culturale Numismatico Filatelico Rovereto"
+		"address": "Circolo Culturale Numismatico Filatelico, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8157,7 +8157,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "38068 Noriglio, Italia"
+		"address": "Via alle Pozze, Noriglio "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro Ovunque",
@@ -8191,7 +8191,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Calcinari, 18, 38068, ROVERETO "
+		"address": "Via Calcinari, 18, Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Musei Aperti",
