@@ -1027,8 +1027,8 @@
 	"has_end": "2019-10-31 21:00:00",
 	"has_recurrency": true,
 	"has_organizer": "",
-	"has_specialAnnouncements": "                                                                                 ",
-	"has_description": "pL' autunno \u00e8 arrivato e con lui ripartono anche le nostre attivit\u00f2 settimanali! Lab creativi, attivit\u00f2 in lingua, spazio dedicato allo studio, uscite sul territorio e molto altro! Attivit\u00f2 libere e gratuite per giovani 11-30 anni Obbligo Green Pass Il Centro di Aggregazione Territoriale #Kairos Giovani \u00e8 aperto tutti i giorni dal luned\u00ec al sabato dalle 14.30 alle 19.00 e il venerd\u00ec sera dalle 20.00 alle 22.00 Il programma settimanale in PDF:  https://www.perginegiovani.it/kairos-giovani/2021/programma-ottobre-2021/",
+	"has_specialAnnouncements": "Obbligo Green Pass",                                                                                 
+	"has_description": "L' autunno \u00e8 arrivato e con lui ripartono anche le nostre attivit\u00f2 settimanali! Lab creativi, attivit\u00f2 in lingua, spazio dedicato allo studio, uscite sul territorio e molto altro! Attivit\u00f2 libere e gratuite per giovani 11-30 anni.  Il Centro di Aggregazione Territoriale #Kairos Giovani \u00e8 aperto tutti i giorni dal luned\u00ec al sabato dalle 14.30 alle 19.00 e il venerd\u00ec sera dalle 20.00 alle 22.00 Il programma settimanale in PDF:  https://www.perginegiovani.it/kairos-giovani/2021/programma-ottobre-2021/",
 	"has_terminated": true,
 	"has_hashtag": ["#kairos"],
 	"has_distance": false,
@@ -1037,7 +1037,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "centro aggregazione territoriale #kairos giovani, via amstetten, 11 trento"
+		"address": "centro aggregazione territoriale #kairos giovani, via amstetten 11, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1048,14 +1048,13 @@
 	"has_freeEntrance": true,
 	"has_MusicWork": "",
 	"has_ticket": "TI_ottobre-2020-al-#kairos-giovani_S",
-	"has_VirtualLocation": "",
 	"has_Archive": ""
 }, {
 	"has_eventID": "EV_S_poolparty-verona-esn-trento",
 	"has_title": "poolparty-verona-esn-trento",
 	"has_mode": "offline",
 	"has_link": "https://trento.esn.it/?q=events/poolparty-verona-esn-trento",
-	"has_targetAge": "",
+	"has_targetAge": "18-25",
 	"has_edition": "20",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
@@ -1063,19 +1062,19 @@
 	"has_end": "2014-11-28 00:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": " giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser ESN)  class Noleggio attrezzatura:  class \u0095 Completo: 30euro 18 febbraio.  class Potete venire  pagare in ufficio ESN, aperto ogni luned\u00ec e gioved\u00ec dalle 18.00 alle 20.00. class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser pm. class Fill in the form for the pre-registration: class SOLD OUT   class We are waiting for you!!! class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  Trento, we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at the class",
-	"has_description": "28/11/2014 00:00",
+	"has_specialAnnouncements": "(PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser ESN) ",
+	"has_description": "giorni, ingresso ai 3 party, trasporto in pullman d Trento. Noleggio attrezzatura:  class \u0095 Completo: 30euro 18 febbraio. Potete venire  pagare in ufficio ESN, aperto ogni luned\u00ec e gioved\u00ec dalle 18.00 alle 20.00. class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser pm. class Fill in the form for the pre-registration: class SOLD OUT   class We are waiting for you!!! class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  Trento, we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at the class",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
 	"has_schedule": "yearly",
-	"has_transportMode": [],
+	"has_transportMode": ["bus"],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "trento"
+		"address": "Piazza delle Erbe, 37100 Verona"
 	},
-	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
+	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_challenge": false,
 	"has_happyHour": false,
@@ -1083,7 +1082,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_poolparty-verona-esn-trento_S",
-	"has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -1119,24 +1117,23 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Processione annuale Madonna del Monte Carmelo_S",
-	"has_VirtualLocation": "",
-	"has_Archive": "",
+	"has_Archive": "AR_EV_S_Processione_annuale_Madonna_del_Monte_Carmelo",
 	"has_freeEntrance": false
 }, {
 	"has_eventID": "EV_S_recruiting-esn-trento-20212022",
 	"has_title": "recruiting-esn-trento-20212022",
 	"has_mode": "offline",
 	"has_link": "https://trento.esn.it/?q=events/recruiting-esn-trento-20212022",
-	"has_targetAge": "",
+	"has_targetAge": "18-30",
 	"has_edition": "20",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2021-09-04 17:00:00",
 	"has_end": "2021-09-04 17:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
-	"has_specialAnnouncements": " giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser ESN)  class Noleggio attrezzatura:  class \u0095 Completo: 30euro 18 febbraio.  class Potete venire  pagare in ufficio ESN, aperto ogni luned\u00ec e gioved\u00ec dalle 18.00 alle 20.00. class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser pm. class Fill in the form for the pre-registration: class SOLD OUT   class We are waiting for you!!! class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  Trento, we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at the class weather is getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the is getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the ide getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the ide of * * * * * *  dir What is RAFTING ? / dir Rafting is  fun activity that just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in dir The most important thing you need is your perfect HAVING-FUN and some stuff that could be really useful to that could be really useful to have with you (strongso BRING it with YOU!/strong): ul dir  li (better  microfleece one); extr pair of sneakers (they will get WET!!!);  swimsuit; towel; li   warm clothes packet lunch /ul dir strongThe participation FEE is only 30 euros and includes: ",
-	"has_description": "mailto:trento@esn.ittrento@esn.it 04/09/2021 17:00 first lastEveryone is invited. ul",
+	"has_specialAnnouncements": " (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser ESN)",
+	"has_description": " giorni, ingresso ai 3 party, trasporto in pullman d Trento., mailto:trento@esn.ittrento@esn.it 04/09/2021 17:00 first lastEveryone is invited. Noleggio attrezzatura:   Completo: 30euro 18 febbraio.  Potete venire  pagare in ufficio ESN, aperto ogni luned\u00ec e gioved\u00ec dalle 18.00 alle 20.00. class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser pm. class Fill in the form for the pre-registration: class SOLD OUT   class We are waiting for you!!! class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  Trento, we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at the class weather is getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the is getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the ide getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the ide of * * * * * *  dir What is RAFTING ? / dir Rafting is  fun activity that just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in dir The most important thing you need is your perfect HAVING-FUN and some stuff that could be really useful to that could be really useful to have with you (strongso BRING it with YOU!/strong): ul dir  li (better  microfleece one); extr pair of sneakers (they will get WET!!!);  swimsuit; towel; li   warm clothes packet lunch /ul dir strongThe participation FEE is only 30 euros and includes: ",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -1145,9 +1142,9 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "Via Vigilio Inama, 38122, trento"
 	},
-	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
+	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_challenge": false,
 	"has_happyHour": false,
@@ -1155,43 +1152,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_recruiting-esn-trento-20212022_S",
-	"has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-	"has_Archive": "",
-	"has_freeEntrance": false
-}, {
-	"has_eventID": "EV_S_recruitment-day-entra-esn-trento",
-	"has_title": "recruitment-day-entra-esn-trento",
-	"has_mode": "offline",
-	"has_link": "https://trento.esn.it/?q=events/recruitment-day-entra-esn-trento",
-	"has_targetAge": "",
-	"has_edition": "20",
-	"has_festivalStatus": false,
-	"has_language": ["it-IT", "en-GB"],
-	"has_start": "2018-02-19 19:00:00",
-	"has_end": "2018-02-19 19:00:00",
-	"has_recurrency": false,
-	"has_organizer": "",
-	"has_specialAnnouncements": " giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser ESN)  class Noleggio attrezzatura:  class \u0095 Completo: 30euro 18 febbraio.  class Potete venire  pagare in ufficio ESN, aperto ogni luned\u00ec e gioved\u00ec dalle 18.00 alle 20.00. class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser pm. class Fill in the form for the pre-registration: class SOLD OUT   class We are waiting for you!!! class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  Trento, we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at the class weather is getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the is getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the ide getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the ide of * * * * * *  dir What is RAFTING ? / dir Rafting is  fun activity that just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in dir The most important thing you need is your perfect HAVING-FUN and some stuff that could be really useful to that could be really useful to have with you (strongso BRING it with YOU!/strong): ul dir  li (better  microfleece one); extr pair of sneakers (they will get WET!!!);  swimsuit; towel; li   warm clothes packet lunch /ul dir strongThe participation FEE is only 30 euros and includes: ",
-	"has_description": "mailto:trento@esn.ittrento@esn.it 19/02/2018 to 20:00 first lastEveryone is invited. ul",
-	"has_terminated": true,
-	"has_hashtag": [],
-	"has_distance": false,
-	"has_schedule": "yearly",
-	"has_transportMode": [],
-	"has_venue": {
-		"lat": "",
-		"lon": "",
-		"address": "italy trento"
-	},
-	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
-	"has_superEvent": "",
-	"has_challenge": false,
-	"has_happyHour": false,
-	"has_djSet": false,
-	"has_season": "",
-	"has_MusicWork": "",
-	"has_ticket": "TI_recruitment-day-entra-esn-trento_S",
-	"has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -1217,7 +1177,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro riccardo zandonai corso bettini 78 trento"
+		"address": "teatro riccardo zandonai, corso bettini 78, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1227,7 +1187,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Romance del Diablo - SetteNovecento_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -1253,7 +1212,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "per vie centro storico della citt\u00f2 trento"
+		"address": "Via Roma, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1263,7 +1222,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Rovereto INtrecci di Farfalle_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -1277,7 +1235,7 @@
 	"has_language": ["it-IT"],
 	"has_start": "2021-07-11 00:00:00",
 	"has_end": "2018-02-19 19:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "La citt\u00f2 si anima di tutte le forme d\u2019arte legate al mondo Vintage.",
@@ -1289,7 +1247,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "09 10 per vie centro storico rovereto"
+		"address": "Piazza Rosmini, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1299,13 +1257,12 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_Rovereto Vintage Festival_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
 	"has_eventID": "EV_S_speed-friending-w-esn",
 	"has_title": "speed-friending-w-esn",
-	"has_mode": "offline",
+	"has_mode": "online",
 	"has_link": "https://trento.esn.it/?q=events/speed-friending-w-esn",
 	"has_targetAge": "",
 	"has_edition": "20",
@@ -1315,7 +1272,7 @@
 	"has_end": "2020-05-08 21:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": " giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser ESN)  class Noleggio attrezzatura:  class \u0095 Completo: 30euro 18 febbraio.  class Potete venire  pagare in ufficio ESN, aperto ogni luned\u00ec e gioved\u00ec dalle 18.00 alle 20.00. class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  giorni, ingresso ai 3 party, trasporto in pullman d Trento. (PS: per iscriversi \u00e8 obbligatorio essere in possesso dell tesser pm. class Fill in the form for the pre-registration: class SOLD OUT   class We are waiting for you!!! class Compil il form per l pre-iscrizione: classSOLD OUT   class Vi aspettiamo!!!  class  Trento, we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend we will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some will have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time have  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking  picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at picnicbr together after the experience (BRING YOUR OWN FOOD AND DRINKS!) and webr will spend some time looking at the class weather is getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the is getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the ide getting hot, so what about having  nice SPORT NATURE CAMP day together? dir Do you like the ide of * * * * * *  dir What is RAFTING ? / dir Rafting is  fun activity that just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in just relax and enjoy the spectacular landscapes.  dir Do I need some special training or should I be in dir The most important thing you need is your perfect HAVING-FUN and some stuff that could be really useful to that could be really useful to have with you (strongso BRING it with YOU!/strong): ul dir  li (better  microfleece one); extr pair of sneakers (they will get WET!!!);  swimsuit; towel; li   warm clothes packet lunch /ul dir strongThe participation FEE is only 30 euros and includes: ",
+	"has_specialAnnouncements": "(BRING YOUR OWN FOOD AND DRINKS!)",
 	"has_description": "08/05/2020 21:00",
 	"has_terminated": true,
 	"has_hashtag": [],
@@ -1325,9 +1282,9 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": ""
 	},
-	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
+	"has_virtualLocation": "VL_https://trento.esn.it/?q=events/speed-friending-w-esn",
 	"has_superEvent": "",
 	"has_challenge": false,
 	"has_happyHour": false,
@@ -1335,7 +1292,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_speed-friending-w-esn_S",
-	"has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -1361,7 +1317,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "9.00 piazza rosmini (palazzo bene) corso bettini (teatro zandonai) trento"
+		"address": "Teatro Zandonai, Corso bettini, 78, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1371,7 +1327,6 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_UTILE IMPRESA - Rovereto e la sua Cassa di Risparmio 180 anni dopo_S",
-	"has_VirtualLocation": "",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -1379,15 +1334,15 @@
 	"has_title": "welcome-week-0",
 	"has_mode": "offline",
 	"has_link": "https://trento.esn.it/?q=events/welcome-week-0",
-	"has_targetAge": "",
+	"has_targetAge": "18-25",
 	"has_edition": "20",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2018-09-15 00:00:00",
 	"has_end": "2018-09-15 00:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
-	"has_specialAnnouncements": "NB: the event will be postponed in case of bad weather, we will kee you informed class group-secondary class 16/02/2020 - 13:00 class countryItaly together and be back in Trento before the evening .br NB: the event will be postponed in case of bad",
+	"has_specialAnnouncements": "NB: the event will be postponed in case of bad weather, we will kee you informed class group-secondary class 16/02/2020 - 13:00 class countryItaly together and be back in Trento before the evening .br NB: the event will be postponed in case of bad weather",
 	"has_description": "",
 	"has_terminated": true,
 	"has_hashtag": [],
@@ -1397,9 +1352,9 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "Via Vigilio Inama, 38122, Trento"
 	},
-	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
+	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_challenge": false,
 	"has_happyHour": false,
@@ -1407,7 +1362,76 @@
 	"has_season": "",
 	"has_MusicWork": "",
 	"has_ticket": "TI_welcome-week-0_S",
-	"has_VirtualLocation": "VL_https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_Archive": "",
 	"has_freeEntrance": false
-}]
+},{
+	"has_eventID": "EV_S_Processione_annuale_Madonna_del_Monte_Carmelo_2019",
+	"has_title": "Processione annuale Madonna del Monte Carmelo",
+	"has_mode": "offline",
+	"has_link": "https://www.comune.rovereto.tn.it/Entra-in-Comune/Comunicazioni/Avvisi/Processione-Madonna-del-monte-Carmelo-14-luglio-2019-divieti",
+	"has_targetAge": "",
+	"has_edition": 0,
+	"has_festivalStatus": false,
+	"has_language": [],
+	"has_start": "2019-07-14 07:00:00 ",
+	"has_end": "2019-07-14 09:00:00",
+	"has_recurrency": true,
+	"has_organizer": "",
+	"has_specialAnnouncements": "",
+	"has_description": "Festa patronale Madonna del Monte Carmelo",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "yearly",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "piazzale santa maria, 38122, trento"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "",
+	"has_challenge": false,
+	"has_happyHour": false,
+	"has_djSet": true,
+	"has_season": "",
+	"has_MusicWork": "",
+	"has_ticket": "TI_Processione annuale Madonna del Monte Carmelo_2019_S",
+	"has_Archive": "AR_EV_S_Processione_annuale_Madonna_del_Monte_Carmelo",
+	"has_freeEntrance": true
+},{
+	"has_eventID": "EV_S_MercoleGIN",
+	"has_title": "Mercolegin",
+	"has_mode": "offline",
+	"has_link": "https://stayhappening.com/e/mercolegin%C2%AE-trento-13-ottobre-04-E2ISU0O3U0W",
+	"has_targetAge": "18-30",
+	"has_edition": 0,
+	"has_festivalStatus": false,
+	"has_language": [],
+	"has_start": "2019/07/14 07:00:00  AM",
+	"has_end": "2019/07/14 09:00:00  AM",
+	"has_recurrency": true,
+	"has_organizer": "",
+	"has_specialAnnouncements": "RICORDATI la MASCHERINA e il DISTANZIAMENTO",
+	"has_description": "Potevamo abbandonarvi? Certo che no!??",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "weekly",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "Domo Trento, Piazza Adamo D'Arogno N. 1, 38122 Trento"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "",
+	"has_challenge": false,
+	"has_happyHour": true,
+	"has_djSet": true,
+	"has_season": "",
+	"has_MusicWork": "",
+	"has_ticket": "TI_MercoleGIN_S",
+	"has_freeEntrance": true
+}
+]

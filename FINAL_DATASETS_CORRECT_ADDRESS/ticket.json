@@ -4582,6 +4582,16 @@
     "has_eventID": "EV_W_Venerd\u00ec_a_lume_di_stella"
 }, 
 {
+"has_ticketID": "TI_Processione annuale Madonna del Monte Carmelo_2019_S",
+"has_onlineBooking": true,
+"has_extraBenefits": "",
+"has_totalPurchase": 0,
+"has_price": "https://www.comune.rovereto.tn.it/Entra-in-Comune/Comunicazioni/Avvisi/Processione-Madonna-del-monte-Carmelo-14-luglio-2019-divieti",
+"has_currency": "EUR",
+"has_purchaser": null,
+"has_eventID": "EV_S_Processione_annuale_Madonna_del_Monte_Carmelo_2019"
+},
+{
 "has_ticketID": "TI_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona",
 "has_onlineBooking": true,
 "has_extraBenefits": "Il biglietto per la curva riservato agli universitari ha un costo di soli 10€.",
@@ -4590,4 +4600,23 @@
 "has_currency": "EUR",
 "has_purchaser": null,
 "has_eventID": "EV_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona"
+},
+{
+"has_ticketID": "TI_MercoleGIN_S",
+"has_onlineBooking": false,
+"has_extraBenefits": "GIN Tonic/Lemon 4 €",
+"has_totalPurchase": 0,
+"has_price": "https://stayhappening.com/e/mercolegin%C2%AE-trento-13-ottobre-04-E2ISU0O3U0W",
+"has_currency": "EUR",
+"has_purchaser": null,
+"has_eventID": "EV_S_MercoleGIN"
+},{
+    "has_ticketID": "TI_P_16\u00b0_Tappa_Giro_d'Italia_P",
+    "has_onlineBooking": false,
+    "has_extraBenefits": "",
+    "has_totalPurchase": 0,
+    "has_price": "https://archivio.giroditalia.it/it/tappa/tappa-16-2018/",
+    "has_currency": "EUR",
+    "has_purchaser": null,
+    "has_eventID": "EV_P_16\u00b0_Tappa_Giro_d'Italia"
 }]

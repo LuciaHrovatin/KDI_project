@@ -156,7 +156,7 @@
 		"address": " monte zugna, (Coni Zugna), Trento"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Oriente e Occidente",
+	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
@@ -1899,7 +1899,7 @@
 		"address": "piazzale caduti sul lavoro, vicolo tintori, Rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Oriente-Occidente",
+	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
@@ -2545,7 +2545,7 @@
 		"address": "Giardino delle sculture, MART, corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Oriente e Occidente",
+	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
@@ -6936,7 +6936,7 @@
 		"address": "Via Silvio Pellico, 28, 38068 Rovereto" 
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Oriente Occidente",
+	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,

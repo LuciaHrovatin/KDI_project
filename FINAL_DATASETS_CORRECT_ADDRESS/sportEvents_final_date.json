@@ -27,7 +27,7 @@
 	"has_superEvent": "",
 	"has_professionalLevel": false,
 	"has_paralympicStatus": false,
-	"has_sport": "Outdoor Sports & Outdoor Sports & Outdoor Sports",
+	"has_sport": "Outdoor Sports",
 	"has_matchStatus": false,
 	"has_courseStatus": true,
 	"has_team": {
@@ -35,7 +35,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P__adventures_open_day_arrampicata_corso_base",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -44,7 +44,7 @@
 	"has_title": " adventures open day arrampicata corso intermedio",
 	"has_mode": "offline",
 	"has_link": "\"https://stayhappening.com/e/open-day-arrampicata-corso-intermedio-E3LUSTHXVRI2?ref=ep_sharer\"",
-	"has_targetAge": "",
+	"has_targetAge": "over 18",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
@@ -68,7 +68,7 @@
 	"has_superEvent": "",
 	"has_professionalLevel": true,
 	"has_paralympicStatus": false,
-	"has_sport": "Outdoor Sports & Outdoor Sports & Outdoor Sports",
+	"has_sport": "Outdoor Sports",
 	"has_matchStatus": false,
 	"has_courseStatus": true,
 	"has_team": {
@@ -76,7 +76,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P__adventures_open_day_arrampicata_corso_intermedio",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -103,7 +103,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco delle albere, trento"
+		"address": "parco delle albere, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -117,7 +117,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "tappetino per sedersi a terra",
+	"has_needOfMaterials": true,
 	"has_ticket": "TI_P__breathrough_respira_al_parco_delle_albere",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -159,7 +159,7 @@
 		"has_event": ["EV_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI"],
 		"has_venue": ""
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_match": true,
 	"has_ticket": "TI_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI",
 	"has_Archive": "",
@@ -175,7 +175,7 @@
 	"has_language": ["it-IT"],
 	"has_start": "2021-05-27 11:00:00",
 	"has_end": "2018-09-15 00:00:00",
-	"has_recurrency": "False",
+	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "La Vallagarina si tinge di rosa per accogliere il giro d'Italia",
@@ -187,7 +187,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini 41 trento"
+		"address": "Corso Bettini 41, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -201,7 +201,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P_18\u00b0_Tappa_Giro_d'Italia",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -216,23 +216,64 @@
 	"has_language": ["it-IT"],
 	"has_start": "2021-05-27 11:00:00",
 	"has_end": "2018-09-15 00:00:00",
-	"has_recurrency": "False",
+	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "La Vallagarina si tinge di rosa per accogliere il giro d'Italia",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "yearly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini 41 trento"
+		"address": "corso bettini 41, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_professionalLevel": false,
+	"has_professionalLevel": true,
+	"has_paralympicStatus": false,
+	"has_sport": "Cycling",
+	"has_matchStatus": true,
+	"has_courseStatus": false,
+	"has_team": {
+		"has_name": "",
+		"has_id": "",
+		"has_event": []
+	},
+	"has_needOfMaterials": false,
+	"has_ticket": "TI_P_18\u00b0_Tappa_Giro_d'Italia",
+	"has_Archive": "AR_EV_P_18\u00b0_Tappa_Giro_d'Italia,EV_P_16\u00b0_Tappa_Giro_d'Italia",
+	"has_freeEntrance": false
+}, {
+	"has_eventID": "EV_P_16\u00b0_Tappa_Giro_d'Italia",
+	"has_title": "16\u00b0 Tappa Giro d'Italia",
+	"has_mode": "offline",
+	"has_link": "https://archivio.giroditalia.it/it/tappa/tappa-16-2018/",
+	"has_targetAge": "",
+	"has_edition": 0,
+	"has_festivalStatus": false,
+	"has_language": ["it-IT"],
+	"has_start": "2018/05/27 11:00:00  AM",
+	"has_end": "2018/05/27 01:15:00  AM",
+	"has_recurrency": true,
+	"has_organizer": "",
+	"has_specialAnnouncements": "",
+	"has_description": "La Vallagarina si tinge di rosa per accogliere il giro d'Italia",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "yearly",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "Piazza Duomo, 38122,Trento"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "",
+	"has_professionalLevel": true,
 	"has_paralympicStatus": false,
 	"has_sport": "Cycling",
 	"has_matchStatus": false,
@@ -242,17 +283,17 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
-	"has_ticket": "TI_P_18\u00b0_Tappa_Giro_d'Italia",
-	"has_Archive": "",
+	"has_needOfMaterials": false,
+	"has_ticket": "TI_P_16\u00b0_Tappa_Giro_d'Italia",
+	"has_Archive": "AR_EV_P_18\u00b0_Tappa_Giro_d'Italia,EV_P_16\u00b0_Tappa_Giro_d'Italia",
 	"has_freeEntrance": false
-}, {
+},{
 	"has_eventID": "EV_P_21\u00b0_edizione_Calciosplash_Lizzana",
 	"has_title": "21\u00b0 edizione Calciosplash Lizzana",
 	"has_mode": "offline",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/133078",
 	"has_targetAge": "",
-	"has_edition": "",
+	"has_edition": "21",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-08-14 08:00:00",
@@ -269,7 +310,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via giovanni panizza lizzana, Trento"
+		"address": "via giovanni panizza, Lizzana, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -283,7 +324,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_match": true,
 	"has_ticket": "TI_P_21\u00b0_edizione_Calciosplash_Lizzana",
 	"has_Archive": "",
@@ -294,24 +335,24 @@
 	"has_mode": "offline",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/133894",
 	"has_targetAge": "",
-	"has_edition": "",
+	"has_edition": "30",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-10-02 10:00:00",
 	"has_end": "2018-09-15 00:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "\nIl Torneo della Pace torna con una formula inedita.<br />Sar\u00e0 un evento sportivo-culturale completamente nuovo, diffuso su tutta la Vallagarina.",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "yearly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "campi sportivi palestre rovereto tutta vallagarina (tn)"
+		"address": "Via Tagliamento, 17, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -325,7 +366,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_match": true,
 	"has_ticket": "TI_P_30^_Edizione_Torneo_Internazionale_\u201cCitt\u00e0_della_Pace\u201d",
 	"has_Archive": "",
@@ -348,16 +389,16 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "yearly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Rovereto"
+		"address": "Unione Sportiva Quercia, Via Palestrina, 3, 38068 Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_professionalLevel": false,
+	"has_professionalLevel": true,
 	"has_paralympicStatus": false,
 	"has_sport": "Cycling",
 	"has_matchStatus": false,
@@ -367,7 +408,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_match": true,
 	"has_ticket": "TI_P_73\u00b0_Giro_podistico_internazionale",
 	"has_Archive": "",
@@ -395,7 +436,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Corso bettini 84a rovereto"
+		"address": "Corso bettini 84a, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -409,7 +450,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": true,
 	"has_ticket": "TI_P_Benessere_e_Natura_-_Giardini_Perlasca",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -436,7 +477,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via silvio pellico brione rovereto"
+		"address": "Via silvio pellico, Brione, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -450,7 +491,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": true,
 	"has_ticket": "TI_P_Benessere_e_Natura_-_Parco_Colorio",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -477,7 +518,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Viale della vittoria rovereto"
+		"address": "Viale della vittoria, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -491,7 +532,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": true,
 	"has_ticket": "TI_P_Benessere_e_Natura_-_Parco_Dionisi",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -518,7 +559,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via benacense, Rovereto"
+		"address": "Via benacense, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -532,7 +573,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": true,
 	"has_ticket": "TI_P_Benessere_e_Natura_-_Parco_Istria",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -547,7 +588,7 @@
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-27 00:00:00",
 	"has_end": "2018-09-15 00:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "ORG_Unione_sportiva_quercia",
 	"has_specialAnnouncements": "",
 	"has_description": "L'Unione Sportiva Quercia di Rovereto organizza la 7^ edizione dei campionati italiani assoluti di atletica leggera",
@@ -559,21 +600,21 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "stadio quercia via palestrina trento"
+		"address": "stadio quercia via palestrina, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_professionalLevel": false,
+	"has_professionalLevel": true,
 	"has_paralympicStatus": false,
 	"has_sport": "Athletics",
-	"has_matchStatus": false,
+	"has_matchStatus": true,
 	"has_courseStatus": false,
 	"has_team": {
 		"has_name": "",
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P_Campionati_italiani_assoluti_di_atletica_leggera_7^_edizione",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -606,7 +647,7 @@
 	"has_superEvent": "",
 	"has_professionalLevel": true,
 	"has_paralympicStatus": false,
-	"has_sport": "",
+	"has_sport": "Athletics",
 	"has_matchStatus": false,
 	"has_courseStatus": false,
 	"has_team": {
@@ -614,7 +655,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P_Campionato_Italiano_di_Societ\u00e0_2021",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -641,13 +682,13 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco melta, trento"
+		"address": "parco melta,Via 25 Aprile, 38121 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_professionalLevel": false,
 	"has_paralympicStatus": false,
-	"has_sport": "",
+	"has_sport": "Cycling",
 	"has_matchStatus": false,
 	"has_courseStatus": true,
 	"has_team": {
@@ -655,29 +696,29 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "bicicletta e casco",
+	"has_needOfMaterials": true,
 	"has_ticket": "TI_P_Conosci_la_Bici,_ama_la_Bici",
 	"has_Archive": "",
 	"has_freeEntrance": true
 }, {
 	"has_eventID": "EV_P_L'equilibrio_della_terra",
 	"has_title": "L'equilibrio della terra",
-	"has_mode": null,
-	"has_link": null,
+	"has_mode": "offline",
+	"has_link": "https://www.cultura.trentino.it/layout/set/print/Appuntamenti/L-equilibrio-della-terra.-Arte-Marziale-e-Primo-Elemento",
 	"has_targetAge": "",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2021-04-09 20:30:00",
 	"has_end": "2021-04-09 20:30:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "ORG_La_Via_del_Fuoco",
 	"has_specialAnnouncements": "gradita prenotazione",
 	"has_description": "La Via del Fuoco presenta l'evento gratuito e sperimentale: L'equilibrio della terra. Arte Marziale e Primo Elemento: che si terr\u00e0 venerd\u00ec 9 aprile alle 20:30 in via degli Olmi 26 (Trento sud). Oggi l'uomo \u00e8 portato via dalla corrente del superficiale, una forza prorompente di flussi compulsivi che scorrono nell'illusione dell'istante. Per ritornare a se stesso e realizzare lo stato permanente di distrazione nel quale vive, l'uomo deve ancorarsi in primis ad uno &quot;stop percettivo&quot;. L'Arte Marziale, mediante l'applicazione dei Codici del Vuoto, offre l'ancoraggio necessario alla barca umana affinch\u00e9 sappia ridisegnare il proprio tracciato di navigazione attraverso l'oceano della vita.</p>",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "weekly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -688,7 +729,7 @@
 	"has_superEvent": "",
 	"has_professionalLevel": false,
 	"has_paralympicStatus": false,
-	"has_sport": "Martial Arts & Martial Arts",
+	"has_sport": "Martial Arts",
 	"has_matchStatus": false,
 	"has_courseStatus": false,
 	"has_team": {
@@ -696,7 +737,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P_L'equilibrio_della_terra",
 	"has_Archive": "",
 	"has_freeEntrance": true
@@ -723,13 +764,13 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "stadio quercia via palestrina trento"
+		"address": "stadio quercia via palestrina, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_professionalLevel": false,
 	"has_paralympicStatus": false,
-	"has_sport": "Athletics & Athletics & Athletics",
+	"has_sport": " Athletics",
 	"has_matchStatus": false,
 	"has_courseStatus": false,
 	"has_team": {
@@ -738,7 +779,7 @@
 		"has_event": ["EV_P_Palio_Citt\u00e0_della_Quercia"],
 		"has_venue": "Stadio  Quercia   via  Palestrina "
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P_Palio_Citt\u00e0_della_Quercia",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -820,7 +861,7 @@
 		"has_id": "",
 		"has_event": []
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P_Vallagarina_Experience_Festival",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -861,7 +902,7 @@
 		"has_id": "org_233",
 		"has_event": ["EV_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona"]
 	},
-	"has_needOfMaterials": "",
+	"has_needOfMaterials": false,
 	"has_ticket": "TI_P_Dolomiti_Energia_Trentino_vs_Bertram_Derthona_Tortona",
 	"has_Archive": "",
 	"has_freeEntrance": false
