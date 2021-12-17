@@ -704,7 +704,7 @@
 		"address": "teatro zandonai corso bettini 78 38068 rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "EV_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
+	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
 	"has_topic": " & Informatics & Technology & Ethics & Informatics",
 	"has_finalCertificate": false,
 	"has_speaker": "",
@@ -992,7 +992,7 @@
 		"address": "teatro zandonai corso bettini 78 38068 rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "EV_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
+	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
 	"has_topic": " & Informatics & Technology & Ethics",
 	"has_finalCertificate": false,
 	"has_speaker": "",
@@ -1097,11 +1097,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "\"allaperto\" via roma trento"
+		"address": "Via Roma, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & History",
+	"has_topic": "History & Human Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1136,7 +1136,7 @@
 		"address": "rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "",
+	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
 	"has_topic": " & Informatics & Technology",
 	"has_finalCertificate": false,
 	"has_speaker": "PR_25468",
@@ -1173,7 +1173,7 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Technology & Wellness",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1207,9 +1207,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/131089",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Arts & Literature ",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1241,11 +1241,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "\"dall8\" biblioteca civica tartarotti trento"
+		"address": "Biblioteca Civica, Via Angelo Bettini, 43, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Literature & Technology",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1279,9 +1279,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/131590",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & Arts",
+	"has_topic": "Arts",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1313,11 +1313,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "progetto manifattura piazza 38068 rovereto tn"
+		"address": "progetto manifattura, Piazza della Manifattura, 1, 38068 rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Il Festival delle idee per uno sviluppo sostenibile",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Technology",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1329,7 +1329,7 @@
 }, {
 	"has_eventID": "EV_E_Giovani_&_Comune",
 	"has_title": "Giovani & Comune",
-	"has_mode": "offline",
+	"has_mode": "online",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/130705",
 	"has_targetAge": "",
 	"has_edition": "",
@@ -1349,11 +1349,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "on lin trento"
+		"address": "o"
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/130705",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Human Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1385,10 +1385,10 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "palazzo alberti poja 41 corso bettini 38068 rovereto"
+		"address": "palazzo alberti poja, corso bettini 41, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "ISF",
+	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
 	"has_topic": " & Informatics & Technology & Ethics & Informatics",
 	"has_finalCertificate": false,
 	"has_speaker": "",
@@ -1423,9 +1423,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/131267",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "History",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1459,9 +1459,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/128282",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & Science & Arts",
+	"has_topic": "Science & Arts",
 	"has_finalCertificate": false,
 	"has_speaker": "PR_90965",
 	"has_seminarStatus": false,
@@ -1495,9 +1495,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/128371",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & Science",
+	"has_topic": "Technology & Science",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1533,7 +1533,7 @@
 	},
 	"has_virtualLocation": "VL_Youtube",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1545,7 +1545,7 @@
 }, {
 	"has_eventID": "EV_E_I_Venerd\u00ec_dell'Archeologia_2020_-_Scavare_nel_passato._La_grande_avventura_dell'archeologia._",
 	"has_title": "I Venerd\u00ec dell'Archeologia 2020 - Scavare nel passato. La grande avventura dell'archeologia. ",
-	"has_mode": "offline",
+	"has_mode": "online",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/127653",
 	"has_targetAge": "",
 	"has_edition": "",
@@ -1567,9 +1567,9 @@
 		"lon": "",
 		"address": "fondazione museo civico rovereto on lin trento"
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/127653",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & History",
+	"has_topic": "History",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1603,7 +1603,7 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/128507",
 	"has_superEvent": "",
 	"has_topic": " & Informatics & Technology",
 	"has_finalCertificate": false,
