@@ -21,7 +21,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "30 parco alla pozza noriglio trento"
+		"address": "38068 Noriglio, Parco alle Pozze" 
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro Ovunque",
@@ -237,7 +237,7 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": "Storia",
+	"has_topic": "History",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -273,7 +273,7 @@
 	},
 	"has_virtualLocation": "VL_Youtube",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Psychology",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -309,7 +309,7 @@
 	},
 	"has_virtualLocation": "VL_http://www.museostorico.it/index.php/Il-Museo/Appuntamenti/2021/Invito-al-webinar-Antropologia-dell-allattamento",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Human Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "PR_55263",
 	"has_seminarStatus": false,
@@ -341,11 +341,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "tana dei pap\u00e0 piazzetta sichardt 38068 rovereto"
+		"address": "tana dei pap\u00e0, piazzetta sichardt, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Technology",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -377,11 +377,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sperimentarea bosco della citt\u00e0 trento"
+		"address": "sperimentarea al bosco della citt\u00e0, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Science & Informatics & Technology",
+	"has_topic": "Urban",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -413,11 +413,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "palazzo della regione 38122 trento"
+		"address": "Palazzo della regione, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Human Sciences & Psychology",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -449,16 +449,16 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardini perlasca corso bettini 38068 rovereto"
+		"address": "giardini perlasca, corso bettin,i 38068, rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Literature",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
 	"has_ECTS": false,
-	"has_interaction": false,
+	"has_interaction": true,
 	"has_ticket": "TI_E_BiblioLudoteca_viaggiante_e_Uomini_libro",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -485,11 +485,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "mart corso bettini 43 38068 rovereto (tn)"
+		"address": "mart, corso bettini 43, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Psychology",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -523,14 +523,14 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/129866",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "History & Literature",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
 	"has_ECTS": false,
-	"has_interaction": false,
+	"has_interaction": true,
 	"has_ticket": "TI_E_Casteldante._Lutto,_commemorazione,_celebrazione",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -559,9 +559,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/132097",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & Wellness & Sport",
+	"has_topic": "Wellness & Sport",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -595,9 +595,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
-	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/134269",
+	"has_superEvent": "EV_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
+	"has_topic": "Informatics & Technology",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -631,21 +631,21 @@
 		"lon": "",
 		"address": " "
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.crushsite.it/it/didattica/azb-scuola-di-lingue.htmlAZB/a.br/",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Languages",
 	"has_finalCertificate": true,
 	"has_speaker": "",
 	"has_seminarStatus": false,
 	"has_ECTS": false,
-	"has_interaction": false,
+	"has_interaction": true,
 	"has_ticket": "TI_E_corsi-di-lingua",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
 	"has_eventID": "EV_E_Crescere_oggi",
 	"has_title": "Crescere oggi",
-	"has_mode": "offline",
+	"has_mode": "online",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/130504",
 	"has_targetAge": "",
 	"has_edition": "",
@@ -665,11 +665,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "on line iprase trento"
+		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/130504",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Human Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -704,13 +704,13 @@
 		"address": "teatro zandonai corso bettini 78 38068 rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "ISF",
+	"has_superEvent": "EV_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
 	"has_topic": " & Informatics & Technology & Ethics & Informatics",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
 	"has_ECTS": false,
-	"has_interaction": false,
+	"has_interaction": true,
 	"has_ticket": "TI_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -737,11 +737,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sala belli palazzo alberti poja corso bettini 41 rovereto (tn)"
+		"address": "sala belli, palazzo alberti poja, corso bettini 41 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Human Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -777,7 +777,7 @@
 	},
 	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/131103",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & Arts",
+	"has_topic": "Arts",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -789,7 +789,7 @@
 }, {
 	"has_eventID": "EV_E_Dire_s\u00ec_\u00e8_il_regalo_pi\u00f9_bello",
 	"has_title": "Dire s\u00ec \u00e8 il regalo pi\u00f9 bello",
-	"has_mode": null,
+	"has_mode": "online",
 	"has_link": [],
 	"has_targetAge": "",
 	"has_edition": "",
@@ -813,7 +813,7 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Human Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -845,11 +845,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "urban center sala kennedy corso rosmini 58 rovereto (tn)"
+		"address": "urban center - sala kennedy, corso rosmini, 58 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & History",
+	"has_topic": "Arts",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -885,7 +885,7 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Filo di Arianna",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Human Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -917,11 +917,11 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "mart rovereto corso bettini 43 38068 tn"
+		"address": "mart rovereto corso bettini 43 38068"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Arts",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -955,9 +955,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/131868",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
+	"has_topic": "Technology & Sciences",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -992,7 +992,7 @@
 		"address": "teatro zandonai corso bettini 78 38068 rovereto"
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "ISF",
+	"has_superEvent": "EV_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
 	"has_topic": " & Informatics & Technology & Ethics",
 	"has_finalCertificate": false,
 	"has_speaker": "",
@@ -1027,9 +1027,9 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/134118",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & Arts",
+	"has_topic": "History &Arts",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -1061,7 +1061,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "biblioteca civica corso bettini 43 trento"
+		"address": "biblioteca civica corso bettini 43 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
