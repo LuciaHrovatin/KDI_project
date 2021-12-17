@@ -3,7 +3,7 @@
 	"has_title": " adventures i bordolesi del trentino",
 	"has_mode": "offline",
 	"has_link": "\"https://stayhappening.com/e/i-bordolesi-del-trentino-E2ISTYIPYRL?ref=ep_sharer\"",
-	"has_targetAge": "",
+	"has_targetAge": "over 18",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
@@ -12,7 +12,7 @@
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": " alle sale \u00e8 disciplinato dalla normativa coronavirus.#bordolesitrentini #ilovetrentino",
-	"has_description": "\"I BORDOLESI DEL TRENTINO\" rounded height=\"296\" Palazzo Roccabruna rende omaggio alla tradizione dei bordolesi del Trentino, nati negli anni '60, con un evento che prevede la possibilit\u00e0 di degustare nelle sale dell'Enoteca un'ampia rappresentanza della tipologia.Palazzo Roccabruna propone in degustazione da gioved\u00ec a sabato dalle 17.00 alle 22.00 la collezione dei bordolesi trentiniErano gli anni Sessanta quando un gruppo di ex allievi dell'Istituto agrario di San Michele all'Adige fece un viaggio a Bordeaux alla scoperta dei vini francesi. Quell'esperienza fu fondamentale e rappresent\u00f2 l'inizio di una stagione nuova per la vitivinicoltura locale. A segnalarsi furono il grande Leonello Letrari, allora enologo a Bossi Fedrigotti, e Riccardo Zanetti capo cantina all'Istituto di San Michele all'Adige sotto l'ala del ricercatore Franco Defrancesco. A loro si devono i primi bordolesi trentini, o meglio italiani: fu un successo enorme ed il Fojaneghe di Bossi Fedrigotti giunse sino in Australia, preceduto dalla sua fama. Oggi quella tradizione continua e si rinnova con elementi di territorialit\u00e0 che fanno dei bordolesi un'autentica espressione della nostra enologia.  Degustazioni a pagamento.L'accesso",
+	"has_description": " Palazzo Roccabruna rende omaggio alla tradizione dei bordolesi del Trentino, nati negli anni '60, con un evento che prevede la possibilit\u00e0 di degustare nelle sale dell'Enoteca un'ampia rappresentanza della tipologia.Palazzo Roccabruna propone in degustazione da gioved\u00ec a sabato dalle 17.00 alle 22.00 la collezione dei bordolesi trentiniErano gli anni Sessanta quando un gruppo di ex allievi dell'Istituto agrario di San Michele all'Adige fece un viaggio a Bordeaux alla scoperta dei vini francesi. Quell'esperienza fu fondamentale e rappresent\u00f2 l'inizio di una stagione nuova per la vitivinicoltura locale. A segnalarsi furono il grande Leonello Letrari, allora enologo a Bossi Fedrigotti, e Riccardo Zanetti capo cantina all'Istituto di San Michele all'Adige sotto l'ala del ricercatore Franco Defrancesco. A loro si devono i primi bordolesi trentini, o meglio italiani: fu un successo enorme ed il Fojaneghe di Bossi Fedrigotti giunse sino in Australia, preceduto dalla sua fama. Oggi quella tradizione continua e si rinnova con elementi di territorialit\u00e0 che fanno dei bordolesi un'autentica espressione della nostra enologia.  Degustazioni a pagamento.L'accesso",
 	"has_terminated": true,
 	"has_hashtag": ["src=\"https://cdn.stayhappening.com/events1/banners/56290a510a44647cebcf62226595718b051768ad2987131df5aa7a0840f3f0ba-rimg-w526-h296-gmir.jpg?v=1634670683\"", "href=\"https://stayhappening.com/trento--trips-adventures\""],
 	"has_distance": false,
@@ -21,27 +21,21 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "palazzo roccabruna enoteca provinciale trentino , trento"
+		"address": "palazzo roccabruna, Via Santissima Trinità, 24, 38100  trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_adventures_i_bordolesi_del_trentino",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
-	"has_eventID": "EV_T__adventures_open_day_arrampicata_corso_base",
+	"has_eventID": "EV_P__adventures_open_day_arrampicata_corso_base",
 	"has_title": " adventures open day arrampicata corso base",
 	"has_mode": "offline",
 	"has_link": "\"https://stayhappening.com/e/open-day-arrampicata-corso-base-E3LUSTHJHEP2?ref=ep_sharer\"",
@@ -63,19 +57,19 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "monte celva , trento"
+		"address": "Monte Celva, Passo del Cimirlo, 87, Trento "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_tourStart": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "alle ore 8.30 presso il parcheggio in prossimit\u00e0 di"
+		"lat": "Monte Celva, Passo del Cimirlo, 87, Trento "
 	},
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "monte celva"
+		"lat": "Monte Celva, Passo del Cimirlo, 87, Trento, "
 	},
 	"has_tourIntermediateStops": "",
 	"has_skillRequirement": "base",
@@ -107,68 +101,25 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "monte celva , trento"
+		"address": "Monte Celva, Passo del Cimirlo, 87, Trento, "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_tourStart": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "alle ore 8.30 presso il parcheggio in prossimit\u00e0 di"
+		"lat": "Monte Celva, Passo del Cimirlo, 87, Trento, "
 	},
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "monte celva"
+		"lat": "Monte Celva, Passo del Cimirlo, 87, Trento "
 	},
 	"has_tourIntermediateStops": "",
 	"has_skillRequirement": "intermedio",
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_adventures_open_day_arrampicata_corso_intermedio",
-	"has_Archive": "",
-	"has_freeEntrance": false
-}, {
-	"has_eventID": "EV_T__adventures_sunset_vibes",
-	"has_title": " adventures sunset vibes",
-	"has_mode": "offline",
-	"has_link": "\"https://stayhappening.com/e/sunset-vibes-E3LUSSLN6Q2H?ref=ep_sharer\"",
-	"has_targetAge": "",
-	"has_edition": "",
-	"has_festivalStatus": false,
-	"has_language": ["it-IT"],
-	"has_start": "2021-10-24 15:00:00",
-	"has_end": "2015-05-31 10:30:00",
-	"has_recurrency": false,
-	"has_organizer": "",
-	"has_specialAnnouncements": " presso il rifugio maranza (costo escluso).<b>about this event</b>sunset vibes. escursione al tramonto in compagnia dell'accompagnatore di media montagna marta cavallari adatta a tutti con partenza dal rifugio maranza e arrivo su cima marzola. a seguire cena presso il rifugio maranza (costo escluso). <strong><em>dettagli </em></strong>data e luogo: 24 ottobre 2021 - cima marzolaorario: dalle ore 15.00 alle ore 19.30 (durata attivit\u00e0: 4,5 ore circa)ritrovo: alle ore 15.00 presso il parcheggio del rifugio maranza (strada per maranza, 23 - trento) minimo partecipanti: 4 \u0096 massimo: 20altro: il costo della cena \u00e8 escluso dal prezzo del biglietto. <strong><em>note </em></strong>per partecipare all'evento \u00e8 obbligatorio essere muniti di green pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. presso il rifugio maranza (costo escluso). <strong><em>dettagli </em></strong>data e luogo: 24 ottobre 2021 - cima marzolaorario: dalle ore 15.00 alle ore 19.30 (durata attivit\u00e0: 4,5 ore circa)ritrovo: alle ore 15.00 presso il parcheggio del rifugio maranza (strada per maranza, 23 - trento) minimo partecipanti: 4 \u0096 massimo: 20altro: il costo della cena \u00e8 escluso dal prezzo del biglietto. <strong><em>note </em></strong>per partecipare all'evento \u00e8 obbligatorio essere muniti di green pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. il costo della cena \u00e8 escluso dal prezzo del biglietto. <strong><em>note </em></strong>per partecipare all'evento \u00e8 obbligatorio essere muniti di green pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. green pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo.",
-	"has_description": "\"Sunset Vibes\" rounded height=\"600\" 150px;\" width=\"1200\"/> Trekking al tramonto alla scoperta della Cima Marzola e cena presso il Rifugio Maranza (costo escluso).<b>About this Event</b><p>Sunset Vibes. Escursione al tramonto in compagnia dell'accompagnatore di Media Montagna Marta Cavallari adatta a tutti con partenza dal Rifugio Maranza e arrivo su Cima Marzola. A seguire cena presso il Rifugio Maranza (costo escluso). </p><p><strong><em>Dettagli </em></strong></p><p>Data e luogo: 24 ottobre 2021 Cima Marzola</p><p>Orario: dalle ore 15.00 alle ore 19.30 (durata attivit\u00e0: 4,5 ore circa)</p><p>Ritrovo: alle ore 15.00 presso il parcheggio del Rifugio Maranza (Strada per Maranza, 23 Trento) </p><p>Minimo partecipanti: 4 \u0096 massimo: 20</p><p>Altro: il costo della cena \u00e8 escluso dal prezzo del biglietto. </p><p><strong><em>Note </em></strong></p><p>Per partecipare all'evento \u00e8 obbligatorio essere muniti di Gre en Pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da </p><p>L'organizzatore dell'evento provvede al rimborso del biglietto SOLO in caso di comunicazione ufficiale di annullamento dell'evento causa maltempo. </p>",
-	"has_terminated": true,
-	"has_hashtag": ["src=\"https://cdn.stayhappening.com/events5/banners/900309287d3233f8a1066e2ae0f91441ce50e3f1cabef31c52a8e7bbe46c40f4-rimg-w1200-h600-gmir.jpg?v=1634650389\"", "href=\"https://stayhappening.com/trento--trips-adventures\"", "href=\"https://stayhappening.com/trento--trekking\""],
-	"has_distance": false,
-	"has_schedule": "",
-	"has_transportMode": [],
-	"has_venue": {
-		"lat": "",
-		"lon": "",
-		"address": "cima marzola , trento"
-	},
-	"has_virtualLocation": "",
-	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": "",
-		"lat": "alle ore 15.00 presso il parcheggio del rifugio maranza"
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
-	"has_hikingStatus": true,
-	"has_map": "",
-	"has_ticket": "TI_T_adventures_sunset_vibes",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -194,18 +145,18 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "monte celva , trento"
+		"address": "Monte Celva, Passo del Cimirlo, 87, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_tourStart": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "alle ore 10.00 presso forte roncogno, passo del cimirlo"
+		"lat": "Passo del Cimirlo, 87, 38123 Cimirlo"
 	},
-	"has_tourEnd": "monte celva",
+	"has_tourEnd": "Monte Celva, Passo del Cimirlo, 87, Trento",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": true,
 	"has_map": "",
 	"has_ticket": "TI_T_adventures_trekking_alla_scoperta_del_monte_celva",
@@ -234,21 +185,18 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "stazione trento , trento"
+		"address": "Piazza Dante, 38122, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "montello/gorlago9.50 palazzolo"
+		"lat": ""
 	},
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_adventures_treno_storico_elettrico_per_i_mercatini_di_natale_a_trento",
@@ -277,18 +225,18 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "monte celva , trento"
+		"address": "Passo del Cimirlo, 87, 38123 Cimirlo "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_tourStart": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "alle ore 10.00 presso forte roncogno, passo del cimirlo"
+		"lat": "Passo del Cimirlo, 87, 38123 Cimirlo "
 	},
-	"has_tourEnd": "monte celva",
+	"has_tourEnd": "monte celva, Trento",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": true,
 	"has_map": "",
 	"has_ticket": "TI_T_trekking_alla_scoperta_del_monte_celva",
@@ -321,17 +269,14 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "monte baldo"
+		"lat": "monte baldo, Verona"
 	},
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Alla_scoperta_della_biodiversit\u00e0_dei_prati_falciati",
@@ -360,20 +305,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "chiesa parrocchiale san giovanni battista borgo sacco trento"
+		"address": "chiesa parrocchiale san giovanni battista, borgo sacco, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Borgo_Sacco_e_la_Manifattura_Dai_sigari_alla_sostenibilit\u00e0",
@@ -389,33 +328,27 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2020-10-03 08:00:00",
-	"has_end": "2020-10-03 08:00:00",
-	"has_recurrency": false,
+	"has_end": "2020-10-03 00:00:00",
+	"has_recurrency": true,
 	"has_organizer": "ORG_Trento_ESN",
 	"has_specialAnnouncements": "",
 	"has_description": "03/10/2020 08:00 first last Bus rides, meels, tickets, guide  first last An ESNcard of this section required. ",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "yearly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "Via Vigilio Inama, 38122, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_discovery-trentino-w-esn",
@@ -444,20 +377,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento esn event trento"
+		"address": "Via Vigilio Inama, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_esnow-2019-20th-edition",
@@ -486,20 +413,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "rovereto"
+		"address": "Via Roma, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_esperienze--rovereto-e-vallagarina",
@@ -528,20 +449,17 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "piazza podest\u00e0 davanti comune rovereto"
+		"address": "piazza podest\u00e0, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
 	"has_tourEnd": {
 		"has_lat": "",
-		"has_lon": ""
+		"has_lon": "38068 Rovereto"
 	},
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Il_chilometro_delle_meraviglie_-_Sette_secoli_di_storia_dal_quartiere_di_Santa_Maria_al_Mart",
@@ -570,20 +488,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "cooperativa amalia guardini via pasqui 63 38068 rovereto"
+		"address": "cooperativa amalia guardini, via pasqui 63, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": true,
 	"has_map": "",
 	"has_ticket": "TI_T_ManifestAzioni_-_Trekking_solidale_",
@@ -612,20 +524,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento trento"
+		"address": "Via Vigilio Inama, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_mushroom-picking-w-esn",
@@ -636,7 +542,7 @@
 	"has_title": "Naturali amicizie sul Monte Baldo. Tra geologia e botanica",
 	"has_mode": "online",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/131284",
-	"has_targetAge": "",
+	"has_targetAge": "18-30",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
@@ -654,21 +560,21 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": ""
+		"address": "Monte Baldo, Verona"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_tourStart": {
 		"has_lat": "",
-		"has_lon": ""
+		"has_lon": "Via Vigilio Inama, 38122, Trento"
 	},
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "monte baldo"
+		"lat": "Monte baldo, Verona"
 	},
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Naturali_amicizie_sul_Monte_Baldo._Tra_geologia_e_botanica",
@@ -697,20 +603,18 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "baita degli alpini loc. loc. costa violina lizzana trento"
+		"address": "baita degli alpini, loc.costa violina, 38068 Lizzana (Rovereto)"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
 	"has_tourEnd": {
 		"has_lat": "",
-		"has_lon": ""
+		"has_lon": "",
+		"lat": "baita degli alpini, loc.costa violina, 38068 Lizzana (Rovereto)"
 	},
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Passeggiata_naturalistica_al_Fungo_di_Albaredo",
@@ -739,20 +643,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "partenza \"dallosservatorio\" astronomico monte zugna trento"
+		"address": "osservatorio astronomico, 38068 Zugna"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Passeggiata_sul_Monte_Zugna_a_caccia_di_insetti",
@@ -781,20 +679,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "9.30 partenza parcheggio ponte delle zigherane borgo sacco rovereto"
+		"address": "Parcheggio ponte delle zigherane, borgo sacco, rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Pedalando_verso_l'isola_dei_tesori",
@@ -823,20 +715,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "piazza podest\u00e0 trento"
+		"address": "piazza podest\u00e0, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Rovereto,_citt\u00e0_della_seta_-_Rogge_e_filatoi_raccontano_lo_sviluppo_economico_della_citt\u00e0_tra_Tardo_Medioevo_e_Rinascimento",
@@ -865,20 +751,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "davanti all\u2019ufficio informazioni apt corso rosmini trento"
+		"address": "Via Vittorio Veneto, 43, 38122"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino_-_Dalla_Rovereto_nel_secolo_dei_lumi_alle_architetture_del_Mart",
@@ -911,16 +791,10 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Trekking_botanico_lungo_il_torrente_Leno_fino_al_Ponte_delle_Zigherane",
@@ -953,16 +827,10 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Trekking_Urbani_a_Rovereto",
@@ -991,20 +859,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "rovereto"
+		"address": "Piazza Podestà, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": true,
 	"has_map": "",
 	"has_ticket": "TI_T_trekking-urbani",
@@ -1015,13 +877,13 @@
 	"has_title": "trip-bolzano-esn-trento",
 	"has_mode": "offline",
 	"has_link": "https://trento.esn.it/?q=events/trip-bolzano-esn-trento",
-	"has_targetAge": "",
+	"has_targetAge": "18-30",
 	"has_edition": "20",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2020-02-16 13:00:00",
 	"has_end": "2020-02-16 13:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "ORG_Trento_ESN",
 	"has_specialAnnouncements": "NB: the event will be postponed in case of bad weather, we will kee you informed class group-secondary class 16/02/2020 - 13:00 class countryItaly together and be back in Trento before the evening .br NB: the event will be postponed in case of bad",
 	"has_description": "Are you ready for the first of your Erasmus? Let's start the Welcome Week with the right foot by discovering another beautiful city in the Trentino region!     We will meet with our friends from ESN Bolzano and discover the city with them.     The We will meet at the train station at 13:00 and catch the train at 13:30.br As soon as we arrive, ESN Bolzano will show us around the town. Afterwards, we'll have snack/drink all together and be back in Trento before the evening .br NB: the event will be postponed in case of bad weather, we will kee you informed 16/02/2020 13:00",
@@ -1033,20 +895,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy bolzano esn and trento trento"
+		"address": "39100, Bolzano"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_trip-bolzano-esn-trento",
@@ -1075,20 +931,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy verona trento"
+		"address": "37100 Verona"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_trip-verona-w-esn",
@@ -1099,7 +949,7 @@
 	"has_title": "Viaggio nella Salisburgo del Trentino",
 	"has_mode": "offline",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/133831",
-	"has_targetAge": "",
+	"has_targetAge": "over 18",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
@@ -1117,20 +967,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai corso bettini 78 rovereto (tn)"
+		"address": "teatro zandonai, corso bettini 78, rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_Viaggio_nella_Salisburgo_del_Trentino",
@@ -1159,20 +1003,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "38122, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_virtual-citytour-w-esn",
@@ -1189,7 +1027,7 @@
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2019-03-03 14:00:00",
 	"has_end": "2019-03-03 14:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "ORG_Trento_ESN",
 	"has_specialAnnouncements": "NB: the event will be postponed in case of bad weather, we will kee you informed class group-secondary class 16/02/2020 - 13:00 class countryItaly together and be back in Trento before the evening .br NB: the event will be postponed in case of bad",
 	"has_description": "to enjoy beautiful view of the city from above and visit the mausoleum to the national hero. pspanIt is very easy walk. We'll be on to of the DOSS in about 30 minutes, and then we will just chill out there, sunbathing on the lawn, playing football, music, cards or whatever you will want to bring with you. br spanAfter the walk we could even go to have hot chocolate together or something to drink. pspanComfortable shoes, towel and some snacks are highly recommended. pspanYou don't have to register, but it would be nice if you could click \u0093attend\u0094 if you come, so we can see how many we'll be, more or less. The whole tri is completely free! pspanThe meeting point will be at Piazz Duomo at 14 o'clock. We will tell y some secret stories on the way to Doss. pspanThe event could be postponed due to weather conditions! br spanHowever we will kee you u to date! 03/03/2019 to 17:00 first lastEveryone is invited. ul",
@@ -1205,17 +1043,13 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": {"has_lat":"",
+					"has_lon":"", 
+					"lat": "Via Dòs Trento, 38122 Trento"},
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
-	"has_hikingStatus": false,
+	
+	"has_hikingStatus": true,
 	"has_map": "",
 	"has_ticket": "TI_T_walk-doss-trento",
 	"has_Archive": "",
@@ -1231,7 +1065,7 @@
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2020-09-20 14:00:00",
 	"has_end": "2020-09-20 14:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "ORG_Trento_ESN",
 	"has_specialAnnouncements": "NB: the event will be postponed in case of bad weather, we will kee you informed class group-secondary class 16/02/2020 - 13:00 class countryItaly together and be back in Trento before the evening .br NB: the event will be postponed in case of bad",
 	"has_description": "to enjoy beautiful view of the city from above and visit the mausoleum to the national hero. pIt is very easy walk. We'll be on to of the DOSS in aboutbr 30 minutes, and then we will just chill out there, sunbathing on thebr lawn, playing football, music, cards or whatever you will want to bringbr with you. pAfter the walk we could even go to have hot chocolate together or something to drink. pComfortable shoes, towel and some snacks are highly recommended. pYou don't have to register, but it would be nice if you couldbr click \u0093attend\u0094 if you come, so we can see how many we'll be, more orbr less. The whole tri is completely free! pThe meeting point will be at Piazz Duomo at 14 o'clock. We will tell y some secret stories on the way to Doss. pThe event could be postponed due to weather conditions! pHowever we will kee you u to date! 20/09/2020 14:00 first lastEveryone is invited. ul",
@@ -1243,21 +1077,17 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy doss , piazza duomo trento"
+		"address": "Via Dòs Trento, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": {"has_lat":"",
+		"has_lon":"", 
+		"lat": "Via Dòs Trento, 38122 Trento"},
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
-	"has_hikingStatus": false,
+	
+	"has_hikingStatus": true,
 	"has_map": "",
 	"has_ticket": "TI_T_walk-doss",
 	"has_Archive": "",
@@ -1273,7 +1103,7 @@
 	"has_language": ["it-IT", "en-GB"],
 	"has_start": "2020-10-27 15:00:00",
 	"has_end": "2020-10-27 15:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "ORG_Trento_ESN",
 	"has_specialAnnouncements": "NB: the event will be postponed in case of bad weather, we will kee you informed class group-secondary class 16/02/2020 - 13:00 class countryItaly together and be back in Trento before the evening .br NB: the event will be postponed in case of bad",
 	"has_description": "http://www.trentodoc.com/en/for more info 27/10/2020 15:00 first lastWinery tour, Wine tastes ul",
@@ -1285,20 +1115,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy trento"
+		"address": "38122, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": ""
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": ""
-	},
+	"has_tourStart": "",
+	"has_tourEnd": "",
 	"has_tourIntermediateStops": "",
-	"has_skillRequirement": false,
+	
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_winery-tour-w-esn",

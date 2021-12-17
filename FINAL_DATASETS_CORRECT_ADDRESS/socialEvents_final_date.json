@@ -687,7 +687,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco fedrigotti, borgo sacco, trento"
+		"address": "parco fedrigotti, borgo sacco, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1026,7 +1026,7 @@
 	"has_start": "2021-09-10 05:00:00",
 	"has_end": "2019-10-31 21:00:00",
 	"has_recurrency": true,
-	"has_organizer": "",
+	"has_organizer": "org_Kairos",
 	"has_specialAnnouncements": "Obbligo Green Pass",                                                                                 
 	"has_description": "L' autunno \u00e8 arrivato e con lui ripartono anche le nostre attivit\u00f2 settimanali! Lab creativi, attivit\u00f2 in lingua, spazio dedicato allo studio, uscite sul territorio e molto altro! Attivit\u00f2 libere e gratuite per giovani 11-30 anni.  Il Centro di Aggregazione Territoriale #Kairos Giovani \u00e8 aperto tutti i giorni dal luned\u00ec al sabato dalle 14.30 alle 19.00 e il venerd\u00ec sera dalle 20.00 alle 22.00 Il programma settimanale in PDF:  https://www.perginegiovani.it/kairos-giovani/2021/programma-ottobre-2021/",
 	"has_terminated": true,

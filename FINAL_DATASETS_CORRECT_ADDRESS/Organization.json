@@ -35,7 +35,7 @@
     "has_venue": ""
 },{
     "has_name": "compagnia samovar e ass. cult. new project",
-    "has_id": "org_Teatro di Meano , Trento",
+    "has_id": "ORG_Teatro di Meano , Trento",
     "has_event": [
         "EV_C__banda_storta_circus"
     ],
@@ -2433,7 +2433,7 @@
     "has_event": []
 },{
     "has_name": "lagaris volley nazionale volley sorde fssi",
-    "has_id": "org_    diretta  Facebook",
+    "has_id": "ORG_    diretta  Facebook",
     "has_event": [
         "EV_P__Lagaris_Volley_VS_Nazionale_Volley_Sorde_FSSI"
     ],
@@ -2496,7 +2496,7 @@
     "has_event": []
 },{
     "has_name": "gruppo atletico &quot;palio",
-    "has_id": "org_martedi  D  ore  e  la  conclusione  verso  le  Stadio  Quercia   via  Palestrina ",
+    "has_id": "ORG_martedi  D  ore  e  la  conclusione  verso  le  Stadio  Quercia   via  Palestrina ",
     "has_event": [
         "EV_P_Palio_Citt\u00e0_della_Quercia"
     ],
@@ -2556,14 +2556,14 @@
     "has_venue": ""
 },{
     "has_name": "ESN Trento",
-    "has_id": "org_Italy (Trento)",
+    "has_id": "ORG_Italy (Trento)",
     "has_event": [
         "EV_T_discovery-trentino-w-esn"
     ],
     "has_venue": "ESN Trento Sede Centrale"
 },{
     "has_name": "ESN Trento",
-    "has_id": "org_Italy Trento ESN event (Trento)",
+    "has_id": "ORG_Italy Trento ESN event (Trento)",
     "has_event": [
         "EV_T_esnow-2019-20th-edition"
     ],
@@ -2585,7 +2585,7 @@
     "has_venue": ""
 },{
     "has_name": "ESN Trento",
-    "has_id": "org_Italy Trento Trento (Trento)",
+    "has_id": "ORG_Italy Trento Trento (Trento)",
     "has_event": [
         "EV_T_mushroom-picking-w-esn"
     ],
@@ -2637,14 +2637,14 @@
     "has_venue": ""
 },{
     "has_name": "ESN Trento",
-    "has_id": "org_Italy bolzano ESN and ESN Trento (Trento)",
+    "has_id": "ORG_Italy bolzano ESN and ESN Trento (Trento)",
     "has_event": [
         "EV_T_trip-bolzano-esn-trento"
     ],
     "has_venue": "ESN Trento Sede Centrale"
 },{
     "has_name": "ESN Trento",
-    "has_id": "org_Italy verona (Trento)",
+    "has_id": "ORG_Italy verona (Trento)",
     "has_event": [
         "EV_T_trip-verona-w-esn"
     ],
@@ -2656,7 +2656,7 @@
     "has_venue": ""
 },{
     "has_name": "ESN Trento",
-    "has_id": "org_Italy (Trento)",
+    "has_id": "ORG_Italy (Trento)",
     "has_event": [
         "EV_T_virtual-citytour-w-esn"
     ],
@@ -2673,7 +2673,7 @@
     "has_venue": ""
 },{
     "has_name": "ESN Trento",
-    "has_id": "org_Italy (Trento)",
+    "has_id": "ORG_Italy (Trento)",
     "has_event": [
         "EV_T_winery-tour-w-esn"
     ],
@@ -2835,7 +2835,12 @@
     "has_venue": ""
 },{
     "has_name": "studio di design Marameo",
-    "has_id": "org_Mart_Corso_Bettini_43",
+    "has_id": "ORG_Mart_Corso_Bettini_43",
     "has_event":["EV_W_Animart._Le_collezioni_del_museo_in_stop-motion"],
     "has_venue": "Mart Corso Bettini 43 Rovereto"
+},{
+    "has_name": "studio di design Marameo",
+    "has_id": "ORG_kairos",
+    "has_event":["EV_S_ottobre-2020-al-#kairos-giovani"],
+    "has_venue": "centro aggregazione territoriale #kairos giovani, via amstetten 11, trento"
 }]
