@@ -2386,9 +2386,8 @@
     "has_purchaser": null,
     "has_eventID": "EV_S__afro_funky_halloween"
 },{
-    "has_ticketID": "TI_ art pandemike poetry slam_S",
-     
-    "has_onlineBooking": false,
+    "has_ticketID": "TI_S_art pandemike poetry slam_S",
+    "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
     "has_price": "di",
@@ -3574,26 +3573,6 @@
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_E_Oltre_Penelope"
-},{
-    "has_ticketID": "TI_E_Palazzo_Noriller_a_Rovereto._Nuovi_studi_interdisciplinari",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/131099",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_E_Palazzo_Noriller_a_Rovereto._Nuovi_studi_interdisciplinari"
-},{
-    "has_ticketID": "TI_E_Palazzo_Sichardt,_una_storia_Roveretana",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_E_Palazzo_Sichardt,_una_storia_Roveretana"
 },{
     "has_ticketID": "TI_E_Passi_di_pace",
      

@@ -196,7 +196,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -268,7 +268,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -304,7 +304,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -340,7 +340,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -376,7 +376,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -412,7 +412,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -448,7 +448,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -484,7 +484,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -520,7 +520,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -592,7 +592,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -628,7 +628,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -664,7 +664,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -700,7 +700,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -772,7 +772,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -808,7 +808,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -844,7 +844,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -880,7 +880,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -916,7 +916,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -952,7 +952,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -988,7 +988,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1024,7 +1024,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1096,7 +1096,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1132,7 +1132,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1168,7 +1168,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1204,7 +1204,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1240,7 +1240,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1276,7 +1276,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1312,7 +1312,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1348,7 +1348,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1384,7 +1384,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1420,7 +1420,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1456,7 +1456,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1492,7 +1492,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1528,7 +1528,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1564,7 +1564,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1600,7 +1600,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1636,7 +1636,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1672,7 +1672,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1708,7 +1708,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1744,7 +1744,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1780,7 +1780,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1816,7 +1816,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1852,7 +1852,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1888,7 +1888,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1924,7 +1924,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1960,7 +1960,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1996,7 +1996,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2032,7 +2032,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2068,7 +2068,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2104,7 +2104,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2140,7 +2140,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2176,7 +2176,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2212,7 +2212,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2248,7 +2248,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2284,7 +2284,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2356,7 +2356,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2392,7 +2392,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2428,7 +2428,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2464,7 +2464,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2500,7 +2500,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2536,7 +2536,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2572,7 +2572,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2608,7 +2608,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2644,7 +2644,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2680,7 +2680,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2752,7 +2752,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2788,7 +2788,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2824,7 +2824,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2860,7 +2860,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2896,7 +2896,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2932,7 +2932,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2941,7 +2941,7 @@
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "ISF",
-	"has_topic": " & Informatics & Technology & Ethics & Informatics",
+	"has_topic": "Informatics & Technology,  Ethics & Informatics",
 	"has_finalCertificate": false,
 	"has_speaker": "",
 	"has_seminarStatus": false,
@@ -2968,14 +2968,14 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "VL_Youtube",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/129836",
 	"has_superEvent": "",
 	"has_topic": " & Informatics & Technology",
 	"has_finalCertificate": false,
@@ -2991,7 +2991,7 @@
 	"has_title": "Palazzo Noriller a Rovereto. Nuovi studi interdisciplinari",
 	"has_mode": "online",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/131099",
-	"has_targetAge": "",
+	"has_targetAge": "per giovani e adulti",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
@@ -3004,42 +3004,6 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
-	"has_transportMode": [],
-	"has_venue": {
-		"lat": "",
-		"lon": "",
-		"address": ""
-	},
-	"has_virtualLocation": "",
-	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology",
-	"has_finalCertificate": false,
-	"has_speaker": "",
-	"has_seminarStatus": false,
-	"has_ECTS": false,
-	"has_interaction": false,
-	"has_ticket": "TI_E_Palazzo_Noriller_a_Rovereto._Nuovi_studi_interdisciplinari",
-	"has_Archive": "",
-	"has_freeEntrance": false
-}, {
-	"has_eventID": "EV_E_Palazzo_Sichardt,_una_storia_Roveretana",
-	"has_title": "Palazzo Sichardt, una storia Roveretana",
-	"has_mode": null,
-	"has_link": [],
-	"has_targetAge": "",
-	"has_edition": "",
-	"has_festivalStatus": false,
-	"has_language": [],
-	"has_start": "",
-	"has_end": "",
-	"has_recurrency": false,
-	"has_organizer": "",
-	"has_specialAnnouncements": "",
-	"has_description": "<p class=\" text-left\">Visita guidata alla scoperta di Palazzo Sichardt",
-	"has_terminated": false,
-	"has_hashtag": [],
-	"has_distance": false,
 	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
@@ -3047,18 +3011,18 @@
 		"lon": "",
 		"address": ""
 	},
-	"has_virtualLocation": "",
+	"has_virtualLocation": "VI_https://www.comune.rovereto.tn.it/openpa/object/131099",
 	"has_superEvent": "",
-	"has_topic": " & Informatics & Technology & History",
+	"has_topic": "Arte e Cultura",
 	"has_finalCertificate": false,
-	"has_speaker": "",
+	"has_speaker": "pr_92837",
 	"has_seminarStatus": false,
 	"has_ECTS": false,
 	"has_interaction": false,
-	"has_ticket": "TI_E_Palazzo_Sichardt,_una_storia_Roveretana",
+	"has_ticket": "",
 	"has_Archive": "",
-	"has_freeEntrance": false
-}, {
+	"has_freeEntrance": true
+},{
 	"has_eventID": "EV_E_Passi_di_pace",
 	"has_title": "Passi di pace",
 	"has_mode": "offline",
@@ -3076,7 +3040,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3094,7 +3058,7 @@
 	"has_ticket": "TI_E_Passi_di_pace",
 	"has_Archive": "",
 	"has_freeEntrance": false
-}, {
+},{
 	"has_eventID": "EV_E_Privacy_nella_società_digitale_-_ISF_-_Il_Festival",
 	"has_title": "Privacy nella società digitale - ISF - Il Festival",
 	"has_mode": "offline",
@@ -3112,7 +3076,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3184,7 +3148,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3220,7 +3184,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3256,7 +3220,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3292,7 +3256,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3328,7 +3292,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3364,7 +3328,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3400,7 +3364,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3436,7 +3400,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3472,7 +3436,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3508,7 +3472,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3544,7 +3508,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3580,7 +3544,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3616,7 +3580,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3652,7 +3616,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3688,7 +3652,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3724,7 +3688,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3760,7 +3724,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3796,7 +3760,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3832,7 +3796,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3868,7 +3832,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3904,7 +3868,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",

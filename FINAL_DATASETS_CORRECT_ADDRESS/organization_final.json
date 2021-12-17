@@ -127,7 +127,7 @@
 	}
 	,{"has_name" : "Fondazione Museo Civico di Rovereto", 
 		"has_id": "ORG_Fondazione_Museo_Civico_di_Rovereto", 
-		"has_event": ["EV_W_Il_canto_degli_insetti", "EV_W_Estate_ai_blocchi_di_partenza!", "EV_W_Robotic_Lab", "EV_W_Un_sabato_con_il_Sole_sul_Monte_Zugna", "EV_W_Venerd\u00ec_a_lume_di_stella"],
+		"has_event": ["EV_C_Palazzo_Sichardt,_una_storia_Roveretana", "EV_W_Il_canto_degli_insetti", "EV_W_Estate_ai_blocchi_di_partenza!", "EV_W_Robotic_Lab", "EV_W_Un_sabato_con_il_Sole_sul_Monte_Zugna", "EV_W_Venerd\u00ec_a_lume_di_stella"],
 			"has_venue": {
 				"lat": 45.88987404709415,
 				"lon": 11.039051440252026,
