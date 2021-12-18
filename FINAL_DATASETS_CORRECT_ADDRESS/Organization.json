@@ -2833,14 +2833,4 @@
     "has_id": "",
     "has_event": [],
     "has_venue": ""
-},{
-    "has_name": "studio di design Marameo",
-    "has_id": "ORG_Mart_Corso_Bettini_43",
-    "has_event":["EV_W_Animart._Le_collezioni_del_museo_in_stop-motion"],
-    "has_venue": "Mart Corso Bettini 43 Rovereto"
-},{
-    "has_name": "studio di design Marameo",
-    "has_id": "ORG_kairos",
-    "has_event":["EV_S_ottobre-2020-al-#kairos-giovani"],
-    "has_venue": "centro aggregazione territoriale #kairos giovani, via amstetten 11, trento"
 }]

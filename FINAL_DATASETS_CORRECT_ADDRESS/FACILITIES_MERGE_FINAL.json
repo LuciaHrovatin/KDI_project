@@ -221,7 +221,7 @@
 	"hiking": "",
 	"has_osmID": 7968922,
 	"has_contactPoint": "",
-	"has_ranking": []
+	"has_ranking": ["RA_mart1","RA_mart2"]
 }, {
 	"has_latitude": 45.889562562056625,
 	"has_longitude": 11.045460445361897,
@@ -248,6 +248,34 @@
 	"menu": "",
 	"hiking": "",
 	"has_osmID": 71884586,
+	"has_contactPoint": "",
+	"has_ranking": []
+},{
+	"has_latitude": 46.06489999036532,
+	"has_longitude":  11.123590008878892,
+	"opening_hours": "",
+	"facility_type": "",
+	"architecturalBarriers": "",
+	"name": "Birreria Pedavena",
+	"sport": "",
+	"has_capacity": "",
+	"menu": "Typical Food",
+	"hiking": "",
+	"has_osmID": 71884586,
+	"has_contactPoint": "",
+	"has_ranking": ["RA_pedavena1","RA_pedavena2","RA_pedavena3"]
+},{
+	"has_latitude": 46.06647997911389, 
+	"has_longitude":  11.22980003768103,
+	"opening_hours": "",
+	"facility_type": "",
+	"architecturalBarriers": "",
+	"name": "Kairos Giovani",
+	"sport": "",
+	"has_capacity": "",
+	"menu": "",
+	"hiking": "",
+	"has_osmID": 73293763,
 	"has_contactPoint": "",
 	"has_ranking": []
 }]
