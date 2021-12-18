@@ -1,0 +1,82 @@
+[{	"has_id":"RA_bookique1",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_bookique",
+	"has_review": "RE_bookique1",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 8
+}, {	"has_id":"RA_bookique2",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_bookique",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 10,
+	"has_review": "RE_bookique2"
+}, {	"has_id":"RA_bookique3",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_bookique",
+	"has_review": "RE_bookique3",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 8
+}, {	"has_id":"RA_buonconsiglio1",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_buonconsiglio",
+	"has_review": "RE_buonconsiglio1",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 9
+}, {	"has_id":"RA_buonconsiglio2",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_buonconsiglio",
+	"has_review": "RE_buonconsiglio2",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 7
+}, {	"has_id":"RA_buonconsiglio3",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_buonconsiglio",
+	"has_review": "RE_buonconsiglio3",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 9
+}, {	"has_id":"RA_mart1",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_mart",
+	"has_review": "RE_mart1",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 9
+}, {	"has_id":"RA_mart2",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_mart",
+	"has_review": "RE_mart2",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 8
+}, {	"has_id":"RA_pedavena1",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_pedavena",
+	"has_review":"RE_pedavena1", 
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 2
+}, {	"has_id":"RA_pedavena2",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_pedavena",
+	"has_review": "RE_pedavena2" ,
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 1
+}, {	"has_id":"RA_pedavena3",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "ORG_pedavena",
+	"has_review": "RE_pedavena3",
+	"has_publishedOn": "TripAdvisor",
+	"has_ratingValue": 4
+}, 
+{	"has_id":"RA_EV_S__afro_funky_halloween",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "EV_S__afro_funky_halloween",
+	"has_review": "RE_EV_S__afro_funky_halloween" ,
+	"has_publishedOn": "Google",
+	"has_ratingValue": 8
+},
+{	"has_id":"RA_EV_W__corso_andquotil_colloquio_di_selezioneandquot",
+	"has_interactionCounter": 0,
+	"has_itemEvaluated": "EV_W__corso_andquotil_colloquio_di_selezioneandquot",
+	"has_review": "RE_EV_W__corso_andquotil_colloquio_di_selezioneandquot" ,
+	"has_publishedOn": "https://www.accademiadimpresa.it/",
+	"has_ratingValue": 9
+}]
+
