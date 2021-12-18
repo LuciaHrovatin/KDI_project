@@ -28,10 +28,10 @@
 	"has_finalProduct": "CW__corso_andquotil_colloquio_di_selezioneandquot",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W__corso_andquotil_colloquio_di_selezioneandquot",
+	"has_ticket": "TI_C_corso_andquotil_colloquio_di_selezioneandquot",
 	"has_Archive": "",
 	"has_freeEntrance": false,
-	"has_ranking":"RA_EV_W__corso_andquotil_colloquio_di_selezioneandquot"
+	"has_ranking": "RA_EV_W__corso_andquotil_colloquio_di_selezioneandquot"
 }, {
 	"has_eventID": "EV_W__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
 	"has_title": " corso space clearing trasforma la tua vita iniziando dalla casa a trento il 31 ottobre 2021",
@@ -62,7 +62,7 @@
 	"has_finalProduct": "CW__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
 	"has_materialRequirement": false,
 	"has_tutor": "pr_287450",
-	"has_ticket": "TI_W__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
+	"has_ticket": "TI_C_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -96,7 +96,7 @@
 	"has_finalProduct": "CW__wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W__wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde",
+	"has_ticket": "TI_C_wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -130,7 +130,7 @@
 	"has_finalProduct": "CW__wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W__wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
+	"has_ticket": "TI_C_wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -164,7 +164,7 @@
 	"has_finalProduct": "CW__workshop_andquotin_nome_di_chiandquot",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W__workshop_andquotin_nome_di_chiandquot",
+	"has_ticket": "TI_C_workshop_andquotin_nome_di_chiandquot",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -198,7 +198,7 @@
 	"has_finalProduct": "CW__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
 	"has_materialRequirement": true,
 	"has_tutor": "",
-	"has_ticket": "EV_W__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
+	"has_ticket": "TI_C_workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
 	"has_Archive": "",
 	"has_freeEntrance": true,
 	"has_ranking": ""
@@ -232,7 +232,7 @@
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
 	"has_tutor": "PR_27966",
-	"has_ticket": "TI_W_Animart._Le_collezioni_del_museo_in_stop-motion",
+	"has_ticket": "TI_C_Animart._Le_collezioni_del_museo_in_stop-motion",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -266,7 +266,7 @@
 	"has_finalProduct": "CW_Corso_campane_tibetane_a_Trento",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Corso_campane_tibetane_a_Trento",
+	"has_ticket": "TI_C_Corso_campane_tibetane_a_Trento",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -300,7 +300,7 @@
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Costruiamo_insieme_una_mangiatoia_per_uccellini!",
+	"has_ticket": "TI_C_Costruiamo_insieme_una_mangiatoia_per_uccellini!",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -402,7 +402,7 @@
 	"has_finalProduct": "CW_Identit\u00e0_sonore",
 	"has_materialRequirement": false,
 	"has_tutor": "PR_66622",
-	"has_ticket": "TI_W_Identit\u00e0_sonore",
+	"has_ticket": "TI_C_Identit\u00e0_sonore",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -504,7 +504,7 @@
 	"has_finalProduct": "CW_La_bussola_della_finanza",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_La_bussola_della_finanza",
+	"has_ticket": "TI_C_La_bussola_della_finanza",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -538,7 +538,7 @@
 	"has_finalProduct": "CW_La_citt\u00e0_scoperta_",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_La_citt\u00e0_scoperta_",
+	"has_ticket": "TI_C_La_citt\u00e0_scoperta_",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -572,7 +572,7 @@
 	"has_finalProduct": "CW_La_citt\u00e0_scoperta_2021",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_La_citt\u00e0_scoperta_2021",
+	"has_ticket": "TI_C_La_citt\u00e0_scoperta_2021",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -606,7 +606,7 @@
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Leggere_il_clima_negli_anelli_degli_alberi",
+	"has_ticket": "TI_C_Leggere_il_clima_negli_anelli_degli_alberi",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -640,7 +640,7 @@
 	"has_finalProduct": "CW_ManifestAzioni_-_Fa_la_cosa_giusta",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_ManifestAzioni_-_Fa_la_cosa_giusta",
+	"has_ticket": "TI_C_ManifestAzioni_-_Fa_la_cosa_giusta",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -674,7 +674,7 @@
 	"has_finalProduct": "CW_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
 	"has_materialRequirement": true,
 	"has_tutor": "pr_29445",
-	"has_ticket": "TI_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
+	"has_ticket": "TI_C_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -742,7 +742,7 @@
 	"has_finalProduct": "CW_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
+	"has_ticket": "TI_C_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -776,7 +776,7 @@
 	"has_finalProduct": "CW_Robotic_Lab",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Robotic_Lab",
+	"has_ticket": "TI_C_Robotic_Lab",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -837,14 +837,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "La Foresta - Accademia di Comunità, P.le Paolo Orsi, 15-17, 38068 Rovereto"
+		"address": "La Foresta - Accademia di Comunit\u00e0, P.le Paolo Orsi, 15-17, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Rural Commons Festival",
 	"has_finalProduct": "CW_Rural_Commons_Festival_-_Da_Ovest_a_Est",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Rural_Commons_Festival_-_Da_Ovest_a_Est",
+	"has_ticket": "TI_C_Rural_Commons_Festival_-_Da_Ovest_a_Est",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -878,7 +878,7 @@
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Teatro_dei_sogni_2021_-_Finale_over_25",
+	"has_ticket": "TI_C_Teatro_dei_sogni_2021_-_Finale_over_25",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -912,7 +912,7 @@
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Teatro_dei_sogni_2021_-_Finale_under_25",
+	"has_ticket": "TI_C_Teatro_dei_sogni_2021_-_Finale_under_25",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -946,7 +946,7 @@
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Teatro_dei_sogni_2021_-_Semifinale_under_25",
+	"has_ticket": "TI_C_Teatro_dei_sogni_2021_-_Semifinale_under_25",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -980,7 +980,7 @@
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Un_sabato_con_il_Sole_sul_Monte_Zugna",
+	"has_ticket": "TI_C_Un_sabato_con_il_Sole_sul_Monte_Zugna",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""
@@ -1014,7 +1014,7 @@
 	"has_finalProduct": "",
 	"has_materialRequirement": false,
 	"has_tutor": "",
-	"has_ticket": "TI_W_Venerd\u00ec_a_lume_di_stella",
+	"has_ticket": "TI_C_Venerd\u00ec_a_lume_di_stella",
 	"has_Archive": "",
 	"has_freeEntrance": false,
 	"has_ranking": ""

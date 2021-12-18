@@ -16,12 +16,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "38068 Noriglio, Parco alle Pozze" 
+		"address": "Parco alla pozza, Noriglio, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro Ovunque",
@@ -29,7 +29,75 @@
 	"has_performer": "",
 	"has_subtitles": false,
 	"has_guidedTour": false,
-	"has_ticket": "TI_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_ticket": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_Archive": "",
+	"has_freeEntrance": false
+}, {
+	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_title": "Teatro Ovunque -  E un mondo difficile  di Alessandro Dalla Mora",
+	"has_mode": "offline",
+	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/132649",
+	"has_targetAge": "per giovani e adulti",
+	"has_edition": "",
+	"has_festivalStatus": false,
+	"has_language": ["it-IT"],
+	"has_start": "2021-07-30 20:00:00",
+	"has_end": "2021-07-30 23:00:00",
+	"has_recurrency": true,
+	"has_organizer": "",
+	"has_specialAnnouncements": "In caso di maltempo lo spettacolo sar\u00e0 annullato",
+	"has_description": "Un uomo sulla cinquantina fa i conti con la sua misantropia: osservando la societ\u00e0, stigmatizza le situazioni che la vita lo porta ad osservare. \u00c9 un mondo difficile! di Alessandro Dalla Mora, autore emergente, rivela storie piene di humor e sensibilit\u00e0. L'autore, quotato manager del vino friulano, riversa nel testo la sua conoscenza del mondo, i continui viaggi e i mille incontri. Uno spettacolo di cabaret interpretato da Manuel Buttus, dall'ironia caustica e irriverente, adatto ad una serata divertente e di evasione per sorridere dei nostri difetti e delle nostre frenesie.",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "venerd\u00ec 30, sabato 31 luglio e domenica 1 agosto 2021",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "Via alle Pozze, Noriglio"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "Teatro Ovunque",
+	"has_originalLanguage": true,
+	"has_performer": "",
+	"has_subtitles": "",
+	"has_guidedTour": false,
+	"has_ticket": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_Archive": "",
+	"has_freeEntrance": false
+}, {
+	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_title": "Teatro Ovunque -  E un mondo difficile  di Alessandro Dalla Mora",
+	"has_mode": "offline",
+	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/132649",
+	"has_targetAge": "",
+	"has_edition": "",
+	"has_festivalStatus": false,
+	"has_language": ["it-IT"],
+	"has_start": "2021-08-01 00:00:00",
+	"has_end": "2021-04-25 17:32:00",
+	"has_recurrency": false,
+	"has_organizer": "",
+	"has_specialAnnouncements": "",
+	"has_description": "Un uomo sulla cinquantina fa i conti con la sua misantropia .....",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "weekly",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "38068 Noriglio, Parco alle Pozze"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "Teatro Ovunque",
+	"has_originalLanguage": true,
+	"has_performer": "",
+	"has_subtitles": false,
+	"has_guidedTour": false,
+	"has_ticket": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -63,7 +131,7 @@
 	"has_performer": "",
 	"has_subtitles": "",
 	"has_guidedTour": false,
-	"has_ticket": "TI_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_ticket": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -714,7 +782,7 @@
 	"has_ticket": "TI_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
 	"has_Archive": "",
 	"has_freeEntrance": false
-},{
+}, {
 	"has_eventID": "EV_E_Specialist_Enligh_International",
 	"has_title": "Specialist English for International Studies_ I Gruppo",
 	"has_mode": "offline",
@@ -728,7 +796,7 @@
 	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
-	"has_description": "Per l’ammissione alla frequentazione vengono richieste competenze linguistiche superiori al livello B2 da comprovare mediante una certificazione linguistica internazionale almeno di livello B2, con il superamento – da non più di un annodi un corso CLA almeno di livello B2b oppure con l’attestazione del livello B2b tramite test di piazzamento CLA",
+	"has_description": "Per l\u2019ammissione alla frequentazione vengono richieste competenze linguistiche superiori al livello B2 da comprovare mediante una certificazione linguistica internazionale almeno di livello B2, con il superamento \u2013 da non pi\u00f9 di un annodi un corso CLA almeno di livello B2b oppure con l\u2019attestazione del livello B2b tramite test di piazzamento CLA",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -3977,7 +4045,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sala belli, palazzo alberti poja, corso bettini 41 rovereto"
+		"address": "palazzo alberti poja, corso bettini 41, rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",

@@ -93,7 +93,7 @@
 	"has_performer": "",
 	"has_subtitles": false,
 	"has_guidedTour": false,
-	"has_ticket": "TI_C__Choros._Il_luogo_dove_si_danza_Alessio_Maria_Romano",
+	"has_ticket": "TI_C_Choros._Il_luogo_dove_si_danza_Alessio_Maria_Romano",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -127,7 +127,7 @@
 	"has_performer": "",
 	"has_subtitles": false,
 	"has_guidedTour": false,
-	"has_ticket": "TI_C__Gli_Archiatri_quartetto_d\u2019archi",
+	"has_ticket": "TI_C_Gli_Archiatri_quartetto_d\u2019archi",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -161,7 +161,7 @@
 	"has_performer": "",
 	"has_subtitles": false,
 	"has_guidedTour": false,
-	"has_ticket": "TI_C__Il_mondo_altrove_Nicola_Galli",
+	"has_ticket": "TI_C_Il_mondo_altrove_Nicola_Galli",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -2515,7 +2515,7 @@
 	"has_performer": "",
 	"has_guidedTour": false,
 	"has_organizer": "",
-	"has_ticket": "TI_C_EFFETTO_NOTTE",
+	"has_ticket": "TI_C_Effetto_Notte",
 	"has_ShowWork": "CW_EV_C_Effetto_Notte",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -3703,7 +3703,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Museo della città, Via Calcinari, 18, 38068 Rovereto"
+		"address": "Museo della citt\u00e0, Via Calcinari, 18, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4430,8 +4430,8 @@
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
-	"has_eventID": "EV_C_Matinée_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
-	"has_title": "EV_C_Matinée_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianofortein Casa Mozart Erminia Di Meo  violoncello  Michelangelo Carbonara  pianoforte",
+	"has_eventID": "EV_C_Matin\u00e9e_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
+	"has_title": "EV_C_Matin\u00e9e_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianofortein Casa Mozart Erminia Di Meo  violoncello  Michelangelo Carbonara  pianoforte",
 	"has_mode": "blended",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/130864",
 	"has_targetAge": "per giovani e adulti",
@@ -4457,11 +4457,11 @@
 	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/130864",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
-	"has_performer": ["pr_57954", "pr_57955"] ,
+	"has_performer": ["pr_57954", "pr_57955"],
 	"has_subtitles": false,
 	"has_guidedTour": false,
 	"has_ticket": "",
-	"has_MusicWork": "CW_EV_Matinée_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
+	"has_MusicWork": "CW_EV_Matin\u00e9e_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
 	"has_Archive": "",
 	"has_freeEntrance": true
 }, {
@@ -4477,7 +4477,7 @@
 	"has_end": "2021-04-04 18:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "L'accesso al Museo è consentito solo esibendo la Certificazione Verde Covid-19 (Green pass). Per i minori di 12 anni e per le persone esenti con certificazione medica il Green pass non è necessario.",
+	"has_specialAnnouncements": "L'accesso al Museo \u00e8 consentito solo esibendo la Certificazione Verde Covid-19 (Green pass). Per i minori di 12 anni e per le persone esenti con certificazione medica il Green pass non \u00e8 necessario.",
 	"has_description": "Giornata di rievocazione storica al Castello di Rovereto",
 	"has_terminated": true,
 	"has_hashtag": ["arte e cultura", "musica"],
@@ -5587,7 +5587,7 @@
 	"has_eventID": "EV_C_Palazzi_Aperti_-_Casa_Natale_A._Rosmini",
 	"has_title": "Palazzi Aperti - Casa Natale A. Rosmini",
 	"has_mode": "offline",
-	"has_link": "https://www.palazziaperti.it/comunita-di-valle/50-vallagarina-e-altipiani-cimbri/rovereto/87-casa-natale-a-rosmini", 
+	"has_link": "https://www.palazziaperti.it/comunita-di-valle/50-vallagarina-e-altipiani-cimbri/rovereto/87-casa-natale-a-rosmini",
 	"has_targetAge": "per tutti",
 	"has_edition": "",
 	"has_festivalStatus": false,
@@ -5630,7 +5630,7 @@
 	"has_end": "2021-09-19 11:30:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura è necessario il Green Pass che sarà verificato nel pieno rispetto della privacy",
+	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura \u00e8 necessario il Green Pass che sar\u00e0 verificato nel pieno rispetto della privacy",
 	"has_description": "visite guidate",
 	"has_terminated": true,
 	"has_hashtag": [],
@@ -5664,7 +5664,7 @@
 	"has_end": "2021-04-23 10:56:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura è necessario il Green Pass che sarà verificato nel pieno rispetto della privacy",
+	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura \u00e8 necessario il Green Pass che sar\u00e0 verificato nel pieno rispetto della privacy",
 	"has_description": "visite guidate",
 	"has_terminated": false,
 	"has_hashtag": [],
@@ -5698,7 +5698,7 @@
 	"has_end": "2021-04-23 10:56:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura è necessario il Green Pass che sarà verificato nel pieno rispetto della privacy",
+	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura \u00e8 necessario il Green Pass che sar\u00e0 verificato nel pieno rispetto della privacy",
 	"has_description": "visite guidate",
 	"has_terminated": true,
 	"has_hashtag": [],
@@ -5732,7 +5732,7 @@
 	"has_end": "2021-04-23 10:56:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura è necessario il Green Pass che sarà verificato nel pieno rispetto della privacy",
+	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura \u00e8 necessario il Green Pass che sar\u00e0 verificato nel pieno rispetto della privacy",
 	"has_description": "Visita guidata gratuita della biblioteca storica e laboratorio di stampa e carta a mano.",
 	"has_terminated": true,
 	"has_hashtag": [],
@@ -5853,7 +5853,7 @@
 	"has_performer": "",
 	"has_subtitles": false,
 	"has_guidedTour": false,
-	"has_ticket": "TI_C_Pell\u00e8as_e_M\u00e9lisande__",
+	"has_ticket": "TI_C_Pell\u00e8as_e_M\u00e9lisande_",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -6627,7 +6627,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address":"Sala filarmonica, Corso Rosmini 86, 38068, Trento"
+		"address": "Sala filarmonica, Corso Rosmini 86, 38068, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -6899,7 +6899,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Roma, 18, 38068 ,Rovereto " 
+		"address": "Via Roma, 18, 38068 ,Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -6933,7 +6933,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Silvio Pellico, 28, 38068 Rovereto" 
+		"address": "Via Silvio Pellico, 28, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7043,7 +7043,7 @@
 	"has_performer": "",
 	"has_subtitles": false,
 	"has_guidedTour": false,
-	"has_ticket": "TI_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_ticket": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -7737,10 +7737,10 @@
 	"has_language": ["it-IT"],
 	"has_start": "2021-05-26 21:00:00",
 	"has_end": "2021-06-06 22:30:00",
-	"has_recurrency": true, 
+	"has_recurrency": true,
 	"has_organizer": "",
-	"has_specialAnnouncements": "Per evitare code e assembramenti si invita il pubblico a presentarti presso il luogo di spettacolo con anticipo rispetto all’orario di inizio. Per accedere è obbligatorio indossare la mascherina (o altro sistema di protezione approvato dalla Regione Lombardia ed è vietato l’utilizzo di mascherine di comunità). La mascherina dovrà essere mantenuta per tutta la durata dello spettacolo. Saranno rese disponibili mascherine chirurgiche “di cortesia” nel caso in cui gli spettatori ne fossero sprovvisti. Sanificare le mani utilizzando gli appositi dispenser. Il personale all'ingresso è provvisto di appositi termoscanner per la misurazione della temperatura. Gli spettatori con temperatura uguale o superiore a 37,5° non potranno accedere al luogo di spettacolo. I posti assegnati garantiscono il rispetto delle norme sul distanziamento interpersonale. Il pubblico è invitato a seguire le indicazioni del personale di sala e gli avvisi sonori e visivi presenti all’interno dei luoghi di rappresentazione.",
-	"has_description": "Dalla penna di Eric-Emmanuel Schmitt – drammaturgo, romanziere e filosofo – un thriller psicologico, una partita a scacchi dei sentimenti, giocata sul filo del rasoio da due personaggi, lo scrittore premio Nobel Abel Znorko, che ha scelto di isolarsi dal mondo, e il giornalista Erik Larsen, che vuole strappargli un’intervista esclusiva.",
+	"has_specialAnnouncements": "Per evitare code e assembramenti si invita il pubblico a presentarti presso il luogo di spettacolo con anticipo rispetto all\u2019orario di inizio. Per accedere \u00e8 obbligatorio indossare la mascherina (o altro sistema di protezione approvato dalla Regione Lombardia ed \u00e8 vietato l\u2019utilizzo di mascherine di comunit\u00e0). La mascherina dovr\u00e0 essere mantenuta per tutta la durata dello spettacolo. Saranno rese disponibili mascherine chirurgiche \u201cdi cortesia\u201d nel caso in cui gli spettatori ne fossero sprovvisti. Sanificare le mani utilizzando gli appositi dispenser. Il personale all'ingresso \u00e8 provvisto di appositi termoscanner per la misurazione della temperatura. Gli spettatori con temperatura uguale o superiore a 37,5\u00b0 non potranno accedere al luogo di spettacolo. I posti assegnati garantiscono il rispetto delle norme sul distanziamento interpersonale. Il pubblico \u00e8 invitato a seguire le indicazioni del personale di sala e gli avvisi sonori e visivi presenti all\u2019interno dei luoghi di rappresentazione.",
+	"has_description": "Dalla penna di Eric-Emmanuel Schmitt \u2013 drammaturgo, romanziere e filosofo \u2013 un thriller psicologico, una partita a scacchi dei sentimenti, giocata sul filo del rasoio da due personaggi, lo scrittore premio Nobel Abel Znorko, che ha scelto di isolarsi dal mondo, e il giornalista Erik Larsen, che vuole strappargli un\u2019intervista esclusiva.",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -8165,7 +8165,7 @@
 	"has_performer": "",
 	"has_subtitles": "",
 	"has_guidedTour": false,
-	"has_ticket": "TI_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_ticket": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -8202,4 +8202,72 @@
 	"has_ticket": "",
 	"has_Archive": "",
 	"has_freeEntrance": true
+}, {
+	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_title": "Teatro Ovunque -  E un mondo difficile  di Alessandro Dalla Mora",
+	"has_mode": "offline",
+	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/132649",
+	"has_targetAge": "",
+	"has_edition": "",
+	"has_festivalStatus": false,
+	"has_language": ["it-IT"],
+	"has_start": "2021-08-01 00:00:00",
+	"has_end": "2021-04-25 17:32:00",
+	"has_recurrency": false,
+	"has_organizer": "",
+	"has_specialAnnouncements": "",
+	"has_description": "Un uomo sulla cinquantina fa i conti con la sua misantropia .....",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "weekly",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "38068 Noriglio, Parco alle Pozze"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "Teatro Ovunque",
+	"has_originalLanguage": true,
+	"has_performer": "",
+	"has_subtitles": false,
+	"has_guidedTour": false,
+	"has_ticket": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_Archive": "",
+	"has_freeEntrance": false
+}, {
+	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_title": "Teatro Ovunque -  E un mondo difficile  di Alessandro Dalla Mora",
+	"has_mode": "offline",
+	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/132649",
+	"has_targetAge": "per giovani e adulti",
+	"has_edition": "",
+	"has_festivalStatus": false,
+	"has_language": ["it-IT"],
+	"has_start": "2021-07-30 20:00:00",
+	"has_end": "2021-07-01 00:00:00",
+	"has_recurrency": true,
+	"has_organizer": "",
+	"has_specialAnnouncements": "In caso di maltempo lo spettacolo sar\u00e0 annullato",
+	"has_description": "Un uomo sulla cinquantina fa i conti con la sua misantropia: osservando la societ\u00e0, stigmatizza le situazioni che la vita lo porta ad osservare. \u00c9 un mondo difficile! di Alessandro Dalla Mora, autore emergente, rivela storie piene di humor e sensibilit\u00e0. L'autore, quotato manager del vino friulano, riversa nel testo la sua conoscenza del mondo, i continui viaggi e i mille incontri. Uno spettacolo di cabaret interpretato da Manuel Buttus, dall'ironia caustica e irriverente, adatto ad una serata divertente e di evasione per sorridere dei nostri difetti e delle nostre frenesie.",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "venerd\u00ec 30, sabato 31 luglio e domenica 1 agosto 2021",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "38068 Noriglio, Italia"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "Teatro Ovunque",
+	"has_originalLanguage": true,
+	"has_performer": "",
+	"has_subtitles": "",
+	"has_guidedTour": false,
+	"has_ticket": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_Archive": "",
+	"has_freeEntrance": false
 }]
