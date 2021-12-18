@@ -182,7 +182,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -305,7 +305,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -465,7 +465,7 @@
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-14 00:00:00",
 	"has_end": "2018-09-15 00:00:00",
-	"has_recurrency": false,
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "Incontri di Yoga (luned\u00ec e mercoled\u00ec), Nordic Walking (marted\u00ec) Pilates (marted\u00ec e giioved\u00ec), Taiji quan (mercoled\u00ec e venerd\u00ec), Ginnastica dolce (mercoled\u00ec e gioved\u00ec)",
@@ -884,7 +884,7 @@
 	"has_hashtag": [],
 	"has_distance": false,
 	"has_schedule": "",
-	"has_transportMode": [],
+	"has_transportMode": ["auto", "bus 3", "bus 4"],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
