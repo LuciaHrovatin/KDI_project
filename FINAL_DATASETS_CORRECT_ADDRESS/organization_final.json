@@ -175,6 +175,19 @@
 				"lon": 11.043679961489374,
 				"address": "Corso Bettini 43, 38068, Rovereto"
 			}
+	}, 
+
+	{"has_name" : "Oblivion", 
+		"has_id": "ORG_Oblivion", 
+		"has_event": ["EV_C_Oblivion_Rhapsody_-_RINVIATO,_NUOVA_DATA_A_BREVE", "EV_C_Oblivion_Rhapsody_", 
+			"EV_C_Oblivion_Rhapsody_-_Stagione_Teatrale_2019-2020_-_RINVIATO_AL_27_APRILE_2021", "EV_C_Oblivion_Rhapsody_-_RINVIATO,_NUOVA_DATA_A_BREVE"],
+			"has_venue": {
+				"lat": 0.0,
+				"lon": 0.0 ,
+				"address": ""
+			}
+
+
 	}
 	
 ]

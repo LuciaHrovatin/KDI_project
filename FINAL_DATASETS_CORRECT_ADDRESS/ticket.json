@@ -1357,16 +1357,6 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Nomadland_di_Chlo\u00e9_Zhao"
 },{
-    "has_ticketID": "TI_C_Non \u00e8 il destino",
-     
-    "has_onlineBooking": false,
-    "has_extraBenefits": "",
-    "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/128504",
-    "has_currency": "EUR",
-    "has_purchaser": null,
-    "has_eventID": "EV_C_Non_\u00e8_il_destino"
-},{
     "has_ticketID": "TI_C_Note Alpine con la Fanfara Alpina Monte Zugna",
      
     "has_onlineBooking": false,

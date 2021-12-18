@@ -50,7 +50,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -80,7 +80,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -114,7 +114,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -148,7 +148,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -250,7 +250,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -284,7 +284,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -352,7 +352,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -466,7 +466,7 @@
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_C__katharsis_2021_third_stream",
 	"has_originalLanguage": true,
-	"has_performer": "",
+	"has_performer": "pr_34731",
 	"has_subtitles": false,
 	"has_guidedTour": false,
 	"has_ticket": "TI_C_katharsis_2021_maurizio_moretta_pianoforte",
@@ -560,7 +560,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -594,7 +594,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -662,7 +662,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -832,7 +832,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -866,7 +866,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -900,7 +900,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -934,7 +934,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -968,7 +968,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1002,7 +1002,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1036,7 +1036,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1070,7 +1070,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1104,7 +1104,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1138,7 +1138,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1206,7 +1206,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1240,7 +1240,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1345,7 +1345,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1379,7 +1379,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1413,7 +1413,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1448,7 +1448,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1482,7 +1482,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1550,7 +1550,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1618,7 +1618,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1653,7 +1653,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1721,7 +1721,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1755,7 +1755,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1789,7 +1789,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1857,7 +1857,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1891,7 +1891,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1925,7 +1925,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1959,7 +1959,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -1969,7 +1969,7 @@
 	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/129554",
 	"has_superEvent": "",
 	"has_originalLanguage": false,
-	"has_performer": "",
+	"has_performer": "pr_14230",
 	"has_subtitles": false,
 	"has_guidedTour": false,
 	"has_ticket": "TI_C_Concerto_con_Emilio_Pavanello_pianoforte",
@@ -1994,7 +1994,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2029,7 +2029,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2064,7 +2064,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2098,7 +2098,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2132,7 +2132,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2200,7 +2200,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2234,7 +2234,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2268,7 +2268,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2302,7 +2302,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2336,7 +2336,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2404,7 +2404,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2439,7 +2439,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2473,7 +2473,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2537,7 +2537,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2571,7 +2571,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2605,7 +2605,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2639,7 +2639,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2673,7 +2673,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2707,7 +2707,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2741,7 +2741,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2809,7 +2809,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2843,7 +2843,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2877,7 +2877,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2911,7 +2911,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2945,7 +2945,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -2979,7 +2979,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3013,7 +3013,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3047,7 +3047,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3082,7 +3082,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3116,7 +3116,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3150,7 +3150,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3184,7 +3184,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3218,7 +3218,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3252,7 +3252,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3321,7 +3321,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3355,7 +3355,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3389,7 +3389,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3423,7 +3423,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3457,7 +3457,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3492,7 +3492,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3526,7 +3526,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3560,7 +3560,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3594,7 +3594,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3664,7 +3664,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3698,7 +3698,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3732,7 +3732,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3766,7 +3766,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3800,7 +3800,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3834,7 +3834,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3868,7 +3868,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3902,7 +3902,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3937,7 +3937,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -3971,7 +3971,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4005,7 +4005,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4039,7 +4039,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4073,7 +4073,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4107,7 +4107,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4141,7 +4141,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4175,7 +4175,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4209,7 +4209,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4243,7 +4243,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4277,7 +4277,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4311,7 +4311,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4345,7 +4345,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4413,7 +4413,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4430,16 +4430,16 @@
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
-	"has_eventID": "EV_C_Matin\u00e9e_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
-	"has_title": "Matin\u00e9e in Casa Mozart Erminia Di Meo  violoncello  Michelangelo Carbonara  pianoforte",
+	"has_eventID": "EV_C_Matinée_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
+	"has_title": "EV_C_Matinée_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianofortein Casa Mozart Erminia Di Meo  violoncello  Michelangelo Carbonara  pianoforte",
 	"has_mode": "blended",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/130864",
-	"has_targetAge": "",
+	"has_targetAge": "per giovani e adulti",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2021-03-11 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_start": "2021-03-21 11:00:00",
+	"has_end": "2021-04-21 12:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -4447,23 +4447,23 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": ""
+		"address": "Via della Terra 48, 38068, Rovereto"
 	},
 	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/130864",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
-	"has_performer": "",
+	"has_performer": ["pr_57954", "pr_57955"] ,
 	"has_subtitles": false,
 	"has_guidedTour": false,
-	"has_ticket": "TI_C_Matin\u00e9e_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
-	"has_MusicWork": "CW_EV_C_Matin\u00e9e_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
+	"has_ticket": "",
+	"has_MusicWork": "CW_EV_Matinée_in_Casa_Mozart_Erminia_Di_Meo_violoncello_Michelangelo_Carbonara_pianoforte",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": true
 }, {
 	"has_eventID": "EV_C_Medioevo_al_castello",
 	"has_title": "Medioevo al castello",
@@ -4473,21 +4473,21 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2021-09-04 22:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_start": "2021-04-04 10:30:00",
+	"has_end": "2021-04-04 18:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "",
+	"has_specialAnnouncements": "L'accesso al Museo è consentito solo esibendo la Certificazione Verde Covid-19 (Green pass). Per i minori di 12 anni e per le persone esenti con certificazione medica il Green pass non è necessario.",
 	"has_description": "Giornata di rievocazione storica al Castello di Rovereto",
 	"has_terminated": true,
-	"has_hashtag": [],
+	"has_hashtag": ["arte e cultura", "musica"],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Museo Storico della Guerra, Via Guglielmo Castelbarco, 7, 38068 Rovereto"
+		"address": "Via Guglielmo Castelbarco, 7, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4508,7 +4508,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-07-21 21:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-07-21 23:10:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -4516,12 +4516,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso Bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4575,28 +4575,28 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2021-10-22 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
-	"has_recurrency": false,
+	"has_start": "2021-10-22 08:00:00",
+	"has_end": "2021-10-23 00:00:00",
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "Sensoltre \u00e8 una serie di percorsi multisensoriali, oltre la vista, tra quadri tattili da ascoltare con tecnologia NFC.",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "daily",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Biblioteca Civica, Sala Multimediale, Via Roma, 55, 38122 Trento"
+		"address": "Via Roma, 55, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
-	"has_guidedTour": false,
+	"has_guidedTour": true,
 	"has_ticket": "TI_C_Mostra_Sensoltre",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -4618,7 +4618,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Multisala Modena, Viale S. Francesco d'Assisi, 6, 38122, Trento"
+		"address": "Viale S. Francesco d'Assisi, 6, 38122, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_performer": "",
@@ -4648,12 +4648,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso Bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4667,37 +4667,37 @@
 }, {
 	"has_eventID": "EV_C_Non_\u00e8_il_destino",
 	"has_title": "Non \u00e8 il destino",
-	"has_mode": "online",
+	"has_mode": "blended",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/128504",
 	"has_targetAge": "",
 	"has_edition": "",
-	"has_festivalStatus": false,
+	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2020-11-24 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
-	"has_recurrency": false,
+	"has_end": "2021-12-04 10:56:00",
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "Giornata Mondiale contro la violenza sulle donne",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "daily",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": ""
+		"address": "Corso Rosmini 58, Rovereto "
 	},
-	"has_virtualLocation": "https://www.comune.rovereto.tn.it/openpa/object/128504",
+	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/128504",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
 	"has_guidedTour": false,
-	"has_ticket": "TI_C_Non_\u00e8_il_destino",
+	"has_ticket": "",
 	"has_Archive": "",
-	"has_freeEntrance": false
+	"has_freeEntrance": true
 }, {
 	"has_eventID": "EV_C_Note_Alpine_con_la_Fanfara_Alpina_Monte_Zugna",
 	"has_title": "Note Alpine con la Fanfara Alpina Monte Zugna",
@@ -4716,7 +4716,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4746,16 +4746,16 @@
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
-	"has_description": "<p class=\" text-justify\">La citt\u00e0 di Rovereto e i suoi musei si accendono di blu per una notte straordinaria",
+	"has_description": "La citt\u00e0 di Rovereto e i suoi musei si accendono di blu per una notte straordinaria",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Campana dei caduti,38068, Rovereto"
+		"address": "Colle di, Via Miravalle, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4784,12 +4784,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4818,7 +4818,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -4857,7 +4857,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": " "
+		"address": ""
 	},
 	"has_virtualLocation": "VL_https://www.ufficiostampa.provincia.tn.it/Mostra-virtuale-Obiettivo-su-Dante",
 	"has_superEvent": "",
@@ -4887,17 +4887,17 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Riccardo Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
-	"has_performer": "",
+	"has_performer": "ORG_Oblivion",
 	"has_subtitles": false,
 	"has_guidedTour": false,
 	"has_ticket": "TI_C_Oblivion_Rhapsody_-_RINVIATO,_NUOVA_DATA_A_BREVE",
@@ -4921,17 +4921,17 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Riccardo Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
-	"has_performer": "",
+	"has_performer": "ORG_Oblivion",
 	"has_subtitles": false,
 	"has_guidedTour": false,
 	"has_ticket": "TI_C_Oblivion_Rhapsody_-_RINVIATO,_NUOVA_DATA_A_BREVE",
@@ -4955,17 +4955,17 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Riccardo Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
-	"has_performer": "",
+	"has_performer": "ORG_Oblivion",
 	"has_subtitles": false,
 	"has_guidedTour": false,
 	"has_ticket": "TI_C_Oblivion_Rhapsody_-_Stagione_Teatrale_2019-2020_-_RINVIATO_AL_27_APRILE_2021",
@@ -4989,17 +4989,17 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Riccardo Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
-	"has_performer": "",
+	"has_performer": "ORG_Oblivion",
 	"has_subtitles": false,
 	"has_guidedTour": false,
 	"has_ticket": "TI_C_Oblivion_Rhapsody_",
@@ -5023,12 +5023,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Oratorio Parrocchiale, Borgo Sacco, Via Zotti, Trento"
+		"address": "Borgo Sacco, Via Zotti, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -5053,11 +5053,11 @@
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
-	"has_description": "<p class=\" text-justify\">Concerto con il Corpo Bandistico \u201cdon G.Pederzini\u201d di Lizzana con Majorettes.<p class=\" text-justify\">A cura Associazione Ziterna in collaborazione con la Circoscrizione di Noriglio",
+	"has_description": "Concerto con il Corpo Bandistico \u201cdon G.Pederzini\u201d di Lizzana con Majorettes.<p class=\" text-justify\">A cura Associazione Ziterna in collaborazione con la Circoscrizione di Noriglio",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5091,7 +5091,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5125,7 +5125,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5159,7 +5159,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5193,7 +5193,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5227,7 +5227,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5252,8 +5252,8 @@
 	"has_edition": "",
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
-	"has_start": "2021-06-24 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_start": "2021-06-24 08:00:00",
+	"has_end": "2021-06-25 00:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5261,7 +5261,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5287,7 +5287,7 @@
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-26 22:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-26 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5295,7 +5295,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5321,7 +5321,7 @@
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-18 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-18 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5329,7 +5329,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5355,7 +5355,7 @@
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-18 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-18  23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5363,7 +5363,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5389,7 +5389,7 @@
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-21 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-21 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5397,7 +5397,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5423,7 +5423,7 @@
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-12 18:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-12 22:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5431,12 +5431,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Filatoio colle masotti, Loc. Strafalt, 38060, Villa Lagarina TN"
+		"address": "Loc. Strafalt, 38060, Villa Lagarina TN"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_C_Osvaldo_2021_-_Giocare_con_la_memoria",
@@ -5457,7 +5457,7 @@
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-18 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-18 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5465,7 +5465,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5491,7 +5491,7 @@
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-21 22:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-21 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5499,7 +5499,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5525,7 +5525,7 @@
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-18 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-18  23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5533,7 +5533,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5559,7 +5559,7 @@
 	"has_festivalStatus": true,
 	"has_language": [],
 	"has_start": "2021-09-11 22:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-09-11 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5567,12 +5567,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro alla cartiera, via Rovereto, Trento"
+		"address": "Via alla Cartiera, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_C_Pablo_Girolami_-_Manbuhsona_",
@@ -5586,22 +5586,22 @@
 }, {
 	"has_eventID": "EV_C_Palazzi_Aperti_-_Casa_Natale_A._Rosmini",
 	"has_title": "Palazzi Aperti - Casa Natale A. Rosmini",
-	"has_mode": null,
-	"has_link": [],
-	"has_targetAge": "",
+	"has_mode": "offline",
+	"has_link": "https://www.palazziaperti.it/comunita-di-valle/50-vallagarina-e-altipiani-cimbri/rovereto/87-casa-natale-a-rosmini", 
+	"has_targetAge": "per tutti",
 	"has_edition": "",
 	"has_festivalStatus": false,
-	"has_language": [],
-	"has_start": "2021-09-11 22:00:00",
-	"has_end": "2021-04-23 10:56:00",
-	"has_recurrency": false,
+	"has_language": ["it-IT"],
+	"has_start": "2021-12-17 09:00:00",
+	"has_end": "2021-12-19 16:00:00",
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
-	"has_description": "visite guidate",
+	"has_description": "Visita guidata gratuita prenotazione obbligatoria, max. 10 persone.",
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "daily",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5626,16 +5626,16 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": [],
-	"has_start": "2021-09-19 22:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_start": "2021-09-19 10:00:00",
+	"has_end": "2021-09-19 11:30:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "",
+	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura è necessario il Green Pass che sarà verificato nel pieno rispetto della privacy",
 	"has_description": "visite guidate",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5654,17 +5654,17 @@
 }, {
 	"has_eventID": "EV_C_Palazzi_Aperti_-_Palazzo_del_Bene",
 	"has_title": "Palazzi Aperti - Palazzo del Bene",
-	"has_mode": null,
-	"has_link": [],
+	"has_mode": "offline",
+	"has_link": "http://www.e20rovereto.it/eventi/dettaglio/palazzi_aperti_palazzo_del_bene/id--a5e671cfea9b70607e78eab34ec3d2dc",
 	"has_targetAge": "",
 	"has_edition": "",
 	"has_festivalStatus": false,
-	"has_language": [],
+	"has_language": ["it-IT"],
 	"has_start": "2021-09-19 22:00:00",
 	"has_end": "2021-04-23 10:56:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "",
+	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura è necessario il Green Pass che sarà verificato nel pieno rispetto della privacy",
 	"has_description": "visite guidate",
 	"has_terminated": false,
 	"has_hashtag": [],
@@ -5693,17 +5693,17 @@
 	"has_targetAge": "",
 	"has_edition": "",
 	"has_festivalStatus": false,
-	"has_language": [],
+	"has_language": ["it-IT"],
 	"has_start": "2021-09-18 22:00:00",
 	"has_end": "2021-04-23 10:56:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "",
+	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura è necessario il Green Pass che sarà verificato nel pieno rispetto della privacy",
 	"has_description": "visite guidate",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5732,17 +5732,17 @@
 	"has_end": "2021-04-23 10:56:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "",
+	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura è necessario il Green Pass che sarà verificato nel pieno rispetto della privacy",
 	"has_description": "Visita guidata gratuita della biblioteca storica e laboratorio di stampa e carta a mano.",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Bibloteca Municipale, Via Roma, 55, 38122, Trento "
+		"address": "Via Roma, 55, 38122, Trento "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_C_Palazzi_aperti_2021",
@@ -5762,8 +5762,8 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2021-08-28 22:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_start": "2021-08-28 10:00:00",
+	"has_end": "2021-08-28 12:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5771,12 +5771,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
-	"has_transportMode": [],
+	"has_schedule": "",
+	"has_transportMode": ["auto"],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Parcheggio via Bersaglio, Lizzana, Rovereto"
+		"address": "Via Al Bersaglio, Lizzana Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -5797,7 +5797,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-05-27 19:45:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-05-27  20:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5805,7 +5805,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5832,7 +5832,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-10 20:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-06-10 22:30:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5840,7 +5840,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5866,7 +5866,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it - IT", "fr-FR"],
 	"has_start": "2021-04-08 18:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-04-08 20:30:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5874,7 +5874,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -5898,29 +5898,29 @@
 	"has_targetAge": "",
 	"has_edition": "",
 	"has_festivalStatus": false,
-	"has_language": ["it-IT"],
-	"has_start": "2021-01-01 00:00:00",
-	"has_end": "2021-04-23 10:56:00",
-	"has_recurrency": false,
+	"has_language": ["it-IT", "en-EN"],
+	"has_start": "2021-05-02 00:00:00",
+	"has_end": "2021-08-29 23:00:00",
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
 	"has_description": "Al Mart la nuova mostra &quot;Picasso, de Chirico e Dal\u00ec. Dialogo con Raffaello&quot;",
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "daily",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "MART, Corso Bettini,43, Rovereto"
+		"address": "Corso Bettini,43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
-	"has_guidedTour": false,
+	"has_guidedTour": true,
 	"has_ticket": "TI_C_Picasso,_de_Chirico_e_Dal\u00ec._Dialogo_con_Raffaello",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -5934,20 +5934,20 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-10-21 21:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-10-21 22:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "",
+	"has_specialAnnouncements": "Se vuoi partecipare in presenza - con Green pass - prenota il tuo posto dal link sottostante",
 	"has_description": "Un documentario su l\u2019esperienza e l\u2019impegno delle ricercatrici nella storia della scienza.",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro comunale R.Zandonai, Corso bettini 78, Rovereto"
+		"address": "Corso bettini 78, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "ISF",
@@ -5968,7 +5968,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-09-24 20:45:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-09-24 22:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -5976,12 +5976,12 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Sala Filarmonica, Corso Antonio Rosmini, 86, Trento"
+		"address": "Corso Antonio Rosmini, 86, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -6002,7 +6002,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-09-17 17:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-09-17 20:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -6010,7 +6010,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6035,16 +6035,16 @@
 	"has_edition": "",
 	"has_festivalStatus": true,
 	"has_language": ["it-IT"],
-	"has_start": "2021-10-15 22:00:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_start": "2021-10-15 10:00:00",
+	"has_end": "2021-10-15 12:30:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "",
+	"has_specialAnnouncements": "Green Pass obbligatorio.",
 	"has_description": "Sessione della mattina - RAM film festival",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6055,7 +6055,7 @@
 	"has_superEvent": "RAM Film Festival",
 	"has_originalLanguage": true,
 	"has_performer": "",
-	"has_subtitles": false,
+	"has_subtitles": true,
 	"has_guidedTour": false,
 	"has_ticket": "TI_C_Proiezioni_-_RAM_film_festival",
 	"has_Archive": "",
@@ -6070,15 +6070,15 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-10-13 20:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "2021-10-13 23:00:000",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "",
+	"has_specialAnnouncements": "Green pass obbligatorio",
 	"has_description": "mercoled\u00ec 13 ottobre - sera",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6089,7 +6089,7 @@
 	"has_superEvent": "RAM film Festival",
 	"has_originalLanguage": true,
 	"has_performer": "",
-	"has_subtitles": false,
+	"has_subtitles": true,
 	"has_guidedTour": false,
 	"has_ticket": "TI_C_Proiezioni_-_RAM_film_festival",
 	"has_Archive": "",
@@ -6112,7 +6112,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6146,7 +6146,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6180,7 +6180,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6214,7 +6214,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6248,7 +6248,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6282,7 +6282,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6316,7 +6316,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6384,7 +6384,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6520,7 +6520,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6554,7 +6554,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6588,7 +6588,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6622,7 +6622,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6656,7 +6656,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6690,7 +6690,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6724,7 +6724,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6758,7 +6758,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6792,7 +6792,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6860,7 +6860,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6894,7 +6894,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6928,7 +6928,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6962,7 +6962,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -6996,7 +6996,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7030,7 +7030,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7064,7 +7064,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7098,7 +7098,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7132,7 +7132,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7166,7 +7166,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7200,7 +7200,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7234,7 +7234,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7268,7 +7268,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7302,7 +7302,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7336,7 +7336,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7370,7 +7370,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7404,7 +7404,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7438,7 +7438,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7472,7 +7472,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7506,7 +7506,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7574,7 +7574,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7608,7 +7608,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7642,7 +7642,7 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7778,7 +7778,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7880,7 +7880,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7914,7 +7914,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -7982,7 +7982,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -8016,7 +8016,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -8050,7 +8050,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
@@ -8084,7 +8084,7 @@
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "weekly",
+	"has_schedule": "",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
