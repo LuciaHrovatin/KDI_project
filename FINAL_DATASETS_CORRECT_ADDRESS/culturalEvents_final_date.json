@@ -1,6 +1,6 @@
 [{
 	"has_eventID": "EV_C_#8marzo_2021_-_#giornatamondialedelledonne",
-	"has_title": "#8marzo 2021 - #giornatamondialedelledonne",
+	"has_title": "#8marzo 2021 -_#giornatamondialedelledonne",
 	"has_mode": "offline",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/130623",
 	"has_targetAge": "",
@@ -803,7 +803,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "piazza giannantonio manci povo, trento"
+		"address": "piazza giannantonio manci, povo,38123 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1930,7 +1930,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "chiesa san giovanni battista, borgo sacco, trento"
+		"address": "chiesa san giovanni battista, Via Fedrigotti, 1, 38068 Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",

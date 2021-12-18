@@ -1,5 +1,5 @@
 [{
-    "has_ticketID": "TI_C_#8marzo 2021 - #giornatamondialedelledonne",
+    "has_ticketID": "TI_C_#8marzo 2021_-_#giornatamondialedelledonne",
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -8,7 +8,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_#8marzo_2021_-_#giornatamondialedelledonne"
 },{
-    "has_ticketID": "TI_C_  Choros. Il luogo dove si danza  Alessio Maria Romano",
+    "has_ticketID": "TI_C_Choros._Il_luogo_dove_si_danza_Alessio_Maria_Romano",
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
@@ -17,7 +17,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Choros._Il_luogo_dove_si_danza_Alessio_Maria_Romano"
 },{
-    "has_ticketID": "TI_C_  Gli Archiatri  quartetto d\u2019archi",
+    "has_ticketID": "TI_C_Gli Archiatri_quartetto d\u2019archi",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -27,7 +27,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Gli_Archiatri_quartetto_d\u2019archi"
 },{
-    "has_ticketID": "TI_C_  Il mondo altrove Nicola Galli",
+    "has_ticketID": "TI_C__Il_mondo_altrove_Nicola_Galli",
     
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -37,7 +37,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Il_mondo_altrove_Nicola_Galli"
 },{
-    "has_ticketID": "TI_C_ art david wilkinson memorial",
+    "has_ticketID": "TI_C_art_david_wilkinson_memorial",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -45,9 +45,9 @@
     "has_price": "\"https://stayhappening.com/e/david-wilkinson-memorial-E2ISU10KA7Y?ref=ep_sharer\"",
     "has_currency": "EUR",
     "has_purchaser": null,
-    "has_eventID": "EV_C__art_david_wilkinson_memorial"
+    "has_eventID": "TI_C_art_david_wilkinson_memorial"
 },{
-    "has_ticketID": "TI_C_ banda storta circus",
+    "has_ticketID": "TI_C_banda_storta_circus",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -57,7 +57,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__banda_storta_circus"
 },{
-    "has_ticketID": "TI_C_ Cinema Solare Itinerante",
+    "has_ticketID": "TI_C_Cinema_Solare_Itinerante",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -67,7 +67,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Cinema_Solare_Itinerante"
 },{
-    "has_ticketID": "TI_C_ Comedians  di Giuseppe Salvatores",
+    "has_ticketID": "TI_C_Comedians_di_Giuseppe_Salvatores",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -77,7 +77,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Comedians_di_Giuseppe_Salvatores"
 },{
-    "has_ticketID": "TI_C_ david wilkinson memorial",
+    "has_ticketID": "TI_C_david_wilkinson_memorial",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -87,7 +87,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__david_wilkinson_memorial"
 },{
-    "has_ticketID": "TI_C_ Francesca e Paolo - Canto V dell'Inferno",
+    "has_ticketID": "TI_C_Francesca_e_Paolo_-_Canto_V_dell'Inferno",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -97,7 +97,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Francesca_e_Paolo_-_Canto_V_dell'Inferno"
 },{
-    "has_ticketID": "TI_C_ giovanni allevi piano solo tour trento",
+    "has_ticketID": "TI_C_giovanni_allevi_piano_solo_tour_trento",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -107,7 +107,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__giovanni_allevi_piano_solo_tour_trento"
 },{
-    "has_ticketID": "TI_C_ human habitat visita mostra fotografica gratuita",
+    "has_ticketID": "TI_C_human_habitat_visita_mostra_fotografica_gratuita",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -117,7 +117,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__human_habitat_visita_mostra_fotografica_gratuita"
 },{
-    "has_ticketID": "TI_C_ katharsis 2021 maurizio moretta pianoforte",
+    "has_ticketID": "TI_C_katharsis_2021_maurizio_moretta_pianoforte",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -127,7 +127,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__katharsis_2021_maurizio_moretta_pianoforte"
 },{
-    "has_ticketID": "TI_C_ katharsis 2021 third stream",
+    "has_ticketID": "TI_C_katharsis_2021_third_stream",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -137,7 +137,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__katharsis_2021_third_stream"
 },{
-    "has_ticketID": "TI_C_ katharsis 2021 vertigine",
+    "has_ticketID": "TI_C_katharsis_2021_vertigine",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -147,7 +147,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__katharsis_2021_vertigine"
 },{
-    "has_ticketID": "TI_C_ Maguy Marin",
+    "has_ticketID": "TI_C_Maguy_Marin",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -157,7 +157,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Maguy_Marin"
 },{
-    "has_ticketID": "TI_C_ Michela Lucenti Balletto Civile - Italia",
+    "has_ticketID": "TI_C_Michela_Lucenti_Balletto_Civile_-_Italia",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -167,7 +167,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Michela_Lucenti_Balletto_Civile_-_Italia"
 },{
-    "has_ticketID": "TI_C_ opening brian belott solomostry",
+    "has_ticketID": "TI_C_opening_brian_belott_solomostry",
      
     "has_onlineBooking": true,
     "has_extraBenefits": "",
@@ -177,7 +177,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__opening_brian_belott_solomostry"
 },{
-    "has_ticketID": "TI_C_ Rovereto in Rosa 2021 ",
+    "has_ticketID": "TI_C_Rovereto_in_Rosa_2021_",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -187,7 +187,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__Rovereto_in_Rosa_2021_"
 },{
-    "has_ticketID": "TI_C_ stagione sinfonica konzertsaison 21 22 nil venditti",
+    "has_ticketID": "TI_C_stagione_sinfonica_konzertsaison_21_22_nil_venditti",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -197,7 +197,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__stagione_sinfonica_konzertsaison_21_22_nil_venditti"
 },{
-    "has_ticketID": "TI_C_ thats amore",
+    "has_ticketID": "TI_C_thats_amore",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -207,7 +207,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__thats_amore"
 },{
-    "has_ticketID": "TI_C_ wellness stefano santomauro in happy days a trento",
+    "has_ticketID": "TI_C_wellness_stefano_santomauro_in_happy_days_a_trento",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -217,7 +217,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C__wellness_stefano_santomauro_in_happy_days_a_trento"
 },{
-    "has_ticketID": "TI_C_25 aprile - L'eterna lotta per la libert\u00e0",
+    "has_ticketID": "TI_C_25_aprile_-_L'eterna_lotta_per_la_libert\u00e0",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -227,7 +227,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_25_aprile_-_L'eterna_lotta_per_la_libert\u00e0"
 },{
-    "has_ticketID": "TI_C_8mm di storia. Pellicole e balocchi",
+    "has_ticketID": "TI_C_8mm_di_storia._Pellicole_e_balocchi",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -237,7 +237,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_8mm_di_storia._Pellicole_e_balocchi"
 },{
-    "has_ticketID": "TI_C_8mm di storia. Quelli della montagna",
+    "has_ticketID": "TI_C_8mm_di_storia._Quelli_della_montagna",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -247,7 +247,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_8mm_di_storia._Quelli_della_montagna"
 },{
-    "has_ticketID": "TI_C_8mm di storia. Rovereto dagli anni Venti agli anni Ottanta nei film d\u2019autore e amatoriali",
+    "has_ticketID": "TI_C_8mm_di_storia._Rovereto_dagli_anni_Venti_agli_anni_Ottanta_nei_film_d\u2019autore_e_amatoriali",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -257,7 +257,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_8mm_di_storia._Rovereto_dagli_anni_Venti_agli_anni_Ottanta_nei_film_d\u2019autore_e_amatoriali"
 },{
-    "has_ticketID": "TI_C_8mm di storia",
+    "has_ticketID": "TI_C_8mm_di_storia",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -267,7 +267,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_8mm_di_storia"
 },{
-    "has_ticketID": "TI_C_96\u00b0 Anniversario del primo suono di Maria Dolens",
+    "has_ticketID": "TI_C_96\u00b0_Anniversario_del_primo_suono_di_Maria_Dolens",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -277,7 +277,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_96\u00b0_Anniversario_del_primo_suono_di_Maria_Dolens"
 },{
-    "has_ticketID": "TI_C_A ognuno il suo Natale",
+    "has_ticketID": "TI_C_A_ognuno_il_suo_Natale",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -287,7 +287,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_A_ognuno_il_suo_Natale"
 },{
-    "has_ticketID": "TI_C_Alla ricerca del senso perduto",
+    "has_ticketID": "TI_C_Alla_ricerca_del_senso_perduto",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -297,7 +297,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Alla_ricerca_del_senso_perduto"
 },{
-    "has_ticketID": "TI_C_Alla scoperta del Museo della Guerra e del Castello di Rovereto",
+    "has_ticketID": "TI_C_Alla_scoperta_del_Museo_della_Guerra_e_del_Castello_di_Rovereto",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -307,7 +307,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Alla_scoperta_del_Museo_della_Guerra_e_del_Castello_di_Rovereto"
 },{
-    "has_ticketID": "TI_C_Alla scoperta di Rovereto - Rovereto, la citt\u00e0 pi\u00f9 all\u2019avanguardia del Trentino",
+    "has_ticketID": "TI_C_Alla_scoperta_di_Rovereto_-_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -317,7 +317,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Alla_scoperta_di_Rovereto_-_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino"
 },{
-    "has_ticketID": "TI_C_Alla scoperta di Rovereto ",
+    "has_ticketID": "TI_C_Alla_scoperta_di_Rovereto_",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -327,7 +327,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Alla_scoperta_di_Rovereto_"
 },{
-    "has_ticketID": "TI_C_Alla scoperta di Tridentum, citt\u00e0 sotterranea",
+    "has_ticketID": "TI_C_Alla_scoperta_di_Tridentum,_citt\u00e0_sotterranea",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "Pass",
@@ -337,7 +337,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Alla_scoperta_di_Tridentum,_citt\u00e0_sotterranea"
 },{
-    "has_ticketID": "TI_C_Angelo Bettini Un ritratto processuale",
+    "has_ticketID": "TI_C_Angelo_Bettini_Un_ritratto_processuale",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -347,7 +347,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Angelo_Bettini_Un_ritratto_processuale"
 },{
-    "has_ticketID": "TI_C_Anima russa -  Zolt\u00e1n Fej\u00e9rvari pianoforte",
+    "has_ticketID": "TI_C_Anima_russa_-_Zolt\u00e1n_Fej\u00e9rvari_pianoforte",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -377,7 +377,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_arte-autunno-in-piazza"
 },{
-    "has_ticketID": "TI_C_Attivamente Cittadinanza!  Fermati! scrivi e vai!",
+    "has_ticketID": "TI_C_Attivamente_Cittadinanza!_Fermati!_scrivi_e_vai!",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -387,7 +387,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Attivamente_Cittadinanza!_Fermati!_scrivi_e_vai!"
 },{
-    "has_ticketID": "TI_C_Banda di Mori-Brentonico",
+    "has_ticketID": "TI_C_Banda_di_Mori-Brentonico",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -397,7 +397,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Banda_di_Mori-Brentonico"
 },{
-    "has_ticketID": "TI_C_Black Music  Orchestra Haydn di Bolzano e Trento",
+    "has_ticketID": "TI_C_Black_Music_Orchestra_Haydn_di_Bolzano_e_Trento",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -407,7 +407,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Black_Music_Orchestra_Haydn_di_Bolzano_e_Trento"
 },{
-    "has_ticketID": "TI_C_Blu come il Blu dell'Oceano",
+    "has_ticketID": "TI_C_Blu_come_il_Blu_dell'Oceano",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -417,7 +417,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Blu_come_il_Blu_dell'Oceano"
 },{
-    "has_ticketID": "TI_C_Bohemian Rhapsody Live Tribute ",
+    "has_ticketID": "TI_C_Bohemian_Rhapsody_Live_Tribute_",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -427,7 +427,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Bohemian_Rhapsody_Live_Tribute_"
 },{
-    "has_ticketID": "TI_C_Botteghe scoperte",
+    "has_ticketID": "TI_C_Botteghe_scoperte",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -437,7 +437,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Botteghe_scoperte"
 },{
-    "has_ticketID": "TI_C_Botticelli, il suo tempo, e il nostro tempo",
+    "has_ticketID": "TI_C_Botticelli,_il_suo_tempo,_e_il_nostro_tempo",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -447,7 +447,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Botticelli,_il_suo_tempo,_e_il_nostro_tempo"
 },{
-    "has_ticketID": "TI_C_Canova tra innocenza e peccato",
+    "has_ticketID": "TI_C_Canova_tra_innocenza_e_peccato",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -457,7 +457,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Canova_tra_innocenza_e_peccato"
 },{
-    "has_ticketID": "TI_C_Canto... pi\u00f9 piano - Rovereto in Rosa 2021",
+    "has_ticketID": "TI_C_Canto..._pi\u00f9_piano_-_Rovereto_in_Rosa_2021",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -467,7 +467,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Canto..._pi\u00f9_piano_-_Rovereto_in_Rosa_2021"
 },{
-    "has_ticketID": "TI_C_Car meet up",
+    "has_ticketID": "TI_C_Car_meet_up",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -477,7 +477,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Car_meet_up"
 },{
-    "has_ticketID": "TI_C_Caravaggio. Il contemporaneo",
+    "has_ticketID": "TI_C_Caravaggio._Il_contemporaneo",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -487,7 +487,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Caravaggio._Il_contemporaneo"
 },{
-    "has_ticketID": "TI_C_Cello Girls & Mery Vetsera",
+    "has_ticketID": "TI_C_Cello_Girls_&_Mery_Vetsera",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -497,7 +497,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Cello_Girls_&_Mery_Vetsera"
 },{
-    "has_ticketID": "TI_C_Chiesa S. Osvaldo - Storie di un re inglese a Rovereto e dintorni",
+    "has_ticketID": "TI_C_Chiesa_S._Osvaldo_-_Storie_di_un_re_inglese_a_Rovereto_e_dintorni",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -507,7 +507,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Chiesa_S._Osvaldo_-_Storie_di_un_re_inglese_a_Rovereto_e_dintorni"
 },{
-    "has_ticketID": "TI_C_Ci vuole un fiore",
+    "has_ticketID": "TI_C_Ci_vuole_un_fiore",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -527,7 +527,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_claudio--presentazione-del-libro-costruttore--dematt\u00e8,--di-"
 },{
-    "has_ticketID": "TI_C_Clown spaventa panettieri",
+    "has_ticketID": "TI_C_Clown_spaventa_panettieri",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -547,7 +547,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Colokolo"
 },{
-    "has_ticketID": "TI_C_Concerto a ricordo del M\u00b0 R.Dionisi",
+    "has_ticketID": "TI_C_Concerto_a_ricordo_del_M\u00b0_R.Dionisi",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -557,7 +557,7 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Concerto_a_ricordo_del_M\u00b0_R.Dionisi"
 },{
-    "has_ticketID": "TI_C_Concerto con Emilio Pavanello  pianoforte",
+    "has_ticketID": "TI_C_Concerto_con_Emilio_Pavanello_pianoforte",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
@@ -3016,7 +3016,7 @@
 },{
     "has_ticketID": "TI_E_Fermata_25_Aprile_Storie_di_donne_e_uomini_resistenti",
      
-    "has_onlineBooking": false,
+    "has_onlineBooking": true,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
     "has_price": "https://www.comune.rovereto.tn.it/openpa/object/131301",
@@ -4609,4 +4609,11 @@
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_P_16\u00b0_Tappa_Giro_d'Italia"
-}]
+},{"has_ticketID":"TI_E_Specialist_Enligh_International",
+    "has_onlineBooking": true,
+    "has_extraBenefits": "",
+    "has_totalPurchase": 0,
+    "has_price": "https://www.sociologia.unitn.it/alfresco/download/workspace/SpacesStore/579330cd-3a26-4ea3-97a3-316023e4521a/ENG_%20SEIS.pdf",
+    "has_currency": "EUR",
+    "has_purchaser": null,
+    "has_eventID": "EV_E_Specialist_Enligh_International"}]

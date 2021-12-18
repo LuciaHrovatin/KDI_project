@@ -3,9 +3,9 @@
 	"has_id": "ORG_Teatro_di_Meano_,_Trento",
 	"has_event": ["EV_C__banda_storta_circus"],
 	"has_venue": {
-		"lat": 46.122700000000066,
-		"lon": 11.117150000000038,
-		"address": "teatro meano , trento"
+		"lat": 46.129612634975686, 
+		"lon": 11.116361355450287,
+		"address": "Teatro di Meano, Via delle Sugarine, Meano,"
 	},
 	"has_firstName": "compagnia samovar"
 }, {
@@ -24,7 +24,7 @@
 	"has_venue": {
 		"lat": 45.90073000000007,
 		"lon": 11.03621000000004,
-		"address": "stadio quercia via palestrina trento"
+		"address": "stadio quercia, via palestrina, 38122 trento"
 	}
 }, {
 	"has_name": "ESN Trento",
@@ -33,7 +33,7 @@
 	"has_venue": {
 		"lat": 46.06627001243936,
 		"lon": 11.117710019982297,
-		"address": "esn trento sede central, Via Vigilio Inama, 5, 38122 Trento TN"
+		"address": "Via Vigilio Inama, 5, 38122 Trento TN"
 	}
 },{
 	"has_name": "studio di design Marameo",
@@ -188,6 +188,27 @@
 			}
 
 
+	},{"has_name" : "RoveretoGiovani", 
+		"has_id": "ORG_EV_E_Giovani_&_Comune", 
+		"has_event": ["EV_E_Giovani_&_Comune"],
+			"has_venue": {
+				"lat": 45.889562562056625, 
+				"lon": 11.045460445361897,
+				"address": "VIA VALBUSA GRANDE 17 38068 ROVERETO TN"
+			}
+
+
+	},{"has_name" : "Università degli Studi di Trento", 
+		"has_id": "ORG_UniTrento", 
+		"has_event": ["EV_E_Specialist_Enligh_International"],
+			"has_venue": {
+				"lat": 45.889562562056625, 
+				"lon": 11.045460445361897,
+				"address": "VIA VALBUSA GRANDE 17 38068 ROVERETO TN"
+			}
+
+
 	}
+
 	
 ]

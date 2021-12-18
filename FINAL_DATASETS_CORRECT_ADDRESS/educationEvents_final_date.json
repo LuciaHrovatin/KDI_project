@@ -449,7 +449,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardini perlasca, corso bettin,i 38068, rovereto"
+		"address": "giardini perlasca, corso bettini, 38068, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -629,7 +629,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": " "
+		"address": ""
 	},
 	"has_virtualLocation": "VL_https://www.crushsite.it/it/didattica/azb-scuola-di-lingue.htmlAZB/a.br/",
 	"has_superEvent": "",
@@ -701,7 +701,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai, corso bettini 78, 38068, rovereto"
+		"address": "teatro zandonai, corso bettini 78, 38068, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -712,6 +712,42 @@
 	"has_ECTS": false,
 	"has_interaction": true,
 	"has_ticket": "TI_E_D_come_digitale_Opening_del_Festival_-_ISF_-_Il_Festival",
+	"has_Archive": "",
+	"has_freeEntrance": false
+},{
+	"has_eventID": "EV_E_Specialist_Enligh_International",
+	"has_title": "Specialist English for International Studies_ I Gruppo",
+	"has_mode": "offline",
+	"has_link": "https://www.sociologia.unitn.it/alfresco/download/workspace/SpacesStore/579330cd-3a26-4ea3-97a3-316023e4521a/ENG_%20SEIS.pdf",
+	"has_targetAge": "18-25",
+	"has_edition": "",
+	"has_festivalStatus": false,
+	"has_language": ["en-GB"],
+	"has_start": "2021-09-20 00:00:00",
+	"has_end": "2021-12-15 00:00:00",
+	"has_recurrency": true,
+	"has_organizer": "",
+	"has_specialAnnouncements": "",
+	"has_description": "Per l’ammissione alla frequentazione vengono richieste competenze linguistiche superiori al livello B2 da comprovare mediante una certificazione linguistica internazionale almeno di livello B2, con il superamento – da non più di un annodi un corso CLA almeno di livello B2b oppure con l’attestazione del livello B2b tramite test di piazzamento CLA",
+	"has_terminated": true,
+	"has_hashtag": [],
+	"has_distance": false,
+	"has_schedule": "",
+	"has_transportMode": [],
+	"has_venue": {
+		"lat": "",
+		"lon": "",
+		"address": "via Verdi, 8 - Trento"
+	},
+	"has_virtualLocation": "",
+	"has_superEvent": "",
+	"has_topic": "Languages",
+	"has_finalCertificate": true,
+	"has_speaker": "",
+	"has_seminarStatus": false,
+	"has_ECTS": true,
+	"has_interaction": true,
+	"has_ticket": "TI_E_Specialist_Enligh_International",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -737,7 +773,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sala belli, palazzo alberti poja, corso bettini 41 rovereto"
+		"address": "palazzo alberti poja, corso bettini 41, 38068  rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1097,7 +1133,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Roma, Rovereto"
+		"address": "Via Roma, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1133,7 +1169,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "rovereto"
+		"address": "38068, rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -1316,7 +1352,7 @@
 		"address": "progetto manifattura, Piazza della Manifattura, 1, 38068 rovereto "
 	},
 	"has_virtualLocation": "",
-	"has_superEvent": "Il Festival delle idee per uno sviluppo sostenibile",
+	"has_superEvent": " EV_E_Lavori_invisibili._Rendiamoli_visibili_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
 	"has_topic": "Technology",
 	"has_finalCertificate": false,
 	"has_speaker": "",
@@ -1338,9 +1374,9 @@
 	"has_start": "2021-03-11 08:30:00",
 	"has_end": "2021-07-01 00:00:00",
 	"has_recurrency": false,
-	"has_organizer": "",
+	"has_organizer": "ORG_EV_E_Giovani_&_Comune",
 	"has_specialAnnouncements": "",
-	"has_description": "<strong>RoveretoGiovani</strong>, in collaborazione con il <a  href=\"http://www.forumpace.it/\" title=\"Link a Forum Trentino per la Pace e i Diritti Umani\" ><strong>Forum Trentino per la Pace e i Diritti Umani</strong></a> invitano ad iscriversi all\u2019incontro \u201c<em>Giovani e comune: l\u2019esperienza delle Consulte in Trentino</em>\u201d che si terr\u00e0 online sulla <strong>piattaforma ZOOM l\u201911 MARZO 2021, ore 20.30</strong>.",
+	"has_description": "RoveretoGiovani, in collaborazione con il Forum Trentino per la Pace e i Diritti Umani\" ><strong>Forum Trentino per la Pace e i Diritti Umani</strong></a> invitano ad iscriversi all\u2019incontro \u201c<em>Giovani e comune: l\u2019esperienza delle Consulte in Trentino</em>\u201d che si terr\u00e0 online sulla <strong>piattaforma ZOOM l\u201911 MARZO 2021, ore 20.30</strong>.",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -1349,7 +1385,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "o"
+		"address": ""
 	},
 	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/130705",
 	"has_superEvent": "",
@@ -1385,7 +1421,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "palazzo alberti poja, corso bettini 41, 38068 rovereto"
+		"address": "palazzo alberti poja, corso bettini, 41, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -1565,7 +1601,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "fondazione museo civico rovereto on lin trento"
+		"address": ""
 	},
 	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/127653",
 	"has_superEvent": "",
@@ -1637,7 +1673,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "museo storico italiano della guerra, via castelbarco, 38068 ,rovereto"
+		"address": "museo storico italiano della guerra, via castelbarco 7, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1673,7 +1709,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini 43 mart rovereto 38068 trento"
+		"address": "corso bettini 43, 38068 rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1853,7 +1889,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sala belli, palazzo alberti poja, corso bettini 41, Rovereto"
+		"address": "sala belli, palazzo alberti poja, corso bettini 41, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1925,7 +1961,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Roma, Rovereto"
+		"address": "Via Roma, 38068 rovereto"
 	},
 	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/130106",
 	"has_superEvent": "",
@@ -2069,7 +2105,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "centro storico rovereto, via roma, Rovereto"
+		"address": "centro storico rovereto, via roma, 38068 rovereto"
 	},
 	"has_virtualLocation": "Oriente Occidente",
 	"has_superEvent": "",
@@ -2357,7 +2393,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "museo storico italiano della guerra, via castelbarco 7, Rovereto"
+		"address": "museo storico italiano della guerra, via castelbarco 7, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2501,7 +2537,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "mart, corso bettini 43, Rovereto"
+		"address": "mart, corso bettini 43, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2573,7 +2609,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Roma, Rovereto"
+		"address": "Via Roma, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2753,7 +2789,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardino delle sculture, mart, corso bettini 43, Rovereto"
+		"address": "giardino delle sculture, mart, corso bettini 43, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2933,7 +2969,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "cortile urbano, via roma, Rovereto"
+		"address": "cortile urbano, via roma, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3113,7 +3149,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardini perlasca, corso bettini, rovereto"
+		"address": "giardini perlasca, corso bettini, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3149,7 +3185,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai, corso bettini 78, 38068, rovereto"
+		"address": "teatro zandonai, corso bettini 78, 38068, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -3365,7 +3401,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini 43, MART, Rovereto"
+		"address": "corso bettini 43, MART, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3401,7 +3437,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai, corso bettini 78, 38068, rovereto"
+		"address": "teatro zandonai, corso bettini 78, 38068, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -3653,7 +3689,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "palazzo alberti poja, corso bettini 41, rovereto"
+		"address": "palazzo alberti poja, corso bettini 41, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3833,7 +3869,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "auditorium melotti, Corso Bettini 43, Rovereto"
+		"address": "auditorium melotti, Corso Bettini 43, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
