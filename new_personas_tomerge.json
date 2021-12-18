@@ -4,167 +4,167 @@
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_15166",
+	"has_identifier": "pr_15166",
 	"has_preferredName": "",
 	"has_nickname": "Lucy67",
-	"has_posts": ["RE_bookique1"]
+	"has_review": ["RE_bookique1"]
 }, {
 	"has_firstName": "stefano",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_70499",
+	"has_identifier": "pr_70499",
 	"has_preferredName": "",
 	"has_nickname": "",
-	"has_posts": ["RE_bookique2"]
+	"has_review": ["RE_bookique2"]
 }, {
 	"has_firstName": "Chris",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_7390",
+	"has_identifier": "pr_7390",
 	"has_preferredName": "Chris",
 	"has_nickname": "",
-	"has_posts": ["RE_bookique3"]
+	"has_review": ["RE_bookique3"]
 }, {
 	"has_firstName": "Jacob",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_47920",
+	"has_identifier": "pr_47920",
 	"has_preferredName": "Jacob",
 	"has_nickname": "",
-	"has_posts": ["RE_buonconsiglio1"]
+	"has_review": ["RE_buonconsiglio1"]
 }, {
 	"has_firstName": "Rosario",
 	"has_middleName": "",
 	"has_surname": "Traversi",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_4331",
+	"has_identifier": "pr_4331",
 	"has_preferredName": "",
 	"has_nickname": "",
-	"has_posts": ["RE_buonconsiglio2"]
+	"has_review": ["RE_buonconsiglio2"]
 }, {
 	"has_firstName": "Marta",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_32191",
+	"has_identifier": "pr_32191",
 	"has_preferredName": "Jacob",
 	"has_nickname": "",
-	"has_posts": ["RE_buonconsiglio3"]
+	"has_review": ["RE_buonconsiglio3"]
 }, {
 	"has_firstName": "Simone",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_98447",
+	"has_identifier": "pr_98447",
 	"has_preferredName": "",
 	"has_nickname": "",
-	"has_posts": ["RE_mart1"]
+	"has_review": ["RE_mart1"]
 }, {
 	"has_firstName": "Amit",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_10481",
+	"has_identifier": "pr_10481",
 	"has_preferredName": "Amit",
 	"has_nickname": "",
-	"has_posts": ["RE_mart2"]
+	"has_review": ["RE_mart2"]
 }, {
 	"has_firstName": "Javier",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_96021",
+	"has_identifier": "pr_96021",
 	"has_preferredName": "",
 	"has_nickname": "",
-	"has_posts": ["RE_pedavena1"]
+	"has_review": ["RE_pedavena1"]
 }, {
 	"has_firstName": "Roberta",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_96066",
+	"has_identifier": "pr_96066",
 	"has_preferredName": "",
 	"has_nickname": "",
-	"has_posts": ["RE_pedavena2"]
+	"has_review": ["RE_pedavena2"]
 }, {
 	"has_firstName": "Giovanna",
 	"has_middleName": "",
 	"has_surname": "",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_68910",
+	"has_identifier": "pr_68910",
 	"has_preferredName": "",
 	"has_nickname": "",
-	"has_posts": ["RE_pedavena3"]
+	"has_review": ["RE_pedavena3"]
 }, {
 	"has_firstName": "S\u00f6ren",
 	"has_middleName": "",
 	"has_surname": "Diekmann",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_6307",
+	"has_identifier": "pr_6307",
 	"has_preferredName": "",
 	"has_nickname": "",
-	"has_posts": ["RE_EV_S__afro_funky_halloween"]
+	"has_review": ["RE_EV_S__afro_funky_halloween"]
 }, {
 	"has_firstName": "Michele",
 	"has_middleName": "",
 	"has_surname": "Canalia",
 	"has_role": "",
 	"has_contact": "",
-	"has_identifier": "",
+	
 	"has_artistStatus": "",
 	"has_event": "",
-	"has_id": "pr_13956",
+	"has_identifier": "pr_13956",
 	"has_preferredName": "",
 	"has_nickname": "",
-	"has_posts": ["RE_EV_W__corso_andquotil_colloquio_di_selezioneandquot"]
+	"has_review": ["RE_EV_W__corso_andquotil_colloquio_di_selezioneandquot"]
 }]
