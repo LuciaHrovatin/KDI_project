@@ -2216,12 +2216,12 @@
     "has_purchaser": null,
     "has_eventID": "EV_C_Un_divano_a_Tunisi_di_Manele_Labidi_Labb\u00e9"
 },{
-    "has_ticketID": "TI_C_Un giro cosmico",
+    "has_ticketID": "TI_C_Un_giro_cosmico",
      
     "has_onlineBooking": false,
     "has_extraBenefits": "",
     "has_totalPurchase": 0,
-    "has_price": "https://www.comune.rovereto.tn.it/openpa/object/130030",
+    "has_price": "5",
     "has_currency": "EUR",
     "has_purchaser": null,
     "has_eventID": "EV_C_Un_giro_cosmico"

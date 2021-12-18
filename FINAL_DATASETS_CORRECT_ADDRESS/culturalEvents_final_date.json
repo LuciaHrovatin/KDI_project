@@ -85,7 +85,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "campana dei caduti, colle miravalle, Rovereto"
+		"address": "Via Miravalle, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -119,7 +119,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "cortile palazzo betta grillo, Via S. Maria, 66, 38068 Rovereto "
+		"address": "Via S. Maria, 66, 38068 Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -187,7 +187,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "grand hotel trento , trento"
+		"address": "P.za Dante, 20, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -221,7 +221,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro meano , trento"
+		"address": "Via delle Sugarine, 22, 38121 Meano, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -289,7 +289,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardino delle sculture mart corso bettini 43 rovereto"
+		"address": "Corso bettini 43 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -323,7 +323,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "grand hotel trento , trento"
+		"address": "P.za Dante, 20, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -357,7 +357,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco corna calda , Via Brigata Mantova, 17, 38068 Rovereto"
+		"address": "Via Brigata Mantova, 17, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -391,7 +391,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "centro santa chiara ,trento"
+		"address": "Via Santa Croce, 67, 38100 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -426,7 +426,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "gallerie piedicastello , trento"
+		"address": "gallerie piedicastello, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -461,7 +461,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sosat, Via Malpaga, 17, 38122  trento"
+		"address": "Via Malpaga, 17, 38122  trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_C__katharsis_2021_third_stream",
@@ -496,7 +496,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sosat,Via Malpaga, 17, 38122 Trento"
+		"address": "Via Malpaga, 17, 38122 Trento"
 	},
 	"has_virtualLocation": "VL_data-url=\"https://stayhappening.com/e/katharsis-2021-third-stream-E2ISU0O3XTM?ref=ep_sharer\"></div>",
 	"has_superEvent": "katarsis 2021",
@@ -531,7 +531,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sosat, Via Malpaga, 17, 38122 Trento"
+		"address": "Via Malpaga, 17, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_C__katharsis_2021_third_stream",
@@ -565,7 +565,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai, corso bettini 78, rovereto "
+		"address": "Corso bettini 78, rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -599,7 +599,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "MART, auditorium melotti, corso bettini 43, 38068 rovereto "
+		"address": "Corso bettini 43, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -633,7 +633,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "cellar contemporary , Via S. Martino, 52, 38122 trento"
+		"address": "Via S. Martino, 52, 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -667,7 +667,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Centro Storico di Rovereto"
+		"address": "Centro Storico, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -735,7 +735,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro concordia povo , trento"
+		"address": "Via dei Rivi, 1, 38123 Povo TN"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -769,7 +769,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro san marco, Via S. Bernardino, 8, 38122 Trento"
+		"address": "Via S. Bernardino, 8, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -837,7 +837,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "MART, auditorium \u201cfausto melotti\u201d, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "8 mm di storia",
@@ -871,7 +871,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "MART, auditorium \u201cfausto melotti\u201d, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "8 mm di storia",
@@ -905,7 +905,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "MART, auditorium \u201cfausto melotti\u201d, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "8 mm di storia",
@@ -939,7 +939,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "MART, auditorium \u201cfausto melotti\u201d, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1211,7 +1211,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1245,7 +1245,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Sala filarmonica, corso rosmini, 86, Trento"
+		"address": "Corso rosmini, 86, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1280,7 +1280,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "museo diocesano, p.zza duomo 18, trento"
+		"address": "P.zza duomo 18, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1315,7 +1315,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "centro storico, Cles (Tn)"
+		"address": "centro storico, Cles"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1453,7 +1453,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Palazzo Alberti Poja, Corso Bettini, 41, 38068 Rovereto"
+		"address": "Corso Bettini, 41, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1474,7 +1474,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-06-23 20:30:00",
-	"has_end": "2021-04-23 10:56:00",
+	"has_end": "20021-06-23 22:30:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -1487,7 +1487,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Riccardo Zandonai, Corso Bettini 78, Rovereto"
+		"address": "Corso bettini 78, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1999,7 +1999,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2137,7 +2137,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": " Campana dei Caduti, 38068 Rovereto "
+		"address": " Colle di, Via Miravalle, 38068 Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2273,7 +2273,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Riccardo Zandonai, Corso Bettini 78, Rovereto"
+		"address": "Corso bettini 78, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2307,7 +2307,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2444,7 +2444,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini 43, MART, rovereto"
+		"address": "corso bettini 43, rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2542,7 +2542,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2576,7 +2576,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sala filarmonica, corso rosmini 86, trento"
+		"address": "Corso rosmini 86, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2678,7 +2678,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "biblioteca civica, via roma 55, trento"
+		"address": "Via roma 55, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2746,7 +2746,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2780,7 +2780,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "palazzo delle albere, via roberto sanseverino 43, trento"
+		"address": "Via roberto sanseverino 43, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2916,7 +2916,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2950,7 +2950,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "auditorium melotti corso bettini 38068 rovereto"
+		"address": "Corso bettini 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2984,7 +2984,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Sala filarmonica, corso rosmini, 86, Trento"
+		"address": "Corso rosmini, 86, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3018,7 +3018,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardino chiesa s.osvaldo, Salita del Dosso, 1, 38068 Rovereto "
+		"address": "Salita del Dosso, 1, 38068 Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3087,7 +3087,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Museo storico italiano della guerra, via castelbarco, trento"
+		"address": "Via castelbarco, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3121,7 +3121,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3155,7 +3155,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Parco della ruina, Via Lavini, 38068 Rovereto"
+		"address": "Via Lavini, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3189,7 +3189,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "palazzo betta grillo, via s.maria 66, rovereto 38068"
+		"address": "Via s.maria 66, rovereto 38068"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3223,7 +3223,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Riccardo Zandonai, Corso Bettini 78, Rovereto"
+		"address": "Corso bettini 78, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3257,7 +3257,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3326,7 +3326,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3462,7 +3462,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Sala filarmonica, corso rosmini, 86, Trento"
+		"address": "Corso rosmini, 86, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3531,7 +3531,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3669,7 +3669,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Riccardo Zandonai, Corso Bettini 78, Rovereto"
+		"address": "Corso bettini 78, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3839,7 +3839,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3873,7 +3873,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Sala filarmonica, corso rosmini, 86, Trento"
+		"address": "Corso rosmini, 86, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3907,7 +3907,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Sala filarmonica, corso rosmini, 86, Trento"
+		"address": "Corso rosmini, 86, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3976,7 +3976,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4078,7 +4078,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4112,7 +4112,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Sala filarmonica, corso rosmini, 86, Trento"
+		"address": "Corso rosmini, 86, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4316,7 +4316,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Palazzo Alberti Poja, Corso Bettini, 41, 38068 Rovereto"
+		"address": "Corso Bettini, 41, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -4350,7 +4350,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -5096,7 +5096,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso Bettini, 78, 38068, Rovereto"
+		"address": "Corso Bettini, 78, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -6219,7 +6219,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -6253,7 +6253,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, Corso Bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7409,7 +7409,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro riccardo zandonai, corso bettini 78, Rovereto"
+		"address": "Corso bettini 78, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7430,7 +7430,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-08-04 20:45:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_end": "2021-08-04 22:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7443,7 +7443,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7464,7 +7464,7 @@
 	"has_festivalStatus": false,
 	"has_language": [],
 	"has_start": "2021-08-16 20:45:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_end": "2021-08-16 22:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7477,7 +7477,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7493,12 +7493,12 @@
 	"has_title": "Trash - La leggenda della piramide magica",
 	"has_mode": "offline",
 	"has_link": "https://www.comune.rovereto.tn.it/openpa/object/133268",
-	"has_targetAge": "",
+	"has_targetAge": "bambini e ragazzi",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-09-10 20:30:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_end": "2021-09-10 22:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7511,7 +7511,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Oratorio parrocchiale, Borgo S.Caterina 36, Trento"
+		"address": "Borgo S.Caterina 36, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7532,7 +7532,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["en-GB", "it-IT"],
 	"has_start": "2021-04-25 17:32:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_end": "2021-04-25 18:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7566,7 +7566,7 @@
 	"has_festivalStatus": false,
 	"has_language": [],
 	"has_start": "2021-07-28 21:30:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_end": "2021-07-28 23:30:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7579,7 +7579,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7600,7 +7600,7 @@
 	"has_festivalStatus": false,
 	"has_language": [],
 	"has_start": "2021-08-23 20:45:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_end": "2021-08-23 22:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7613,7 +7613,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Giardino delle sculture, MART, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7633,8 +7633,8 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2021-01-17 00:00:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_start": "2021-02-04 17:00:00",
+	"has_end": "2021-02-25 20:00:00",
 	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7642,12 +7642,12 @@
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "weekly",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Museo scienze e archeologia, Borgo S.Caterina, Trento"
+		"address": "Borgo S.Caterina, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7667,12 +7667,12 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2021-01-17 00:00:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_start": "2021-01-17 09:00:00",
+	"has_end": "22021-01-17 12:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "                                                                                                                   ",
-	"has_description": "pStrane cose accadono nelle sale del Museo della Guerra Tra oggetti parlanti e bizzarri personaggi vi aspetta un emozionante viaggio nella storia. Lasciatevi condurre da studiosi occhialuti e arcigni custodi all' interno del Castello di Rovereto, per ascoltare storie avvincenti narrate dai loro protagonisti. Per partecipare ci vogliono un po' di coraggio e tanta curiosit\u00e0 per fare insieme un salto nel passato! Promosso dal Museo della Guerra in collaborazione con la Compagnia delle Api Operose di Rovereto L' evento fa parte del programma di iniziative in programma per la a Blua dei Musei di Rovereto promossa da Apt Rovereto e Vallagarina Informazioni complete e modalit\u00e0 di partecipazione:  https://www.visitrovereto.it/vivi/eventi/notte-blu-rovereto/",
+	"has_description": "Strane cose accadono nelle sale del Museo della Guerra Tra oggetti parlanti e bizzarri personaggi vi aspetta un emozionante viaggio nella storia. Lasciatevi condurre da studiosi occhialuti e arcigni custodi all' interno del Castello di Rovereto, per ascoltare storie avvincenti narrate dai loro protagonisti. Per partecipare ci vogliono un po' di coraggio e tanta curiosit\u00e0 per fare insieme un salto nel passato! Promosso dal Museo della Guerra in collaborazione con la Compagnia delle Api Operose di Rovereto L' evento fa parte del programma di iniziative in programma per la a Blua dei Musei di Rovereto promossa da Apt Rovereto e Vallagarina Informazioni complete e modalit\u00e0 di partecipazione:  https://www.visitrovereto.it/vivi/eventi/notte-blu-rovereto/",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -7697,16 +7697,16 @@
 	"has_title": "una-visita-da-brivido---halloween-al-castello",
 	"has_mode": "offline",
 	"has_link": "http://www.castellodiavio.it",
-	"has_targetAge": "",
+	"has_targetAge": "bambini",
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2021-10-29 00:00:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_start": "2021-10-29 09:00:00",
+	"has_end": "2021-10-29 12:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
-	"has_specialAnnouncements": "                                                         ",
-	"has_description": "pUna speciale occasione di visita pensata per i pi\u00f9 piccoli e per le loro famiglie: un percorso guidato con vari interventi da parte di personaggi in costume per scoprire lantica storia del Castello di Avio e dei suoi protagonisti, fra racconti, letture e leggende Informazioni e prenotazioni:  http://www.castellodiavio.it",
+	"has_specialAnnouncements": "Green pass obbligatorio",
+	"has_description": "Una speciale occasione di visita pensata per i pi\u00f9 piccoli e per le loro famiglie: un percorso guidato con vari interventi da parte di personaggi in costume per scoprire lantica storia del Castello di Avio e dei suoi protagonisti, fra racconti, letture e leggende Informazioni e prenotazioni:  http://www.castellodiavio.it",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -7715,14 +7715,14 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Castello di avio, Via castello, Avio (Trento)"
+		"address": " Via castello, Avio"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
-	"has_guidedTour": false,
+	"has_guidedTour": true,
 	"has_ticket": "TI_C_una-visita-da-brivido---halloween-al-castello",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -7735,21 +7735,21 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2021-10-23 00:00:00",
-	"has_end": "2021-04-25 17:32:00",
-	"has_recurrency": false,
+	"has_start": "2021-05-26 21:00:00",
+	"has_end": "2021-06-06 22:30:00",
+	"has_recurrency": true, 
 	"has_organizer": "",
-	"has_specialAnnouncements": "         ",
-	"has_description": "  http://www.cofas.it/spettacoli-sul-territorio/variazioni-enigmatiche-1",
+	"has_specialAnnouncements": "Per evitare code e assembramenti si invita il pubblico a presentarti presso il luogo di spettacolo con anticipo rispetto all’orario di inizio. Per accedere è obbligatorio indossare la mascherina (o altro sistema di protezione approvato dalla Regione Lombardia ed è vietato l’utilizzo di mascherine di comunità). La mascherina dovrà essere mantenuta per tutta la durata dello spettacolo. Saranno rese disponibili mascherine chirurgiche “di cortesia” nel caso in cui gli spettatori ne fossero sprovvisti. Sanificare le mani utilizzando gli appositi dispenser. Il personale all'ingresso è provvisto di appositi termoscanner per la misurazione della temperatura. Gli spettatori con temperatura uguale o superiore a 37,5° non potranno accedere al luogo di spettacolo. I posti assegnati garantiscono il rispetto delle norme sul distanziamento interpersonale. Il pubblico è invitato a seguire le indicazioni del personale di sala e gli avvisi sonori e visivi presenti all’interno dei luoghi di rappresentazione.",
+	"has_description": "Dalla penna di Eric-Emmanuel Schmitt – drammaturgo, romanziere e filosofo – un thriller psicologico, una partita a scacchi dei sentimenti, giocata sul filo del rasoio da due personaggi, lo scrittore premio Nobel Abel Znorko, che ha scelto di isolarsi dal mondo, e il giornalista Erik Larsen, che vuole strappargli un’intervista esclusiva.",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "daily",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro S.Marco, via bernardino, Trento"
+		"address": "Viale Rovereto, 61, 38122,  Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -7842,7 +7842,7 @@
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
-	"has_description": "<p class=\" text-left\">visita all'interno del settecentesco Palazzo Dell\u2019Annona negli spazi riservati alla biblioteca storica",
+	"has_description": "visita all'interno del settecentesco Palazzo Dell\u2019Annona negli spazi riservati alla biblioteca storica",
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -7858,7 +7858,7 @@
 	"has_originalLanguage": false,
 	"has_performer": "",
 	"has_subtitles": false,
-	"has_guidedTour": false,
+	"has_guidedTour": true,
 	"has_ticket": "TI_C_Visita_alla_Biblioteca_G._TARTAROTTI_storica_e_laboratorio_di_stampa_e_carta_a_mano_",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -7871,12 +7871,12 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2020-11-01 22:00:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_start": "2020-11-04 10:00:00",
+	"has_end": "2020-11-04 17:30:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
-	"has_description": "In occasione delle commemorazioni del 4 novembre, ingresso gratuito al Museo della Guerra e alla Sezione &quot;Artiglierie 1914-1918&quot;",
+	"has_description": "In occasione delle commemorazioni del 4 novembre, ingresso gratuito al Museo della Guerra e alla Sezione Artiglierie 1914-1918",
 	"has_terminated": true,
 	"has_hashtag": [],
 	"has_distance": false,
@@ -7892,7 +7892,7 @@
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
-	"has_guidedTour": false,
+	"has_guidedTour": true,
 	"has_ticket": "TI_C_Visita_gratuita_al_Museo_della_Guerra_e_alla_Sezione_Artiglierie",
 	"has_Archive": "",
 	"has_freeEntrance": true
@@ -7905,8 +7905,8 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2020-10-11 00:00:00",
-	"has_end": "2021-04-25 17:32:00",
+	"has_start": "2020-10-31 11:00:00",
+	"has_end": "2020-10-31 12:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7939,28 +7939,28 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2020-10-11 00:00:00",
-	"has_end": "2021-07-01 00:00:00",
-	"has_recurrency": false,
+	"has_start": "2021-12-22 09:00:00",
+	"has_end": "2022-01-09 17:00:00",
+	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "                                                                                                                                      ",
 	"has_description": "La nostra ricca selezione di esperienze e di racconti render\u00e0 la vostra visita e l' apprezzamento del mondo naturale ancora pi\u00f9 piacevole e stimolante. Una visita alla scoperta delle gallerie del MUSE attraverso l' esplorazione degli \u0093imperdibili\u0094 L' affascinante e misterioso mondo dell' alta quota che offre sensazioni uniche che solo in questi ambienti si possono assaporare; il labirinto della biodiversit\u00e0 con 26 ambienti diversi per rivivere le emozioni della natura; l' evoluzione degli ambienti geologici del passato fra antiche montagne precedenti alle Alpi, vulcani, deserti, mari tropicali, scogliere coralline e profondit\u00e0 oceaniche; un viaggio nel tempo alla scoperta della vita dei nostri antenati preistorici; la sostenibilit\u00e0 vista in relazione alla forte velocit\u00e0 attraverso cui il mondo sta evolvendo Lasciati affascinare dal racconto della scienza! Informazioni complete e prenotazioni:  https://www.muse.it/it/Esplora/Eventi-Attivita/Archivio/Pagine/Visite-Guidate.aspx",
 	"has_terminated": false,
 	"has_hashtag": [],
 	"has_distance": false,
-	"has_schedule": "",
+	"has_schedule": "daily",
 	"has_transportMode": [],
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Muse, corso del lavoro e della scienza, Trento"
+		"address": "Corso del lavoro e della scienza, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_originalLanguage": true,
 	"has_performer": "",
 	"has_subtitles": false,
-	"has_guidedTour": false,
+	"has_guidedTour": true,
 	"has_ticket": "TI_C_visita-guidata-al-muse",
 	"has_Archive": "",
 	"has_freeEntrance": false
@@ -7973,8 +7973,8 @@
 	"has_edition": "",
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
-	"has_start": "2020-11-07 23:00:00",
-	"has_end": "2021-07-01 00:00:00",
+	"has_start": "2020-11-07 11:00:00",
+	"has_end": "2020-11-07  16:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -7987,7 +7987,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Museo storico della guerra, Via Guglielmo Castelbarco, 7, Rovereto"
+		"address": "Via Guglielmo Castelbarco, 7, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8008,7 +8008,7 @@
 	"has_festivalStatus": false,
 	"has_language": [],
 	"has_start": "2021-08-25 20:45:00",
-	"has_end": "2021-07-01 00:00:00",
+	"has_end": "2021-08-25 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -8021,7 +8021,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Mart, corso bettini 43, Rovereto"
+		"address": "Corso bettini 43, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8042,7 +8042,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-09-03 20:30:00",
-	"has_end": "2021-07-01 00:00:00",
+	"has_end": "2021-09-03 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -8055,7 +8055,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Oratorio parrocchiale borgo s.caterina 36, trento"
+		"address": "Borgo s.caterina, 36, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8076,7 +8076,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-09-18 20:00:00",
-	"has_end": "2021-07-01 00:00:00",
+	"has_end": "2021-09-18 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -8089,7 +8089,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Cortile urbano, via roma, Rovereto"
+		"address": "Via roma, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8110,7 +8110,7 @@
 	"has_festivalStatus": false,
 	"has_language": [],
 	"has_start": "2021-09-18 20:00:00",
-	"has_end": "2021-07-01 00:00:00",
+	"has_end": "2021-09-18 23:00:00",
 	"has_recurrency": false,
 	"has_organizer": "",
 	"has_specialAnnouncements": "",
@@ -8123,7 +8123,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Circolo Culturale Numismatico Filatelico, Rovereto"
+		"address": "Rovereto centro, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -8144,7 +8144,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-07-30 20:00:00",
-	"has_end": "2021-07-01 00:00:00",
+	"has_end": "2021-07-30 23:00:00",
 	"has_recurrency": true,
 	"has_organizer": "",
 	"has_specialAnnouncements": "In caso di maltempo lo spettacolo sar\u00e0 annullato",
@@ -8157,7 +8157,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via alle Pozze, Noriglio "
+		"address": "Via alle Pozze, Noriglio"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro Ovunque",
@@ -8178,7 +8178,7 @@
 	"has_festivalStatus": false,
 	"has_language": ["it-IT"],
 	"has_start": "2021-09-10 10:00:00",
-	"has_end": "2021-07-01 00:00:00",
+	"has_end": "2021-09-10 00:00:00",
 	"has_recurrency": false,
 	"has_organizer": "ORG_Fondazione_Museo_Civico_di_Rovereto",
 	"has_specialAnnouncements": "Rammentiamo che nei luoghi di cultura \u00e8 necessario il Green Pass che sar\u00e0 verificato nel pieno rispetto della privacy",
