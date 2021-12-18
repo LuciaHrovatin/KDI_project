@@ -130,7 +130,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via di Briamasco 2, Centro Fiera, Trento"
+		"address": "Via di Briamasco 2, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibile",
@@ -166,7 +166,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via di Briamasco 2, Centro Fiera, trento"
+		"address": "Via di Briamasco 2, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibile",
@@ -202,7 +202,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "caf\u00e8 de paix circolo arci, 38122, trento"
+		"address": "Passaggio Teatro Osele, 8, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -238,7 +238,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via di Briamasco 2, Centro Fiera, trento"
+		"address": "Via di Briamasco 2, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_S__mondo_donna_il_ritorno_di_una_fiera_imperdibiles",
@@ -273,7 +273,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "cima marzola, trento"
+		"address": "cima marzola, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -345,7 +345,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via roma, cortile urbano, Rovereto"
+		"address": "via roma, cortile urbano,38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -381,7 +381,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Padova, Italy"
+		"address": "35100, Padova"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -417,7 +417,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Vigilio Inama, Trento"
+		"address": "Via Vigilio Inama, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -453,7 +453,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via vigilio Inama, Trento"
+		"address": "Via vigilio Inama, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -633,7 +633,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via Vigilio Inama, trento"
+		"address": "Via vigilio Inama, 38122 Trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -670,7 +670,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco alla pozza,  38068 Noriglio"
+		"address": "Noriglio, 38068"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -706,7 +706,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco fedrigotti, borgo sacco, Rovereto"
+		"address": "parco fedrigotti, borgo sacco,38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -742,7 +742,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Piazza malfatti , Rovereto"
+		"address": "Piazza malfatti ,38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -778,7 +778,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Piazza garzetti, trento"
+		"address": "Piazza garzetti, 38122, trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -850,7 +850,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Piazza Erbe, Rovereto"
+		"address": "Piazza Erbe, 38068, Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -886,7 +886,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "piazza erbe, Rovereto "
+		"address": "piazza erbe,38068 Rovereto "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -922,7 +922,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corte piazza damiano chiesa 38068 rovereto"
+		"address": "piazza damiano chiesa, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_Lavori_invisibili._Rendiamoli_visibili_-_Il_Festival_delle_idee_per_uno_sviluppo_sostenibile",
@@ -994,7 +994,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parrocchia sacra famiglia,piazzale de francesco 1, trento"
+		"address": "piazzale de francesco 1, 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1030,7 +1030,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "parco pozze noriglio trento"
+		"address": "Noriglio, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1066,7 +1066,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "centro aggregazione territoriale #kairos giovani, via amstetten 11, trento"
+		"address": " via amstetten 11, 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1138,7 +1138,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "piazzale santa maria trento"
+		"address": "piazzale santa maria, 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1210,7 +1210,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro riccardo zandonai, corso bettini 78, Rovereto"
+		"address": "teatro riccardo zandonai, corso bettini 78,38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1282,7 +1282,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Piazza Rosmini, Rovereto"
+		"address": "Piazza Rosmini,38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1354,7 +1354,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Teatro Zandonai, Corso bettini, 78, Rovereto"
+		"address": "Teatro Zandonai, Corso bettini, 78,38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",

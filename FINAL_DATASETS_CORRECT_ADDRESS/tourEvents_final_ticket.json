@@ -21,7 +21,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "palazzo roccabruna, Via Santissima Trinit\u00e0, 24, 38100  trento"
+		"address": "palazzo roccabruna, Via Santissima Trinit\u00e0, 24, 38122,  trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -31,50 +31,6 @@
 	"has_hikingStatus": false,
 	"has_map": "",
 	"has_ticket": "TI_T_adventures_i_bordolesi_del_trentino",
-	"has_Archive": "",
-	"has_freeEntrance": false
-}, {
-	"has_eventID": "EV_T__adventures_open_day_arrampicata_corso_intermedio",
-	"has_title": " adventures open day arrampicata corso intermedio",
-	"has_mode": "offline",
-	"has_link": "\"https://stayhappening.com/e/open-day-arrampicata-corso-intermedio-E3LUSTHXVRI2?ref=ep_sharer\"",
-	"has_targetAge": "",
-	"has_edition": "",
-	"has_festivalStatus": false,
-	"has_language": ["it-IT"],
-	"has_start": "2021-11-13 09:00:00",
-	"has_end": "2015-05-31 10:30:00",
-	"has_recurrency": false,
-	"has_organizer": "",
-	"has_specialAnnouncements": " green pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento causa maltempo. non presentare alcun sintomo da covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento causa maltempo. covid-19. l'organizzatore dell'evento provvede al rimborso del biglietto solo in caso di comunicazione ufficiale di annullamento causa maltempo.",
-	"has_description": "\"Open Day Arrampicata Corso Intermedio\" rounded height=\"600\" 150px;\" width=\"1200\"/> Corso intermedio di arrampicata con le Guide Alpine del Trentino.<b>About this Event</b><p>Una giornata all'insegna dell'arrampicata presso la falesia del Monte Celva in compagnia delle Guide Alpine del Trentino. Il noleggio dell'attrezzatura \u00e8 incluso e deve essere prenotato preventivamente scrivendo a <a protected]</a> (indicare anche il numero di scarpa). </p><p><em><strong>Dettagli </strong></em></p><p>Data e luogo: 13 novembre 2021 Falesia Celva, Trento </p><p>Orario: dalle ore 9.00 alle ore 17.00 (durata attivit\u00e0: 8 ore)</p><p>Ritrovo: alle ore 8.30 presso il parcheggio in prossimit\u00e0 di Forte Sella di Roncogno (sopra Passo del Cimirlo). </p><p>Minimo partecipanti: 4 \u0096 massimo: 8</p><p><strong><em>Note </em></strong></p><p>Per partecipare all'evento \u00e8 obbligatorio essere muniti di Gre en Pass, rispettare tutte le normative sanitarie vigenti e non presentare alcun sintomo da </p><p>L'organizzatore dell'evento provvede al rimborso del biglietto SOLO in caso di comunicazione ufficiale di annullamento causa maltempo. </p>",
-	"has_terminated": true,
-	"has_hashtag": ["src=\"https://cdn.stayhappening.com/events5/banners/0558fb3746648ca8b677eac0103aa92ed042c1f300d9793246c8e0fabb780a6e-rimg-w1200-h600-gmir.jpg?v=1634968629\"", "href=\"https://stayhappening.com/trento--trips-adventures\""],
-	"has_distance": false,
-	"has_schedule": "",
-	"has_transportMode": [],
-	"has_venue": {
-		"lat": "",
-		"lon": "",
-		"address": "Monte Celva, Passo del Cimirlo, 87, Trento, "
-	},
-	"has_virtualLocation": "",
-	"has_superEvent": "",
-	"has_tourStart": {
-		"has_lat": "",
-		"has_lon": "",
-		"lat": "Monte Celva, Passo del Cimirlo, 87, Trento, "
-	},
-	"has_tourEnd": {
-		"has_lat": "",
-		"has_lon": "",
-		"lat": "Monte Celva, Passo del Cimirlo, 87, Trento "
-	},
-	"has_tourIntermediateStops": "",
-	"has_skillRequirement": "intermedio",
-	"has_hikingStatus": false,
-	"has_map": "",
-	"has_ticket": "TI_T_adventures_open_day_arrampicata_corso_intermedio",
 	"has_Archive": "",
 	"has_freeEntrance": false
 }, {
@@ -100,7 +56,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Monte Celva, Passo del Cimirlo, 87, Trento"
+		"address": "Monte Celva, Passo del Cimirlo, 87, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -109,7 +65,7 @@
 		"has_lon": "",
 		"lat": "Passo del Cimirlo, 87, 38123 Cimirlo"
 	},
-	"has_tourEnd": "Monte Celva, Passo del Cimirlo, 87, Trento",
+	"has_tourEnd": "Monte Celva, Passo del Cimirlo, 87, 38122 Trento",
 	"has_tourIntermediateStops": "",
 	"has_hikingStatus": true,
 	"has_map": "",
@@ -187,7 +143,7 @@
 		"has_lon": "",
 		"lat": "Passo del Cimirlo, 87, 38123 Cimirlo "
 	},
-	"has_tourEnd": "monte celva, Trento",
+	"has_tourEnd": "monte celva, 38123 Trento",
 	"has_tourIntermediateStops": "",
 	"has_hikingStatus": true,
 	"has_map": "",
@@ -225,7 +181,7 @@
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "monte baldo, Verona"
+		"lat": "monte baldo, 37100 Verona"
 	},
 	"has_tourIntermediateStops": "",
 	"has_hikingStatus": false,
@@ -256,7 +212,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "chiesa parrocchiale san giovanni battista, borgo sacco, Rovereto"
+		"address": "chiesa parrocchiale san giovanni battista, borgo sacco, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -326,7 +282,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Vigilio Inama, Trento"
+		"address": "Via Vigilio Inama, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -361,7 +317,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Roma, Rovereto"
+		"address": "Via Roma, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -504,7 +460,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Monte Baldo, Verona"
+		"address": "Monte Baldo, 37100 Verona"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -546,7 +502,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "baita degli alpini, loc.costa violina, 38068 Lizzana (Rovereto)"
+		"address": "loc.costa violina, 38068 Lizzana (Rovereto)"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -554,7 +510,7 @@
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "baita degli alpini, loc.costa violina, 38068 Lizzana (Rovereto)"
+		"lat": "loc.costa violina, 38068 Lizzana (Rovereto)"
 	},
 	"has_tourIntermediateStops": "",
 	"has_hikingStatus": false,
@@ -620,7 +576,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Parcheggio ponte delle zigherane, borgo sacco, rovereto"
+		"address": "ponte delle zigherane, borgo sacco,  38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -655,7 +611,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "piazza podest\u00e0, Rovereto"
+		"address": "piazza podest\u00e0, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -690,7 +646,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via Vittorio Veneto, 43, 38122"
+		"address": "Via Vittorio Veneto, 43, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -725,7 +681,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "partenza museo scienze archeologia via borgo santa caterina 41 trento"
+		"address": " via borgo santa caterina 41, 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -760,7 +716,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "chiesa parrocchiale san giovanni battista borgo sacco via fedrigotti trento"
+		"address": "via fedrigotti, Borgo Sacco, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -795,7 +751,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Piazza Podest\u00e0, Rovereto"
+		"address": "Piazza Podest\u00e0,38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -900,7 +856,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai, corso bettini 78, rovereto"
+		"address": "teatro zandonai, corso bettini 78, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -970,7 +926,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "italy doss , piazza duomo trento"
+		"address": "piazza duomo, 38068 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -978,7 +934,7 @@
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "Via D\u00f2s Trento, 38122 Trento"
+		"lat": "Via D\u00f2s , 38122 Trento"
 	},
 	"has_tourIntermediateStops": "",
 	"has_hikingStatus": true,

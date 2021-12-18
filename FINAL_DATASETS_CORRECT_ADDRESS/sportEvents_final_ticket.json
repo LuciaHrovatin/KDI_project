@@ -21,7 +21,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Falesia di Celva, Trento"
+		"address": "Falesia di Celva, 38122, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -62,7 +62,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Falesia di Celva, Trento"
+		"address": "Falesia di Celva, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -187,7 +187,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Corso Bettini 41, Rovereto"
+		"address": "Corso Bettini 41, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -228,7 +228,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini 41, Rovereto"
+		"address": "corso bettini 41,38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -310,7 +310,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via giovanni panizza, Lizzana, Rovereto"
+		"address": "via giovanni panizza, Lizzana, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -641,7 +641,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Centro sportivo baldresca via della roggia 45/a trento"
+		"address": "Centro sportivo baldresca, via della roggia 45/a, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -723,7 +723,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via degli olmi 26 , Trento"
+		"address": "via degli olmi 26 , 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -806,7 +806,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "val di sole, Trento"
+		"address": "val di sole, 38122 Trento"
 	},
 	"has_virtualLocation": "https://trento.esn.it/?q=events/game-night-w-esn-bologna-esn-trento",
 	"has_superEvent": "",
@@ -847,7 +847,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Rovereto"
+		"address": " 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -888,7 +888,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via fersina, 38123 Trento"
+		"address": "via fersina, 38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -929,19 +929,19 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Monte Celva, Passo del Cimirlo, 87, Trento "
+		"address": "Monte Celva, Passo del Cimirlo, 87, 38122 Trento "
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
 	"has_tourStart": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "Monte Celva, Passo del Cimirlo, 87, Trento "
+		"lat": "Monte Celva, Passo del Cimirlo, 87, 38122 Trento "
 	},
 	"has_tourEnd": {
 		"has_lat": "",
 		"has_lon": "",
-		"lat": "Monte Celva, Passo del Cimirlo, 87, Trento, "
+		"lat": "Monte Celva, Passo del Cimirlo, 87, 38122 Trento, "
 	},
 	"has_tourIntermediateStops": "",
 	"has_skillRequirement": "base",

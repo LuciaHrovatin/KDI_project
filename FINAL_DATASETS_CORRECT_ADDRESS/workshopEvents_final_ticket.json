@@ -123,7 +123,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via travai, 66, 38122 trento, italia ,"
+		"address": "via travai, 66, 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -191,7 +191,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "muse museo delle scienze , trento"
+		"address": "muse museo delle scienze , 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -225,7 +225,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "MART, corso bettini 43, Rovereto"
+		"address": "MART, corso bettini 43, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -327,7 +327,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Corso Bettini, 84, Rovereto"
+		"address": "Corso Bettini, 84, 38068 Rovereto"
 	},
 	"has_virtualLocation": "VL_https://www.comune.rovereto.tn.it/openpa/object/133878",
 	"has_superEvent": "",
@@ -395,7 +395,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Viale trento 46, Rovereto"
+		"address": "Viale trento 46,  38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -463,7 +463,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Corso Bettini, Rovereto"
+		"address": "Corso Bettini, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -701,7 +701,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Trento"
+		"address": "38122 Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",

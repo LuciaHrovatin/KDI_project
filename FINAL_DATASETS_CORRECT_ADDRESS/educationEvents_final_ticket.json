@@ -21,7 +21,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Parco alla pozza, Noriglio, Trento"
+		"address": "Parco alla pozza, noriglio, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro Ovunque",
@@ -55,7 +55,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "Via alle Pozze, Noriglio"
+		"address": "Via alle Pozze, noriglio, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "Teatro Ovunque",
@@ -769,7 +769,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai, corso bettini 78, 38068, 38068 rovereto"
+		"address": "teatro zandonai, corso bettini 78,  38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -805,7 +805,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "via Verdi, 8 - Trento"
+		"address": "via Verdi 8 , 38122, Trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1021,7 +1021,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "mart rovereto corso bettini 43 38068"
+		"address": " corso bettini 43, 38068 Rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -1093,7 +1093,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai corso bettini 78 38068 rovereto"
+		"address": "teatro zandonai, corso bettini 78, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -2569,7 +2569,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai corso bettini 78 38068 rovereto"
+		"address": "teatro zandonai, corso bettini 78, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -2713,7 +2713,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai sala piano corso bettini 78 38068 rovereto"
+		"address": "teatro zandonai, corso bettini 78, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontier",
@@ -2857,7 +2857,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "giardino delle sculture, mart, corso bettini 43, 38068 rovereto"
+		"address": "Giardino delle sculture, corso bettini 43, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -2893,7 +2893,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro san marco, via s.bernardino, trento"
+		"address": "teatro san marco, via s.bernardino, 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3253,7 +3253,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai, corso bettini 78, 38068, 38068 rovereto"
+		"address": "teatro zandonai, corso bettini 78, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -3289,7 +3289,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "dipartimento economia management, Via vigilio Inama, trento"
+		"address": "dipartimento economia management, Via vigilio Inama, 38122 trento"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3469,7 +3469,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "corso bettini 43, MART, 38068 rovereto"
+		"address": "corso bettini 43, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
@@ -3505,7 +3505,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "teatro zandonai, corso bettini 78, 38068, 38068 rovereto"
+		"address": "teatro zandonai, corso bettini 78,  38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "EV_E_festival-informatici-senza-frontiere",
@@ -3973,7 +3973,7 @@
 	"has_venue": {
 		"lat": "",
 		"lon": "",
-		"address": "sala coro delle bianche zime, via della terra, 40, 38068 rovereto"
+		"address": " via della terra 40, 38068 rovereto"
 	},
 	"has_virtualLocation": "",
 	"has_superEvent": "",
