@@ -62,6 +62,24 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_C__Comedians_di_Giuseppe_Salvatores"
 }, {
+	"has_ticketID": "TI_C_david_wilkinson_memorial",
+	"has_onlineBooking": true,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "\"https://stayhappening.com/e/david-wilkinson-memorial-E2ISU10KA7Y?ref=ep_sharer\"",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C__david_wilkinson_memorial"
+}, {
+	"has_ticketID": "TI_C_Francesca_e_Paolo_-_Canto_V_dell'Inferno",
+	"has_onlineBooking": false,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/132707",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C__Francesca_e_Paolo_-_Canto_V_dell'Inferno"
+}, {
 	"has_ticketID": "TI_C_giovanni_allevi_piano_solo_tour_trento",
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
@@ -70,12 +88,21 @@
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C__giovanni_allevi_piano_solo_tour_trento"
-},  {
+}, {
+	"has_ticketID": "TI_C_human_habitat_visita_mostra_fotografica_gratuita",
+	"has_onlineBooking": true,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "\"https://stayhappening.com/e/human-habitat-visita-mostra-fotografica-gratuita-E2ISU0O3UM5?ref=ep_sharer\"",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C__human_habitat_visita_mostra_fotografica_gratuita"
+}, {
 	"has_ticketID": "TI_C_katharsis_2021_maurizio_moretta_pianoforte",
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
-	"has_price": "Offerta libera",
+	"has_price": "\"https://stayhappening.com/e/katharsis-2021-maurizio-moretta-pianoforte-E2ISU1928YL?ref=ep_sharer\"",
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C__katharsis_2021_maurizio_moretta_pianoforte"
@@ -84,7 +111,7 @@
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
-	"has_price": "offerta libera",
+	"has_price": "\"https://stayhappening.com/e/katharsis-2021-third-stream-E2ISU0O3XTM?ref=ep_sharer\"",
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C__katharsis_2021_third_stream"
@@ -93,28 +120,37 @@
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
-	"has_price": "offerta libera",
+	"has_price": "\"https://stayhappening.com/e/katharsis-2021-vertigine-E2ISU0O3Y92?ref=ep_sharer\"",
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C__katharsis_2021_vertigine"
 }, {
 	"has_ticketID": "TI_C_Maguy_Marin",
-	"has_onlineBooking": true,
+	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
-	"has_price": "20-22; per under 30: 10",
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/133658",
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C__Maguy_Marin"
 }, {
 	"has_ticketID": "TI_C_Michela_Lucenti_Balletto_Civile_-_Italia",
-	"has_onlineBooking": true,
+	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
-	"has_price": "15-18, Under 30: 10",
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/133655",
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C__Michela_Lucenti_Balletto_Civile_-_Italia"
+}, {
+	"has_ticketID": "TI_C_opening_brian_belott_solomostry",
+	"has_onlineBooking": true,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "\"https://stayhappening.com/e/opening-brian-belott-solomostry-E2ISTYIPXRW?ref=ep_sharer\"",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C__opening_brian_belott_solomostry"
 }, {
 	"has_ticketID": "TI_C_Rovereto_in_Rosa_2021_",
 	"has_onlineBooking": false,
@@ -147,7 +183,7 @@
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
-	"has_price": "1",
+	"has_price": "i",
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C__wellness_stefano_santomauro_in_happy_days_a_trento"
@@ -160,8 +196,71 @@
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C_25_aprile_-_L'eterna_lotta_per_la_libert\u00e0"
-},{
-	"has_ticketID": "o",
+}, {
+	"has_ticketID": "TI_C_8mm_di_storia._Pellicole_e_balocchi",
+	"has_onlineBooking": false,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/133946",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C_8mm_di_storia._Pellicole_e_balocchi"
+}, {
+	"has_ticketID": "TI_C_8mm_di_storia._Quelli_della_montagna",
+	"has_onlineBooking": false,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/133947",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C_8mm_di_storia._Quelli_della_montagna"
+}, {
+	"has_ticketID": "TI_C_8mm_di_storia._Rovereto_dagli_anni_Venti_agli_anni_Ottanta_nei_film_d\u2019autore_e_amatoriali",
+	"has_onlineBooking": false,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/133943",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C_8mm_di_storia._Rovereto_dagli_anni_Venti_agli_anni_Ottanta_nei_film_d\u2019autore_e_amatoriali"
+}, {
+	"has_ticketID": "TI_C_8mm_di_storia",
+	"has_onlineBooking": false,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/133945",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C_8mm_di_storia"
+}, {
+	"has_ticketID": "TI_C_96\u00b0_Anniversario_del_primo_suono_di_Maria_Dolens",
+	"has_onlineBooking": false,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/134030",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C_96\u00b0_Anniversario_del_primo_suono_di_Maria_Dolens"
+}, {
+	"has_ticketID": "TI_C_A_ognuno_il_suo_Natale",
+	"has_onlineBooking": false,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/128955",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C_A_ognuno_il_suo_Natale"
+}, {
+	"has_ticketID": "TI_C_Alla_ricerca_del_senso_perduto",
+	"has_onlineBooking": false,
+	"has_extraBenefits": "",
+	"has_totalPurchase": 0,
+	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/132137",
+	"has_currency": "EUR",
+	"has_purchaser": null,
+	"has_eventID": "EV_C_Alla_ricerca_del_senso_perduto"
+}, {
+	"has_ticketID": "TI_C_Alla_scoperta_del_Museo_della_Guerra_e_del_Castello_di_Rovereto",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -1755,24 +1854,6 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_C_Teatro_Ovunque_-_Clitennestra_di_Marguerite_Yourcenar"
 }, {
-	"has_ticketID": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
-	"has_onlineBooking": false,
-	"has_extraBenefits": "",
-	"has_totalPurchase": 0,
-	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/132649",
-	"has_currency": "EUR",
-	"has_purchaser": null,
-	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
-}, {
-	"has_ticketID": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
-	"has_onlineBooking": false,
-	"has_extraBenefits": "",
-	"has_totalPurchase": 0,
-	"has_price": "1",
-	"has_currency": "EUR",
-	"has_purchaser": null,
-	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
-}, {
 	"has_ticketID": "TI_C_Teatro_Ovunque_-_Pandemente_di_Andrea_Visibelli",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
@@ -2061,7 +2142,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_C_XXVI_Mostra_di_Filatelia,_Numismatica_e_Cartofilia"
 }, {
-	"has_ticketID": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
+	"has_ticketID": "TI_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -2069,52 +2150,7 @@
 	"has_currency": "EUR",
 	"has_purchaser": null,
 	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
-}, {
-	"has_ticketID": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
-	"has_onlineBooking": false,
-	"has_extraBenefits": "",
-	"has_totalPurchase": 0,
-	"has_price": "1",
-	"has_currency": "EUR",
-	"has_purchaser": null,
-	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
-}, {
-	"has_ticketID": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
-	"has_onlineBooking": false,
-	"has_extraBenefits": "",
-	"has_totalPurchase": 0,
-	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/132649",
-	"has_currency": "EUR",
-	"has_purchaser": null,
-	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
-}, {
-	"has_ticketID": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
-	"has_onlineBooking": false,
-	"has_extraBenefits": "",
-	"has_totalPurchase": 0,
-	"has_price": "1",
-	"has_currency": "EUR",
-	"has_purchaser": null,
-	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
-}, {
-	"has_ticketID": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
-	"has_onlineBooking": false,
-	"has_extraBenefits": "",
-	"has_totalPurchase": 0,
-	"has_price": "https://www.comune.rovereto.tn.it/openpa/object/132649",
-	"has_currency": "EUR",
-	"has_purchaser": null,
-	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
-}, {
-	"has_ticketID": "TI_E_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora",
-	"has_onlineBooking": false,
-	"has_extraBenefits": "",
-	"has_totalPurchase": 0,
-	"has_price": "1",
-	"has_currency": "EUR",
-	"has_purchaser": null,
-	"has_eventID": "EV_C_Teatro_Ovunque_-_E_un_mondo_difficile_di_Alessandro_Dalla_Mora"
-}, {
+},   {
 	"has_ticketID": "TI_E_autunno_fuxia_presentazione_del_libro_andquotdonne_delinquentiandquot_m_zucca",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
@@ -3891,7 +3927,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_T_winery-tour-w-esn"
 }, {
-	"has_ticketID": "TI_C_corso_andquotil_colloquio_di_selezioneandquot",
+	"has_ticketID": "TI_W_corso_andquotil_colloquio_di_selezioneandquot",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3900,7 +3936,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W__corso_andquotil_colloquio_di_selezioneandquot"
 }, {
-	"has_ticketID": "TI_C_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
+	"has_ticketID": "TI_W_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3909,7 +3945,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W__corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021"
 }, {
-	"has_ticketID": "TI_C_wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde",
+	"has_ticketID": "TI_W_wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3918,7 +3954,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W__wellness_corso_massaggio_hot_stone_con_pietre_laviche_calde"
 }, {
-	"has_ticketID": "TI_C_wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
+	"has_ticketID": "TI_W_wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021",
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3927,7 +3963,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W__wellness_corso_space_clearing_trasforma_la_tua_vita_iniziando_dalla_casa_a_trento_il_31_ottobre_2021"
 }, {
-	"has_ticketID": "TI_C_workshop_andquotin_nome_di_chiandquot",
+	"has_ticketID": "TI_W_workshop_andquotin_nome_di_chiandquot",
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3936,7 +3972,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W__workshop_andquotin_nome_di_chiandquot"
 }, {
-	"has_ticketID": "TI_C_workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
+	"has_ticketID": "TI_W_workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii",
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3945,7 +3981,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W__workshop_gratuito_fotografia_notturna_andquotthose_of_the_unlightandquotii"
 }, {
-	"has_ticketID": "TI_C_Animart._Le_collezioni_del_museo_in_stop-motion",
+	"has_ticketID": "TI_W_Animart._Le_collezioni_del_museo_in_stop-motion",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3954,7 +3990,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Animart._Le_collezioni_del_museo_in_stop-motion"
 }, {
-	"has_ticketID": "TI_C_Corso_campane_tibetane_a_Trento",
+	"has_ticketID": "TI_W_Corso_campane_tibetane_a_Trento",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3963,7 +3999,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Corso_campane_tibetane_a_Trento"
 }, {
-	"has_ticketID": "TI_C_Costruiamo_insieme_una_mangiatoia_per_uccellini!",
+	"has_ticketID": "TI_W_Costruiamo_insieme_una_mangiatoia_per_uccellini!",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3972,7 +4008,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Costruiamo_insieme_una_mangiatoia_per_uccellini!"
 }, {
-	"has_ticketID": "TI_C_Identit\u00e0_sonore",
+	"has_ticketID": "TI_W_Identit\u00e0_sonore",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "Ore 20.00: Buffet di restituzione per i partecipanti",
 	"has_totalPurchase": 0,
@@ -3981,7 +4017,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Identit\u00e0_sonore"
 }, {
-	"has_ticketID": "TI_C_La_bussola_della_finanza",
+	"has_ticketID": "TI_W_La_bussola_della_finanza",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3990,7 +4026,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_La_bussola_della_finanza"
 }, {
-	"has_ticketID": "TI_C_La_citt\u00e0_scoperta_",
+	"has_ticketID": "TI_W_La_citt\u00e0_scoperta_",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -3999,7 +4035,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_La_citt\u00e0_scoperta_"
 }, {
-	"has_ticketID": "TI_C_La_citt\u00e0_scoperta_2021",
+	"has_ticketID": "TI_W_La_citt\u00e0_scoperta_2021",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4008,7 +4044,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_La_citt\u00e0_scoperta_2021"
 }, {
-	"has_ticketID": "TI_C_Leggere_il_clima_negli_anelli_degli_alberi",
+	"has_ticketID": "TI_W_Leggere_il_clima_negli_anelli_degli_alberi",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4026,7 +4062,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_ManifestAzioni_-_Fa_la_cosa_giusta"
 }, {
-	"has_ticketID": "TI_C_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
+	"has_ticketID": "TI_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4035,7 +4071,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Morbidezze._Creare_con_la_tecnica_del_feltro_ad_ago"
 }, {
-	"has_ticketID": "TI_C_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
+	"has_ticketID": "TI_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival",
 	"has_onlineBooking": true,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 151,
@@ -4044,7 +4080,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Prevenire_le_epidemie_grazie_ai_dati._L\u2019esempio_di_Survethi_-_Il_Festival"
 }, {
-	"has_ticketID": "TI_C_Robotic_Lab",
+	"has_ticketID": "TI_W_Robotic_Lab",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4053,7 +4089,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Robotic_Lab"
 }, {
-	"has_ticketID": "TI_C_Rural_Commons_Festival_-_Da_Ovest_a_Est",
+	"has_ticketID": "TI_W_Rural_Commons_Festival_-_Da_Ovest_a_Est",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4062,7 +4098,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Rural_Commons_Festival_-_Da_Ovest_a_Est"
 }, {
-	"has_ticketID": "TI_C_Teatro_dei_sogni_2021_-_Finale_over_25",
+	"has_ticketID": "TI_W_Teatro_dei_sogni_2021_-_Finale_over_25",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4071,7 +4107,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Finale_over_25"
 }, {
-	"has_ticketID": "TI_C_Teatro_dei_sogni_2021_-_Finale_under_25",
+	"has_ticketID": "TI_W_Teatro_dei_sogni_2021_-_Finale_under_25",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4080,7 +4116,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Finale_under_25"
 }, {
-	"has_ticketID": "TI_C_Teatro_dei_sogni_2021_-_Semifinale_under_25",
+	"has_ticketID": "TI_W_Teatro_dei_sogni_2021_-_Semifinale_under_25",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4089,7 +4125,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Teatro_dei_sogni_2021_-_Semifinale_under_25"
 }, {
-	"has_ticketID": "TI_C_Un_sabato_con_il_Sole_sul_Monte_Zugna",
+	"has_ticketID": "TI_W_Un_sabato_con_il_Sole_sul_Monte_Zugna",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
@@ -4098,7 +4134,7 @@
 	"has_purchaser": null,
 	"has_eventID": "EV_W_Un_sabato_con_il_Sole_sul_Monte_Zugna"
 }, {
-	"has_ticketID": "TI_C_Venerd\u00ec_a_lume_di_stella",
+	"has_ticketID": "TI_W_Venerd\u00ec_a_lume_di_stella",
 	"has_onlineBooking": false,
 	"has_extraBenefits": "",
 	"has_totalPurchase": 0,
