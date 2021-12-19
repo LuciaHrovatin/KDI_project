@@ -376,9 +376,9 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_Francesca_e_Paolo_-_Canto_V_dell'Inferno",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C__giovanni_allevi_piano_solo_tour_trento",
@@ -428,14 +428,14 @@
         "has_edition": "",
         "has_festivalStatus": false,
         "has_language": [
-            "en-GB"
+            "en-GB", "it-IT"
         ],
         "has_start": "2021-12-28 18:00:00",
         "has_end": "2021-12-28 18:00:00",
         "has_recurrency": false,
         "has_organizer": "",
         "has_specialAnnouncements": "",
-        "has_description": "\"Human Habitat (visita mostra fotografica Gratuita)\" rounded height=\"701\"",
+        "has_description": "\"Human Habitat (visita mostra fotografica Gratuita)\"",
         "has_terminated": false,
         "has_hashtag": [
             "src=\"https://cdn.stayhappening.com/events1/banners/b4d05a9c298ceed3b458dc8dc617584b1172d67b6a1d53a481603b7d8a71de67-rimg-w526-h701-gmir?v=1634999779\"",
@@ -453,10 +453,10 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_human_habitat_visita_mostra_fotografica_gratuita",
+        "has_ticket": "",
         "has_ShowWork": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C__katharsis_2021_maurizio_moretta_pianoforte",
@@ -473,7 +473,7 @@
         "has_end": "2021-11-13 19:00:00",
         "has_recurrency": false,
         "has_organizer": "",
-        "has_specialAnnouncements": "",
+        "has_specialAnnouncements": "GREEN PASS OBBLIGATORIO",
         "has_description": "\"Katharsis 2021 Maurizio Moretta, pianoforte\" rounded height=\"789\" Sabato 13 novembre 2021 ore 18.00Trento, sala SOSATRECITAL PIANISTICOMaurizio Moretta, pianoforteMusiche di Mozart, Be ethoven, Chopin, GershwinPRENOTAZIONE OBBLIGATORIA <a protected]</a>GREEN PASS OBBLIGATORIO INGRESSO GRATUITO CON OFFERTA LIBERA Maurizio Moretta \u00e8 il vincitore del primo premio al VII Concorso Pianistico Internazionale \u0093Viotti\u0094 di Varallo. Dopo questa prestigiosa vittoria, ha intrapreso una ricca carriera concertistica sottolineata da critiche lusinghiere (Corriere della Sera, La Stampa, Il Giorno, Panorama, Epoca, Capital, l'Espresso, etc), esibendosi in tutta Italia ed all'estero per associazioni concertistiche prestigiose ed in teatri rinomati. Il programma propone all'ascoltatore alcune tra le pi\u00f9 celebri pagine del repertorio pianistico classico e romantico: si inizia con la Fantasia di Mozart; si prosegue con la sonata Al Chiaro Di Luna di Be ethoven e con una selezione di Notturni e Valzer di Chopin; si termina ad inizio Novecento, con l'amatissimo Arabesque n. 1 di Debussy e con una delle pagine pi\u00f9 interessanti del geniale George Gershwin, sempre in cerca di una sintesi tra la musica classica e quella jazz, sintesi che nei Tre Preludi si compie con mirabile equilibrio.",
         "has_terminated": true,
         "has_hashtag": [
@@ -495,7 +495,7 @@
         "has_ticket": "TI_C_katharsis_2021_maurizio_moretta_pianoforte",
         "has_MusicWork": "CW_EV_C_katharsis_2021_maurizio_moretta_pianoforte",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C__katharsis_2021_third_stream",
@@ -536,7 +536,7 @@
         "has_ticket": "TI_C_katharsis_2021_third_stream",
         "has_MusicWork": "CW_EV_C_katharsis_2021_third_stream",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C__katharsis_2021_vertigine",
@@ -573,8 +573,7 @@
         "has_guidedTour": false,
         "has_ticket": "TI_C_katharsis_2021_vertigine",
         "has_Archive": "",
-        "has_freeEntrance": false
-    },
+        "has_freeEntrance": true    },
     {
         "has_eventID": "EV_C__Maguy_Marin",
         "has_title": " Maguy Marin",
@@ -674,9 +673,9 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_opening_brian_belott_solomostry",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C__Rovereto_in_Rosa_2021_",
@@ -884,9 +883,9 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_8mm_di_storia._Pellicole_e_balocchi",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C_8mm_di_storia._Quelli_della_montagna",
@@ -917,9 +916,9 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_8mm_di_storia._Quelli_della_montagna",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C_8mm_di_storia._Rovereto_dagli_anni_Venti_agli_anni_Ottanta_nei_film_d\u2019autore_e_amatoriali",
@@ -950,9 +949,9 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_8mm_di_storia._Rovereto_dagli_anni_Venti_agli_anni_Ottanta_nei_film_d\u2019autore_e_amatoriali",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C_8mm_di_storia",
@@ -983,9 +982,9 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_8mm_di_storia",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C_96\u00b0_Anniversario_del_primo_suono_di_Maria_Dolens",
@@ -1002,7 +1001,7 @@
         "has_end": "2021-04-23 10:56:00",
         "has_recurrency": false,
         "has_organizer": "",
-        "has_specialAnnouncements": "",
+        "has_specialAnnouncements": "Accesso con green pass",
         "has_description": "La Campana dei Caduti venne ideata dal sacerdote roveretano don Antonio Rossaro per onorare i Caduti di tutte le guerre e per invocare pace e fratellanza.",
         "has_terminated": true,
         "has_hashtag": [],
@@ -1016,16 +1015,16 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_96\u00b0_Anniversario_del_primo_suono_di_Maria_Dolens",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C_A_ognuno_il_suo_Natale",
         "has_title": "A ognuno il suo Natale",
         "has_mode": "online",
         "has_link": "https://www.comune.rovereto.tn.it/openpa/object/128955",
-        "has_targetAge": "",
+        "has_targetAge": "4 - 9",
         "has_edition": "",
         "has_festivalStatus": false,
         "has_language": [
@@ -1049,9 +1048,9 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_A_ognuno_il_suo_Natale",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C_Alla_ricerca_del_senso_perduto",
@@ -1082,16 +1081,16 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_Alla_ricerca_del_senso_perduto",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C_Alla_scoperta_del_Museo_della_Guerra_e_del_Castello_di_Rovereto",
         "has_title": "Alla scoperta del Museo della Guerra e del Castello di Rovereto",
         "has_mode": "offline",
         "has_link": "https://www.comune.rovereto.tn.it/openpa/object/127534",
-        "has_targetAge": "",
+        "has_targetAge": "6-10",
         "has_edition": "",
         "has_festivalStatus": false,
         "has_language": [
@@ -1114,7 +1113,7 @@
         "has_originalLanguage": true,
         "has_performer": "",
         "has_subtitles": false,
-        "has_guidedTour": false,
+        "has_guidedTour": true,
         "has_ticket": "TI_C_Alla_scoperta_del_Museo_della_Guerra_e_del_Castello_di_Rovereto",
         "has_Archive": "",
         "has_freeEntrance": false
@@ -1147,7 +1146,7 @@
         "has_originalLanguage": true,
         "has_performer": "",
         "has_subtitles": false,
-        "has_guidedTour": false,
+        "has_guidedTour": true,
         "has_ticket": "TI_C_Alla_scoperta_di_Rovereto_-_Rovereto,_la_citt\u00e0_pi\u00f9_all\u2019avanguardia_del_Trentino",
         "has_Archive": "",
         "has_freeEntrance": false
@@ -1180,7 +1179,7 @@
         "has_originalLanguage": true,
         "has_performer": "",
         "has_subtitles": false,
-        "has_guidedTour": false,
+        "has_guidedTour": true,
         "has_ticket": "TI_C_Alla_scoperta_di_Rovereto_",
         "has_Archive": "",
         "has_freeEntrance": false
@@ -1202,7 +1201,7 @@
         "has_recurrency": false,
         "has_organizer": "",
         "has_specialAnnouncements": "Prenotazione allo 0461 230171 entro le ore 12 del giorno dell'iniziativa",
-        "has_description": "<p>Visite guidate alla Trento romana di duemila anni fa: al S.A.S.S. Spazio Archeologico Sotterraneo del Sas, alla mostra \u201cOstriche e vino. In cucina con gli antichi romani\u201d e all'area archeologica di Palazzo Lodron. La visita si conclude all\u2019area archeologica di Palazzo Roccabruna, sede dell'Enoteca provinciale del Trentino.</p><p>A cura dei Servizi educativi dell\u2019Ufficio beni archeologici \u2013 Soprintendenza per i beni culturali della Provincia autonoma di Trento.</p>",
+        "has_description": "Visite guidate alla Trento romana di duemila anni fa: al S.A.S.S. Spazio Archeologico Sotterraneo del Sas, alla mostra \u201cOstriche e vino. In cucina con gli antichi romani\u201d e all'area archeologica di Palazzo Lodron. La visita si conclude all\u2019area archeologica di Palazzo Roccabruna, sede dell'Enoteca provinciale del Trentino.</p><p>A cura dei Servizi educativi dell\u2019Ufficio beni archeologici \u2013 Soprintendenza per i beni culturali della Provincia autonoma di Trento.</p>",
         "has_terminated": true,
         "has_hashtag": [],
         "has_distance": "True",
@@ -1214,7 +1213,7 @@
         "has_originalLanguage": false,
         "has_performer": "",
         "has_subtitles": false,
-        "has_guidedTour": false,
+        "has_guidedTour": true,
         "has_ticket": "TI_C_Alla_scoperta_di_Tridentum,_citt\u00e0_sotterranea",
         "has_Archive": "",
         "has_freeEntrance": false
@@ -8525,7 +8524,7 @@
         "has_end": "2021-10-23 17:00:00",
         "has_recurrency": false,
         "has_organizer": "",
-        "has_specialAnnouncements": "",
+        "has_specialAnnouncements": "Ingresso con green pass",
         "has_description": "\"David Wilkinson Memorial\" rounded height=\"720\" 150px;\" width=\"514\"/> Presentazione delle ultime pubblicazioni del poeta internazionale appena scomparso. La chitarra di Martin de la Cruz si intervaller\u00e0 alla lettura delle poesie del Wilkinson. Seguir\u00e0 un brindisi alla memoria del noto poeta anglotrentino. L'entrata \u00e8 libera ad esaurimento posti con gre en pass.",
         "has_terminated": true,
         "has_hashtag": [
@@ -8545,9 +8544,9 @@
         "has_performer": "",
         "has_subtitles": false,
         "has_guidedTour": false,
-        "has_ticket": "TI_C_david_wilkinson_memorial",
+        "has_ticket": "",
         "has_Archive": "",
-        "has_freeEntrance": false
+        "has_freeEntrance": true
     },
     {
         "has_eventID": "EV_C__Francesca_e_Paolo_-_Canto_V_dell'Inferno",
