@@ -3,7 +3,7 @@
 Project repository for the course in Knowledge and Data Integration, academic year 2021/2022 (University of Trento). 
 
 ## Project objective 
-"A website that helps the (future) university students to find events of interest in Trento and Rovereto area.” <br>
+<i>"A website that helps the (future) university students to find events of interest in Trento and Rovereto area.” </i><br>
 
 ## Prerequisites 
 
